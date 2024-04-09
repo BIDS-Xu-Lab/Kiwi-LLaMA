@@ -1,0 +1,18 @@
+unprocessed,processed
+"### Task:
+Your task is to generate an HTML version of an input text, using HTML <span> tags to mark up specific entities.
+
+### Entity Markup Guides:
+Use <span class=""problem""> to denote a medical problem.
+Use <span class=""treatment""> to denote a treatment.
+Use <span class=""test""> to denote a test.
+Use <span class=""drug""> to denote a drug.
+
+### Entity Definitions:
+Medical Problem: The abnormal condition that happens physically or mentally to a patient.
+Treatment: The procedures, interventions, and substances given to a patient for treating a problem.
+Drug: Generic or brand name of a single medication or a collective name of a group of medication.
+Test: A medical procedure performed (i) to detect or diagnose a problem, (ii) to monitor diseases, disease processes, and susceptibility, or (iii) to determine a course of treatment.
+
+### Input Text: He had a left tibial plateau fracture , right forearm fracture with ORIF , head laceration , and initially some symptoms of head injury . <EOS>
+### Output Text:","He had <span class=""problem"">a left tibial plateau fracture</span> , <span class=""problem"">right forearm fracture</span> with <span class=""treatment"">ORIF</span> , <span class=""problem"">head laceration</span> , and initially some symptoms of <span class=""problem"">head injury</span> . <EOS>"
