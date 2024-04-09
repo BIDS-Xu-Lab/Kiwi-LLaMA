@@ -8,4 +8,11 @@ pip install -r requirements.txt
 ```
 
 ## Instruction Tuning
+```bash
 CUDA_VISIBLE_DEVICES=0 accelerate launch train.py
+```
+
+## Inference
+```bash
+python inference.py
+```
