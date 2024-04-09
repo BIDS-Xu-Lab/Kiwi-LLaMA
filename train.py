@@ -12,7 +12,7 @@ device_map = {"": device_index}
 import os
 
 token = '' ### your huggingface token
-output_dir = "./models/llama2/mix/Llama-2-7b-2epoch"
+output_dir = "./models/Llama-2-7b-2epoch"
 if 'Llama-2-7b' in output_dir:
     model_name = "meta-llama/Llama-2-7b-chat-hf"
 if 'Llama-2-13b' in output_dir:

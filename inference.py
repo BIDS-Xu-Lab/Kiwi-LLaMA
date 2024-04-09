@@ -16,7 +16,7 @@ device='cuda:0'
 token = '' ### your huggingface token
 
 
-finetuned_model_name = './models/llama2/mix/Llama-2-7b-2epoch/'
+finetuned_model_name = './models/Llama-2-7b-2epoch/'
 if 'Llama-2-7b' in finetuned_model_name:
     model_id = "meta-llama/Llama-2-7b-chat-hf"
 if 'Llama-2-13b' in finetuned_model_name:
