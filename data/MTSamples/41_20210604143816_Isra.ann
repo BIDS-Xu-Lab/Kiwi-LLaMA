@@ -1,0 +1,85 @@
+T1	problem 110 148	intermittent episodes of severe nausea
+T2	problem 153 167	abdominal pain
+T3	bodyloc 153 162	abdominal
+T4	problem 309 352	some intermittent episodes of severe nausea
+T5	problem 357 371	abdominal pain
+T6	bodyloc 357 366	abdominal
+T7	problem 414 438	the onset of severe pain
+T8	problem 444 450	nausea
+T9	problem 455 463	vomiting
+T10	problem 526 558	an incarcerated umbilical hernia
+T11	course 593 599	relief
+T12	problem 603 607	pain
+T13	treatment 638 655	definitive repair
+T14	treatment 700 716	hemorrhoidectomy
+T15	problem 744 754	depression
+T16	problem 759 771	hypertension
+T17	drug 786 806	His only medications
+T18	drug 811 815	Ziac
+T19	drug 820 827	Remeron
+T20	problem 829 838	ALLERGIES
+T21	negation 840 842	No
+T22	problem 843 852	allergies
+T23	negation 870 878	Negative
+T24	problem 883 889	cancer
+T25	negation 1107 1109	no
+T26	problem 1121 1130	hepatitis
+T27	problem 1134 1152	blood transfusions
+T28	test 1185 1196	Examination
+T29	problem 1245 1258	mild distress
+T30	negation 1326 1328	No
+T31	problem 1329 1344	scleral icterus
+T32	negation 1352 1354	No
+T33	problem 1355 1404	cervical, supraclavicular, or axillary adenopathy
+T34	negation 1436 1438	No
+T35	problem 1439 1446	murmurs
+T36	problem 1450 1457	gallops
+T37	problem 1478 1483	obese
+T38	problem 1489 1528	mildly visible bulging in the umbilicus
+T39	bodyloc 1519 1528	umbilicus
+T40	treatment 1560 1575	gentle traction
+T41	problem 1598 1621	both herniated contents
+T42	problem 1651 1705	an approximately 2-cm palpable defect in the umbilicus
+T43	test 1750 1753	EKG
+T44	problem 1755 1767	prolonged QT
+T45	test 1769 1780	Chest x-ray
+T46	labvalue 1785 1793	negative
+T47	test 1795 1815	The abdominal x-rays
+T48	labvalue 1835 1843	negative
+T49	test 1845 1861	His electrolytes
+T50	labvalue 1867 1873	normal
+T51	test 1875 1885	Creatinine
+T52	labvalue 1890 1893	0.9
+T53	test 1895 1906	White count
+T54	labvalue 1911 1914	6.5
+T55	test 1916 1926	hematocrit
+T56	labvalue 1931 1933	48
+T57	test 1939 1953	platelet count
+T58	labvalue 1958 1961	307
+T59	problem 2042 2074	an incarcerated umbilical hernia
+T60	treatment 2084 2100	repair with mesh
+T61	test 2144 2147	ekg
+T62	problem 2149 2161	prolonged qt
+T63	test 2163 2177	platelet count
+T64	test 2179 2189	hematocrit
+T65	problem 2191 2207	umbilical hernia
+T66	problem 2240 2252	incarcerated
+R1	hasAttr Arg1:T2 Arg2:T3
+R2	hasAttr Arg1:T5 Arg2:T6
+R3	hasAttr Arg1:T12 Arg2:T11
+R4	hasAttr Arg1:T22 Arg2:T21
+R5	hasAttr Arg1:T24 Arg2:T23
+R6	hasAttr Arg1:T26 Arg2:T25
+R7	hasAttr Arg1:T27 Arg2:T25
+R8	hasAttr Arg1:T31 Arg2:T30
+R9	hasAttr Arg1:T33 Arg2:T32
+R10	hasAttr Arg1:T35 Arg2:T34
+R11	hasAttr Arg1:T36 Arg2:T34
+R12	hasAttr Arg1:T38 Arg2:T39
+R13	hasAttr Arg1:T45 Arg2:T46
+R14	hasAttr Arg1:T47 Arg2:T48
+R15	hasAttr Arg1:T49 Arg2:T50
+R16	hasAttr Arg1:T51 Arg2:T52
+R17	hasAttr Arg1:T53 Arg2:T54
+R18	hasAttr Arg1:T55 Arg2:T56
+R19	hasAttr Arg1:T57 Arg2:T58

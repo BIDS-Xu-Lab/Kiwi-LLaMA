@@ -1,0 +1,108 @@
+T1	problem 63 101	Disseminated Intravascular Coagulation
+T2	problem 115 153	Disseminated intravascular coagulation
+T3	problem 158 181	Streptococcal pneumonia
+T4	problem 187 193	sepsis
+T5	problem 230 239	pneumonia
+T6	problem 244 266	developed rapid sepsis
+T7	problem 271 290	respiratory failure
+T8	treatment 301 311	intubation
+T9	problem 365 403	Disseminated intravascular coagulation
+T10	problem 408 431	Streptococcal pneumonia
+T11	problem 437 443	sepsis
+T12	problem 507 526	respiratory failure
+T13	problem 624 633	pneumonia
+T14	problem 638 660	developed rapid sepsis
+T15	problem 665 684	respiratory failure
+T16	treatment 695 705	intubation
+T17	treatment 760 782	mechanical ventilation
+T18	treatment 787 812	other supportive measures
+T19	problem 831 869	disseminated intravascular coagulation
+T20	problem 875 912	prolonged partial thromboplastin time
+T21	problem 914 930	prothrombin time
+T22	problem 932 946	low fibrinogen
+T23	problem 952 968	elevated D-dimer
+T24	test 1009 1027	further evaluation
+T25	treatment 1052 1061	treatment
+T26	problem 1147 1155	Bleeding
+T27	treatment 1235 1253	factor replacement
+T28	treatment 1265 1282	platelet infusion
+T29	problem 1313 1325	coagulopathy
+T30	problem 1697 1711	acute distress
+T31	test 1758 1764	a rate
+T32	labvalue 1768 1770	67
+T33	test 1772 1786	blood pressure
+T34	labvalue 1790 1796	100/60
+T35	test 1802 1822	the respiratory rate
+T36	treatment 1827 1841	the ventilator
+T37	labvalue 1856 1858	14
+T38	labvalue 1862 1864	16
+T39	problem 1892 1915	conjunctival hemorrhage
+T40	negation 1927 1929	no
+T41	problem 1930 1939	petechiae
+T42	treatment 1988 1995	ET tube
+T43	negation 2012 2014	No
+T44	problem 2015 2049	jugular venous pressure distention
+T45	labvalue 2099 2106	Regular
+T46	test 2107 2111	rate
+T47	test 2116 2122	rhythm
+T48	labvalue 2157 2161	good
+T49	test 2162 2174	bowel sounds
+T50	negation 2248 2250	No
+T51	problem 2251 2259	clubbing
+T52	problem 2261 2269	cyanosis
+T53	problem 2274 2279	edema
+T54	negation 2290 2304	no evidence of
+T55	problem 2305 2349	compromise arterial blood flow at the digits
+T56	test 2395 2413	The DIC parameters
+T57	test 2419 2435	a platelet count
+T58	labvalue 2453 2459	50,000
+T59	test 2461 2464	INR
+T60	labvalue 2468 2471	2.4
+T61	labvalue 2473 2479	normal
+T62	test 2480 2483	PTT
+T63	test 2498 2508	fibrinogen
+T64	labvalue 2512 2515	200
+T65	test 2521 2530	a D-dimer
+T66	labvalue 2534 2536	13
+T67	treatment 2698 2716	factor replacement
+T68	drug 2893 2899	Xigris
+T69	problem 2913 2929	her coagulopathy
+T70	problem 3001 3023	an elevated fibrinogen
+T71	test 3042 3063	her coagulation times
+T72	dosage 3082 3090	low-dose
+T73	route 3091 3110	continuous infusion
+T74	drug 3111 3118	heparin
+T75	treatment 3177 3207	continued supportive infusions
+T76	test 3223 3245	her laboratory studies
+T77	temporal 3246 3260	in the morning
+T78	problem 3361 3370	pneumonia
+T79	test 3372 3391	thromboplastin time
+T80	test 3393 3409	prothrombin time
+T81	problem 3411 3449	disseminated intravascular coagulation
+T82	problem 3451 3474	streptococcal pneumonia
+T83	problem 3476 3501	intravascular coagulation
+T84	treatment 3503 3511	infusion
+T85	problem 3513 3525	coagulopathy
+T86	test 3527 3537	fibrinogen
+T87	problem 3564 3570	sepsis
+R1	hasAttr Arg1:T31 Arg2:T32
+R2	hasAttr Arg1:T33 Arg2:T34
+R3	hasAttr Arg1:T35 Arg2:T38
+R4	hasAttr Arg1:T35 Arg2:T37
+R5	hasAttr Arg1:T41 Arg2:T40
+R6	hasAttr Arg1:T44 Arg2:T43
+R7	hasAttr Arg1:T46 Arg2:T45
+R8	hasAttr Arg1:T47 Arg2:T45
+R9	hasAttr Arg1:T49 Arg2:T48
+R10	hasAttr Arg1:T52 Arg2:T50
+R11	hasAttr Arg1:T53 Arg2:T50
+R12	hasAttr Arg1:T51 Arg2:T50
+R13	hasAttr Arg1:T55 Arg2:T54
+R14	hasAttr Arg1:T57 Arg2:T58
+R15	hasAttr Arg1:T59 Arg2:T60
+R16	hasAttr Arg1:T62 Arg2:T61
+R17	hasAttr Arg1:T63 Arg2:T64
+R18	hasAttr Arg1:T65 Arg2:T66
+R19	hasAttr Arg1:T74 Arg2:T72
+R20	hasAttr Arg1:T74 Arg2:T73
+R21	hasAttr Arg1:T76 Arg2:T77

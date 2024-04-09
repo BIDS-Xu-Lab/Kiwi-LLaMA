@@ -1,0 +1,116 @@
+T1	problem 64 80	Kawasaki Disease
+T2	uncertain 173 184	presumptive
+T3	problem 198 206	Kawasaki
+T4	problem 212 217	fever
+T5	temporal 222 238	more than 5 days
+T6	problem 243 257	conjunctivitis
+T7	problem 259 273	mild arthritis
+T8	severity 259 263	mild
+T9	problem 279 284	edema
+T10	problem 286 290	rash
+T11	course 292 301	resolving
+T12	problem 311 331	elevated neutrophils
+T13	course 311 319	elevated
+T14	problem 336 350	thrombocytosis
+T15	problem 352 372	elevated CRP and ESR
+T16	course 352 360	elevated
+T17	problem 433 449	Kawasaki disease
+T18	problem 472 488	Kawasaki disease
+T19	course 490 499	resolving
+T20	uncertain 577 588	presumptive
+T21	problem 602 610	Kawasaki
+T22	problem 616 621	fever
+T23	temporal 626 642	more than 5 days
+T24	problem 647 661	conjunctivitis
+T25	problem 663 677	mild arthritis
+T26	severity 663 667	mild
+T27	problem 683 688	edema
+T28	problem 690 694	rash
+T29	course 696 705	resolving
+T30	problem 715 735	elevated neutrophils
+T31	course 715 723	elevated
+T32	problem 740 754	thrombocytosis
+T33	problem 756 776	elevated CRP and ESR
+T34	course 756 764	elevated
+T35	problem 819 833	a fever of 102
+T36	drug 933 940	aspirin
+T37	drug 945 949	IVIG
+T38	test 951 965	Echocardiogram
+T39	labvalue 991 999	negative
+T40	drug 1001 1005	IVIG
+T41	drug 1043 1047	IVIG
+T42	problem 1059 1064	fever
+T43	drug 1117 1121	IVIG
+T44	negation 1130 1133	not
+T45	problem 1149 1154	fever
+T46	temporal 1156 1161	Today
+T47	problem 1163 1172	his fever
+T48	problem 1177 1185	his rash
+T49	course 1191 1210	completely resolved
+T50	negation 1220 1228	not have
+T51	problem 1233 1247	conjunctivitis
+T52	negation 1252 1254	no
+T53	problem 1255 1282	redness of mucous membranes
+T54	drug 1488 1495	Aspirin
+T55	strength 1506 1512	340 mg
+T56	frequency 1513 1518	q.6h.
+T57	duration 1519 1528	for 1 day
+T58	drug 1538 1545	aspirin
+T59	dosage 1546 1554	low dose
+T60	strength 1555 1560	40 mg
+T61	frequency 1561 1565	q.d.
+T62	duration 1566 1577	for 14 days
+T63	drug 1587 1595	Prevacid
+T64	drug 1624 1631	aspirin
+T65	strength 1632 1637	15 mg
+T66	route 1638 1642	p.o.
+T67	frequency 1643 1653	once a day
+T68	test 1728 1741	echo followup
+T69	temporal 1745 1757	4 to 6 weeks
+T70	negation 1773 1784	not to give
+T71	drug 1785 1796	any vaccine
+T72	drug 1831 1835	IVIG
+T73	drug 1845 1863	live virus vaccine
+T74	condition 1869 1871	if
+T75	problem 1880 1890	any rashes
+T76	problem 1892 1902	any fevers
+T77	problem 2005 2019	conjunctivitis
+T78	problem 2029 2045	kawasaki disease
+T79	drug 2047 2055	vaccine,
+T80	problem 2056 2061	fever
+T81	drug 2063 2070	aspirin
+R1	hasAttr Arg1:T3 Arg2:T2
+R2	hasAttr Arg1:T4 Arg2:T5
+R3	hasAttr Arg1:T7 Arg2:T8
+R4	hasAttr Arg1:T10 Arg2:T11
+R5	hasAttr Arg1:T12 Arg2:T13
+R6	hasAttr Arg1:T15 Arg2:T16
+R7	hasAttr Arg1:T18 Arg2:T19
+R8	hasAttr Arg1:T21 Arg2:T20
+R9	hasAttr Arg1:T22 Arg2:T23
+R10	hasAttr Arg1:T25 Arg2:T26
+R11	hasAttr Arg1:T28 Arg2:T29
+R12	hasAttr Arg1:T30 Arg2:T31
+R13	hasAttr Arg1:T33 Arg2:T34
+R14	hasAttr Arg1:T38 Arg2:T39
+R15	hasAttr Arg1:T45 Arg2:T44
+R16	hasAttr Arg1:T48 Arg2:T46
+R17	hasAttr Arg1:T47 Arg2:T46
+R18	hasAttr Arg1:T47 Arg2:T49
+R19	hasAttr Arg1:T48 Arg2:T49
+R20	hasAttr Arg1:T51 Arg2:T50
+R21	hasAttr Arg1:T53 Arg2:T52
+R22	hasAttr Arg1:T54 Arg2:T55
+R23	hasAttr Arg1:T54 Arg2:T57
+R24	hasAttr Arg1:T54 Arg2:T56
+R25	hasAttr Arg1:T58 Arg2:T61
+R26	hasAttr Arg1:T58 Arg2:T59
+R27	hasAttr Arg1:T58 Arg2:T60
+R28	hasAttr Arg1:T58 Arg2:T62
+R29	hasAttr Arg1:T63 Arg2:T66
+R30	hasAttr Arg1:T63 Arg2:T65
+R31	hasAttr Arg1:T63 Arg2:T67
+R32	hasAttr Arg1:T68 Arg2:T69
+R33	hasAttr Arg1:T71 Arg2:T70
+R34	hasAttr Arg1:T76 Arg2:T74
+R35	hasAttr Arg1:T75 Arg2:T74

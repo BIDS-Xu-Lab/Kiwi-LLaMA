@@ -1,0 +1,254 @@
+T1	problem 73 83	Chest Pain
+T2	bodyloc 73 78	Chest
+T3	problem 110 127	multiple problems
+T4	problem 141 160	chest pain at night
+T5	bodyloc 141 146	chest
+T6	problem 217 234	Multiple problems
+T7	problem 248 267	chest pain at night
+T8	bodyloc 248 253	chest
+T9	problem 331 348	multiple problems
+T10	problem 396 415	chest pain at night
+T11	bodyloc 396 401	chest
+T12	test 498 509	a treadmill
+T13	test 514 531	an echocardiogram
+T14	problem 549 571	cardiovascular disease
+T15	problem 577 589	her symptoms
+T16	problem 686 696	a pressure
+T17	negation 891 897	denies
+T18	problem 898 917	any fast heartbeats
+T19	problem 921 941	irregular heartbeats
+T20	problem 979 992	stomach pains
+T21	bodyloc 979 986	stomach
+T22	problem 1214 1220	reflux
+T23	drug 1259 1266	Aciphex
+T24	problem 1281 1289	symptoms
+T25	drug 1304 1315	her Aciphex
+T26	problem 1340 1350	the reflux
+T27	problem 1351 1359	belching
+T28	problem 1361 1368	burping
+T29	problem 1374 1383	heartburn
+T30	course 1384 1397	under control
+T31	problem 1410 1426	right flank pain
+T32	bodyloc 1410 1421	right flank
+T33	problem 1498 1514	a dull achy pain
+T34	course 1498 1504	a dull
+T35	problem 1549 1575	some spots on her shoulder
+T36	bodyloc 1563 1575	her shoulder
+T37	negation 1743 1746	not
+T38	problem 1747 1754	painful
+T39	problem 1767 1791	had spots in her armpits
+T40	bodyloc 1780 1791	her armpits
+T41	problem 1904 1920	urgency of urine
+T42	test 2104 2117	a colonoscopy
+T43	test 2156 2168	routine labs
+T44	problem 2183 2205	her chronic leukopenia
+T45	course 2187 2194	chronic
+T46	test 2224 2241	a hepatitis titer
+T47	problem 2258 2276	pain in her thumbs
+T48	bodyloc 2270 2276	thumbs
+T49	negation 2382 2384	no
+T50	problem 2385 2393	swelling
+T51	problem 2397 2404	redness
+T52	problem 2408 2414	trauma
+T53	problem 2507 2534	some hearing loss gradually
+T54	negation 2540 2546	denies
+T55	problem 2547 2575	any problems with swallowing
+T56	negation 2581 2587	denies
+T57	problem 2600 2619	shortness of breath
+T58	problem 2658 2671	chronic cough
+T59	course 2658 2665	chronic
+T60	negation 2709 2715	Denies
+T61	problem 2716 2742	any black or bloody stools
+T62	problem 2744 2752	diarrhea
+T63	problem 2757 2769	constipation
+T64	negation 2771 2777	Denies
+T65	problem 2785 2803	blood in her urine
+T66	negation 2816 2818	no
+T67	problem 2819 2835	urinary problems
+T68	negation 2881 2892	no problems
+T69	problem 2898 2903	edema
+T70	problem 2907 2943	lower extremity numbness or tingling
+T71	bodyloc 2907 2922	lower extremity
+T72	temporal 3143 3147	1972
+T73	problem 3180 3195	type I diabetes
+T74	problem 3200 3213	heart disease
+T75	bodyloc 3200 3205	heart
+T76	problem 3241 3253	heart attack
+T77	bodyloc 3241 3246	heart
+T78	problem 3310 3329	Episodic leukopenia
+T79	course 3310 3318	Episodic
+T80	problem 3334 3363	mild irritable bowel syndrome
+T81	course 3334 3338	mild
+T82	bodyloc 3349 3354	bowel
+T83	drug 3386 3393	Aciphex
+T84	strength 3394 3399	20 mg
+T85	frequency 3400 3404	q.d.
+T86	drug 3409 3416	aspirin
+T87	strength 3417 3422	81 mg
+T88	frequency 3423 3427	q.d.
+T89	problem 3428 3437	ALLERGIES
+T90	negation 3439 3441	No
+T91	problem 3442 3465	known medical allergies
+T92	test 3478 3489	Vital Signs
+T93	test 3491 3497	Weight
+T94	labvalue 3499 3509	142 pounds
+T95	test 3511 3525	Blood pressure
+T96	labvalue 3527 3533	132/78
+T97	test 3535 3540	Pulse
+T98	labvalue 3542 3544	72
+T99	negation 3621 3623	no
+T100	problem 3624 3638	acute distress
+T101	course 3624 3629	acute
+T102	negation 3822 3829	without
+T103	problem 3830 3845	lymphadenopathy
+T104	problem 3849 3860	thyromegaly
+T105	labvalue 3869 3874	Clear
+T106	labvalue 3880 3886	normal
+T107	test 3887 3905	respiratory effort
+T108	labvalue 3914 3921	Regular
+T109	test 3922 3928	rhythm
+T110	test 3933 3937	rate
+T111	negation 3938 3945	without
+T112	problem 3946 3952	murmur
+T113	test 3954 3967	Radial pulses
+T114	labvalue 3972 3978	normal
+T115	negation 4035 4042	without
+T116	problem 4043 4055	organomegaly
+T117	test 4070 4094	Examination of the hands
+T118	problem 4103 4156	some tenderness at the base of her thumbs bilaterally
+T119	problem 4253 4276	a tinea versicolor rash
+T120	problem 4321 4350	a lesion on her left shoulder
+T121	bodyloc 4337 4350	left shoulder
+T122	problem 4386 4401	diffuse borders
+T123	course 4386 4393	diffuse
+T124	problem 4409 4421	slightly red
+T125	problem 4434 4445	brown spots
+T126	negation 4488 4490	no
+T127	problem 4491 4499	cyanosis
+T128	problem 4503 4508	edema
+T129	test 4535 4558	posterior tibial pulses
+T130	labvalue 4563 4581	normal bilaterally
+T131	test 4583 4591	Her gait
+T132	labvalue 4595 4601	normal
+T133	test 4616 4626	Her affect
+T134	labvalue 4630 4651	pleasant and positive
+T135	test 4690 4700	Her speech
+T136	test 4720 4767	Her coordination of upper and lower extremities
+T137	labvalue 4771 4777	normal
+T138	problem 4799 4809	Chest pain
+T139	bodyloc 4799 4804	Chest
+T140	test 4849 4859	evaluation
+T141	problem 4874 4886	the symptoms
+T142	problem 4963 4969	reflux
+T143	drug 4998 5009	her Aciphex
+T144	frequency 5028 5034	b.i.d.
+T145	test 5088 5091	EGD
+T146	problem 5157 5169	her symptoms
+T147	problem 5208 5227	any severe episodes
+T148	problem 5232 5244	Stomach pain
+T149	bodyloc 5232 5239	Stomach
+T150	problem 5323 5333	chest pain
+T151	bodyloc 5323 5328	chest
+T152	problem 5338 5377	Suspicious lesions on the left shoulder
+T153	bodyloc 5364 5377	left shoulder
+T154	test 5390 5404	a punch biopsy
+T155	problem 5452 5489	Tinea versicolor in the axillary area
+T156	drug 5509 5532	selenium sulfide lotion
+T157	problem 5578 5587	Cystocele
+T158	treatment 5644 5650	repair
+T159	problem 5658 5682	her urinary incontinence
+T160	problem 5698 5708	leukopenia
+T161	test 5724 5729	a CBC
+T162	problem 5734 5752	Pain in the thumbs
+T163	test 5804 5813	Screening
+T164	test 5862 5884	colon cancer screening
+T165	problem 5889 5920	Gastroesophageal reflux disease
+T166	bodyloc 5889 5905	Gastroesophageal
+T167	drug 5939 5946	Aciphex
+T168	frequency 5950 5956	b.i.d.
+T169	temporal 5961 5964	now
+T170	problem 5994 6003	cystocele
+T171	problem 6005 6036	gastroesophageal reflux disease
+T172	bodyloc 6005 6021	gastroesophageal
+T173	problem 6038 6050	stomach pain
+T174	bodyloc 6038 6045	stomach
+T175	problem 6070 6080	chest pain
+T176	bodyloc 6070 6075	chest
+T177	problem 6082 6092	leukopenia
+T178	problem 6094 6111	multiple problems
+T179	test 6113 6119	pulses
+T180	test 6182 6188	pulses
+T181	problem 6203 6209	reflux
+T182	drug 6211 6218	aciphex
+R1	hasAttr Arg1:T1 Arg2:T2
+R2	hasAttr Arg1:T4 Arg2:T5
+R3	hasAttr Arg1:T7 Arg2:T8
+R4	hasAttr Arg1:T10 Arg2:T11
+R5	hasAttr Arg1:T19 Arg2:T17
+R6	hasAttr Arg1:T18 Arg2:T17
+R7	hasAttr Arg1:T20 Arg2:T21
+R8	hasAttr Arg1:T29 Arg2:T30
+R9	hasAttr Arg1:T31 Arg2:T32
+R10	hasAttr Arg1:T33 Arg2:T34
+R11	hasAttr Arg1:T35 Arg2:T36
+R12	hasAttr Arg1:T38 Arg2:T37
+R13	hasAttr Arg1:T39 Arg2:T40
+R14	hasAttr Arg1:T44 Arg2:T45
+R15	hasAttr Arg1:T47 Arg2:T48
+R16	hasAttr Arg1:T52 Arg2:T49
+R17	hasAttr Arg1:T50 Arg2:T49
+R18	hasAttr Arg1:T51 Arg2:T49
+R19	hasAttr Arg1:T55 Arg2:T54
+R20	hasAttr Arg1:T57 Arg2:T56
+R21	hasAttr Arg1:T58 Arg2:T59
+R22	hasAttr Arg1:T63 Arg2:T60
+R23	hasAttr Arg1:T62 Arg2:T60
+R24	hasAttr Arg1:T61 Arg2:T60
+R25	hasAttr Arg1:T65 Arg2:T64
+R26	hasAttr Arg1:T67 Arg2:T66
+R27	hasAttr Arg1:T69 Arg2:T68
+R28	hasAttr Arg1:T70 Arg2:T68
+R29	hasAttr Arg1:T70 Arg2:T71
+R30	hasAttr Arg1:T74 Arg2:T75
+R31	hasAttr Arg1:T76 Arg2:T77
+R32	hasAttr Arg1:T78 Arg2:T79
+R33	hasAttr Arg1:T80 Arg2:T82
+R34	hasAttr Arg1:T80 Arg2:T81
+R35	hasAttr Arg1:T83 Arg2:T84
+R36	hasAttr Arg1:T83 Arg2:T85
+R37	hasAttr Arg1:T86 Arg2:T88
+R38	hasAttr Arg1:T86 Arg2:T87
+R39	hasAttr Arg1:T91 Arg2:T90
+R40	hasAttr Arg1:T93 Arg2:T94
+R41	hasAttr Arg1:T95 Arg2:T96
+R42	hasAttr Arg1:T97 Arg2:T98
+R43	hasAttr Arg1:T100 Arg2:T99
+R44	hasAttr Arg1:T100 Arg2:T101
+R45	hasAttr Arg1:T104 Arg2:T102
+R46	hasAttr Arg1:T103 Arg2:T102
+R47	hasAttr Arg1:T107 Arg2:T105
+R48	hasAttr Arg1:T107 Arg2:T106
+R49	hasAttr Arg1:T110 Arg2:T108
+R50	hasAttr Arg1:T109 Arg2:T108
+R51	hasAttr Arg1:T112 Arg2:T111
+R52	hasAttr Arg1:T113 Arg2:T114
+R53	hasAttr Arg1:T116 Arg2:T115
+R54	hasAttr Arg1:T120 Arg2:T121
+R55	hasAttr Arg1:T122 Arg2:T123
+R56	hasAttr Arg1:T128 Arg2:T126
+R57	hasAttr Arg1:T127 Arg2:T126
+R58	hasAttr Arg1:T129 Arg2:T130
+R59	hasAttr Arg1:T131 Arg2:T132
+R60	hasAttr Arg1:T133 Arg2:T134
+R61	hasAttr Arg1:T136 Arg2:T137
+R62	hasAttr Arg1:T138 Arg2:T139
+R63	hasAttr Arg1:T143 Arg2:T144
+R64	hasAttr Arg1:T148 Arg2:T149
+R65	hasAttr Arg1:T150 Arg2:T151
+R66	hasAttr Arg1:T152 Arg2:T153
+R67	hasAttr Arg1:T165 Arg2:T166
+R68	hasAttr Arg1:T167 Arg2:T168
+R69	hasAttr Arg1:T167 Arg2:T169
+R70	hasAttr Arg1:T171 Arg2:T172
+R71	hasAttr Arg1:T173 Arg2:T174
+R72	hasAttr Arg1:T175 Arg2:T176

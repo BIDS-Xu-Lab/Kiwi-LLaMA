@@ -1,0 +1,231 @@
+T1	problem 173 183	chest pain
+T2	bodyloc 173 178	chest
+T3	problem 185 223	left-sided with severe chest tightness
+T4	severity 201 207	severe
+T5	bodyloc 208 213	chest
+T6	problem 313 336	psychological disorders
+T7	problem 480 490	chest pain
+T8	bodyloc 480 485	chest
+T9	problem 492 530	left-sided with severe chest tightness
+T10	course 508 514	severe
+T11	bodyloc 515 520	chest
+T12	problem 620 643	psychological disorders
+T13	problem 691 719	supraventricular tachycardia
+T14	bodyloc 691 707	supraventricular
+T15	problem 724 747	coronary artery disease
+T16	bodyloc 724 739	coronary artery
+T17	test 779 785	workup
+T18	test 863 889	The initial cardiac workup
+T19	labvalue 894 902	negative
+T20	test 1049 1060	drug screen
+T21	drug 1071 1080	methadone
+T22	drug 1085 1093	morphine
+T23	test 1095 1112	The patient's EKG
+T24	problem 1183 1197	her chest pain
+T25	bodyloc 1187 1192	chest
+T26	drug 1217 1230	nitroglycerin
+T27	problem 1303 1319	seizure disorder
+T28	problem 1321 1339	migraine headaches
+T29	problem 1341 1364	coronary artery disease
+T30	bodyloc 1341 1356	coronary artery
+T31	problem 1366 1369	CHF
+T32	treatment 1382 1399	coronary stenting
+T33	problem 1406 1427	mitral valve prolapse
+T34	bodyloc 1406 1418	mitral valve
+T35	problem 1429 1457	supraventricular tachycardia
+T36	bodyloc 1429 1445	supraventricular
+T37	treatment 1459 1478	pacemaker placement
+T38	problem 1480 1492	colon cancer
+T39	bodyloc 1480 1485	colon
+T40	problem 1498 1511	breast cancer
+T41	bodyloc 1498 1504	breast
+T42	treatment 1607 1636	lumpectomy on the left breast
+T43	problem 1638 1665	breast augmentation surgery
+T44	bodyloc 1638 1644	breast
+T45	treatment 1667 1682	cholecystectomy
+T46	treatment 1684 1700	cardiac ablation
+T47	treatment 1705 1722	left knee surgery
+T48	treatment 1734 1762	removal of half the pancreas
+T49	drug 1802 1810	Dilantin
+T50	strength 1811 1817	400 mg
+T51	frequency 1818 1823	daily
+T52	drug 1825 1833	Klonopin
+T53	strength 1834 1838	2 mg
+T54	frequency 1839 1852	3 times a day
+T55	drug 1854 1860	Elavil
+T56	strength 1861 1867	300 mg
+T57	frequency 1868 1876	at night
+T58	drug 1878 1891	nitroglycerin
+T59	route 1892 1902	sublingual
+T60	frequency 1903 1909	p.r.n.
+T61	drug 1911 1920	Thorazine
+T62	strength 1921 1927	300 mg
+T63	frequency 1928 1941	3 times a day
+T64	drug 1943 1952	Neurontin
+T65	strength 1953 1959	800 mg
+T66	frequency 1960 1973	4 times a day
+T67	drug 1979 1988	Phenergan
+T68	strength 1989 1994	25 mg
+T69	temporal 2051 2059	6/3/2009
+T70	temporal 2098 2104	recent
+T71	treatment 2105 2113	abortion
+T72	treatment 2148 2160	the abortion
+T73	problem 2329 2342	tobacco abuse
+T74	problem 2354 2381	multiple illicit drug abuse
+T75	test 2488 2499	VITAL SIGNS
+T76	test 2501 2519	Her blood pressure
+T77	labvalue 2529 2535	132/72
+T78	test 2537 2547	heart rate
+T79	labvalue 2557 2570	87 per minute
+T80	test 2572 2588	respiratory rate
+T81	labvalue 2592 2594	16
+T82	negation 2701 2703	No
+T83	problem 2704 2725	oropharyngeal lesions
+T84	bodyloc 2704 2717	oropharyngeal
+T85	negation 2747 2749	no
+T86	problem 2750 2763	JV distention
+T87	bodyloc 2750 2752	JV
+T88	negation 2765 2767	no
+T89	problem 2768 2782	carotid bruits
+T90	bodyloc 2768 2775	carotid
+T91	negation 2788 2790	no
+T92	problem 2791 2806	lymphadenopathy
+T93	labvalue 2815 2820	Clear
+T94	test 2824 2836	auscultation
+T95	labvalue 2867 2874	regular
+T96	test 2875 2879	rate
+T97	test 2884 2890	rhythm
+T98	bodyloc 2967 2984	LOWER EXTREMITIES
+T99	negation 2992 2994	no
+T100	problem 2995 3000	edema
+T101	test 3002 3015	Distal pulses
+T102	labvalue 3020 3022	2+
+T103	test 3127 3136	WBC count
+T104	labvalue 3140 3146	normal
+T105	test 3148 3158	hemoglobin
+T106	test 3163 3173	hematocrit
+T107	labvalue 3178 3184	normal
+T108	test 3186 3192	Sodium
+T109	test 3194 3203	potassium
+T110	test 3205 3213	chloride
+T111	test 3215 3222	glucose
+T112	test 3224 3235	bicarbonate
+T113	test 3237 3240	BUN
+T114	test 3245 3255	creatinine
+T115	test 3261 3281	liver function tests
+T116	labvalue 3286 3292	normal
+T117	test 3294 3333	The patient's 3 sets of cardiac enzymes
+T118	test 3344 3354	troponin-I
+T119	test 3356 3362	CPK-MB
+T120	test 3368 3379	myoglobulin
+T121	labvalue 3390 3396	normal
+T122	test 3398 3401	EKG
+T123	labvalue 3405 3411	normal
+T124	test 3413 3425	sinus rhythm
+T125	negation 3426 3433	without
+T126	problem 3434 3461	any acute ST-T wave changes
+T127	course 3438 3443	acute
+T128	test 3484 3515	the patient's toxicology screen
+T129	drug 3533 3541	morphine
+T130	drug 3543 3552	methadone
+T131	test 3590 3599	a head CT
+T132	test 3659 3687	The patient's beta-hCG level
+T133	problem 3692 3711	marginally elevated
+T134	labvalue 3721 3723	48
+T135	problem 3755 3766	Chest pains
+T136	bodyloc 3755 3760	Chest
+T137	problem 3863 3877	her chest pain
+T138	bodyloc 3867 3872	chest
+T139	problem 3903 3926	acute coronary syndrome
+T140	bodyloc 3903 3917	acute coronary
+T141	problem 3930 3945	unstable angina
+T142	drug 4067 4090	Some of the medications
+T143	test 4231 4258	the workup of her pregnancy
+T144	problem 4324 4342	Migraine headaches
+T145	drug 4380 4403	her routine medications
+T146	problem 4408 4421	the headaches
+T147	course 4433 4446	under control
+T148	treatment 4532 4560	control of migraine headache
+T149	problem 4674 4697	acute coronary syndrome
+T150	course 4674 4679	acute
+T151	problem 4742 4765	coronary artery disease
+T152	bodyloc 4742 4757	coronary artery
+T153	problem 4767 4782	chest tightness
+T154	bodyloc 4767 4772	chest
+T155	problem 4804 4827	psychological disorders
+T156	problem 4829 4857	supraventricular tachycardia
+T157	bodyloc 4829 4845	supraventricular
+T158	problem 4859 4868	headaches
+R1	hasAttr Arg1:T1 Arg2:T2
+R2	hasAttr Arg1:T3 Arg2:T4
+R3	hasAttr Arg1:T3 Arg2:T5
+R4	hasAttr Arg1:T7 Arg2:T8
+R5	hasAttr Arg1:T9 Arg2:T10
+R6	hasAttr Arg1:T9 Arg2:T11
+R7	hasAttr Arg1:T13 Arg2:T14
+R8	hasAttr Arg1:T15 Arg2:T16
+R9	hasAttr Arg1:T18 Arg2:T19
+R10	hasAttr Arg1:T24 Arg2:T25
+R11	hasAttr Arg1:T29 Arg2:T30
+R12	hasAttr Arg1:T33 Arg2:T34
+R13	hasAttr Arg1:T35 Arg2:T36
+R14	hasAttr Arg1:T38 Arg2:T39
+R15	hasAttr Arg1:T40 Arg2:T41
+R16	hasAttr Arg1:T43 Arg2:T44
+R17	hasAttr Arg1:T49 Arg2:T50
+R18	hasAttr Arg1:T49 Arg2:T51
+R19	hasAttr Arg1:T52 Arg2:T54
+R20	hasAttr Arg1:T52 Arg2:T53
+R21	hasAttr Arg1:T55 Arg2:T56
+R22	hasAttr Arg1:T55 Arg2:T57
+R23	hasAttr Arg1:T58 Arg2:T59
+R24	hasAttr Arg1:T58 Arg2:T60
+R25	hasAttr Arg1:T61 Arg2:T63
+R26	hasAttr Arg1:T61 Arg2:T62
+R27	hasAttr Arg1:T64 Arg2:T66
+R28	hasAttr Arg1:T64 Arg2:T65
+R29	hasAttr Arg1:T67 Arg2:T68
+R30	hasAttr Arg1:T71 Arg2:T70
+R31	hasAttr Arg1:T76 Arg2:T77
+R32	hasAttr Arg1:T78 Arg2:T79
+R33	hasAttr Arg1:T80 Arg2:T81
+R34	hasAttr Arg1:T83 Arg2:T82
+R35	hasAttr Arg1:T83 Arg2:T84
+R36	hasAttr Arg1:T86 Arg2:T85
+R37	hasAttr Arg1:T86 Arg2:T87
+R38	hasAttr Arg1:T89 Arg2:T88
+R39	hasAttr Arg1:T89 Arg2:T90
+R40	hasAttr Arg1:T92 Arg2:T91
+R41	hasAttr Arg1:T94 Arg2:T93
+R42	hasAttr Arg1:T96 Arg2:T95
+R43	hasAttr Arg1:T97 Arg2:T95
+R44	hasAttr Arg1:T100 Arg2:T98
+R45	hasAttr Arg1:T100 Arg2:T99
+R46	hasAttr Arg1:T101 Arg2:T102
+R47	hasAttr Arg1:T103 Arg2:T104
+R48	hasAttr Arg1:T105 Arg2:T107
+R49	hasAttr Arg1:T106 Arg2:T107
+R50	hasAttr Arg1:T108 Arg2:T116
+R51	hasAttr Arg1:T109 Arg2:T116
+R52	hasAttr Arg1:T110 Arg2:T116
+R53	hasAttr Arg1:T111 Arg2:T116
+R54	hasAttr Arg1:T112 Arg2:T116
+R55	hasAttr Arg1:T113 Arg2:T116
+R56	hasAttr Arg1:T114 Arg2:T116
+R57	hasAttr Arg1:T115 Arg2:T116
+R58	hasAttr Arg1:T117 Arg2:T121
+R59	hasAttr Arg1:T118 Arg2:T121
+R60	hasAttr Arg1:T119 Arg2:T121
+R61	hasAttr Arg1:T120 Arg2:T121
+R62	hasAttr Arg1:T122 Arg2:T123
+R63	hasAttr Arg1:T126 Arg2:T125
+R64	hasAttr Arg1:T126 Arg2:T127
+R65	hasAttr Arg1:T132 Arg2:T134
+R66	hasAttr Arg1:T135 Arg2:T136
+R67	hasAttr Arg1:T137 Arg2:T138
+R68	hasAttr Arg1:T139 Arg2:T140
+R69	hasAttr Arg1:T146 Arg2:T147
+R70	hasAttr Arg1:T149 Arg2:T150
+R71	hasAttr Arg1:T151 Arg2:T152
+R72	hasAttr Arg1:T153 Arg2:T154
+R73	hasAttr Arg1:T156 Arg2:T157

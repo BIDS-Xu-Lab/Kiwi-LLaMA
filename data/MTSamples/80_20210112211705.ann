@@ -1,0 +1,58 @@
+T1	treatment 64 76	Hysterectomy
+T2	treatment 132 160	a total vaginal hysterectomy
+T3	problem 224 235	Menorrhagia
+T4	problem 240 258	Uterus enlargement
+T5	bodyloc 240 246	Uterus
+T6	problem 263 274	Pelvic pain
+T7	bodyloc 263 269	Pelvic
+T8	treatment 309 329	vaginal hysterectomy
+T9	problem 477 504	abnormal menstrual bleeding
+T10	problem 509 543	increase in flow during her period
+T11	problem 570 579	back pain
+T12	bodyloc 570 574	back
+T13	problem 581 593	dysmenorrhea
+T14	problem 599 606	dysuria
+T15	problem 630 639	worsening
+T16	problem 686 708	increasing pelvic pain
+T17	course 686 696	increasing
+T18	bodyloc 697 703	pelvic
+T19	problem 758 777	uterine enlargement
+T20	bodyloc 758 765	uterine
+T21	test 783 794	examination
+T22	treatment 829 857	a total vaginal hysterectomy
+T23	temporal 904 914	09/04/2007
+T24	treatment 926 952	total vaginal hysterectomy
+T25	negation 988 995	without
+T26	problem 996 1008	complication
+T27	test 1030 1049	pathologic analysis
+T28	test 1147 1153	vitals
+T29	labvalue 1163 1169	stable
+T30	test 1171 1189	Laboratory studies
+T31	test 1191 1194	H&H
+T32	temporal 1232 1242	09/05/2007
+T33	test 1248 1258	hemoglobin
+T34	labvalue 1262 1266	11.2
+T35	test 1271 1281	hematocrit
+T36	labvalue 1285 1289	31.8
+T37	temporal 1348 1358	09/06/2007
+T38	problem 1594 1605	menorrhagia
+T39	problem 1607 1625	uterus enlargement
+T40	bodyloc 1607 1613	uterus
+T41	problem 1627 1638	pelvic pain
+T42	bodyloc 1627 1633	pelvic
+T43	treatment 1640 1666	total vaginal hysterectomy
+T44	treatment 1668 1688	vaginal hysterectomy
+T45	treatment 1707 1719	hysterectomy
+R1	hasAttr Arg1:T4 Arg2:T5
+R2	hasAttr Arg1:T6 Arg2:T7
+R3	hasAttr Arg1:T11 Arg2:T12
+R4	hasAttr Arg1:T16 Arg2:T17
+R5	hasAttr Arg1:T16 Arg2:T18
+R6	hasAttr Arg1:T19 Arg2:T20
+R7	hasAttr Arg1:T24 Arg2:T23
+R8	hasAttr Arg1:T26 Arg2:T25
+R9	hasAttr Arg1:T28 Arg2:T29
+R10	hasAttr Arg1:T33 Arg2:T34
+R11	hasAttr Arg1:T35 Arg2:T36
+R12	hasAttr Arg1:T39 Arg2:T40
+R13	hasAttr Arg1:T41 Arg2:T42

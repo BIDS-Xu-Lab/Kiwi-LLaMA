@@ -1,0 +1,300 @@
+T1	problem 115 123	confused
+T2	problem 130 144	garbled speech
+T3	problem 147 166	significantly worse
+T4	problem 195 227	decreased level of consciousness
+T5	course 195 204	decreased
+T6	problem 342 363	altered mental status
+T7	problem 459 472	more confused
+T8	course 459 463	more
+T9	problem 479 493	garbled speech
+T10	problem 496 515	significantly worse
+T11	problem 553 585	decreased level of consciousness
+T12	course 553 562	decreased
+T13	problem 616 623	aphasia
+T14	problem 646 657	her aphasia
+T15	course 683 688	worse
+T16	problem 713 725	unresponsive
+T17	test 755 770	Her blood sugar
+T18	labvalue 787 789	40
+T19	problem 801 817	poor p.o. intake
+T20	drug 839 842	D50
+T21	course 993 1000	started
+T22	problem 1008 1027	some garbled speech
+T23	problem 1138 1152	more somnolent
+T24	course 1138 1142	more
+T25	problem 1290 1304	recurrent UTIs
+T26	course 1290 1299	recurrent
+T27	temporal 1347 1358	3 weeks ago
+T28	problem 1363 1386	urinary tract infection
+T29	problem 1397 1417	chronic incontinence
+T30	course 1397 1404	chronic
+T31	problem 1422 1435	bladder atony
+T32	bodyloc 1422 1429	bladder
+T33	treatment 1509 1525	a Foley catheter
+T34	problem 1562 1579	right - sided CVA
+T35	problem 1594 1613	atrial fibrillation
+T36	bodyloc 1594 1600	atrial
+T37	treatment 1626 1635	pacemaker
+T38	problem 1645 1662	a type 2 diabetic
+T39	problem 1668 1690	significant neuropathy
+T40	severity 1668 1679	significant
+T41	problem 1710 1726	significant pain
+T42	severity 1710 1721	significant
+T43	problem 1750 1760	her stroke
+T44	problem 1784 1798	hypothyroidism
+T45	treatment 1842 1857	cholecystectomy
+T46	treatment 1860 1880	colon cancer surgery
+T47	temporal 1884 1888	1998
+T48	treatment 1903 1924	a pacemaker placement
+T49	negation 1959 1961	No
+T50	problem 1969 1974	fever
+T51	problem 1977 1983	chills
+T52	negation 1986 1988	No
+T53	temporal 1989 1995	recent
+T54	problem 1996 2007	weight loss
+T55	negation 2023 2025	No
+T56	problem 2026 2031	cough
+T57	problem 2034 2050	chest congestion
+T58	bodyloc 2034 2039	chest
+T59	negation 2064 2066	No
+T60	problem 2067 2077	chest pain
+T61	bodyloc 2067 2072	chest
+T62	problem 2080 2099	shortness of breath
+T63	negation 2108 2110	No
+T64	problem 2111 2125	abdominal pain
+T65	bodyloc 2111 2120	abdominal
+T66	problem 2128 2134	nausea
+T67	problem 2137 2145	vomiting
+T68	negation 2148 2150	No
+T69	problem 2151 2163	constipation
+T70	negation 2166 2168	No
+T71	problem 2169 2177	bleeding
+T72	problem 2192 2198	melena
+T73	problem 2230 2262	frequent urinary tract infection
+T74	drug 2394 2402	Percocet
+T75	dosage 2403 2404	2
+T76	form 2405 2412	tablets
+T77	frequency 2413 2426	4 times a day
+T78	drug 2429 2438	Neurontin
+T79	dosage 2439 2440	1
+T80	form 2441 2447	tablet
+T81	temporal 2448 2453	b.i.d
+T82	strength 2456 2462	600 mg
+T83	drug 2465 2470	Cipro
+T84	temporal 2471 2479	recently
+T85	strength 2488 2491	500
+T86	frequency 2492 2497	b.i.d
+T87	drug 2501 2510	Humulin N
+T88	dosage 2511 2519	30 units
+T89	frequency 2520 2531	twice a day
+T90	drug 2586 2593	MiraLax
+T91	dosage 2594 2601	1 scoop
+T92	frequency 2602 2609	nightly
+T93	drug 2612 2619	Avandia
+T94	strength 2620 2624	4 mg
+T95	frequency 2625 2630	b.i.d
+T96	drug 2635 2643	Flexeril
+T97	dosage 2644 2645	1
+T98	form 2646 2652	tablet
+T99	frequency 2653 2658	t.i.d
+T100	drug 2662 2671	Synthroid
+T101	strength 2672 2679	125 mcg
+T102	drug 2688 2696	Coumadin
+T103	strength 2697 2701	5 mg
+T104	drug 2753 2762	ibuprofen
+T105	drug 2765 2770	Lasix
+T106	strength 2771 2776	40 mg
+T107	frequency 2777 2784	b.i.d .
+T108	drug 2787 2794	Lipitor
+T109	strength 2795 2800	20 mg
+T110	frequency 2801 2808	nightly
+T111	drug 2811 2817	Reglan
+T112	frequency 2818 2824	t.i.d.
+T113	strength 2825 2829	5 mg
+T114	drug 2832 2840	Nystatin
+T115	form 2841 2847	powder
+T116	treatment 2860 2866	oxygen
+T117	test 3202 3216	Blood pressure
+T118	labvalue 3217 3223	111/43
+T119	test 3226 3231	pulse
+T120	labvalue 3232 3245	60 per minute
+T121	test 3248 3259	temperature
+T122	labvalue 3260 3264	37.2
+T123	test 3267 3273	Weight
+T124	labvalue 3277 3282	98 kg
+T125	test 3285 3297	Urine output
+T126	labvalue 3308 3315	1000 mL
+T127	test 3318 3328	Her intake
+T128	test 3355 3367	Blood sugars
+T129	labvalue 3372 3374	99
+T130	negation 3432 3434	No
+T131	problem 3435 3441	pallor
+T132	problem 3467 3473	a rash
+T133	treatment 3514 3523	pacemaker
+T134	labvalue 3553 3558	Clear
+T135	test 3562 3574	auscultation
+T136	problem 3595 3600	obese
+T137	problem 3630 3663	Bilateral lower extremities edema
+T138	bodyloc 3630 3657	Bilateral lower extremities
+T139	problem 3820 3837	some mild aphasia
+T140	severity 3825 3829	mild
+T141	test 3861 3864	BUN
+T142	labvalue 3865 3867	48
+T143	test 3870 3880	creatinine
+T144	labvalue 3881 3884	2.8
+T145	test 3887 3891	LFTs
+T146	labvalue 3892 3898	normal
+T147	problem 3908 3914	anemic
+T148	test 3920 3932	a hemoglobin
+T149	labvalue 3936 3939	9.6
+T150	test 3942 3952	hematocrit
+T151	labvalue 3953 3955	29
+T152	test 3958 3961	INR
+T153	labvalue 3962 3965	1.1
+T154	test 3968 3976	pro time
+T155	labvalue 3977 3979	14
+T156	test 3982 3987	Urine
+T157	labvalue 4028 4030	20
+T158	test 4031 4042	white cells
+T159	test 4106 4114	Cultures
+T160	test 4153 4169	The last culture
+T161	temporal 4178 4187	August 20
+T162	labvalue 4195 4210	guaiac negative
+T163	test 4248 4262	mixed cultures
+T164	problem 4298 4306	allergic
+T165	drug 4310 4316	Septra
+T166	problem 4335 4347	her last UTI
+T167	problem 4374 4398	Cerebrovascular accident
+T168	problem 4415 4449	change in mental status and speech
+T169	drug 4513 4521	Coumadin
+T170	drug 4575 4583	Coumadin
+T171	problem 4626 4654	overall poor quality of life
+T172	problem 4663 4685	progressively declined
+T173	problem 4815 4848	Recurrent urinary tract infection
+T174	course 4815 4824	Recurrent
+T175	test 4862 4869	culture
+T176	drug 4894 4899	Cipro
+T177	problem 4907 4915	Diabetes
+T178	problem 4921 4944	episode of hypoglycemia
+T179	test 4955 4966	blood sugar
+T180	drug 4998 5007	Humulin N
+T181	dosage 5011 5019	15 units
+T182	frequency 5020 5031	twice a day
+T183	drug 5118 5125	Avandia
+T184	problem 5164 5174	Neuropathy
+T185	drug 5186 5195	Neurontin
+T186	strength 5196 5202	600 mg
+T187	frequency 5203 5208	b.i.d
+T188	problem 5217 5221	pain
+T189	drug 5235 5243	Percocet
+T190	problem 5272 5286	Hypothyroidism
+T191	drug 5298 5307	Synthroid
+T192	problem 5315 5329	Hyperlipidemia
+T193	drug 5341 5348	Lipitor
+T194	problem 5477 5501	cerebrovascular accident
+T195	problem 5504 5537	recurrent urinary tract infection
+T196	course 5504 5513	recurrent
+T197	problem 5540 5548	diabetes
+T198	problem 5551 5563	hypoglycemia
+T199	problem 5566 5576	neuropathy
+T200	problem 5579 5593	hypothyroidism
+T201	problem 5596 5610	hyperlipidemia
+T202	problem 5613 5618	worse
+T203	problem 5639 5671	decreased level of consciousness
+T204	course 5639 5648	decreased
+T205	test 5674 5696	level of consciousness
+T206	problem 5699 5722	urinary tract infection
+T207	problem 5725 5740	decreased level
+T208	test 5743 5754	blood sugar
+T209	problem 5757 5771	garbled speech
+T210	problem 5841 5849	confused
+T211	drug 5852 5860	coumadin
+T212	test 5883 5891	cultures
+R1	hasAttr Arg1:T4 Arg2:T5
+R2	hasAttr Arg1:T7 Arg2:T8
+R3	hasAttr Arg1:T11 Arg2:T12
+R4	hasAttr Arg1:T14 Arg2:T15
+R5	hasAttr Arg1:T17 Arg2:T18
+R6	hasAttr Arg1:T22 Arg2:T21
+R7	hasAttr Arg1:T23 Arg2:T24
+R8	hasAttr Arg1:T25 Arg2:T26
+R9	hasAttr Arg1:T28 Arg2:T27
+R10	hasAttr Arg1:T29 Arg2:T30
+R11	hasAttr Arg1:T31 Arg2:T32
+R12	hasAttr Arg1:T35 Arg2:T36
+R13	hasAttr Arg1:T39 Arg2:T40
+R14	hasAttr Arg1:T41 Arg2:T42
+R15	hasAttr Arg1:T45 Arg2:T47
+R16	hasAttr Arg1:T46 Arg2:T47
+R17	hasAttr Arg1:T51 Arg2:T49
+R18	hasAttr Arg1:T50 Arg2:T49
+R19	hasAttr Arg1:T54 Arg2:T52
+R20	hasAttr Arg1:T54 Arg2:T53
+R21	hasAttr Arg1:T56 Arg2:T55
+R22	hasAttr Arg1:T57 Arg2:T55
+R23	hasAttr Arg1:T57 Arg2:T58
+R24	hasAttr Arg1:T62 Arg2:T59
+R25	hasAttr Arg1:T60 Arg2:T59
+R26	hasAttr Arg1:T60 Arg2:T61
+R27	hasAttr Arg1:T64 Arg2:T63
+R28	hasAttr Arg1:T67 Arg2:T63
+R29	hasAttr Arg1:T66 Arg2:T63
+R30	hasAttr Arg1:T64 Arg2:T65
+R31	hasAttr Arg1:T69 Arg2:T68
+R32	hasAttr Arg1:T72 Arg2:T70
+R33	hasAttr Arg1:T71 Arg2:T70
+R34	hasAttr Arg1:T74 Arg2:T76
+R35	hasAttr Arg1:T74 Arg2:T77
+R36	hasAttr Arg1:T74 Arg2:T75
+R37	hasAttr Arg1:T78 Arg2:T80
+R38	hasAttr Arg1:T78 Arg2:T81
+R39	hasAttr Arg1:T78 Arg2:T82
+R40	hasAttr Arg1:T78 Arg2:T79
+R41	hasAttr Arg1:T83 Arg2:T86
+R42	hasAttr Arg1:T83 Arg2:T84
+R43	hasAttr Arg1:T83 Arg2:T85
+R44	hasAttr Arg1:T87 Arg2:T88
+R45	hasAttr Arg1:T87 Arg2:T89
+R46	hasAttr Arg1:T90 Arg2:T91
+R47	hasAttr Arg1:T90 Arg2:T92
+R48	hasAttr Arg1:T93 Arg2:T94
+R49	hasAttr Arg1:T93 Arg2:T95
+R50	hasAttr Arg1:T96 Arg2:T98
+R51	hasAttr Arg1:T96 Arg2:T99
+R52	hasAttr Arg1:T96 Arg2:T97
+R53	hasAttr Arg1:T100 Arg2:T101
+R54	hasAttr Arg1:T102 Arg2:T103
+R55	hasAttr Arg1:T105 Arg2:T106
+R56	hasAttr Arg1:T105 Arg2:T107
+R57	hasAttr Arg1:T108 Arg2:T110
+R58	hasAttr Arg1:T108 Arg2:T109
+R59	hasAttr Arg1:T111 Arg2:T112
+R60	hasAttr Arg1:T111 Arg2:T113
+R61	hasAttr Arg1:T114 Arg2:T115
+R62	hasAttr Arg1:T117 Arg2:T118
+R63	hasAttr Arg1:T119 Arg2:T120
+R64	hasAttr Arg1:T121 Arg2:T122
+R65	hasAttr Arg1:T123 Arg2:T124
+R66	hasAttr Arg1:T125 Arg2:T126
+R67	hasAttr Arg1:T128 Arg2:T129
+R68	hasAttr Arg1:T131 Arg2:T130
+R69	hasAttr Arg1:T135 Arg2:T134
+R70	hasAttr Arg1:T137 Arg2:T138
+R71	hasAttr Arg1:T139 Arg2:T140
+R72	hasAttr Arg1:T141 Arg2:T142
+R73	hasAttr Arg1:T143 Arg2:T144
+R74	hasAttr Arg1:T145 Arg2:T146
+R75	hasAttr Arg1:T148 Arg2:T149
+R76	hasAttr Arg1:T150 Arg2:T151
+R77	hasAttr Arg1:T152 Arg2:T153
+R78	hasAttr Arg1:T154 Arg2:T155
+R79	hasAttr Arg1:T156 Arg2:T157
+R80	hasAttr Arg1:T160 Arg2:T161
+R81	hasAttr Arg1:T160 Arg2:T162
+R82	hasAttr Arg1:T173 Arg2:T174
+R83	hasAttr Arg1:T180 Arg2:T181
+R84	hasAttr Arg1:T180 Arg2:T182
+R85	hasAttr Arg1:T185 Arg2:T186
+R86	hasAttr Arg1:T185 Arg2:T187
+R87	hasAttr Arg1:T195 Arg2:T196
+R88	hasAttr Arg1:T203 Arg2:T204

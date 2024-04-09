@@ -1,0 +1,377 @@
+T1	treatment 64 76	Knee Surgery
+T2	problem 110 127	Decreased ability
+T3	course 110 119	Decreased
+T4	treatment 176 194	right knee surgery
+T5	problem 251 268	Decreased ability
+T6	course 251 260	Decreased
+T7	treatment 317 335	right knee surgery
+T8	treatment 419 447	right total knee replacement
+T9	problem 461 487	degenerative joint disease
+T10	bodyloc 474 479	joint
+T11	temporal 527 537	08/21/2007
+T12	treatment 571 598	2 units of autologous blood
+T13	treatment 629 644	DVT prophylaxis
+T14	drug 667 675	Coumadin
+T15	drug 677 684	Lovenox
+T16	treatment 686 695	SCD boots
+T17	treatment 701 714	TED stockings
+T18	temporal 796 806	08/24/2007
+T19	test 889 899	evaluation
+T20	treatment 904 918	rehabilitation
+T21	test 945 968	her last bowel movement
+T22	labvalue 976 986	08/24/2007
+T23	negation 1039 1045	denies
+T24	problem 1050 1069	urological symptoms
+T25	problem 1078 1085	dysuria
+T26	problem 1087 1114	incomplete bladder emptying
+T27	bodyloc 1098 1105	bladder
+T28	problem 1118 1144	other voiding difficulties
+T29	problem 1165 1185	some right knee pain
+T30	bodyloc 1170 1180	right knee
+T31	problem 1328 1347	the most discomfort
+T32	problem 1349 1358	ALLERGIES
+T33	problem 1388 1400	Hypertension
+T34	problem 1402 1416	hypothyroidism
+T35	problem 1418 1444	degenerative joint disease
+T36	bodyloc 1431 1436	joint
+T37	problem 1446 1450	GERD
+T38	problem 1452 1468	anxiety disorder
+T39	problem 1470 1508	Morton neuroma of her feet bilaterally
+T40	bodyloc 1492 1508	feet bilaterally
+T41	problem 1533 1551	migraine headaches
+T42	temporal 1557 1569	30 years ago
+T43	drug 1597 1605	Celebrex
+T44	drug 1607 1615	Coumadin
+T45	drug 1617 1623	Colace
+T46	drug 1625 1634	Synthroid
+T47	drug 1636 1643	Lovenox
+T48	drug 1645 1653	Percocet
+T49	drug 1655 1664	Toprol XL
+T50	drug 1666 1672	niacin
+T51	drug 1678 1687	trazodone
+T52	test 1711 1722	VITAL SIGNS
+T53	test 1724 1735	Temperature
+T54	labvalue 1736 1740	96.5
+T55	test 1742 1756	blood pressure
+T56	labvalue 1757 1763	127/72
+T57	test 1765 1770	pulse
+T58	labvalue 1771 1773	70
+T59	test 1775 1791	respiratory rate
+T60	labvalue 1792 1794	20
+T61	labvalue 1796 1799	95%
+T62	test 1800 1813	O2 saturation
+T63	negation 1836 1838	No
+T64	problem 1839 1853	acute distress
+T65	course 1839 1844	acute
+T66	test 1869 1877	the exam
+T67	problem 1917 1932	right knee pain
+T68	bodyloc 1917 1927	right knee
+T69	test 2008 2012	EOMI
+T70	negation 2066 2080	no evidence of
+T71	problem 2081 2087	thrush
+T72	negation 2095 2097	No
+T73	problem 2098 2117	thyroid enlargement
+T74	labvalue 2146 2151	Clear
+T75	test 2155 2167	auscultation
+T76	labvalue 2176 2183	Regular
+T77	test 2184 2188	rate
+T78	test 2193 2199	rhythm
+T79	labvalue 2201 2207	Normal
+T80	test 2208 2210	S1
+T81	test 2215 2217	S2
+T82	negation 2263 2265	No
+T83	problem 2266 2278	organomegaly
+T84	treatment 2293 2316	The right knee incision
+T85	treatment 2328 2340	Steri-Strips
+T86	problem 2364 2393	some diffuse right knee edema
+T87	bodyloc 2377 2387	right knee
+T88	problem 2398 2421	some limited ecchymosis
+T89	negation 2431 2433	No
+T90	problem 2434 2449	calf tenderness
+T91	bodyloc 2434 2438	calf
+T92	test 2463 2475	Pedal pulses
+T93	problem 2537 2553	slightly anxious
+T94	test 2579 2583	exam
+T95	temporal 2682 2692	08/24/2007
+T96	test 2743 2753	evaluation
+T97	treatment 2758 2772	rehabilitation
+T98	treatment 2862 2880	her rehabilitation
+T99	treatment 2953 2968	the CPM machine
+T100	treatment 3014 3030	each CPM session
+T101	treatment 3114 3121	the CPM
+T102	problem 3170 3195	increased right knee pain
+T103	course 3170 3179	increased
+T104	bodyloc 3180 3190	right knee
+T105	treatment 3296 3311	pain management
+T106	drug 3340 3346	Ativan
+T107	drug 3387 3393	Ativan
+T108	problem 3424 3440	anxiety disorder
+T109	problem 3492 3503	some rashes
+T110	bodyloc 3514 3535	right upper extremity
+T111	bodyloc 3540 3565	right side of her abdomen
+T112	problem 3593 3602	this rash
+T113	problem 3607 3612	itchy
+T114	treatment 3689 3696	surgery
+T115	uncertain 3710 3721	most likely
+T116	problem 3722 3740	contact dermatitis
+T117	drug 3823 3836	betamethasone
+T118	problem 3854 3862	the rash
+T119	frequency 3863 3868	b.i.d
+T120	treatment 3870 3891	The patient's therapy
+T121	problem 3985 3998	some insomnia
+T122	problem 4006 4021	right knee pain
+T123	bodyloc 4006 4016	right knee
+T124	drug 4045 4053	Percocet
+T125	drug 4057 4069	oxycodone SR
+T126	strength 4070 4075	20 mg
+T127	frequency 4076 4081	b.i.d
+T128	treatment 4100 4112	pain control
+T129	drug 4129 4141	the Percocet
+T130	problem 4151 4168	breakthrough pain
+T131	treatment 4170 4189	The DVT prophylaxis
+T132	drug 4210 4217	Lovenox
+T133	dosage 4218 4223	40 mg
+T134	route 4224 4229	subcu
+T135	frequency 4230 4235	daily
+T136	test 4242 4249	the INR
+T137	labvalue 4254 4270	greater than 1.7
+T138	temporal 4298 4308	08/30/2007
+T139	test 4314 4321	the INR
+T140	labvalue 4326 4330	1.92
+T141	drug 4357 4369	The Coumadin
+T142	test 4408 4416	the INRs
+T143	problem 4500 4521	right calf tenderness
+T144	bodyloc 4500 4510	right calf
+T145	test 4528 4548	venous Doppler study
+T146	temporal 4561 4571	08/27/2007
+T147	negation 4579 4581	no
+T148	problem 4582 4585	DVT
+T149	test 4599 4622	Initial laboratory data
+T150	test 4632 4636	a UA
+T151	temporal 4640 4650	08/28/2007
+T152	labvalue 4662 4670	negative
+T153	test 4686 4689	CBC
+T154	test 4697 4710	a white count
+T155	labvalue 4714 4717	6.3
+T156	test 4719 4729	hemoglobin
+T157	labvalue 4734 4738	12.1
+T158	test 4740 4750	hematocrit
+T159	labvalue 4755 4759	35.3
+T160	test 4765 4774	platelets
+T161	labvalue 4780 4787	278,000
+T162	test 4789 4800	Chemistries
+T163	labvalue 4813 4819	normal
+T164	test 4828 4838	Creatinine
+T165	labvalue 4843 4846	0.8
+T166	test 4848 4851	BUN
+T167	negation 4856 4857	8
+T168	test 4859 4868	anion gap
+T169	labvalue 4895 4896	5
+T170	test 4898 4913	fasting glucose
+T171	labvalue 4918 4921	102
+T172	test 4940 4951	chemistries
+T173	treatment 5020 5033	her therapies
+T174	temporal 5087 5093	Monday
+T175	temporal 5095 5105	09/03/2007
+T176	treatment 5143 5171	right total knee replacement
+T177	problem 5185 5211	degenerative joint disease
+T178	temporal 5225 5235	08/21/2007
+T179	problem 5240 5256	Anxiety disorder
+T180	problem 5261 5269	Insomnia
+T181	problem 5283 5287	pain
+T182	problem 5292 5299	anxiety
+T183	problem 5320 5346	Postoperative constipation
+T184	problem 5351 5369	Contact dermatitis
+T185	problem 5421 5433	Hypertension
+T186	problem 5438 5452	Hypothyroidism
+T187	problem 5457 5488	Gastroesophageal reflux disease
+T188	bodyloc 5457 5473	Gastroesophageal
+T189	problem 5493 5531	Morton neuroma of the feet bilaterally
+T190	bodyloc 5515 5531	feet bilaterally
+T191	problem 5556 5574	migraine headaches
+T192	drug 5678 5703	the following medications
+T193	drug 5705 5713	Celebrex
+T194	strength 5714 5720	200 mg
+T195	frequency 5721 5726	daily
+T196	duration 5728 5741	for one month
+T197	drug 5743 5749	Colace
+T198	strength 5750 5756	100 mg
+T199	frequency 5757 5762	b.i.d
+T200	duration 5764 5777	for one month
+T201	drug 5779 5787	Protonix
+T202	strength 5788 5793	40 mg
+T203	frequency 5794 5799	b.i.d
+T204	duration 5801 5814	for one month
+T205	drug 5816 5825	Synthroid
+T206	strength 5826 5833	137 mcg
+T207	frequency 5834 5839	daily
+T208	drug 5841 5850	Diprosone
+T209	form 5851 5856	cream
+T210	strength 5857 5862	0.05%
+T211	form 5863 5868	cream
+T212	frequency 5869 5875	b.i.d.
+T213	drug 5912 5924	oxycodone SR
+T214	strength 5925 5930	20 mg
+T215	route 5931 5934	p.o
+T216	frequency 5936 5941	q.12h
+T217	duration 5943 5956	for five days
+T218	drug 5975 5987	oxycodone SR
+T219	strength 5988 5993	10 mg
+T220	route 5994 5998	p.o.
+T221	frequency 5999 6005	q.12h.
+T222	duration 6006 6019	for five days
+T223	drug 6021 6029	Percocet
+T224	strength 6030 6038	5/325 mg
+T225	dosage 6039 6049	one to two
+T226	form 6050 6057	tablets
+T227	frequency 6058 6062	q.6h
+T228	frequency 6075 6081	p.r.n.
+T229	problem 6086 6103	breakthrough pain
+T230	drug 6105 6114	trazodone
+T231	strength 6115 6120	50 mg
+T232	route 6121 6125	p.o.
+T233	frequency 6126 6136	at bedtime
+T234	frequency 6137 6143	p.r.n.
+T235	duration 6144 6157	for two weeks
+T236	drug 6159 6165	Ativan
+T237	strength 6166 6173	0.25 mg
+T238	frequency 6174 6180	b.i.d.
+T239	duration 6181 6194	for two weeks
+T240	drug 6200 6209	Toprol-XL
+T241	strength 6210 6215	50 mg
+T242	frequency 6216 6221	daily
+T243	drug 6250 6258	Coumadin
+T244	test 6302 6310	the INRs
+T245	drug 6469 6477	Coumadin
+T246	strength 6478 6482	7 mg
+T247	frequency 6483 6488	daily
+T248	drug 6509 6517	Coumadin
+T249	duration 6518 6529	for 30 days
+T250	test 6531 6537	An INR
+T251	temporal 6559 6569	09/03/2007
+T252	drug 6581 6593	the Coumadin
+T253	temporal 6739 6749	09/21/2007
+T254	temporal 6906 6916	09/03/2007
+T255	treatment 6975 7003	right total knee replacement
+T256	treatment 7036 7049	her therapies
+T257	treatment 7054 7068	rehabilitation
+T258	problem 7099 7116	decreased ability
+T259	treatment 7143 7155	knee surgery
+T260	treatment 7157 7179	total knee replacement
+T261	drug 7181 7189	coumadin
+T262	drug 7191 7198	lovenox
+T263	treatment 7200 7209	scd boots
+T264	treatment 7211 7224	ted stockings
+T265	problem 7226 7238	hypertension
+T266	problem 7240 7254	hypothyroidism
+T267	problem 7256 7282	degenerative joint disease
+T268	problem 7284 7288	gerd
+T269	problem 7290 7306	anxiety disorder
+T270	problem 7308 7322	morton neuroma
+R1	hasAttr Arg1:T2 Arg2:T3
+R2	hasAttr Arg1:T5 Arg2:T6
+R3	hasAttr Arg1:T8 Arg2:T11
+R4	hasAttr Arg1:T9 Arg2:T10
+R5	hasAttr Arg1:T21 Arg2:T22
+R6	hasAttr Arg1:T28 Arg2:T23
+R7	hasAttr Arg1:T24 Arg2:T23
+R8	hasAttr Arg1:T25 Arg2:T23
+R9	hasAttr Arg1:T26 Arg2:T23
+R10	hasAttr Arg1:T26 Arg2:T27
+R11	hasAttr Arg1:T29 Arg2:T30
+R12	hasAttr Arg1:T35 Arg2:T36
+R13	hasAttr Arg1:T39 Arg2:T40
+R14	hasAttr Arg1:T41 Arg2:T42
+R15	hasAttr Arg1:T53 Arg2:T54
+R16	hasAttr Arg1:T55 Arg2:T56
+R17	hasAttr Arg1:T57 Arg2:T58
+R18	hasAttr Arg1:T59 Arg2:T60
+R19	hasAttr Arg1:T62 Arg2:T61
+R20	hasAttr Arg1:T64 Arg2:T63
+R21	hasAttr Arg1:T64 Arg2:T65
+R22	hasAttr Arg1:T67 Arg2:T68
+R23	hasAttr Arg1:T71 Arg2:T70
+R24	hasAttr Arg1:T73 Arg2:T72
+R25	hasAttr Arg1:T75 Arg2:T74
+R26	hasAttr Arg1:T77 Arg2:T76
+R27	hasAttr Arg1:T78 Arg2:T76
+R28	hasAttr Arg1:T81 Arg2:T79
+R29	hasAttr Arg1:T80 Arg2:T79
+R30	hasAttr Arg1:T83 Arg2:T82
+R31	hasAttr Arg1:T86 Arg2:T87
+R32	hasAttr Arg1:T90 Arg2:T89
+R33	hasAttr Arg1:T90 Arg2:T91
+R34	hasAttr Arg1:T102 Arg2:T103
+R35	hasAttr Arg1:T102 Arg2:T104
+R36	hasAttr Arg1:T109 Arg2:T111
+R37	hasAttr Arg1:T109 Arg2:T110
+R38	hasAttr Arg1:T116 Arg2:T115
+R39	hasAttr Arg1:T117 Arg2:T119
+R40	hasAttr Arg1:T122 Arg2:T123
+R41	hasAttr Arg1:T125 Arg2:T127
+R42	hasAttr Arg1:T125 Arg2:T126
+R43	hasAttr Arg1:T132 Arg2:T134
+R44	hasAttr Arg1:T132 Arg2:T135
+R45	hasAttr Arg1:T132 Arg2:T133
+R46	hasAttr Arg1:T136 Arg2:T137
+R47	hasAttr Arg1:T139 Arg2:T138
+R48	hasAttr Arg1:T139 Arg2:T140
+R49	hasAttr Arg1:T143 Arg2:T144
+R50	hasAttr Arg1:T145 Arg2:T146
+R51	hasAttr Arg1:T148 Arg2:T147
+R52	hasAttr Arg1:T150 Arg2:T151
+R53	hasAttr Arg1:T150 Arg2:T152
+R54	hasAttr Arg1:T154 Arg2:T155
+R55	hasAttr Arg1:T156 Arg2:T157
+R56	hasAttr Arg1:T158 Arg2:T159
+R57	hasAttr Arg1:T160 Arg2:T161
+R58	hasAttr Arg1:T162 Arg2:T163
+R59	hasAttr Arg1:T164 Arg2:T165
+R60	hasAttr Arg1:T166 Arg2:T167
+R61	hasAttr Arg1:T168 Arg2:T169
+R62	hasAttr Arg1:T170 Arg2:T171
+R63	hasAttr Arg1:T176 Arg2:T178
+R64	hasAttr Arg1:T187 Arg2:T188
+R65	hasAttr Arg1:T189 Arg2:T190
+R66	hasAttr Arg1:T193 Arg2:T196
+R67	hasAttr Arg1:T193 Arg2:T194
+R68	hasAttr Arg1:T193 Arg2:T195
+R69	hasAttr Arg1:T197 Arg2:T198
+R70	hasAttr Arg1:T197 Arg2:T200
+R71	hasAttr Arg1:T197 Arg2:T199
+R72	hasAttr Arg1:T201 Arg2:T204
+R73	hasAttr Arg1:T201 Arg2:T203
+R74	hasAttr Arg1:T201 Arg2:T202
+R75	hasAttr Arg1:T205 Arg2:T207
+R76	hasAttr Arg1:T205 Arg2:T206
+R77	hasAttr Arg1:T208 Arg2:T212
+R78	hasAttr Arg1:T208 Arg2:T211
+R79	hasAttr Arg1:T208 Arg2:T210
+R80	hasAttr Arg1:T208 Arg2:T209
+R81	hasAttr Arg1:T213 Arg2:T215
+R82	hasAttr Arg1:T213 Arg2:T214
+R83	hasAttr Arg1:T213 Arg2:T216
+R84	hasAttr Arg1:T213 Arg2:T217
+R85	hasAttr Arg1:T218 Arg2:T220
+R86	hasAttr Arg1:T218 Arg2:T219
+R87	hasAttr Arg1:T218 Arg2:T221
+R88	hasAttr Arg1:T218 Arg2:T222
+R89	hasAttr Arg1:T223 Arg2:T224
+R90	hasAttr Arg1:T223 Arg2:T227
+R91	hasAttr Arg1:T223 Arg2:T228
+R92	hasAttr Arg1:T223 Arg2:T225
+R93	hasAttr Arg1:T223 Arg2:T226
+R94	hasAttr Arg1:T230 Arg2:T231
+R95	hasAttr Arg1:T230 Arg2:T232
+R96	hasAttr Arg1:T230 Arg2:T233
+R97	hasAttr Arg1:T230 Arg2:T234
+R98	hasAttr Arg1:T230 Arg2:T235
+R99	hasAttr Arg1:T236 Arg2:T239
+R100	hasAttr Arg1:T236 Arg2:T238
+R101	hasAttr Arg1:T236 Arg2:T237
+R102	hasAttr Arg1:T240 Arg2:T242
+R103	hasAttr Arg1:T240 Arg2:T241
+R104	hasAttr Arg1:T245 Arg2:T247
+R105	hasAttr Arg1:T245 Arg2:T246
+R106	hasAttr Arg1:T248 Arg2:T249
+R107	hasAttr Arg1:T250 Arg2:T251

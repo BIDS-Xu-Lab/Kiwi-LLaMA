@@ -1,0 +1,203 @@
+T1	problem 63 77	Acute Cystitis
+T2	problem 80 96	Diabetes Type II
+T3	problem 137 151	abdominal pain
+T4	bodyloc 137 146	abdominal
+T5	problem 184 192	diabetes
+T6	drug 206 215	Micronase
+T7	frequency 216 221	daily
+T8	problem 338 352	abdominal pain
+T9	bodyloc 338 347	abdominal
+T10	problem 402 410	diabetes
+T11	drug 433 442	Micronase
+T12	frequency 443 448	daily
+T13	temporal 523 528	today
+T14	negation 567 573	denies
+T15	problem 574 591	ear abnormalities
+T16	bodyloc 574 577	ear
+T17	problem 593 611	nose abnormalities
+T18	bodyloc 593 597	nose
+T19	problem 616 636	throat abnormalities
+T20	bodyloc 616 622	throat
+T21	problem 669 689	elevated cholesterol
+T22	negation 695 708	does not have
+T23	problem 709 713	ASHD
+T24	problem 715 727	hypertension
+T25	problem 732 735	PVD
+T26	negation 751 757	denies
+T27	problem 758 764	asthma
+T28	problem 766 781	lung infections
+T29	bodyloc 766 770	lung
+T30	problem 786 798	lung lesions
+T31	bodyloc 786 790	lung
+T32	negation 812 818	denies
+T33	problem 819 838	colon abnormalities
+T34	bodyloc 819 824	colon
+T35	problem 840 861	gall bladder problems
+T36	bodyloc 840 852	gall bladder
+T37	problem 863 882	liver abnormalities
+T38	bodyloc 863 868	liver
+T39	problem 887 907	peptic ulcer disease
+T40	problem 936 958	Urinary tract disorder
+T41	negation 964 977	does not have
+T42	problem 978 994	Bladder disorder
+T43	bodyloc 978 985	Bladder
+T44	problem 999 1014	Kidney disorder
+T45	bodyloc 999 1005	Kidney
+T46	problem 1050 1058	diabetes
+T47	negation 1064 1077	does not have
+T48	problem 1078 1101	hormonal irregularities
+T49	problem 1106 1127	thyroid abnormalities
+T50	bodyloc 1106 1113	thyroid
+T51	negation 1150 1156	denies
+T52	problem 1157 1175	allergic reactions
+T53	problem 1177 1183	rashes
+T54	problem 1188 1200	skin lesions
+T55	bodyloc 1188 1192	skin
+T56	drug 1208 1217	Micronase
+T57	strength 1218 1224	2.5 mg
+T58	form 1225 1228	Tab
+T59	route 1229 1231	PO
+T60	frequency 1232 1235	QAM
+T61	drug 1241 1248	Bactrim
+T62	strength 1249 1255	400/80
+T63	form 1256 1259	Tab
+T64	route 1260 1262	PO
+T65	frequency 1263 1266	BID
+T66	test 1475 1486	Vital Signs
+T67	test 1488 1494	Height
+T68	labvalue 1497 1503	72 in.
+T69	test 1504 1510	Weight
+T70	labvalue 1511 1519	=184 lbs
+T71	test 1521 1531	Upright BP
+T72	labvalue 1534 1540	120/80
+T73	test 1547 1552	Pulse
+T74	labvalue 1555 1562	80 bpm.
+T75	test 1563 1567	Resp
+T76	labvalue 1568 1574	=12 pm
+T77	negation 1632 1634	no
+T78	problem 1635 1660	jugular venous distension
+T79	bodyloc 1635 1649	jugular venous
+T80	labvalue 1780 1785	clear
+T81	test 1789 1801	auscultation
+T82	test 1806 1816	percussion
+T83	labvalue 1837 1844	regular
+T84	test 1845 1851	rhythm
+T85	test 1853 1855	SI
+T86	test 1860 1862	S2
+T87	labvalue 1867 1873	normal
+T88	problem 1878 1899	abnormal heart sounds
+T89	bodyloc 1887 1892	heart
+T90	test 1914 1928	Blood pressure
+T91	labvalue 1960 1966	Normal
+T92	test 1967 1979	bowel sounds
+T93	negation 2040 2047	without
+T94	problem 2048 2060	organomegaly
+T95	negation 2071 2073	no
+T96	problem 2074 2088	CVA tenderness
+T97	bodyloc 2074 2077	CVA
+T98	negation 2090 2092	No
+T99	problem 2093 2100	hernias
+T100	negation 2134 2136	no
+T101	problem 2137 2145	clubbing
+T102	problem 2147 2155	cyanosis
+T103	problem 2160 2165	edema
+T104	problem 2179 2208	Diabetes type II uncontrolled
+T105	course 2196 2208	uncontrolled
+T106	problem 2210 2224	Acute cystitis
+T107	course 2210 2215	Acute
+T108	test 2255 2267	complete CBC
+T109	drug 2273 2282	Micronase
+T110	strength 2283 2289	2.5 mg
+T111	form 2290 2293	Tab
+T112	route 2294 2296	PO
+T113	frequency 2297 2300	QAM
+T114	drug 2306 2313	Bactrim
+T115	strength 2314 2320	400/80
+T116	form 2321 2324	Tab
+T117	route 2325 2327	PO
+T118	frequency 2328 2331	BID
+T119	drug 2365 2372	bactrim
+T120	drug 2374 2383	micronase
+T121	problem 2385 2399	abdominal pain
+T122	bodyloc 2385 2394	abdominal
+T123	test 2416 2419	cbc
+T124	problem 2421 2437	diabetes type ii
+T125	problem 2439 2453	acute cystitis
+T126	problem 2455 2463	diabetes
+T127	problem 2465 2478	abnormalities
+R1	hasAttr Arg1:T3 Arg2:T4
+R2	hasAttr Arg1:T6 Arg2:T7
+R3	hasAttr Arg1:T8 Arg2:T9
+R4	hasAttr Arg1:T11 Arg2:T12
+R5	hasAttr Arg1:T15 Arg2:T14
+R6	hasAttr Arg1:T17 Arg2:T14
+R7	hasAttr Arg1:T19 Arg2:T14
+R8	hasAttr Arg1:T15 Arg2:T16
+R9	hasAttr Arg1:T17 Arg2:T18
+R10	hasAttr Arg1:T19 Arg2:T20
+R11	hasAttr Arg1:T25 Arg2:T22
+R12	hasAttr Arg1:T23 Arg2:T22
+R13	hasAttr Arg1:T24 Arg2:T22
+R14	hasAttr Arg1:T27 Arg2:T26
+R15	hasAttr Arg1:T30 Arg2:T26
+R16	hasAttr Arg1:T28 Arg2:T26
+R17	hasAttr Arg1:T28 Arg2:T29
+R18	hasAttr Arg1:T30 Arg2:T31
+R19	hasAttr Arg1:T39 Arg2:T32
+R20	hasAttr Arg1:T37 Arg2:T32
+R21	hasAttr Arg1:T35 Arg2:T32
+R22	hasAttr Arg1:T33 Arg2:T32
+R23	hasAttr Arg1:T33 Arg2:T34
+R24	hasAttr Arg1:T35 Arg2:T36
+R25	hasAttr Arg1:T37 Arg2:T38
+R26	hasAttr Arg1:T44 Arg2:T41
+R27	hasAttr Arg1:T42 Arg2:T41
+R28	hasAttr Arg1:T42 Arg2:T43
+R29	hasAttr Arg1:T44 Arg2:T45
+R30	hasAttr Arg1:T49 Arg2:T47
+R31	hasAttr Arg1:T48 Arg2:T47
+R32	hasAttr Arg1:T49 Arg2:T50
+R33	hasAttr Arg1:T53 Arg2:T51
+R34	hasAttr Arg1:T52 Arg2:T51
+R35	hasAttr Arg1:T54 Arg2:T51
+R36	hasAttr Arg1:T54 Arg2:T55
+R37	hasAttr Arg1:T56 Arg2:T59
+R38	hasAttr Arg1:T56 Arg2:T60
+R39	hasAttr Arg1:T56 Arg2:T57
+R40	hasAttr Arg1:T56 Arg2:T58
+R41	hasAttr Arg1:T61 Arg2:T65
+R42	hasAttr Arg1:T61 Arg2:T62
+R43	hasAttr Arg1:T61 Arg2:T63
+R44	hasAttr Arg1:T61 Arg2:T64
+R45	hasAttr Arg1:T67 Arg2:T68
+R46	hasAttr Arg1:T69 Arg2:T70
+R47	hasAttr Arg1:T71 Arg2:T72
+R48	hasAttr Arg1:T73 Arg2:T74
+R49	hasAttr Arg1:T75 Arg2:T76
+R50	hasAttr Arg1:T78 Arg2:T77
+R51	hasAttr Arg1:T78 Arg2:T79
+R52	hasAttr Arg1:T82 Arg2:T80
+R53	hasAttr Arg1:T81 Arg2:T80
+R54	hasAttr Arg1:T84 Arg2:T83
+R55	hasAttr Arg1:T85 Arg2:T87
+R56	hasAttr Arg1:T86 Arg2:T87
+R57	hasAttr Arg1:T88 Arg2:T89
+R58	hasAttr Arg1:T92 Arg2:T91
+R59	hasAttr Arg1:T94 Arg2:T93
+R60	hasAttr Arg1:T96 Arg2:T95
+R61	hasAttr Arg1:T96 Arg2:T97
+R62	hasAttr Arg1:T99 Arg2:T98
+R63	hasAttr Arg1:T101 Arg2:T100
+R64	hasAttr Arg1:T102 Arg2:T100
+R65	hasAttr Arg1:T103 Arg2:T100
+R66	hasAttr Arg1:T104 Arg2:T105
+R67	hasAttr Arg1:T106 Arg2:T107
+R68	hasAttr Arg1:T109 Arg2:T112
+R69	hasAttr Arg1:T109 Arg2:T111
+R70	hasAttr Arg1:T109 Arg2:T110
+R71	hasAttr Arg1:T109 Arg2:T113
+R72	hasAttr Arg1:T114 Arg2:T117
+R73	hasAttr Arg1:T114 Arg2:T118
+R74	hasAttr Arg1:T114 Arg2:T115
+R75	hasAttr Arg1:T114 Arg2:T116
+R76	hasAttr Arg1:T121 Arg2:T122

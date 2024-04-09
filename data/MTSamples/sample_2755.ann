@@ -1,0 +1,146 @@
+T1	problem 63 73	Itchy Rash
+T2	problem 151 177	some itchiness to his back
+T3	bodyloc 169 177	his back
+T4	problem 243 284	an itchy rash all over his torso and arms
+T5	bodyloc 270 275	torso
+T6	bodyloc 280 284	arms
+T7	problem 341 351	Itchy rash
+T8	problem 434 460	some itchiness to his back
+T9	bodyloc 456 460	back
+T10	problem 526 567	an itchy rash all over his torso and arms
+T11	bodyloc 553 558	torso
+T12	bodyloc 563 567	arms
+T13	negation 569 571	No
+T14	problem 572 587	facial swelling
+T15	bodyloc 572 578	facial
+T16	negation 589 591	No
+T17	problem 592 614	tongue or lip swelling
+T18	bodyloc 592 598	tongue
+T19	bodyloc 602 605	lip
+T20	negation 616 618	No
+T21	problem 619 638	shortness of breath
+T22	problem 640 648	wheezing
+T23	problem 653 678	other associated symptoms
+T24	drug 785 796	medications
+T25	problem 935 948	feeling itchy
+T26	negation 981 989	Negative
+T27	problem 994 1018	chronic medical problems
+T28	course 994 1001	chronic
+T29	treatment 1048 1069	previous back surgery
+T30	treatment 1074 1086	appendectomy
+T31	negation 1149 1155	denies
+T32	problem 1156 1182	any oropharyngeal swelling
+T33	bodyloc 1160 1173	oropharyngeal
+T34	negation 1184 1186	No
+T35	problem 1187 1209	lip or tongue swelling
+T36	bodyloc 1187 1190	lip
+T37	bodyloc 1194 1200	tongue
+T38	negation 1211 1213	No
+T39	problem 1214 1222	wheezing
+T40	problem 1226 1245	shortness of breath
+T41	negation 1247 1249	No
+T42	problem 1250 1258	headache
+T43	negation 1260 1262	No
+T44	problem 1263 1269	nausea
+T45	problem 1277 1287	itchy rash
+T46	bodyloc 1307 1312	torso
+T47	bodyloc 1317 1328	upper arms.
+T48	problem 1432 1441	ALLERGIES
+T49	drug 1443 1450	TORADOL
+T50	drug 1452 1460	MORPHINE
+T51	drug 1462 1472	PENICILLIN
+T52	drug 1478 1488	AMPICILLIN
+T53	test 1512 1523	VITAL SIGNS
+T54	problem 1557 1577	slightly tachycardic
+T55	labvalue 1588 1594	stable
+T56	test 1595 1609	blood pressure
+T57	test 1614 1630	respiratory rate
+T58	negation 1659 1661	no
+T59	problem 1662 1670	distress
+T60	test 1768 1783	Lips and tongue
+T61	labvalue 1789 1795	normal
+T62	negation 1872 1874	no
+T63	problem 1875 1882	stridor
+T64	labvalue 1891 1901	Very clear
+T65	test 1912 1925	breath sounds
+T66	negation 1950 1952	no
+T67	problem 1953 1961	wheezing
+T68	negation 2010 2017	Without
+T69	problem 2018 2024	murmur
+T70	problem 2026 2044	Slight tachycardia
+T71	problem 2090 2144	a confluence erythematous, blanching rash on the torso
+T72	bodyloc 2135 2144	the torso
+T73	problem 2164 2214	a blotchy papular, macular rash on the upper arms.
+T74	bodyloc 2203 2213	upper arms
+T75	test 2267 2275	the exam
+T76	drug 2333 2344	epinephrine
+T77	strength 2345 2351	1:1000
+T78	dosage 2353 2359	0.3 mL
+T79	route 2360 2374	subcutaneously
+T80	strength 2386 2391	50 mg
+T81	drug 2395 2403	Benadryl
+T82	route 2404 2419	intramuscularly
+T83	problem 2462 2469	itching
+T84	problem 2494 2502	The rash
+T85	problem 2584 2607	ACUTE ALLERGIC REACTION
+T86	problem 2613 2622	URTICARIA
+T87	problem 2627 2635	PRURITUS
+T88	problem 2704 2721	allergic reaction
+T89	drug 2965 2983	some antihistamine
+T90	drug 3030 3038	Benadryl
+T91	drug 3043 3058	the epinephrine
+T92	problem 3113 3139	any respiratory complaints
+T93	problem 3141 3160	shortness of breath
+T94	problem 3162 3170	wheezing
+T95	problem 3175 3197	tongue or lip swelling
+T96	test 3229 3239	evaluation
+T97	problem 3307 3316	urticaria
+T98	problem 3318 3326	pruritus
+T99	problem 3328 3340	lip swelling
+T100	problem 3342 3359	allergic reaction
+T101	problem 3361 3371	itchy rash
+T102	problem 3380 3388	swelling
+T103	problem 3390 3395	itchy
+T104	problem 3397 3401	rash
+R1	hasAttr Arg1:T2 Arg2:T3
+R2	hasAttr Arg1:T4 Arg2:T5
+R3	hasAttr Arg1:T4 Arg2:T6
+R4	hasAttr Arg1:T8 Arg2:T9
+R5	hasAttr Arg1:T10 Arg2:T12
+R6	hasAttr Arg1:T10 Arg2:T11
+R7	hasAttr Arg1:T14 Arg2:T13
+R8	hasAttr Arg1:T14 Arg2:T15
+R9	hasAttr Arg1:T17 Arg2:T16
+R10	hasAttr Arg1:T17 Arg2:T19
+R11	hasAttr Arg1:T17 Arg2:T18
+R12	hasAttr Arg1:T22 Arg2:T20
+R13	hasAttr Arg1:T21 Arg2:T20
+R14	hasAttr Arg1:T23 Arg2:T20
+R15	hasAttr Arg1:T27 Arg2:T26
+R16	hasAttr Arg1:T27 Arg2:T28
+R17	hasAttr Arg1:T32 Arg2:T31
+R18	hasAttr Arg1:T32 Arg2:T33
+R19	hasAttr Arg1:T35 Arg2:T34
+R20	hasAttr Arg1:T35 Arg2:T36
+R21	hasAttr Arg1:T35 Arg2:T37
+R22	hasAttr Arg1:T39 Arg2:T38
+R23	hasAttr Arg1:T40 Arg2:T38
+R24	hasAttr Arg1:T42 Arg2:T41
+R25	hasAttr Arg1:T44 Arg2:T43
+R26	hasAttr Arg1:T45 Arg2:T46
+R27	hasAttr Arg1:T45 Arg2:T47
+R28	hasAttr Arg1:T57 Arg2:T55
+R29	hasAttr Arg1:T56 Arg2:T55
+R30	hasAttr Arg1:T59 Arg2:T58
+R31	hasAttr Arg1:T60 Arg2:T61
+R32	hasAttr Arg1:T63 Arg2:T62
+R33	hasAttr Arg1:T65 Arg2:T64
+R34	hasAttr Arg1:T67 Arg2:T66
+R35	hasAttr Arg1:T69 Arg2:T68
+R36	hasAttr Arg1:T71 Arg2:T72
+R37	hasAttr Arg1:T73 Arg2:T74
+R38	hasAttr Arg1:T76 Arg2:T78
+R39	hasAttr Arg1:T76 Arg2:T77
+R40	hasAttr Arg1:T76 Arg2:T79
+R41	hasAttr Arg1:T81 Arg2:T80
+R42	hasAttr Arg1:T81 Arg2:T82

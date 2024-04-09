@@ -1,0 +1,96 @@
+T1	problem 103 109	Sepsis
+T2	problem 117 140	urinary tract infection
+T3	test 251 262	VITAL SIGNS
+T4	test 264 275	Temperature
+T5	labvalue 279 283	95.4
+T6	test 285 304	Highest temperature
+T7	labvalue 340 345	102.1
+T8	test 354 378	Examination of the chest
+T9	labvalue 382 387	clear
+T10	test 391 403	auscultation
+T11	test 421 450	First and second heart sounds
+T12	negation 463 465	No
+T13	problem 466 473	murmurs
+T14	test 533 545	Bowel sounds
+T15	labvalue 550 558	positive
+T16	negation 582 584	no
+T17	problem 585 593	swelling
+T18	test 622 643	alert and oriented x3
+T19	test 645 656	Examination
+T20	test 687 698	White count
+T21	labvalue 712 718	35,000
+T22	labvalue 722 726	15.5
+T23	test 728 738	Hemoglobin
+T24	labvalue 742 745	9.5
+T25	test 747 757	hematocrit
+T26	labvalue 761 763	30
+T27	test 769 778	platelets
+T28	labvalue 783 790	269,000
+T29	test 792 795	BUN
+T30	labvalue 807 809	22
+T31	test 811 821	creatinine
+T32	labvalue 832 838	normal
+T33	problem 871 877	Sepsis
+T34	problem 885 908	urinary tract infection
+T35	bodyloc 885 898	urinary tract
+T36	test 910 923	Urine culture
+T37	problem 930 946	Escherichia coli
+T38	problem 948 957	resistant
+T39	drug 961 969	Levaquin
+T40	drug 985 994	doripenem
+T41	problem 999 1022	Urinary tract infection
+T42	bodyloc 999 1012	Urinary tract
+T43	drug 1043 1052	doripenem
+T44	treatment 1061 1075	Foley catheter
+T45	problem 1079 1090	Hypotension
+T46	treatment 1111 1129	intravenous fluids
+T47	problem 1134 1157	Ischemic cardiomyopathy
+T48	negation 1159 1173	No evidence of
+T49	problem 1174 1188	decompensation
+T50	problem 1210 1225	Diabetes type 2
+T51	course 1227 1239	Uncontrolled
+T52	drug 1250 1257	insulin
+T53	dosage 1258 1271	sliding scale
+T54	temporal 1276 1282	Recent
+T55	problem 1283 1301	pulmonary embolism
+T56	bodyloc 1283 1292	pulmonary
+T57	test 1303 1306	INR
+T58	drug 1335 1343	Coumadin
+T59	problem 1387 1410	coronary artery disease
+T60	bodyloc 1387 1402	coronary artery
+T61	drug 1412 1420	Troponin
+T62	negation 1457 1459	no
+T63	test 1460 1474	further workup
+T64	drug 1485 1502	medical treatment
+T65	drug 1516 1524	troponin
+T66	problem 1541 1559	impaired clearance
+T67	problem 1589 1595	sepsis
+T68	problem 1597 1613	escherichia coli
+T69	problem 1615 1638	urinary tract infection
+T70	bodyloc 1615 1628	urinary tract
+T71	drug 1640 1649	doripenem
+T72	drug 1651 1659	troponin
+T73	problem 1670 1679	infection
+R1	hasAttr Arg1:T4 Arg2:T5
+R2	hasAttr Arg1:T6 Arg2:T7
+R3	hasAttr Arg1:T8 Arg2:T9
+R4	hasAttr Arg1:T13 Arg2:T12
+R5	hasAttr Arg1:T14 Arg2:T15
+R6	hasAttr Arg1:T17 Arg2:T16
+R7	hasAttr Arg1:T20 Arg2:T22
+R8	hasAttr Arg1:T20 Arg2:T21
+R9	hasAttr Arg1:T23 Arg2:T24
+R10	hasAttr Arg1:T25 Arg2:T26
+R11	hasAttr Arg1:T27 Arg2:T28
+R12	hasAttr Arg1:T29 Arg2:T30
+R13	hasAttr Arg1:T31 Arg2:T32
+R14	hasAttr Arg1:T34 Arg2:T35
+R15	hasAttr Arg1:T41 Arg2:T42
+R16	hasAttr Arg1:T49 Arg2:T48
+R17	hasAttr Arg1:T50 Arg2:T51
+R18	hasAttr Arg1:T52 Arg2:T53
+R19	hasAttr Arg1:T59 Arg2:T60
+R20	hasAttr Arg1:T63 Arg2:T62
+R21	hasAttr Arg1:T69 Arg2:T70
+R22	hasAttr Arg1:T55 Arg2:T56
+R23	hasAttr Arg1:T55 Arg2:T54

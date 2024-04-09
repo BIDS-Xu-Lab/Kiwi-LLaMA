@@ -1,0 +1,72 @@
+T1	problem 121 145	foreign body in left eye
+T2	bodyloc 137 145	left eye
+T3	problem 287 317	a foreign body to his left eye
+T4	bodyloc 309 317	left eye
+T5	problem 375 399	a foreign body sensation
+T6	problem 449 464	persistent pain
+T7	course 475 497	progressively worsened
+T8	temporal 523 530	the day
+T9	negation 539 541	no
+T10	problem 542 574	significant blurriness of vision
+T11	bodyloc 568 574	vision
+T12	problem 578 589	photophobia
+T13	problem 610 629	Focal left eye pain
+T14	bodyloc 610 624	Focal left eye
+T15	negation 630 637	without
+T16	problem 638 666	any changes in visual acuity
+T17	problem 670 681	photophobia
+T18	negation 690 692	no
+T19	temporal 693 698	prior
+T20	problem 699 722	ophthalmologic problems
+T21	bodyloc 699 713	ophthalmologic
+T22	problem 896 912	Dislocated wrist
+T23	problem 1152 1158	Cancer
+T24	problem 1160 1172	hypertension
+T25	test 1196 1207	Vital signs
+T26	test 1209 1223	Blood pressure
+T27	labvalue 1224 1230	132/82
+T28	test 1232 1244	respirations
+T29	labvalue 1245 1247	12
+T30	test 1249 1254	pulse
+T31	labvalue 1255 1257	68
+T32	test 1259 1270	temperature
+T33	labvalue 1271 1275	98.6
+T34	test 1277 1290	Visual acuity
+T35	labvalue 1302 1307	20/25
+T36	labvalue 1314 1319	20/30
+T37	labvalue 1327 1332	20/30
+T38	test 1337 1358	slit lamp examination
+T39	bodyloc 1442 1453	Conjunctiva
+T40	problem 1458 1475	severely injected
+T41	course 1458 1466	severely
+T42	problem 1486 1515	a small metallic foreign body
+T43	temporal 1519 1528	6 o'clock
+T44	test 1562 1575	the slit lamp
+T45	problem 1588 1603	Foreign body OS
+T46	treatment 1621 1648	removal of the foreign body
+T47	problem 1719 1729	unbearable
+T48	treatment 1762 1778	a pressure patch
+T49	problem 1995 1999	pain
+T50	test 2025 2046	slit lamp examination
+T51	test 2072 2085	visual acuity
+R1	hasAttr Arg1:T1 Arg2:T2
+R2	hasAttr Arg1:T6 Arg2:T7
+R3	hasAttr Arg1:T6 Arg2:T8
+R4	hasAttr Arg1:T10 Arg2:T9
+R5	hasAttr Arg1:T10 Arg2:T11
+R6	hasAttr Arg1:T13 Arg2:T14
+R7	hasAttr Arg1:T16 Arg2:T15
+R8	hasAttr Arg1:T26 Arg2:T27
+R9	hasAttr Arg1:T28 Arg2:T29
+R10	hasAttr Arg1:T30 Arg2:T31
+R11	hasAttr Arg1:T32 Arg2:T33
+R12	hasAttr Arg1:T34 Arg2:T35
+R13	hasAttr Arg1:T34 Arg2:T36
+R14	hasAttr Arg1:T34 Arg2:T37
+R15	hasAttr Arg1:T40 Arg2:T39
+R16	hasAttr Arg1:T40 Arg2:T41
+R17	hasAttr Arg1:T42 Arg2:T43
+R18	hasAttr Arg1:T3 Arg2:T4
+R19	hasAttr Arg1:T20 Arg2:T18
+R20	hasAttr Arg1:T20 Arg2:T21
+R21	hasAttr Arg1:T20 Arg2:T19

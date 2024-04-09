@@ -1,0 +1,141 @@
+T1	problem 84 104	Respiratory Distress
+T2	problem 147 152	cough
+T3	problem 157 184	increased work of breathing
+T4	course 157 166	increased
+T5	problem 248 268	Respiratory distress
+T6	problem 273 297	Reactive airways disease
+T7	problem 323 343	Respiratory distress
+T8	problem 348 372	Reactive airways disease
+T9	problem 377 386	Pneumonia
+T10	negation 475 484	never had
+T11	problem 498 504	asthma
+T12	problem 508 532	reactive airways disease
+T13	temporal 554 574	36-hour presentation
+T14	problem 578 590	URI symptoms
+T15	problem 620 625	cough
+T16	problem 630 657	increased work of breathing
+T17	course 630 639	increased
+T18	treatment 713 733	nebulized treatments
+T19	drug 949 958	albuterol
+T20	problem 972 996	his respiratory distress
+T21	drug 1043 1058	corticosteroids
+T22	test 1060 1068	An x-ray
+T23	negation 1073 1080	without
+T24	problem 1081 1091	infiltrate
+T25	problem 1144 1173	a right upper lobe infiltrate
+T26	problem 1181 1192	atelectasis
+T27	drug 1260 1275	any antibiotics
+T28	problem 1280 1289	his fever
+T29	test 1309 1316	the CRP
+T30	labvalue 1344 1347	6.7
+T31	test 1349 1356	The CBC
+T32	labvalue 1361 1367	normal
+T33	test 1373 1386	a white count
+T34	labvalue 1390 1393	9.6
+T35	test 1404 1413	the bands
+T36	labvalue 1419 1422	84%
+T37	problem 1467 1480	the pneumonia
+T38	problem 1484 1493	bacterial
+T39	drug 1523 1534	amoxicillin
+T40	drug 1539 1548	Zithromax
+T41	problem 1648 1671	some bilateral wheezing
+T42	negation 1677 1679	no
+T43	problem 1680 1689	tachypnea
+T44	negation 1732 1734	No
+T45	problem 1735 1749	acute distress
+T46	negation 1824 1831	without
+T47	problem 1832 1847	lymphadenopathy
+T48	problem 1849 1860	thyromegaly
+T49	problem 1864 1870	masses
+T50	problem 1879 1905	Bilateral basilar wheezing
+T51	negation 1907 1909	No
+T52	problem 1910 1918	distress
+T53	labvalue 1936 1943	Regular
+T54	test 1944 1948	rate
+T55	test 1953 1959	rhythm
+T56	negation 1961 1963	No
+T57	problem 1964 1971	murmurs
+T58	test 2016 2028	Bowel sounds
+T59	labvalue 2029 2036	present
+T60	negation 2068 2070	no
+T61	problem 2071 2089	hepatosplenomegaly
+T62	negation 2091 2093	no
+T63	problem 2094 2100	masses
+T64	labvalue 2102 2111	Nontender
+T65	test 2115 2124	palpation
+T66	drug 2327 2334	Xopenex
+T67	route 2335 2338	MDI
+T68	dosage 2339 2340	2
+T69	form 2341 2346	puffs
+T70	frequency 2347 2360	every 4 hours
+T71	duration 2361 2371	for 2 days
+T72	frequency 2381 2390	as needed
+T73	problem 2395 2400	cough
+T74	problem 2404 2410	wheeze
+T75	drug 2415 2419	QVAR
+T76	strength 2420 2422	40
+T77	dosage 2424 2425	2
+T78	form 2426 2431	puffs
+T79	frequency 2432 2443	twice daily
+T80	drug 2504 2515	Amoxicillin
+T81	strength 2516 2522	550 mg
+T82	route 2523 2527	p.o.
+T83	frequency 2528 2539	twice daily
+T84	duration 2540 2551	for 10 days
+T85	drug 2556 2565	Zithromax
+T86	strength 2566 2572	150 mg
+T87	route 2573 2577	p.o.
+T88	temporal 2578 2586	on day 1
+T89	strength 2593 2598	75 mg
+T90	route 2599 2603	p.o.
+T91	frequency 2604 2609	daily
+T92	duration 2610 2625	for 4 more days
+T93	problem 2698 2707	pneumonia
+T94	problem 2718 2723	cough
+T95	problem 2725 2749	reactive airways disease
+T96	problem 2765 2785	respiratory distress
+T97	problem 2800 2806	asthma
+R1	hasAttr Arg1:T3 Arg2:T4
+R2	hasAttr Arg1:T12 Arg2:T10
+R3	hasAttr Arg1:T11 Arg2:T10
+R4	hasAttr Arg1:T14 Arg2:T13
+R5	hasAttr Arg1:T16 Arg2:T17
+R6	hasAttr Arg1:T24 Arg2:T23
+R7	hasAttr Arg1:T29 Arg2:T30
+R8	hasAttr Arg1:T31 Arg2:T32
+R9	hasAttr Arg1:T33 Arg2:T34
+R10	hasAttr Arg1:T35 Arg2:T36
+R11	hasAttr Arg1:T43 Arg2:T42
+R12	hasAttr Arg1:T45 Arg2:T44
+R13	hasAttr Arg1:T47 Arg2:T46
+R14	hasAttr Arg1:T49 Arg2:T46
+R15	hasAttr Arg1:T48 Arg2:T46
+R16	hasAttr Arg1:T52 Arg2:T51
+R17	hasAttr Arg1:T54 Arg2:T53
+R18	hasAttr Arg1:T55 Arg2:T53
+R19	hasAttr Arg1:T57 Arg2:T56
+R20	hasAttr Arg1:T58 Arg2:T59
+R21	hasAttr Arg1:T61 Arg2:T60
+R22	hasAttr Arg1:T63 Arg2:T62
+R23	hasAttr Arg1:T65 Arg2:T64
+R24	hasAttr Arg1:T66 Arg2:T68
+R25	hasAttr Arg1:T66 Arg2:T70
+R26	hasAttr Arg1:T66 Arg2:T72
+R27	hasAttr Arg1:T66 Arg2:T67
+R28	hasAttr Arg1:T66 Arg2:T69
+R29	hasAttr Arg1:T66 Arg2:T71
+R30	hasAttr Arg1:T75 Arg2:T77
+R31	hasAttr Arg1:T75 Arg2:T78
+R32	hasAttr Arg1:T75 Arg2:T79
+R33	hasAttr Arg1:T75 Arg2:T76
+R34	hasAttr Arg1:T80 Arg2:T82
+R35	hasAttr Arg1:T80 Arg2:T81
+R36	hasAttr Arg1:T80 Arg2:T83
+R37	hasAttr Arg1:T80 Arg2:T84
+R38	hasAttr Arg1:T85 Arg2:T86
+R39	hasAttr Arg1:T85 Arg2:T91
+R40	hasAttr Arg1:T85 Arg2:T87
+R41	hasAttr Arg1:T85 Arg2:T90
+R42	hasAttr Arg1:T85 Arg2:T89
+R43	hasAttr Arg1:T85 Arg2:T92
+R44	hasAttr Arg1:T85 Arg2:T88

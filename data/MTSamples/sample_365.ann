@@ -1,0 +1,369 @@
+T1	problem 109 133	several medical problems
+T2	problem 136 144	numbness
+T3	problem 146 154	tingling
+T4	problem 160 178	a pain in the toes
+T5	bodyloc 174 178	toes
+T6	problem 253 277	several medical problems
+T7	problem 296 304	numbness
+T8	problem 306 314	tingling
+T9	problem 320 338	a pain in the toes
+T10	bodyloc 334 338	toes
+T11	bodyloc 352 366	her right foot
+T12	problem 380 395	a moderate pain
+T13	course 382 390	moderate
+T14	problem 427 447	a sharp quality pain
+T15	problem 576 605	paraesthesias in the left toe
+T16	bodyloc 593 605	the left toe
+T17	bodyloc 634 664	all the toes of the right foot
+T18	problem 771 775	pain
+T19	bodyloc 779 786	her leg
+T20	problem 815 839	bilateral shoulder pains
+T21	bodyloc 825 833	shoulder
+T22	negation 840 847	without
+T23	problem 848 863	sinus allergies
+T24	bodyloc 848 853	sinus
+T25	problem 873 887	hypothyroidism
+T26	problem 897 912	thrombocythemia
+T27	problem 914 922	insomnia
+T28	problem 928 940	hypertension
+T29	treatment 964 973	Surgeries
+T30	treatment 982 994	appendectomy
+T31	temporal 998 1002	1933
+T32	treatment 1004 1031	bladder obstruction surgery
+T33	temporal 1035 1039	1946
+T34	treatment 1041 1060	gallbladder surgery
+T35	temporal 1064 1068	1949
+T36	treatment 1070 1097	another gallbladder surgery
+T37	temporal 1101 1105	1954
+T38	treatment 1107 1116	C-section
+T39	temporal 1120 1124	1951
+T40	treatment 1126 1147	varicose vein surgery
+T41	temporal 1151 1155	1951
+T42	temporal 1169 1173	1991
+T43	treatment 1175 1196	thyroid gland surgery
+T44	temporal 1200 1204	1964
+T45	treatment 1206 1220	hernia surgery
+T46	temporal 1224 1228	1967
+T47	treatment 1230 1252	bilateral mastectomies
+T48	temporal 1256 1260	1968
+T49	problem 1265 1279	benign disease
+T50	treatment 1281 1293	hysterectomy
+T51	temporal 1324 1328	1970
+T52	treatment 1330 1352	right shoulder surgery
+T53	treatment 1361 1382	left shoulder surgery
+T54	temporal 1387 1408	between 1976 and 1991
+T55	treatment 1414 1449	laparoscopic bowel adhesion removal
+T56	temporal 1453 1465	October 2002
+T57	treatment 1477 1488	Port-A-Cath
+T58	temporal 1499 1508	June 2003
+T59	treatment 1510 1538	left total knee arthroplasty
+T60	temporal 1542 1551	June 2003
+T61	treatment 1557 1573	left hip pinning
+T62	problem 1581 1589	fracture
+T63	temporal 1593 1605	October 2003
+T64	temporal 1628 1636	May 2004
+T65	treatment 1662 1675	colonoscopies
+T66	temporal 1708 1729	the end of this month
+T67	treatment 1744 1775	a right total knee arthroplasty
+T68	temporal 1779 1783	1993
+T69	problem 1810 1836	synovitis of the left knee
+T70	bodyloc 1823 1836	the left knee
+T71	temporal 1840 1850	April 2004
+T72	problem 1856 1862	zoster
+T73	problem 1867 1893	infection of the left knee
+T74	bodyloc 1880 1893	the left knee
+T75	temporal 1897 1905	May 2003
+T76	problem 1915 1928	labyrinthitis
+T77	temporal 1932 1941	June 2004
+T78	drug 1954 1959	Sulfa
+T79	drug 1961 1968	aspirin
+T80	drug 1970 1976	Darvon
+T81	drug 1978 1985	codeine
+T82	drug 1987 1992	NSAID
+T83	drug 1994 2005	amoxicillin
+T84	drug 2011 2018	quinine
+T85	drug 2041 2052	Hydroxyurea
+T86	strength 2053 2059	500 mg
+T87	frequency 2060 2065	daily
+T88	drug 2067 2076	Metamucil
+T89	dosage 2077 2092	three teaspoons
+T90	frequency 2093 2098	daily
+T91	drug 2100 2113	amitriptyline
+T92	strength 2114 2119	50 mg
+T93	frequency 2123 2127	h.s.
+T94	drug 2129 2138	Synthroid
+T95	strength 2139 2145	0.1 mg
+T96	frequency 2146 2151	daily
+T97	drug 2153 2159	Ambien
+T98	strength 2160 2164	5 mg
+T99	frequency 2168 2172	h.s.
+T100	drug 2174 2205	triamterene/hydrochlorothiazide
+T101	strength 2206 2211	75/50
+T102	frequency 2212 2217	daily
+T103	drug 2223 2229	Lortab
+T104	strength 2230 2235	5/500
+T105	frequency 2239 2243	h.s.
+T106	frequency 2244 2250	p.r.n.
+T107	subject 2420 2426	Mother
+T108	problem 2445 2453	a stroke
+T109	subject 2489 2500	Her brother
+T110	problem 2505 2520	prostate cancer
+T111	bodyloc 2505 2513	prostate
+T112	negation 2550 2552	No
+T113	subject 2553 2559	family
+T114	problem 2571 2584	heart disease
+T115	bodyloc 2571 2576	heart
+T116	problem 2588 2596	diabetes
+T117	problem 2664 2678	some allergies
+T118	problem 2680 2688	sneezing
+T119	problem 2694 2705	sore throat
+T120	bodyloc 2699 2705	throat
+T121	treatment 2717 2724	glasses
+T122	problem 2760 2767	a cough
+T123	problem 2773 2786	her allergies
+T124	negation 2812 2820	Negative
+T125	problem 2825 2835	chest pain
+T126	bodyloc 2825 2830	chest
+T127	problem 2839 2851	palpitations
+T128	problem 2867 2879	hypertension
+T129	negation 2893 2901	Negative
+T130	problem 2906 2920	abdominal pain
+T131	bodyloc 2906 2915	abdominal
+T132	problem 2924 2942	blood in the stool
+T133	negation 2956 2964	Negative
+T134	problem 2969 2976	dysuria
+T135	problem 3042 3079	paresthesias to the toes of both feet
+T136	bodyloc 3058 3079	the toes of both feet
+T137	problem 3139 3152	shoulder pain
+T138	bodyloc 3139 3147	shoulder
+T139	problem 3188 3196	insomnia
+T140	problem 3233 3258	a spot on her right cheek
+T141	bodyloc 3243 3258	her right cheek
+T142	problem 3285 3309	a precancerous condition
+T143	problem 3338 3352	hypothyroidism
+T144	problem 3388 3413	essential thrombocythemia
+T145	problem 3418 3424	anemia
+T146	negation 3505 3507	no
+T147	problem 3508 3522	acute distress
+T148	course 3508 3513	acute
+T149	test 3524 3535	Vital Signs
+T150	test 3552 3563	Temperature
+T151	labvalue 3565 3569	98.0
+T152	test 3571 3585	Blood pressure
+T153	labvalue 3587 3593	140/70
+T154	test 3595 3600	Pulse
+T155	labvalue 3602 3605	72.
+T156	test 3606 3612	Weight
+T157	labvalue 3614 3617	127
+T158	test 3694 3715	Extraocular movements
+T159	labvalue 3720 3726	intact
+T160	negation 3794 3801	without
+T161	problem 3802 3812	adenopathy
+T162	problem 3816 3827	thyromegaly
+T163	labvalue 3850 3857	Regular
+T164	test 3858 3862	rate
+T165	test 3867 3873	rhythm
+T166	negation 3874 3881	without
+T167	problem 3882 3888	murmur
+T168	problem 3890 3895	click
+T169	problem 3900 3903	rub
+T170	negation 3905 3907	No
+T171	problem 3908 3922	carotid bruits
+T172	bodyloc 3908 3915	carotid
+T173	labvalue 3943 3949	Normal
+T174	test 3950 3962	bowel sounds
+T175	negation 3989 3996	without
+T176	problem 3997 4015	hepatosplenomegaly
+T177	problem 4019 4023	mass
+T178	negation 4053 4055	No
+T179	problem 4056 4071	chest wall mass
+T180	bodyloc 4056 4061	chest
+T181	treatment 4094 4109	the Port-A-Cath
+T182	negation 4129 4131	No
+T183	problem 4132 4151	axillary adenopathy
+T184	test 4175 4205	Examination of the extremities
+T185	negation 4214 4216	no
+T186	problem 4217 4228	ankle edema
+T187	bodyloc 4217 4222	ankle
+T188	problem 4232 4247	calf tenderness
+T189	bodyloc 4232 4236	calf
+T190	bodyloc 4255 4272	lower extremities
+T191	problem 4283 4289	a cyst
+T192	bodyloc 4297 4332	anterior portion of the right ankle
+T193	test 4334 4346	Pedal pulses
+T194	test 4425 4445	Deep tendon reflexes
+T195	labvalue 4451 4483	1 to 2+ bilaterally at the knees
+T196	negation 4485 4487	No
+T197	problem 4488 4513	focal neurologic deficits
+T198	test 4638 4651	Bimanual exam
+T199	problem 4662 4694	the absence of uterus and cervix
+T200	bodyloc 4677 4683	uterus
+T201	bodyloc 4688 4694	cervix
+T202	test 4740 4744	Exam
+T203	labvalue 4764 4803	brown stool present in the rectal vault
+T204	problem 4828 4864	actinic keratosis on the right cheek
+T205	bodyloc 4849 4864	the right cheek
+T206	problem 4912 4961	Peripheral neuropathy primarily of the right foot
+T207	bodyloc 4947 4961	the right foot
+T208	problem 4966 4978	Hypertension
+T209	problem 4983 4997	Hypothyroidism
+T210	problem 5002 5027	Essential thrombocythemia
+T211	problem 5032 5049	Allergic rhinitis
+T212	problem 5054 5062	Insomnia
+T213	drug 5083 5092	Neurontin
+T214	strength 5093 5099	100 mg
+T215	dosage 5131 5141	one to two
+T216	route 5142 5146	p.o.
+T217	frequency 5147 5153	q.h.s.
+T218	frequency 5154 5160	p.r.n.
+T219	problem 5161 5182	peripheral neuropathy
+T220	treatment 5194 5218	Anodyne physical therapy
+T221	problem 5281 5306	her peripheral neuropathy
+T222	problem 5321 5350	her essential thrombocythemia
+T223	test 5371 5374	lab
+T224	test 5379 5384	a CBC
+T225	problem 5392 5402	her anemia
+T226	problem 5407 5432	essential thrombocythemia
+T227	test 5447 5455	sed rate
+T228	problem 5463 5488	her peripheral neuropathy
+T229	test 5490 5498	ferritin
+T230	problem 5506 5516	her anemia
+T231	test 5522 5537	Hemoccult cards
+T232	problem 5549 5555	anemia
+T233	treatment 5567 5584	a DT immunization
+T234	drug 5636 5646	her Ambien
+T235	strength 5647 5651	5 mg
+T236	frequency 5652 5659	at h.s.
+T237	duration 5660 5672	for one year
+T238	treatment 5686 5696	a flu shot
+T239	temporal 5697 5707	next month
+T240	problem 5737 5745	numbness
+T241	problem 5747 5764	allergic rhinitis
+T242	treatment 5766 5790	anodyne physical therapy
+T243	test 5792 5807	hemoccult cards
+T244	problem 5809 5821	hypertension
+T245	problem 5823 5837	hypothyroidism
+T246	problem 5839 5847	insomnia
+T247	problem 5849 5870	peripheral neuropathy
+T248	problem 5872 5887	thrombocythemia
+T249	problem 5889 5897	tingling
+T250	treatment 5899 5910	port a cath
+T251	treatment 5912 5935	total knee arthroplasty
+T252	problem 5937 5962	essential thrombocythemia
+T253	problem 5970 5976	anemia
+R1	hasAttr Arg1:T4 Arg2:T5
+R2	hasAttr Arg1:T9 Arg2:T10
+R3	hasAttr Arg1:T9 Arg2:T11
+R4	hasAttr Arg1:T12 Arg2:T11
+R5	hasAttr Arg1:T12 Arg2:T13
+R6	hasAttr Arg1:T15 Arg2:T16
+R7	hasAttr Arg1:T15 Arg2:T17
+R8	hasAttr Arg1:T18 Arg2:T19
+R9	hasAttr Arg1:T20 Arg2:T21
+R10	hasAttr Arg1:T23 Arg2:T22
+R11	hasAttr Arg1:T23 Arg2:T24
+R12	hasAttr Arg1:T30 Arg2:T31
+R13	hasAttr Arg1:T32 Arg2:T33
+R14	hasAttr Arg1:T34 Arg2:T35
+R15	hasAttr Arg1:T36 Arg2:T37
+R16	hasAttr Arg1:T38 Arg2:T39
+R17	hasAttr Arg1:T40 Arg2:T41
+R18	hasAttr Arg1:T40 Arg2:T42
+R19	hasAttr Arg1:T43 Arg2:T44
+R20	hasAttr Arg1:T45 Arg2:T46
+R21	hasAttr Arg1:T47 Arg2:T48
+R22	hasAttr Arg1:T50 Arg2:T51
+R23	hasAttr Arg1:T52 Arg2:T54
+R24	hasAttr Arg1:T53 Arg2:T54
+R25	hasAttr Arg1:T55 Arg2:T56
+R26	hasAttr Arg1:T57 Arg2:T58
+R27	hasAttr Arg1:T59 Arg2:T60
+R28	hasAttr Arg1:T61 Arg2:T63
+R29	hasAttr Arg1:T62 Arg2:T63
+R30	hasAttr Arg1:T65 Arg2:T66
+R31	hasAttr Arg1:T67 Arg2:T68
+R32	hasAttr Arg1:T69 Arg2:T71
+R33	hasAttr Arg1:T69 Arg2:T70
+R34	hasAttr Arg1:T72 Arg2:T75
+R35	hasAttr Arg1:T73 Arg2:T74
+R36	hasAttr Arg1:T73 Arg2:T75
+R37	hasAttr Arg1:T76 Arg2:T77
+R38	hasAttr Arg1:T85 Arg2:T87
+R39	hasAttr Arg1:T85 Arg2:T86
+R40	hasAttr Arg1:T88 Arg2:T90
+R41	hasAttr Arg1:T88 Arg2:T89
+R42	hasAttr Arg1:T91 Arg2:T92
+R43	hasAttr Arg1:T91 Arg2:T93
+R44	hasAttr Arg1:T94 Arg2:T95
+R45	hasAttr Arg1:T94 Arg2:T96
+R46	hasAttr Arg1:T97 Arg2:T99
+R47	hasAttr Arg1:T97 Arg2:T98
+R48	hasAttr Arg1:T100 Arg2:T102
+R49	hasAttr Arg1:T100 Arg2:T101
+R50	hasAttr Arg1:T103 Arg2:T105
+R51	hasAttr Arg1:T103 Arg2:T104
+R52	hasAttr Arg1:T103 Arg2:T106
+R53	hasAttr Arg1:T108 Arg2:T107
+R54	hasAttr Arg1:T110 Arg2:T109
+R55	hasAttr Arg1:T110 Arg2:T111
+R56	hasAttr Arg1:T116 Arg2:T112
+R57	hasAttr Arg1:T114 Arg2:T112
+R58	hasAttr Arg1:T116 Arg2:T113
+R59	hasAttr Arg1:T114 Arg2:T113
+R60	hasAttr Arg1:T114 Arg2:T115
+R61	hasAttr Arg1:T119 Arg2:T120
+R62	hasAttr Arg1:T127 Arg2:T124
+R63	hasAttr Arg1:T125 Arg2:T124
+R64	hasAttr Arg1:T125 Arg2:T126
+R65	hasAttr Arg1:T130 Arg2:T129
+R66	hasAttr Arg1:T132 Arg2:T129
+R67	hasAttr Arg1:T130 Arg2:T131
+R68	hasAttr Arg1:T134 Arg2:T133
+R69	hasAttr Arg1:T135 Arg2:T136
+R70	hasAttr Arg1:T137 Arg2:T138
+R71	hasAttr Arg1:T140 Arg2:T141
+R72	hasAttr Arg1:T147 Arg2:T146
+R73	hasAttr Arg1:T147 Arg2:T148
+R74	hasAttr Arg1:T150 Arg2:T151
+R75	hasAttr Arg1:T152 Arg2:T153
+R76	hasAttr Arg1:T154 Arg2:T155
+R77	hasAttr Arg1:T156 Arg2:T157
+R78	hasAttr Arg1:T158 Arg2:T159
+R79	hasAttr Arg1:T162 Arg2:T160
+R80	hasAttr Arg1:T161 Arg2:T160
+R81	hasAttr Arg1:T165 Arg2:T163
+R82	hasAttr Arg1:T164 Arg2:T163
+R83	hasAttr Arg1:T169 Arg2:T166
+R84	hasAttr Arg1:T168 Arg2:T166
+R85	hasAttr Arg1:T167 Arg2:T166
+R86	hasAttr Arg1:T171 Arg2:T170
+R87	hasAttr Arg1:T171 Arg2:T172
+R88	hasAttr Arg1:T174 Arg2:T173
+R89	hasAttr Arg1:T177 Arg2:T175
+R90	hasAttr Arg1:T176 Arg2:T175
+R91	hasAttr Arg1:T179 Arg2:T178
+R92	hasAttr Arg1:T179 Arg2:T180
+R93	hasAttr Arg1:T183 Arg2:T182
+R94	hasAttr Arg1:T186 Arg2:T185
+R95	hasAttr Arg1:T188 Arg2:T185
+R96	hasAttr Arg1:T186 Arg2:T187
+R97	hasAttr Arg1:T186 Arg2:T190
+R98	hasAttr Arg1:T188 Arg2:T190
+R99	hasAttr Arg1:T188 Arg2:T189
+R100	hasAttr Arg1:T191 Arg2:T192
+R101	hasAttr Arg1:T194 Arg2:T195
+R102	hasAttr Arg1:T197 Arg2:T196
+R103	hasAttr Arg1:T199 Arg2:T200
+R104	hasAttr Arg1:T199 Arg2:T201
+R105	hasAttr Arg1:T202 Arg2:T203
+R106	hasAttr Arg1:T204 Arg2:T205
+R107	hasAttr Arg1:T206 Arg2:T207
+R108	hasAttr Arg1:T213 Arg2:T215
+R109	hasAttr Arg1:T213 Arg2:T214
+R110	hasAttr Arg1:T213 Arg2:T217
+R111	hasAttr Arg1:T213 Arg2:T216
+R112	hasAttr Arg1:T213 Arg2:T218
+R113	hasAttr Arg1:T234 Arg2:T236
+R114	hasAttr Arg1:T234 Arg2:T235
+R115	hasAttr Arg1:T234 Arg2:T237
+R116	hasAttr Arg1:T238 Arg2:T239

@@ -1,0 +1,246 @@
+T1	problem 157 172	extreme fatigue
+T2	problem 174 210	discomfort in the chest and the back
+T3	bodyloc 192 197	chest
+T4	bodyloc 206 210	back
+T5	problem 270 275	upset
+T6	problem 281 285	pain
+T7	problem 445 460	extreme fatigue
+T8	problem 462 498	discomfort in the chest and the back
+T9	bodyloc 480 485	chest
+T10	bodyloc 494 498	back
+T11	problem 558 563	upset
+T12	problem 569 573	pain
+T13	drug 592 607	her supplements
+T14	problem 722 738	pain in her hips
+T15	bodyloc 734 738	hips
+T16	problem 740 765	The peripheral neuropathy
+T17	problem 783 795	her swelling
+T18	course 800 809	increased
+T19	problem 814 847	headaches in the back of her head
+T20	bodyloc 831 835	back
+T21	bodyloc 843 847	head
+T22	problem 863 888	Type II diabetes mellitus
+T23	problem 893 912	Generalized fatigue
+T24	problem 917 925	weakness
+T25	problem 930 942	Hypertension
+T26	problem 947 968	Peripheral neuropathy
+T27	problem 974 991	atypical symptoms
+T28	problem 996 1010	Hypothyroidism
+T29	problem 1015 1025	Depression
+T30	problem 1073 1108	Postmenopausal age-related symptoms
+T31	problem 1113 1127	Abdominal pain
+T32	bodyloc 1113 1122	Abdominal
+T33	problem 1133 1174	nonspecific irritable bowel type symptoms
+T34	problem 1176 1197	intermittent diarrhea
+T35	drug 1232 1241	medicines
+T36	temporal 1257 1265	04/22/03
+T37	problem 1360 1369	allergies
+T38	temporal 1370 1378	04/22/04
+T39	subject 1421 1427	father
+T40	problem 1436 1441	an MI
+T41	subject 1449 1455	mother
+T42	problem 1464 1472	a stroke
+T43	test 1704 1716	general exam
+T44	negation 1717 1719	no
+T45	problem 1720 1725	fever
+T46	problem 1727 1733	sweats
+T47	problem 1737 1743	chills
+T48	negation 1748 1750	no
+T49	problem 1751 1776	significant weight change
+T50	negation 1864 1866	no
+T51	problem 1874 1913	decrease in visual or auditory function
+T52	negation 1929 1931	no
+T53	problem 1932 1949	change in hearing
+T54	problem 1953 1962	epistaxis
+T55	problem 1964 1975	sore throat
+T56	bodyloc 1969 1975	throat
+T57	problem 1979 1989	hoarseness
+T58	negation 2020 2022	no
+T59	problem 2034 2046	palpitations
+T60	problem 2048 2051	PND
+T61	problem 2055 2064	orthopnea
+T62	problem 2066 2081	The chest pains
+T63	bodyloc 2070 2075	chest
+T64	problem 2099 2109	tenderness
+T65	problem 2113 2122	palpation
+T66	negation 2151 2153	no
+T67	problem 2154 2162	wheezing
+T68	problem 2166 2171	cough
+T69	negation 2198 2200	No
+T70	problem 2201 2204	PND
+T71	problem 2208 2217	orthopnea
+T72	problem 2219 2249	Thromboembolic disease history
+T73	problem 2269 2290	Intermittent symptoms
+T74	problem 2294 2306	stomach pain
+T75	negation 2330 2332	No
+T76	problem 2333 2339	nausea
+T77	problem 2343 2351	vomiting
+T78	problem 2359 2367	Diarrhea
+T79	problem 2454 2474	poor bladder control
+T80	bodyloc 2459 2466	bladder
+T81	negation 2476 2478	no
+T82	problem 2479 2493	marked dysuria
+T83	problem 2495 2504	hematuria
+T84	problem 2519 2525	stones
+T85	problem 2544 2565	Peripheral neuropathy
+T86	problem 2570 2593	generalized muscle pain
+T87	bodyloc 2582 2588	muscle
+T88	problem 2595 2605	joint pain
+T89	bodyloc 2595 2600	joint
+T90	negation 2639 2641	No
+T91	problem 2649 2658	paralysis
+T92	problem 2660 2667	paresis
+T93	problem 2671 2683	paresthesias
+T94	negation 2691 2693	No
+T95	problem 2694 2700	rashes
+T96	problem 2702 2709	itching
+T97	problem 2713 2733	changes in the nails
+T98	bodyloc 2728 2733	nails
+T99	negation 2744 2746	No
+T100	problem 2757 2766	any lumps
+T101	problem 2770 2776	masses
+T102	negation 2801 2803	No
+T103	problem 2804 2812	bruising
+T104	problem 2816 2838	bleeding-type symptoms
+T105	test 2862 2868	WEIGHT
+T106	labvalue 2870 2880	189 pounds
+T107	test 2882 2884	BP
+T108	labvalue 2886 2892	140/80
+T109	test 2894 2899	PULSE
+T110	labvalue 2901 2903	76
+T111	test 2905 2917	RESPIRATIONS
+T112	labvalue 2919 2921	20
+T113	negation 2975 2977	No
+T114	problem 2978 2992	acute distress
+T115	negation 3202 3204	No
+T116	problem 3205 3222	tonsillar lesions
+T117	bodyloc 3205 3214	tonsillar
+T118	problem 3224 3231	exudate
+T119	problem 3235 3244	asymmetry
+T120	negation 3278 3280	No
+T121	problem 3281 3292	thyromegaly
+T122	problem 3296 3306	adenopathy
+T123	test 3351 3363	auscultation
+T124	test 3368 3378	percussion
+T125	test 3387 3391	Rate
+T126	test 3396 3402	rhythm
+T127	labvalue 3406 3413	regular
+T128	test 3415 3417	S1
+T129	test 3422 3424	S2
+T130	negation 3434 3436	No
+T131	problem 3437 3455	appreciable murmur
+T132	problem 3459 3465	gallop
+T133	negation 3482 3484	No
+T134	problem 3485 3491	masses
+T135	problem 3493 3501	guarding
+T136	problem 3503 3511	rigidity
+T137	problem 3513 3523	tenderness
+T138	problem 3527 3537	flank pain
+T139	negation 3569 3571	No
+T140	problem 3572 3580	cyanosis
+T141	problem 3582 3590	clubbing
+T142	problem 3594 3599	edema
+T143	negation 3641 3643	No
+T144	problem 3644 3651	lesions
+T145	problem 3655 3661	rashes
+T146	test 3741 3745	gait
+T147	drug 3814 3823	metformin
+T148	negation 3851 3854	not
+T149	test 3915 3919	Labs
+T150	test 3924 3927	CBC
+T151	test 3929 3932	CMP
+T152	test 3934 3937	A1c
+T153	test 3939 3951	microalbumin
+T154	test 3956 3958	UA
+T155	test 3970 3973	C&S
+T156	test 3975 3985	Gram stain
+T157	problem 3987 3990	ova
+T158	problem 3995 4004	parasites
+T159	problem 4010 4031	intermittent diarrhea
+T160	test 4049 4077	CT of the abdomen and pelvis
+T161	drug 4122 4145	the current medications
+T162	drug 4160 4169	diuretics
+T163	problem 4287 4294	fatigue
+T164	problem 4296 4306	discomfort
+T165	problem 4308 4329	loose bowel movements
+T166	problem 4331 4348	diabetes mellitus
+T167	problem 4350 4358	weakness
+T168	problem 4360 4372	hypertension
+T169	problem 4374 4395	peripheral neuropathy
+T170	problem 4397 4418	intermittent diarrhea
+R1	hasAttr Arg1:T2 Arg2:T3
+R2	hasAttr Arg1:T2 Arg2:T4
+R3	hasAttr Arg1:T8 Arg2:T9
+R4	hasAttr Arg1:T8 Arg2:T10
+R5	hasAttr Arg1:T14 Arg2:T15
+R6	hasAttr Arg1:T17 Arg2:T18
+R7	hasAttr Arg1:T19 Arg2:T21
+R8	hasAttr Arg1:T31 Arg2:T32
+R9	hasAttr Arg1:T35 Arg2:T36
+R10	hasAttr Arg1:T37 Arg2:T38
+R11	hasAttr Arg1:T40 Arg2:T39
+R12	hasAttr Arg1:T42 Arg2:T41
+R13	hasAttr Arg1:T47 Arg2:T44
+R14	hasAttr Arg1:T45 Arg2:T44
+R15	hasAttr Arg1:T46 Arg2:T44
+R16	hasAttr Arg1:T49 Arg2:T48
+R17	hasAttr Arg1:T51 Arg2:T50
+R18	hasAttr Arg1:T53 Arg2:T52
+R19	hasAttr Arg1:T57 Arg2:T52
+R20	hasAttr Arg1:T55 Arg2:T52
+R21	hasAttr Arg1:T54 Arg2:T52
+R22	hasAttr Arg1:T61 Arg2:T58
+R23	hasAttr Arg1:T60 Arg2:T58
+R24	hasAttr Arg1:T59 Arg2:T58
+R25	hasAttr Arg1:T68 Arg2:T66
+R26	hasAttr Arg1:T67 Arg2:T66
+R27	hasAttr Arg1:T70 Arg2:T69
+R28	hasAttr Arg1:T71 Arg2:T69
+R29	hasAttr Arg1:T77 Arg2:T75
+R30	hasAttr Arg1:T76 Arg2:T75
+R31	hasAttr Arg1:T79 Arg2:T80
+R32	hasAttr Arg1:T84 Arg2:T81
+R33	hasAttr Arg1:T82 Arg2:T81
+R34	hasAttr Arg1:T83 Arg2:T81
+R35	hasAttr Arg1:T86 Arg2:T87
+R36	hasAttr Arg1:T88 Arg2:T89
+R37	hasAttr Arg1:T91 Arg2:T90
+R38	hasAttr Arg1:T92 Arg2:T90
+R39	hasAttr Arg1:T93 Arg2:T90
+R40	hasAttr Arg1:T95 Arg2:T94
+R41	hasAttr Arg1:T96 Arg2:T94
+R42	hasAttr Arg1:T97 Arg2:T94
+R43	hasAttr Arg1:T97 Arg2:T98
+R44	hasAttr Arg1:T100 Arg2:T99
+R45	hasAttr Arg1:T101 Arg2:T99
+R46	hasAttr Arg1:T103 Arg2:T102
+R47	hasAttr Arg1:T104 Arg2:T102
+R48	hasAttr Arg1:T105 Arg2:T106
+R49	hasAttr Arg1:T107 Arg2:T108
+R50	hasAttr Arg1:T109 Arg2:T110
+R51	hasAttr Arg1:T111 Arg2:T112
+R52	hasAttr Arg1:T114 Arg2:T113
+R53	hasAttr Arg1:T119 Arg2:T115
+R54	hasAttr Arg1:T118 Arg2:T115
+R55	hasAttr Arg1:T116 Arg2:T115
+R56	hasAttr Arg1:T116 Arg2:T117
+R57	hasAttr Arg1:T122 Arg2:T120
+R58	hasAttr Arg1:T121 Arg2:T120
+R59	hasAttr Arg1:T125 Arg2:T127
+R60	hasAttr Arg1:T126 Arg2:T127
+R61	hasAttr Arg1:T132 Arg2:T130
+R62	hasAttr Arg1:T131 Arg2:T130
+R63	hasAttr Arg1:T134 Arg2:T133
+R64	hasAttr Arg1:T135 Arg2:T133
+R65	hasAttr Arg1:T136 Arg2:T133
+R66	hasAttr Arg1:T137 Arg2:T133
+R67	hasAttr Arg1:T138 Arg2:T133
+R68	hasAttr Arg1:T140 Arg2:T139
+R69	hasAttr Arg1:T141 Arg2:T139
+R70	hasAttr Arg1:T142 Arg2:T139
+R71	hasAttr Arg1:T145 Arg2:T143
+R72	hasAttr Arg1:T144 Arg2:T143
+R73	hasAttr Arg1:T147 Arg2:T148
+R74	hasAttr Arg1:T19 Arg2:T20
+R75	hasAttr Arg1:T55 Arg2:T56
+R76	hasAttr Arg1:T62 Arg2:T63

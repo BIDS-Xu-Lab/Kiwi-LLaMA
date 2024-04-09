@@ -1,0 +1,269 @@
+T1	negation 145 153	Negative
+T2	problem 158 163	fever
+T3	problem 165 178	weight change
+T4	problem 180 187	fatigue
+T5	problem 192 198	aching
+T6	negation 262 270	negative
+T7	problem 275 280	fever
+T8	problem 282 295	weight change
+T9	problem 297 304	fatigue
+T10	problem 309 315	aching
+T11	negation 337 345	Negative
+T12	treatment 350 357	glasses
+T13	problem 359 368	cataracts
+T14	problem 370 378	glaucoma
+T15	problem 380 391	retinopathy
+T16	problem 393 403	irritation
+T17	problem 408 428	visual field defects
+T18	negation 443 451	Negative
+T19	problem 456 483	hearing or balance problems
+T20	negation 498 506	Negative
+T21	problem 511 521	runny nose
+T22	bodyloc 517 521	nose
+T23	problem 523 537	sinus problems
+T24	bodyloc 523 528	sinus
+T25	problem 542 552	nosebleeds
+T26	negation 568 576	Negative
+T27	problem 581 596	dental problems
+T28	treatment 598 606	dentures
+T29	problem 611 624	bleeding gums
+T30	negation 641 649	Negative
+T31	problem 654 664	hoarseness
+T32	problem 666 687	difficulty swallowing
+T33	problem 692 703	sore throat
+T34	bodyloc 697 703	throat
+T35	negation 729 737	Negative
+T36	problem 742 748	angina
+T37	problem 750 761	previous MI
+T38	problem 763 782	irregular heartbeat
+T39	problem 784 797	heart murmurs
+T40	bodyloc 784 789	heart
+T41	problem 799 815	bad heart valves
+T42	bodyloc 803 815	heart valves
+T43	problem 817 829	palpitations
+T44	problem 831 847	swelling of feet
+T45	bodyloc 843 847	feet
+T46	problem 849 868	high blood pressure
+T47	problem 870 879	orthopnea
+T48	problem 881 909	paroxysmal nocturnal dyspnea
+T49	test 925 936	stress test
+T50	test 938 949	arteriogram
+T51	treatment 954 976	pacemaker implantation
+T52	negation 997 1005	Negative
+T53	problem 1010 1015	cough
+T54	problem 1017 1023	sputum
+T55	problem 1025 1044	shortness of breath
+T56	problem 1046 1054	wheezing
+T57	problem 1056 1062	asthma
+T58	problem 1067 1076	emphysema
+T59	negation 1104 1112	Negative
+T60	problem 1117 1121	pain
+T61	problem 1123 1131	vomiting
+T62	problem 1133 1142	heartburn
+T63	problem 1144 1164	peptic ulcer disease
+T64	bodyloc 1144 1156	peptic ulcer
+T65	problem 1166 1181	change in stool
+T66	bodyloc 1176 1181	stool
+T67	problem 1183 1194	rectal pain
+T68	bodyloc 1183 1189	rectal
+T69	problem 1196 1202	hernia
+T70	problem 1204 1213	hepatitis
+T71	problem 1215 1234	gallbladder disease
+T72	bodyloc 1215 1226	gallbladder
+T73	problem 1236 1247	hemorrhoids
+T74	problem 1252 1260	bleeding
+T75	negation 1300 1308	Negative
+T76	problem 1313 1325	incontinence
+T77	problem 1327 1330	UTI
+T78	problem 1332 1339	dysuria
+T79	problem 1341 1350	hematuria
+T80	problem 1352 1369	vaginal discharge
+T81	problem 1371 1388	abnormal bleeding
+T82	problem 1390 1402	breast lumps
+T83	bodyloc 1390 1396	breast
+T84	problem 1404 1420	nipple discharge
+T85	bodyloc 1404 1410	nipple
+T86	problem 1422 1444	skin or nipple changes
+T87	bodyloc 1422 1426	skin
+T88	bodyloc 1430 1436	nipple
+T89	problem 1446 1475	sexually transmitted diseases
+T90	problem 1477 1489	incontinence
+T91	problem 1491 1507	yeast infections
+T92	problem 1512 1519	itching
+T93	negation 1535 1543	Negative
+T94	problem 1548 1554	rashes
+T95	problem 1556 1565	keratoses
+T96	problem 1567 1579	skin cancers
+T97	bodyloc 1567 1571	skin
+T98	problem 1584 1588	acne
+T99	negation 1615 1623	Negative
+T100	problem 1628 1637	back pain
+T101	bodyloc 1628 1632	back
+T102	problem 1639 1649	joint pain
+T103	bodyloc 1639 1644	joint
+T104	problem 1651 1665	joint swelling
+T105	bodyloc 1651 1656	joint
+T106	problem 1667 1676	arthritis
+T107	problem 1678 1693	joint deformity
+T108	bodyloc 1678 1683	joint
+T109	problem 1695 1719	problems with ambulation
+T110	problem 1721 1730	stiffness
+T111	problem 1732 1744	osteoporosis
+T112	problem 1749 1757	injuries
+T113	negation 1779 1787	Negative
+T114	problem 1792 1801	blackouts
+T115	problem 1803 1812	headaches
+T116	problem 1814 1822	seizures
+T117	problem 1824 1830	stroke
+T118	problem 1835 1844	dizziness
+T119	negation 1867 1875	Negative
+T120	problem 1880 1887	anxiety
+T121	problem 1889 1899	depression
+T122	problem 1904 1911	phobias
+T123	negation 1932 1940	Negative
+T124	problem 1945 1953	diabetes
+T125	problem 1955 1962	thyroid
+T126	problem 1967 2004	problems with cholesterol or hormones
+T127	negation 2037 2045	Negative
+T128	problem 2050 2056	anemia
+T129	problem 2058 2072	swollen glands
+T130	bodyloc 2066 2072	glands
+T131	problem 2077 2092	blood disorders
+T132	bodyloc 2077 2082	blood
+T133	negation 2117 2125	Negative
+T134	drug 2130 2138	steroids
+T135	drug 2140 2152	chemotherapy
+T136	problem 2157 2163	cancer
+T137	negation 2183 2191	Negative
+T138	problem 2196 2210	varicose veins
+T139	bodyloc 2205 2210	veins
+T140	problem 2212 2223	blood clots
+T141	bodyloc 2212 2217	blood
+T142	problem 2225 2240	atherosclerosis
+T143	problem 2245 2255	leg ulcers
+T144	bodyloc 2245 2248	leg
+T145	problem 2285 2290	cough
+T146	problem 2292 2298	sputum
+T147	problem 2300 2319	shortness of breath
+T148	problem 2321 2326	fever
+T149	test 2328 2334	weight
+T150	problem 2336 2343	fatigue
+T151	problem 2345 2351	aching
+T152	problem 2367 2375	swelling
+T153	problem 2377 2384	disease
+T154	problem 2386 2398	incontinence
+T155	problem 2400 2408	bleeding
+R1	hasAttr Arg1:T4 Arg2:T1
+R2	hasAttr Arg1:T3 Arg2:T1
+R3	hasAttr Arg1:T2 Arg2:T1
+R4	hasAttr Arg1:T5 Arg2:T1
+R5	hasAttr Arg1:T8 Arg2:T6
+R6	hasAttr Arg1:T7 Arg2:T6
+R7	hasAttr Arg1:T10 Arg2:T6
+R8	hasAttr Arg1:T9 Arg2:T6
+R9	hasAttr Arg1:T16 Arg2:T11
+R10	hasAttr Arg1:T13 Arg2:T11
+R11	hasAttr Arg1:T12 Arg2:T11
+R12	hasAttr Arg1:T15 Arg2:T11
+R13	hasAttr Arg1:T14 Arg2:T11
+R14	hasAttr Arg1:T17 Arg2:T11
+R15	hasAttr Arg1:T19 Arg2:T18
+R16	hasAttr Arg1:T23 Arg2:T20
+R17	hasAttr Arg1:T25 Arg2:T20
+R18	hasAttr Arg1:T21 Arg2:T20
+R19	hasAttr Arg1:T21 Arg2:T22
+R20	hasAttr Arg1:T23 Arg2:T24
+R21	hasAttr Arg1:T27 Arg2:T26
+R22	hasAttr Arg1:T33 Arg2:T30
+R23	hasAttr Arg1:T32 Arg2:T30
+R24	hasAttr Arg1:T31 Arg2:T30
+R25	hasAttr Arg1:T33 Arg2:T34
+R26	hasAttr Arg1:T36 Arg2:T35
+R27	hasAttr Arg1:T38 Arg2:T35
+R28	hasAttr Arg1:T41 Arg2:T35
+R29	hasAttr Arg1:T37 Arg2:T35
+R30	hasAttr Arg1:T39 Arg2:T35
+R31	hasAttr Arg1:T39 Arg2:T40
+R32	hasAttr Arg1:T41 Arg2:T42
+R33	hasAttr Arg1:T44 Arg2:T45
+R34	hasAttr Arg1:T53 Arg2:T52
+R35	hasAttr Arg1:T56 Arg2:T52
+R36	hasAttr Arg1:T54 Arg2:T52
+R37	hasAttr Arg1:T57 Arg2:T52
+R38	hasAttr Arg1:T55 Arg2:T52
+R39	hasAttr Arg1:T58 Arg2:T52
+R40	hasAttr Arg1:T67 Arg2:T59
+R41	hasAttr Arg1:T73 Arg2:T59
+R42	hasAttr Arg1:T70 Arg2:T59
+R43	hasAttr Arg1:T65 Arg2:T59
+R44	hasAttr Arg1:T71 Arg2:T59
+R45	hasAttr Arg1:T62 Arg2:T59
+R46	hasAttr Arg1:T60 Arg2:T59
+R47	hasAttr Arg1:T63 Arg2:T59
+R48	hasAttr Arg1:T69 Arg2:T59
+R49	hasAttr Arg1:T61 Arg2:T59
+R50	hasAttr Arg1:T63 Arg2:T64
+R51	hasAttr Arg1:T65 Arg2:T66
+R52	hasAttr Arg1:T67 Arg2:T68
+R53	hasAttr Arg1:T71 Arg2:T72
+R54	hasAttr Arg1:T78 Arg2:T75
+R55	hasAttr Arg1:T81 Arg2:T75
+R56	hasAttr Arg1:T89 Arg2:T75
+R57	hasAttr Arg1:T92 Arg2:T75
+R58	hasAttr Arg1:T90 Arg2:T75
+R59	hasAttr Arg1:T76 Arg2:T75
+R60	hasAttr Arg1:T91 Arg2:T75
+R61	hasAttr Arg1:T84 Arg2:T75
+R62	hasAttr Arg1:T79 Arg2:T75
+R63	hasAttr Arg1:T82 Arg2:T75
+R64	hasAttr Arg1:T86 Arg2:T75
+R65	hasAttr Arg1:T80 Arg2:T75
+R66	hasAttr Arg1:T77 Arg2:T75
+R67	hasAttr Arg1:T82 Arg2:T83
+R68	hasAttr Arg1:T84 Arg2:T85
+R69	hasAttr Arg1:T86 Arg2:T87
+R70	hasAttr Arg1:T86 Arg2:T88
+R71	hasAttr Arg1:T98 Arg2:T93
+R72	hasAttr Arg1:T96 Arg2:T93
+R73	hasAttr Arg1:T95 Arg2:T93
+R74	hasAttr Arg1:T94 Arg2:T93
+R75	hasAttr Arg1:T96 Arg2:T97
+R76	hasAttr Arg1:T106 Arg2:T99
+R77	hasAttr Arg1:T112 Arg2:T99
+R78	hasAttr Arg1:T110 Arg2:T99
+R79	hasAttr Arg1:T102 Arg2:T99
+R80	hasAttr Arg1:T104 Arg2:T99
+R81	hasAttr Arg1:T100 Arg2:T99
+R82	hasAttr Arg1:T107 Arg2:T99
+R83	hasAttr Arg1:T109 Arg2:T99
+R84	hasAttr Arg1:T111 Arg2:T99
+R85	hasAttr Arg1:T100 Arg2:T101
+R86	hasAttr Arg1:T102 Arg2:T103
+R87	hasAttr Arg1:T104 Arg2:T105
+R88	hasAttr Arg1:T107 Arg2:T108
+R89	hasAttr Arg1:T118 Arg2:T113
+R90	hasAttr Arg1:T115 Arg2:T113
+R91	hasAttr Arg1:T117 Arg2:T113
+R92	hasAttr Arg1:T116 Arg2:T113
+R93	hasAttr Arg1:T114 Arg2:T113
+R94	hasAttr Arg1:T120 Arg2:T119
+R95	hasAttr Arg1:T121 Arg2:T119
+R96	hasAttr Arg1:T122 Arg2:T119
+R97	hasAttr Arg1:T126 Arg2:T123
+R98	hasAttr Arg1:T124 Arg2:T123
+R99	hasAttr Arg1:T125 Arg2:T123
+R100	hasAttr Arg1:T131 Arg2:T127
+R101	hasAttr Arg1:T128 Arg2:T127
+R102	hasAttr Arg1:T129 Arg2:T127
+R103	hasAttr Arg1:T129 Arg2:T130
+R104	hasAttr Arg1:T131 Arg2:T132
+R105	hasAttr Arg1:T135 Arg2:T133
+R106	hasAttr Arg1:T136 Arg2:T133
+R107	hasAttr Arg1:T134 Arg2:T133
+R108	hasAttr Arg1:T138 Arg2:T137
+R109	hasAttr Arg1:T143 Arg2:T137
+R110	hasAttr Arg1:T140 Arg2:T137
+R111	hasAttr Arg1:T142 Arg2:T137
+R112	hasAttr Arg1:T138 Arg2:T139
+R113	hasAttr Arg1:T140 Arg2:T141
+R114	hasAttr Arg1:T143 Arg2:T144

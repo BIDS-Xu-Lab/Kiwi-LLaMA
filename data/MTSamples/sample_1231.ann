@@ -1,0 +1,72 @@
+T1	problem 77 89	Mesothelioma
+T2	problem 130 163	end-stage peritoneal mesothelioma
+T3	severity 130 139	end-stage
+T4	problem 169 196	multiple bowel perforations
+T5	bodyloc 178 183	bowel
+T6	problem 309 342	end-stage peritoneal mesothelioma
+T7	severity 309 318	end-stage
+T8	problem 348 375	multiple bowel perforations
+T9	bodyloc 357 362	bowel
+T10	treatment 411 422	pleurodesis
+T11	problem 428 453	persistent abdominal pain
+T12	bodyloc 439 448	abdominal
+T13	drug 491 500	Duragesic
+T14	form 501 506	patch
+T15	strength 510 517	125 mcg
+T16	frequency 518 530	every 3 days
+T17	temporal 540 549	currently
+T18	drug 555 563	Dilaudid
+T19	form 564 567	PCA
+T20	strength 571 575	1 mg
+T21	frequency 576 600	every 10 minutes lockout
+T22	drug 602 610	Dilaudid
+T23	form 611 618	boluses
+T24	strength 619 623	2 mg
+T25	frequency 624 630	q.3 h.
+T26	frequency 631 637	p.r.n.
+T27	drug 639 645	Ativan
+T28	strength 646 650	2 mg
+T29	frequency 651 657	q.4 h.
+T30	drug 659 666	Tylenol
+T31	route 671 677	rectum
+T32	treatment 704 723	multiple procedures
+T33	problem 737 755	her abdominal pain
+T34	bodyloc 741 750	abdominal
+T35	treatment 766 795	a thoracic epidural placement
+T36	treatment 800 817	sympathetic block
+T37	treatment 822 834	pain control
+T38	treatment 839 873	a celiac plexuses/neurolytic block
+T39	treatment 934 955	these pain procedures
+T40	temporal 1075 1082	current
+T41	drug 1083 1101	medical management
+T42	problem 1197 1204	anxiety
+T43	treatment 1298 1309	pleurodesis
+T44	problem 1311 1325	abdominal pain
+T45	bodyloc 1311 1320	abdominal
+T46	problem 1327 1354	multiple bowel perforations
+T47	bodyloc 1336 1341	bowel
+T48	problem 1356 1379	peritoneal mesothelioma
+T49	problem 1381 1393	mesothelioma
+R1	hasAttr Arg1:T22 Arg2:T24
+R2	hasAttr Arg1:T22 Arg2:T23
+R3	hasAttr Arg1:T18 Arg2:T20
+R4	hasAttr Arg1:T18 Arg2:T19
+R5	hasAttr Arg1:T18 Arg2:T21
+R6	hasAttr Arg1:T27 Arg2:T28
+R7	hasAttr Arg1:T4 Arg2:T5
+R8	hasAttr Arg1:T33 Arg2:T34
+R9	hasAttr Arg1:T44 Arg2:T45
+R10	hasAttr Arg1:T46 Arg2:T47
+R11	hasAttr Arg1:T11 Arg2:T12
+R12	hasAttr Arg1:T8 Arg2:T9
+R13	hasAttr Arg1:T2 Arg2:T3
+R14	hasAttr Arg1:T6 Arg2:T7
+R15	hasAttr Arg1:T18 Arg2:T17
+R16	hasAttr Arg1:T22 Arg2:T25
+R17	hasAttr Arg1:T22 Arg2:T26
+R18	hasAttr Arg1:T27 Arg2:T29
+R19	hasAttr Arg1:T30 Arg2:T31
+R20	hasAttr Arg1:T13 Arg2:T14
+R21	hasAttr Arg1:T13 Arg2:T15
+R22	hasAttr Arg1:T13 Arg2:T16
+R23	hasAttr Arg1:T41 Arg2:T40

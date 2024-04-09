@@ -1,0 +1,209 @@
+T1	negation 135 143	Negative
+T2	problem 144 152	weakness
+T3	negation 154 162	negative
+T4	problem 163 170	fatigue
+T5	problem 179 186	malaise
+T6	negation 188 196	negative
+T7	problem 197 203	chills
+T8	negation 205 213	negative
+T9	problem 214 219	fever
+T10	negation 221 229	negative
+T11	problem 230 242	night sweats
+T12	negation 244 252	negative
+T13	problem 253 262	allergies
+T14	negation 311 319	Negative
+T15	problem 320 328	weakness
+T16	negation 330 338	negative
+T17	problem 339 346	fatigue
+T18	problem 355 362	malaise
+T19	negation 364 372	negative
+T20	problem 373 379	chills
+T21	negation 381 389	negative
+T22	problem 390 395	fever
+T23	negation 397 405	negative
+T24	problem 406 418	night sweats
+T25	negation 420 428	negative
+T26	problem 429 438	allergies
+T27	negation 455 463	Negative
+T28	problem 464 468	rash
+T29	negation 470 478	negative
+T30	problem 479 487	jaundice
+T31	negation 504 512	Negative
+T32	problem 513 521	bleeding
+T33	negation 523 531	negative
+T34	problem 532 554	lymph node enlargement
+T35	bodyloc 532 542	lymph node
+T36	negation 556 564	negative
+T37	problem 565 577	bruisability
+T38	negation 591 599	Negative
+T39	problem 600 609	headaches
+T40	negation 611 619	negative
+T41	problem 620 627	syncope
+T42	negation 629 637	negative
+T43	problem 638 646	seizures
+T44	negation 648 656	negative
+T45	problem 657 665	weakness
+T46	negation 667 675	negative
+T47	problem 676 682	tremor
+T48	negation 684 697	No history of
+T49	problem 698 705	strokes
+T50	negation 707 720	no history of
+T51	problem 721 748	other neurologic conditions
+T52	negation 756 764	Negative
+T53	problem 765 779	visual changes
+T54	negation 781 789	negative
+T55	problem 790 798	diplopia
+T56	negation 800 808	negative
+T57	problem 809 818	scotomata
+T58	negation 820 828	negative
+T59	problem 829 844	impaired vision
+T60	negation 852 860	Negative
+T61	problem 861 869	tinnitus
+T62	negation 871 879	negative
+T63	problem 880 887	vertigo
+T64	negation 889 897	negative
+T65	problem 898 916	hearing impairment
+T66	negation 935 943	Negative
+T67	problem 944 958	postnasal drip
+T68	negation 960 968	negative
+T69	problem 969 980	sore throat
+T70	bodyloc 974 980	throat
+T71	negation 998 1006	Negative
+T72	problem 1007 1017	chest pain
+T73	bodyloc 1007 1012	chest
+T74	negation 1019 1027	negative
+T75	problem 1028 1047	dyspnea on exertion
+T76	negation 1049 1057	negative
+T77	problem 1058 1068	palpations
+T78	negation 1070 1078	negative
+T79	problem 1079 1084	edema
+T80	negation 1086 1088	No
+T81	problem 1100 1112	heart attack
+T82	bodyloc 1100 1105	heart
+T83	negation 1114 1116	no
+T84	problem 1128 1139	arrhythmias
+T85	negation 1141 1143	no
+T86	problem 1155 1167	hypertension
+T87	negation 1182 1184	No
+T88	problem 1196 1215	shortness of breath
+T89	negation 1217 1219	no
+T90	problem 1231 1237	asthma
+T91	negation 1239 1241	no
+T92	problem 1253 1290	chronic obstructive pulmonary disease
+T93	course 1253 1260	chronic
+T94	negation 1292 1294	no
+T95	problem 1306 1329	obstructive sleep apnea
+T96	negation 1349 1357	Negative
+T97	problem 1358 1367	dysphagia
+T98	negation 1369 1377	negative
+T99	problem 1378 1384	nausea
+T100	negation 1386 1394	negative
+T101	problem 1395 1403	vomiting
+T102	negation 1405 1413	negative
+T103	problem 1414 1425	hematemesis
+T104	negation 1427 1435	negative
+T105	problem 1436 1450	abdominal pain
+T106	bodyloc 1436 1445	abdominal
+T107	negation 1467 1475	Negative
+T108	problem 1476 1485	frequency
+T109	negation 1487 1495	negative
+T110	problem 1496 1503	urgency
+T111	negation 1505 1513	negative
+T112	problem 1514 1521	dysuria
+T113	negation 1523 1531	negative
+T114	problem 1532 1544	incontinence
+T115	negation 1546 1548	No
+T116	problem 1560 1564	STDs
+T117	negation 1583 1591	Negative
+T118	problem 1592 1599	myalgia
+T119	negation 1601 1609	negative
+T120	problem 1610 1620	joint pain
+T121	negation 1622 1630	negative
+T122	problem 1631 1640	stiffness
+T123	negation 1642 1650	negative
+T124	problem 1651 1659	weakness
+T125	negation 1661 1669	negative
+T126	problem 1670 1679	back pain
+T127	bodyloc 1670 1674	back
+T128	test 1698 1720	psychiatric evaluation
+T129	negation 1733 1735	No
+T130	problem 1747 1764	diabetes mellitus
+T131	negation 1766 1768	no
+T132	problem 1780 1796	thyroid problems
+T133	bodyloc 1780 1787	thyroid
+T134	negation 1798 1800	no
+T135	problem 1812 1840	endocrinologic abnormalities
+T136	negation 1918 1926	negative
+T137	problem 1927 1935	weakness
+T138	problem 1970 1978	weakness
+R1	hasAttr Arg1:T2 Arg2:T1
+R2	hasAttr Arg1:T4 Arg2:T3
+R3	hasAttr Arg1:T7 Arg2:T6
+R4	hasAttr Arg1:T9 Arg2:T8
+R5	hasAttr Arg1:T11 Arg2:T10
+R6	hasAttr Arg1:T13 Arg2:T12
+R7	hasAttr Arg1:T15 Arg2:T14
+R8	hasAttr Arg1:T17 Arg2:T16
+R9	hasAttr Arg1:T20 Arg2:T19
+R10	hasAttr Arg1:T22 Arg2:T21
+R11	hasAttr Arg1:T24 Arg2:T23
+R12	hasAttr Arg1:T26 Arg2:T25
+R13	hasAttr Arg1:T28 Arg2:T27
+R14	hasAttr Arg1:T30 Arg2:T29
+R15	hasAttr Arg1:T32 Arg2:T31
+R16	hasAttr Arg1:T34 Arg2:T33
+R17	hasAttr Arg1:T34 Arg2:T35
+R18	hasAttr Arg1:T37 Arg2:T36
+R19	hasAttr Arg1:T39 Arg2:T38
+R20	hasAttr Arg1:T41 Arg2:T40
+R21	hasAttr Arg1:T43 Arg2:T42
+R22	hasAttr Arg1:T45 Arg2:T44
+R23	hasAttr Arg1:T47 Arg2:T46
+R24	hasAttr Arg1:T49 Arg2:T48
+R25	hasAttr Arg1:T51 Arg2:T50
+R26	hasAttr Arg1:T53 Arg2:T52
+R27	hasAttr Arg1:T55 Arg2:T54
+R28	hasAttr Arg1:T57 Arg2:T56
+R29	hasAttr Arg1:T59 Arg2:T58
+R30	hasAttr Arg1:T61 Arg2:T60
+R31	hasAttr Arg1:T63 Arg2:T62
+R32	hasAttr Arg1:T65 Arg2:T64
+R33	hasAttr Arg1:T67 Arg2:T66
+R34	hasAttr Arg1:T69 Arg2:T68
+R35	hasAttr Arg1:T69 Arg2:T70
+R36	hasAttr Arg1:T72 Arg2:T71
+R37	hasAttr Arg1:T72 Arg2:T73
+R38	hasAttr Arg1:T75 Arg2:T74
+R39	hasAttr Arg1:T77 Arg2:T76
+R40	hasAttr Arg1:T79 Arg2:T78
+R41	hasAttr Arg1:T81 Arg2:T80
+R42	hasAttr Arg1:T81 Arg2:T82
+R43	hasAttr Arg1:T84 Arg2:T83
+R44	hasAttr Arg1:T86 Arg2:T85
+R45	hasAttr Arg1:T88 Arg2:T87
+R46	hasAttr Arg1:T90 Arg2:T89
+R47	hasAttr Arg1:T92 Arg2:T91
+R48	hasAttr Arg1:T92 Arg2:T93
+R49	hasAttr Arg1:T95 Arg2:T94
+R50	hasAttr Arg1:T97 Arg2:T96
+R51	hasAttr Arg1:T99 Arg2:T98
+R52	hasAttr Arg1:T101 Arg2:T100
+R53	hasAttr Arg1:T103 Arg2:T102
+R54	hasAttr Arg1:T105 Arg2:T104
+R55	hasAttr Arg1:T105 Arg2:T106
+R56	hasAttr Arg1:T108 Arg2:T107
+R57	hasAttr Arg1:T110 Arg2:T109
+R58	hasAttr Arg1:T112 Arg2:T111
+R59	hasAttr Arg1:T114 Arg2:T113
+R60	hasAttr Arg1:T116 Arg2:T115
+R61	hasAttr Arg1:T118 Arg2:T117
+R62	hasAttr Arg1:T120 Arg2:T119
+R63	hasAttr Arg1:T122 Arg2:T121
+R64	hasAttr Arg1:T124 Arg2:T123
+R65	hasAttr Arg1:T126 Arg2:T125
+R66	hasAttr Arg1:T126 Arg2:T127
+R67	hasAttr Arg1:T130 Arg2:T129
+R68	hasAttr Arg1:T132 Arg2:T131
+R69	hasAttr Arg1:T132 Arg2:T133
+R70	hasAttr Arg1:T135 Arg2:T134
+R71	hasAttr Arg1:T137 Arg2:T136

@@ -1,0 +1,183 @@
+T1	test 55 78	Cardiac Catheterization
+T2	test 97 123	Left heart catheterization
+T3	test 129 149	coronary angiography
+T4	test 151 173	vein graft angiography
+T5	test 178 215	left ventricular pressure measurement
+T6	test 220 231	angiography
+T7	test 295 321	Left heart catheterization
+T8	test 327 347	coronary angiography
+T9	test 349 371	vein graft angiography
+T10	test 376 413	left ventricular pressure measurement
+T11	test 418 429	angiography
+T12	test 434 467	Right femoral selective angiogram
+T13	treatment 472 486	Closure device
+T14	treatment 526 539	an Angio-Seal
+T15	problem 585 629	known coronary atherosclerotic heart disease
+T16	bodyloc 616 621	heart
+T17	problem 659 675	coronary disease
+T18	bodyloc 659 667	coronary
+T19	test 685 714	her last coronary arteriogram
+T20	temporal 728 732	2004
+T21	problem 760 788	progressive chest discomfort
+T22	bodyloc 772 777	chest
+T23	problem 839 847	diabetes
+T24	problem 849 861	hypertension
+T25	problem 863 877	hyperlipidemia
+T26	test 934 957	percutaneous evaluation
+T27	treatment 971 983	intervention
+T28	problem 990 1007	her known disease
+T29	uncertain 1016 1027	possibility
+T30	problem 1031 1050	disease progression
+T31	treatment 1174 1187	her procedure
+T32	strength 1305 1307	1%
+T33	drug 1308 1317	lidocaine
+T34	treatment 1325 1342	a 6-French sheath
+T35	test 1420 1440	Coronary angiography
+T36	test 1445 1473	left ventricular measurement
+T37	test 1478 1489	angiography
+T38	treatment 1660 1692	the saphenous vein graft conduit
+T39	treatment 1708 1742	a 6-French angled pigtail catheter
+T40	test 1763 1789	left ventricular pressures
+T41	treatment 1805 1822	a power injection
+T42	test 1824 1845	a left ventriculogram
+T43	labvalue 1849 1853	8 mL
+T44	test 1908 1933	the diagnostic evaluation
+T45	test 1951 2002	selective arteriography of her right femoral artery
+T46	bodyloc 2021 2041	right femoral artery
+T47	problem 2056 2090	significant atherosclerotic plaque
+T48	test 2193 2207	an arteriotomy
+T49	treatment 2312 2329	a Perclose device
+T50	treatment 2346 2356	the device
+T51	treatment 2442 2454	the Perclose
+T52	treatment 2555 2576	a 6-French Angio-Seal
+T53	treatment 2644 2654	hemostasis
+T54	treatment 2744 2755	her bedrest
+T55	problem 2808 2831	Opening aortic pressure
+T56	bodyloc 2816 2822	aortic
+T57	test 2840 2865	left ventricular pressure
+T58	labvalue 2866 2871	108/4
+T59	test 2877 2902	an end-diastolic pressure
+T60	labvalue 2906 2908	16
+T61	negation 2920 2922	no
+T62	problem 2923 2967	significant gradient across the aortic valve
+T63	bodyloc 2955 2967	aortic valve
+T64	test 3005 3039	Left ventricular ejection fraction
+T65	labvalue 3044 3047	55%
+T66	problem 3049 3069	Mitral regurgitation
+T67	bodyloc 3049 3055	Mitral
+T68	test 3152 3170	CORONARY ANGIOGRAM
+T69	problem 3206 3233	mild atherosclerotic plaque
+T70	severity 3206 3210	mild
+T71	bodyloc 3248 3251	LAD
+T72	problem 3261 3269	occluded
+T73	bodyloc 3275 3290	left circumflex
+T74	problem 3295 3330	mild diffuse atherosclerotic plaque
+T75	severity 3295 3299	mild
+T76	problem 3389 3421	a mid approximately 80% stenosis
+T77	treatment 3478 3497	a prior anastomosis
+T78	treatment 3499 3533	the saphenous vein graft to the OM
+T79	problem 3682 3726	mild proximal and mid atherosclerotic plaque
+T80	severity 3682 3686	mild
+T81	problem 3765 3792	an approximate 40% stenosis
+T82	bodyloc 3798 3831	posterior left ventricular branch
+T83	problem 3857 3865	stenosis
+T84	problem 3900 3908	stenosis
+T85	treatment 3910 3951	The saphenous vein graft to the right PDA
+T86	treatment 4048 4083	the saphenous vein graft to the PDA
+T87	problem 4150 4161	PLV disease
+T88	problem 4192 4244	some retrograde filling of the right coronary artery
+T89	bodyloc 4223 4244	right coronary artery
+T90	treatment 4264 4274	this graft
+T91	treatment 4276 4332	The saphenous vein graft to the left anterior descending
+T92	problem 4436 4459	some retrograde filling
+T93	treatment 4523 4570	The saphenous vein graft to the obtuse marginal
+T94	bodyloc 4527 4547	saphenous vein graft
+T95	problem 4587 4595	occluded
+T96	test 4601 4616	the prior study
+T97	temporal 4620 4624	2004
+T98	test 4635 4645	this study
+T99	treatment 4684 4697	the procedure
+T100	temporal 4711 4715	2004
+T101	bodyloc 4743 4746	LAD
+T102	problem 4747 4775	mild left circumflex disease
+T103	severity 4747 4751	mild
+T104	bodyloc 4752 4767	left circumflex
+T105	problem 4823 4836	an 80% lesion
+T106	treatment 4870 4895	percutaneous intervention
+T107	bodyloc 4908 4929	right coronary artery
+T108	problem 4934 4965	mild to moderate distal disease
+T109	severity 4934 4938	mild
+T110	severity 4942 4950	moderate
+T111	problem 4971 4983	moderate PLV
+T112	severity 4971 4979	moderate
+T113	problem 4988 4999	PDA disease
+T114	bodyloc 4988 4991	PDA
+T115	treatment 5001 5035	The saphenous vein graft to the OM
+T116	bodyloc 5005 5025	saphenous vein graft
+T117	problem 5056 5064	occluded
+T118	treatment 5066 5101	The saphenous vein graft to the PDA
+T119	treatment 5106 5141	the saphenous vein graft to the LAD
+T120	treatment 5222 5247	continued medical therapy
+T121	treatment 5252 5276	risk factor modification
+T122	treatment 5278 5307	Aggressive antihyperlipidemic
+T123	treatment 5312 5336	antihypertensive control
+T124	drug 5312 5328	antihypertensive
+T125	test 5357 5360	LDL
+T126	test 5389 5407	triglyceride level
+T127	labvalue 5420 5423	150
+T128	treatment 5488 5499	her bedrest
+T129	test 5653 5688	a carotid duplex Doppler ultrasound
+T130	uncertain 5692 5700	evaluate
+T131	problem 5701 5719	her carotid bruits
+T132	bodyloc 5705 5712	carotid
+T133	treatment 5731 5738	surgery
+T134	test 5740 5755	catheterization
+T135	treatment 5757 5767	vein graft
+T136	test 5769 5780	angiography
+T137	test 5782 5791	angiogram
+T138	treatment 5793 5803	angio-seal
+T139	treatment 5805 5819	closure device
+T140	problem 5821 5859	coronary atherosclerotic heart disease
+T141	bodyloc 5846 5851	heart
+T142	treatment 5861 5881	saphenous vein graft
+T143	test 5883 5903	ventricular pressure
+T144	problem 5938 5953	atherosclerotic
+R1	hasAttr Arg1:T33 Arg2:T32
+R2	hasAttr Arg1:T69 Arg2:T70
+R3	hasAttr Arg1:T74 Arg2:T73
+R4	hasAttr Arg1:T102 Arg2:T103
+R5	hasAttr Arg1:T140 Arg2:T141
+R6	hasAttr Arg1:T17 Arg2:T18
+R7	hasAttr Arg1:T131 Arg2:T132
+R8	hasAttr Arg1:T74 Arg2:T75
+R9	hasAttr Arg1:T88 Arg2:T89
+R10	hasAttr Arg1:T66 Arg2:T67
+R11	hasAttr Arg1:T117 Arg2:T116
+R12	hasAttr Arg1:T30 Arg2:T29
+R13	hasAttr Arg1:T111 Arg2:T112
+R14	hasAttr Arg1:T108 Arg2:T107
+R15	hasAttr Arg1:T131 Arg2:T130
+R16	hasAttr Arg1:T72 Arg2:T71
+R17	hasAttr Arg1:T15 Arg2:T16
+R18	hasAttr Arg1:T21 Arg2:T22
+R19	hasAttr Arg1:T55 Arg2:T56
+R20	hasAttr Arg1:T95 Arg2:T94
+R21	hasAttr Arg1:T83 Arg2:T82
+R22	hasAttr Arg1:T102 Arg2:T101
+R23	hasAttr Arg1:T62 Arg2:T63
+R24	hasAttr Arg1:T102 Arg2:T104
+R25	hasAttr Arg1:T113 Arg2:T114
+R26	hasAttr Arg1:T79 Arg2:T80
+R27	hasAttr Arg1:T108 Arg2:T110
+R28	hasAttr Arg1:T62 Arg2:T61
+R29	hasAttr Arg1:T108 Arg2:T109
+R30	hasAttr Arg1:T47 Arg2:T46
+R31	hasAttr Arg1:T57 Arg2:T58
+R32	hasAttr Arg1:T64 Arg2:T65
+R33	hasAttr Arg1:T126 Arg2:T127
+R34	hasAttr Arg1:T59 Arg2:T60
+R35	hasAttr Arg1:T42 Arg2:T43
+R36	hasTemporal Arg1:T19 Arg2:T20
+R37	hasTemporal Arg1:T95 Arg2:T97
+R38	hasTemporal Arg1:T96 Arg2:T97
+R39	hasTemporal Arg1:T99 Arg2:T100

@@ -1,0 +1,124 @@
+T1	test 63 83	Female Physical Exam
+T2	test 108 128	female physical exam
+T3	test 264 285	Extraocular movements
+T4	negation 368 375	without
+T5	problem 376 384	erythema
+T6	problem 388 395	exudate
+T7	negation 410 417	without
+T8	problem 418 433	lymphadenopathy
+T9	problem 437 448	thyromegaly
+T10	negation 480 482	no
+T11	problem 483 508	jugular venous distention
+T12	bodyloc 483 497	jugular venous
+T13	labvalue 517 522	Clear
+T14	test 526 538	auscultation
+T15	labvalue 568 575	Regular
+T16	test 576 580	rate
+T17	test 585 591	rhythm
+T18	negation 592 599	without
+T19	problem 600 602	S3
+T20	problem 604 606	S4
+T21	negation 608 610	No
+T22	problem 611 618	murmurs
+T23	problem 622 626	rubs
+T24	test 644 661	Peripheral pulses
+T25	labvalue 666 668	+2
+T26	labvalue 760 768	positive
+T27	test 769 781	bowel sounds
+T28	negation 783 785	No
+T29	problem 786 792	masses
+T30	problem 794 806	hepatomegaly
+T31	problem 810 822	splenomegaly
+T32	test 886 899	Speculum exam
+T33	labvalue 908 944	vaginal mucosa to be pink and rugous
+T34	test 969 982	Bimanual exam
+T35	labvalue 1011 1017	normal
+T36	bodyloc 1026 1032	Adnexa
+T37	negation 1044 1051	without
+T38	problem 1052 1058	masses
+T39	negation 1081 1083	no
+T40	problem 1084 1110	cervical motion tenderness
+T41	bodyloc 1084 1092	cervical
+T42	labvalue 1125 1131	Normal
+T43	test 1132 1143	rectal tone
+T44	negation 1145 1147	No
+T45	problem 1148 1154	masses
+T46	test 1172 1181	Hemoccult
+T47	labvalue 1185 1193	negative
+T48	negation 1215 1217	no
+T49	problem 1218 1226	clubbing
+T50	problem 1228 1236	cyanosis
+T51	problem 1241 1246	edema
+T52	negation 1268 1270	no
+T53	problem 1271 1284	tenosynovitis
+T54	negation 1322 1329	without
+T55	problem 1330 1335	lumps
+T56	problem 1339 1345	masses
+T57	negation 1357 1359	no
+T58	problem 1360 1389	skin changes over the breasts
+T59	bodyloc 1360 1364	skin
+T60	bodyloc 1382 1389	breasts
+T61	bodyloc 1391 1398	Axillae
+T62	negation 1403 1410	free of
+T63	problem 1411 1417	masses
+T64	test 1481 1495	Motor strength
+T65	labvalue 1499 1502	5/5
+T66	test 1538 1558	Deep tendon reflexes
+T67	labvalue 1563 1567	+2/4
+T68	negation 1673 1675	No
+T69	problem 1676 1683	lesions
+T70	problem 1687 1693	rashes
+T71	test 1723 1750	female physical examination
+T72	test 1752 1765	bimanual exam
+T73	test 1774 1783	hemoccult
+T74	test 1881 1891	joint exam
+T75	test 1893 1908	lymphadenopathy
+T76	test 1928 1948	physical examination
+T77	test 1950 1961	rectal exam
+T78	problem 1963 1975	skin changes
+T79	bodyloc 1963 1967	skin
+T80	test 1977 1990	speculum exam
+T81	problem 2022 2028	masses
+R1	hasAttr Arg1:T6 Arg2:T4
+R2	hasAttr Arg1:T5 Arg2:T4
+R3	hasAttr Arg1:T8 Arg2:T7
+R4	hasAttr Arg1:T9 Arg2:T7
+R5	hasAttr Arg1:T11 Arg2:T10
+R6	hasAttr Arg1:T11 Arg2:T12
+R7	hasAttr Arg1:T14 Arg2:T13
+R8	hasAttr Arg1:T17 Arg2:T15
+R9	hasAttr Arg1:T16 Arg2:T15
+R10	hasAttr Arg1:T19 Arg2:T18
+R11	hasAttr Arg1:T20 Arg2:T18
+R12	hasAttr Arg1:T22 Arg2:T21
+R13	hasAttr Arg1:T23 Arg2:T21
+R14	hasAttr Arg1:T24 Arg2:T25
+R15	hasAttr Arg1:T27 Arg2:T26
+R16	hasAttr Arg1:T29 Arg2:T28
+R17	hasAttr Arg1:T30 Arg2:T28
+R18	hasAttr Arg1:T31 Arg2:T28
+R19	hasAttr Arg1:T32 Arg2:T33
+R20	hasAttr Arg1:T34 Arg2:T35
+R21	hasAttr Arg1:T38 Arg2:T36
+R22	hasAttr Arg1:T38 Arg2:T37
+R23	hasAttr Arg1:T40 Arg2:T39
+R24	hasAttr Arg1:T40 Arg2:T41
+R25	hasAttr Arg1:T43 Arg2:T42
+R26	hasAttr Arg1:T45 Arg2:T44
+R27	hasAttr Arg1:T46 Arg2:T47
+R28	hasAttr Arg1:T50 Arg2:T48
+R29	hasAttr Arg1:T49 Arg2:T48
+R30	hasAttr Arg1:T51 Arg2:T48
+R31	hasAttr Arg1:T53 Arg2:T52
+R32	hasAttr Arg1:T55 Arg2:T54
+R33	hasAttr Arg1:T56 Arg2:T54
+R34	hasAttr Arg1:T58 Arg2:T57
+R35	hasAttr Arg1:T58 Arg2:T60
+R36	hasAttr Arg1:T58 Arg2:T59
+R37	hasAttr Arg1:T63 Arg2:T61
+R38	hasAttr Arg1:T63 Arg2:T62
+R39	hasAttr Arg1:T64 Arg2:T65
+R40	hasAttr Arg1:T66 Arg2:T67
+R41	hasAttr Arg1:T69 Arg2:T68
+R42	hasAttr Arg1:T70 Arg2:T68
+R43	hasAttr Arg1:T78 Arg2:T79

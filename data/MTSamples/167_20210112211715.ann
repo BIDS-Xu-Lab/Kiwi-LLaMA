@@ -1,0 +1,291 @@
+T1	problem 96 120	Right-sided facial droop
+T2	bodyloc 96 114	Right-sided facial
+T3	problem 125 145	right-sided weakness
+T4	bodyloc 125 136	right-sided
+T5	temporal 147 153	Recent
+T6	problem 154 178	cerebrovascular accident
+T7	test 180 202	he CT scan of the head
+T8	negation 203 219	did not show any
+T9	problem 220 232	acute events
+T10	course 220 225	acute
+T11	problem 256 292	a new-onset cerebrovascular accident
+T12	course 258 267	new-onset
+T13	problem 349 373	Right-sided facial droop
+T14	bodyloc 349 367	Right-sided facial
+T15	problem 378 398	right-sided weakness
+T16	bodyloc 378 389	right-sided
+T17	problem 535 543	a stroke
+T18	problem 548 556	dementia
+T19	problem 562 580	expressive aphasia
+T20	problem 603 629	a right-sided facial droop
+T21	bodyloc 605 623	right-sided facial
+T22	test 677 695	further evaluation
+T23	problem 750 790	the right-sided upper extremity weakness
+T24	bodyloc 754 781	right-sided upper extremity
+T25	problem 795 819	right-sided facial droop
+T26	bodyloc 795 813	right-sided facial
+T27	test 821 844	The CT scan of the head
+T28	negation 845 861	did not show any
+T29	problem 862 874	acute events
+T30	course 862 867	acute
+T31	problem 898 934	a new-onset cerebrovascular accident
+T32	course 900 909	new-onset
+T33	problem 1039 1062	urinary tract infection
+T34	bodyloc 1039 1052	urinary tract
+T35	problem 1074 1083	resistant
+T36	drug 1087 1107	all oral medications
+T37	problem 1109 1118	ALLERGIES
+T38	problem 1127 1135	ALLERGIC
+T39	drug 1139 1149	PENICILLIN
+T40	problem 1312 1336	Cerebrovascular accident
+T41	problem 1342 1360	expressive aphasia
+T42	problem 1365 1389	lower extremity weakness
+T43	bodyloc 1365 1380	lower extremity
+T44	problem 1394 1413	Abnormality of gait
+T45	problem 1418 1434	wheelchair bound
+T46	problem 1455 1467	Hypertension
+T47	problem 1472 1509	Chronic obstructive pulmonary disease
+T48	course 1472 1479	Chronic
+T49	bodyloc 1492 1501	pulmonary
+T50	treatment 1514 1526	nasal oxygen
+T51	problem 1531 1547	Anxiety disorder
+T52	problem 1552 1560	Dementia
+T53	treatment 1597 1612	left mastectomy
+T54	problem 1626 1639	breast cancer
+T55	bodyloc 1626 1632	breast
+T56	treatment 1656 1678	right knee replacement
+T57	problem 1692 1706	osteoarthritis
+T58	problem 1738 1776	the patient's inability to communicate
+T59	problem 1821 1839	urine incontinence
+T60	problem 1849 1867	stool incontinence
+T61	test 2058 2069	VITAL SIGNS
+T62	test 2071 2082	Temperature
+T63	labvalue 2086 2090	99.6
+T64	test 2092 2097	pulse
+T65	labvalue 2101 2104	101
+T66	test 2106 2118	respirations
+T67	labvalue 2119 2121	18
+T68	test 2127 2141	blood pressure
+T69	labvalue 2152 2158	218/97
+T70	problem 2284 2317	a slight right-sided facial droop
+T71	severity 2286 2292	slight
+T72	bodyloc 2293 2311	right-sided facial
+T73	problem 2344 2393	the missing teeth on the upper and the lower part
+T74	bodyloc 2356 2361	teeth
+T75	negation 2448 2450	no
+T76	problem 2451 2464	carotid bruit
+T77	bodyloc 2451 2458	carotid
+T78	negation 2466 2468	No
+T79	problem 2469 2488	cervical adenopathy
+T80	bodyloc 2469 2477	cervical
+T81	labvalue 2499 2506	Regular
+T82	test 2507 2511	rate
+T83	test 2516 2522	rhythm
+T84	problem 2528 2547	2/6 systolic murmur
+T85	severity 2528 2531	2/6
+T86	labvalue 2574 2579	Clear
+T87	test 2583 2595	auscultation
+T88	negation 2615 2617	no
+T89	problem 2618 2628	tenderness
+T90	test 2630 2641	Bowel sound
+T91	labvalue 2645 2652	present
+T92	negation 2676 2678	no
+T93	problem 2679 2690	pedal edema
+T94	bodyloc 2679 2684	pedal
+T95	bodyloc 2692 2702	Both knees
+T96	problem 2756 2793	fixed flexion deformity on both sides
+T97	bodyloc 2783 2793	both sides
+T98	problem 2816 2847	right-sided slight facial droop
+T99	severity 2828 2834	slight
+T100	bodyloc 2835 2841	facial
+T101	problem 2899 2935	withdrawal of both lower extremities
+T102	bodyloc 2913 2935	both lower extremities
+T103	test 2939 2968	touching her sole of the feet
+T104	problem 2985 3063	about 2 cm first turning to second-degree pressure ulcer on the right buttocks
+T105	bodyloc 3049 3063	right buttocks
+T106	test 3082 3105	The CT scan of the head
+T107	problem 3112 3125	brain atrophy
+T108	bodyloc 3112 3117	brain
+T109	negation 3131 3133	no
+T110	problem 3134 3146	acute events
+T111	course 3134 3139	acute
+T112	test 3148 3154	Sodium
+T113	labvalue 3158 3161	137
+T114	test 3163 3172	potassium
+T115	labvalue 3173 3176	3.7
+T116	test 3178 3186	chloride
+T117	labvalue 3187 3190	102
+T118	test 3192 3203	bicarbonate
+T119	labvalue 3204 3206	24
+T120	test 3208 3211	BUN
+T121	labvalue 3215 3217	22
+T122	test 3219 3229	creatinine
+T123	labvalue 3230 3233	0.5
+T124	test 3239 3246	glucose
+T125	labvalue 3250 3252	92
+T126	test 3254 3282	Total white blood cell count
+T127	labvalue 3286 3292	8.9000
+T128	test 3294 3304	hemoglobin
+T129	labvalue 3305 3309	14.4
+T130	test 3311 3321	hematocrit
+T131	labvalue 3322 3326	42.7
+T132	test 3332 3350	the platelet count
+T133	labvalue 3354 3361	184,000
+T134	test 3363 3377	The urinalysis
+T135	labvalue 3392 3395	100
+T136	test 3396 3413	white blood cells
+T137	labvalue 3418 3423	10-25
+T138	test 3424 3439	red blood cells
+T139	temporal 3441 3447	Recent
+T140	test 3448 3455	culture
+T141	problem 3463 3500	more than 100,000 colonies of E. coli
+T142	problem 3502 3511	resistant
+T143	drug 3515 3545	most of the tested medications
+T144	drug 3553 3561	amikacin
+T145	drug 3563 3577	nitrofurantoin
+T146	drug 3579 3587	imipenem
+T147	drug 3593 3602	meropenem
+T148	temporal 3619 3625	Recent
+T149	problem 3626 3650	cerebrovascular accident
+T150	problem 3656 3676	right-sided weakness
+T151	bodyloc 3656 3667	right-sided
+T152	problem 3681 3693	Hypertension
+T153	problem 3698 3706	Dementia
+T154	problem 3711 3718	Anxiety
+T155	problem 3723 3746	Urinary tract infection
+T156	bodyloc 3723 3736	Urinary tract
+T157	problem 3751 3770	Abnormality of gait
+T158	problem 3784 3808	lower extremity weakness
+T159	bodyloc 3784 3799	lower extremity
+T160	test 3851 3874	a swallowing evaluation
+T161	route 3906 3908	IV
+T162	drug 3909 3916	Vasotec
+T163	frequency 3917 3930	every 4 hours
+T164	frequency 3931 3937	p.r.n.
+T165	test 3938 3961	systolic blood pressure
+T166	labvalue 3962 3975	more than 170
+T167	test 3977 3988	Neuro check
+T168	drug 4038 4046	amikacin
+T169	route 4047 4049	IV
+T170	drug 4085 4092	Lovenox
+T171	route 4093 4107	subcutaneously
+T172	strength 4108 4113	40 mg
+T173	frequency 4114 4123	every day
+T174	drug 4154 4161	Ecotrin
+T175	test 4165 4186	swallowing evaluation
+T176	drug 4204 4220	home medications
+T177	drug 4246 4253	Aricept
+T178	strength 4254 4259	10 mg
+T179	route 4260 4264	p.o.
+T180	frequency 4265 4270	daily
+T181	drug 4272 4278	Diovan
+T182	strength 4279 4285	160 mg
+T183	route 4286 4290	p.o.
+T184	frequency 4291 4296	daily
+T185	drug 4298 4310	multivitamin
+T186	drug 4312 4334	calcium with vitamin D
+T187	drug 4336 4343	Ecotrin
+T188	drug 4349 4356	Tylenol
+T189	frequency 4357 4362	p.r.n
+T190	treatment 4389 4398	IV fluids
+T191	drug 4421 4439	a D5 normal saline
+T192	dosage 4456 4461	75 mL
+T193	frequency 4462 4469	an hour
+T194	drug 4481 4490	potassium
+T195	dosage 4491 4509	10 mEq per 1000 mL
+T196	problem 4585 4597	hypertension
+T197	problem 4599 4619	right-sided weakness
+T198	problem 4621 4633	facial droop
+T199	bodyloc 4621 4627	facial
+T200	problem 4635 4651	wheelchair bound
+T201	test 4653 4667	blood pressure
+T202	test 4669 4690	swallowing evaluation
+T203	problem 4692 4716	cerebrovascular accident
+T204	problem 4718 4726	weakness
+R1	hasAttr Arg1:T1 Arg2:T2
+R2	hasAttr Arg1:T3 Arg2:T4
+R3	hasAttr Arg1:T6 Arg2:T5
+R4	hasAttr Arg1:T9 Arg2:T8
+R5	hasAttr Arg1:T9 Arg2:T10
+R6	hasAttr Arg1:T11 Arg2:T12
+R7	hasAttr Arg1:T13 Arg2:T14
+R8	hasAttr Arg1:T15 Arg2:T16
+R9	hasAttr Arg1:T20 Arg2:T21
+R10	hasAttr Arg1:T23 Arg2:T24
+R11	hasAttr Arg1:T25 Arg2:T26
+R12	hasAttr Arg1:T29 Arg2:T28
+R13	hasAttr Arg1:T29 Arg2:T30
+R14	hasAttr Arg1:T31 Arg2:T32
+R15	hasAttr Arg1:T33 Arg2:T34
+R16	hasAttr Arg1:T42 Arg2:T43
+R17	hasAttr Arg1:T47 Arg2:T48
+R18	hasAttr Arg1:T47 Arg2:T49
+R19	hasAttr Arg1:T54 Arg2:T55
+R20	hasAttr Arg1:T62 Arg2:T63
+R21	hasAttr Arg1:T64 Arg2:T65
+R22	hasAttr Arg1:T66 Arg2:T67
+R23	hasAttr Arg1:T68 Arg2:T69
+R24	hasAttr Arg1:T70 Arg2:T72
+R25	hasAttr Arg1:T70 Arg2:T71
+R26	hasAttr Arg1:T73 Arg2:T74
+R27	hasAttr Arg1:T76 Arg2:T75
+R28	hasAttr Arg1:T76 Arg2:T77
+R29	hasAttr Arg1:T79 Arg2:T78
+R30	hasAttr Arg1:T79 Arg2:T80
+R31	hasAttr Arg1:T83 Arg2:T81
+R32	hasAttr Arg1:T82 Arg2:T81
+R33	hasAttr Arg1:T84 Arg2:T85
+R34	hasAttr Arg1:T87 Arg2:T86
+R35	hasAttr Arg1:T89 Arg2:T88
+R36	hasAttr Arg1:T90 Arg2:T91
+R37	hasAttr Arg1:T93 Arg2:T92
+R38	hasAttr Arg1:T93 Arg2:T94
+R39	hasAttr Arg1:T96 Arg2:T95
+R40	hasAttr Arg1:T96 Arg2:T97
+R41	hasAttr Arg1:T98 Arg2:T99
+R42	hasAttr Arg1:T98 Arg2:T100
+R43	hasAttr Arg1:T101 Arg2:T102
+R44	hasAttr Arg1:T104 Arg2:T105
+R45	hasAttr Arg1:T107 Arg2:T108
+R46	hasAttr Arg1:T110 Arg2:T109
+R47	hasAttr Arg1:T110 Arg2:T111
+R48	hasAttr Arg1:T112 Arg2:T113
+R49	hasAttr Arg1:T114 Arg2:T115
+R50	hasAttr Arg1:T116 Arg2:T117
+R51	hasAttr Arg1:T118 Arg2:T119
+R52	hasAttr Arg1:T120 Arg2:T121
+R53	hasAttr Arg1:T122 Arg2:T123
+R54	hasAttr Arg1:T124 Arg2:T125
+R55	hasAttr Arg1:T126 Arg2:T127
+R56	hasAttr Arg1:T128 Arg2:T129
+R57	hasAttr Arg1:T130 Arg2:T131
+R58	hasAttr Arg1:T132 Arg2:T133
+R59	hasAttr Arg1:T134 Arg2:T135
+R60	hasAttr Arg1:T136 Arg2:T137
+R61	hasAttr Arg1:T140 Arg2:T139
+R62	hasAttr Arg1:T149 Arg2:T148
+R63	hasAttr Arg1:T150 Arg2:T151
+R64	hasAttr Arg1:T155 Arg2:T156
+R65	hasAttr Arg1:T158 Arg2:T159
+R66	hasAttr Arg1:T162 Arg2:T161
+R67	hasAttr Arg1:T162 Arg2:T164
+R68	hasAttr Arg1:T162 Arg2:T163
+R69	hasAttr Arg1:T165 Arg2:T166
+R70	hasAttr Arg1:T168 Arg2:T169
+R71	hasAttr Arg1:T170 Arg2:T171
+R72	hasAttr Arg1:T170 Arg2:T173
+R73	hasAttr Arg1:T170 Arg2:T172
+R74	hasAttr Arg1:T177 Arg2:T180
+R75	hasAttr Arg1:T177 Arg2:T179
+R76	hasAttr Arg1:T177 Arg2:T178
+R77	hasAttr Arg1:T181 Arg2:T184
+R78	hasAttr Arg1:T181 Arg2:T183
+R79	hasAttr Arg1:T181 Arg2:T182
+R80	hasAttr Arg1:T185 Arg2:T189
+R81	hasAttr Arg1:T186 Arg2:T189
+R82	hasAttr Arg1:T187 Arg2:T189
+R83	hasAttr Arg1:T188 Arg2:T189
+R84	hasAttr Arg1:T191 Arg2:T193
+R85	hasAttr Arg1:T191 Arg2:T192
+R86	hasAttr Arg1:T194 Arg2:T195
+R87	hasAttr Arg1:T198 Arg2:T199

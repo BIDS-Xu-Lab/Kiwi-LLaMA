@@ -1,0 +1,113 @@
+T1	problem 201 218	diabetes mellitus
+T2	problem 220 240	hypercholesterolemia
+T3	problem 246 255	sinusitis
+T4	problem 313 330	diabetes mellitus
+T5	temporal 331 340	last fall
+T6	test 364 378	her Accu-Cheks
+T7	problem 587 608	some sinus congestion
+T8	problem 613 621	drainage
+T9	temporal 626 647	the last several days
+T10	test 670 683	her mammogram
+T11	treatment 744 766	her gynecological care
+T12	negation 788 794	Denies
+T13	problem 795 809	abdominal pain
+T14	bodyloc 795 804	abdominal
+T15	problem 811 817	nausea
+T16	problem 819 827	vomiting
+T17	problem 829 837	diarrhea
+T18	problem 839 851	constipation
+T19	problem 853 871	blood in her urine
+T20	problem 873 892	blood in her stools
+T21	problem 902 910	nocturia
+T22	negation 916 922	Denies
+T23	problem 923 945	swelling in her ankles
+T24	bodyloc 939 945	ankles
+T25	test 1094 1100	Vitals
+T26	test 1102 1104	Wt
+T27	labvalue 1106 1109	185
+T28	test 1110 1113	B/P
+T29	labvalue 1115 1121	142/70
+T30	test 1200 1201	T
+T31	labvalue 1203 1207	96.5
+T32	test 1208 1209	P
+T33	labvalue 1211 1213	84
+T34	negation 1261 1282	does not appear to be
+T35	problem 1286 1300	acute distress
+T36	problem 1317 1368	frontal and maxillary sinus tenderness on the right
+T37	bodyloc 1317 1324	frontal
+T38	bodyloc 1329 1344	maxillary sinus
+T39	bodyloc 1363 1368	right
+T40	test 1372 1381	palpation
+T41	bodyloc 1387 1395	right TM
+T42	problem 1399 1412	slightly dull
+T43	negation 1483 1485	No
+T44	problem 1486 1494	swelling
+T45	problem 1511 1531	Hypercholesterolemia
+T46	problem 1536 1553	Diabetes mellitus
+T47	problem 1558 1567	Sinusitis
+T48	drug 1578 1587	Allegra D
+T49	dosage 1588 1589	1
+T50	route 1590 1593	p.o
+T51	frequency 1595 1600	b.i.d
+T52	duration 1604 1610	3 days
+T53	drug 1615 1622	Allegra
+T54	strength 1623 1629	180 mg
+T55	frequency 1630 1635	daily
+T56	duration 1638 1644	7 days
+T57	test 1658 1661	A1c
+T58	test 1663 1666	BMP
+T59	test 1668 1681	lipid profile
+T60	test 1683 1686	TSH
+T61	treatment 1755 1766	colonoscopy
+T62	problem 1836 1848	occult blood
+T63	treatment 1872 1885	a colonoscopy
+T64	problem 1900 1915	an early cancer
+T65	treatment 1920 1924	Diet
+T66	treatment 1926 1934	exercise
+T67	treatment 1936 1947	weight loss
+T68	test 1994 2003	her tests
+T69	drug 2017 2034	her prescriptions
+T70	temporal 2037 2045	6 months
+T71	problem 2075 2092	diabetes mellitus
+T72	test 2094 2104	accu-cheks
+T73	problem 2106 2115	sinusitis
+T74	problem 2117 2131	abdominal pain
+T75	problem 2133 2145	constipation
+T76	problem 2147 2155	diarrhea
+T77	problem 2157 2177	hypercholesterolemia
+T78	problem 2179 2185	nausea
+T79	problem 2202 2210	vomiting
+T80	problem 2212 2223	weight loss
+T81	problem 2225 2236	colonoscopy
+T82	problem 2238 2246	diabetes
+R1	hasAttr Arg1:T4 Arg2:T5
+R2	hasAttr Arg1:T7 Arg2:T9
+R3	hasAttr Arg1:T8 Arg2:T9
+R4	hasAttr Arg1:T16 Arg2:T12
+R5	hasAttr Arg1:T17 Arg2:T12
+R6	hasAttr Arg1:T15 Arg2:T12
+R7	hasAttr Arg1:T18 Arg2:T12
+R8	hasAttr Arg1:T20 Arg2:T12
+R9	hasAttr Arg1:T19 Arg2:T12
+R10	hasAttr Arg1:T13 Arg2:T12
+R11	hasAttr Arg1:T13 Arg2:T14
+R12	hasAttr Arg1:T23 Arg2:T22
+R13	hasAttr Arg1:T23 Arg2:T24
+R14	hasAttr Arg1:T26 Arg2:T27
+R15	hasAttr Arg1:T28 Arg2:T29
+R16	hasAttr Arg1:T30 Arg2:T31
+R17	hasAttr Arg1:T32 Arg2:T33
+R18	hasAttr Arg1:T35 Arg2:T34
+R19	hasAttr Arg1:T36 Arg2:T38
+R20	hasAttr Arg1:T36 Arg2:T37
+R21	hasAttr Arg1:T36 Arg2:T39
+R22	hasAttr Arg1:T42 Arg2:T41
+R23	hasAttr Arg1:T44 Arg2:T43
+R24	hasAttr Arg1:T48 Arg2:T52
+R25	hasAttr Arg1:T48 Arg2:T50
+R26	hasAttr Arg1:T48 Arg2:T49
+R27	hasAttr Arg1:T48 Arg2:T51
+R28	hasAttr Arg1:T53 Arg2:T54
+R29	hasAttr Arg1:T53 Arg2:T55
+R30	hasAttr Arg1:T53 Arg2:T56
+R31	hasAttr Arg1:T69 Arg2:T70

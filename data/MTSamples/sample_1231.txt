@@ -1,0 +1,8 @@
+Sample Type / Medical Specialty:  SOAP / Chart / Progress Notes
+Sample Name: Mesothelioma - Chart Note
+Description:  A woman with end-stage peritoneal mesothelioma with multiple bowel perforations.
+(Medical Transcription Sample Report)
+The Pain Service was asked to see Ms. A, who is a 28-year-old woman with end-stage peritoneal mesothelioma with multiple bowel perforations.  She is n.p.o. and is status post pleurodesis with persistent abdominal pain.
+The patient's home regimen includes Duragesic patch at 125 mcg every 3 days.  She is currently on a Dilaudid PCA of 1 mg every 10 minutes lockout, Dilaudid boluses 2 mg q.3 h. p.r.n., Ativan 2 mg q.4 h., Tylenol per rectum.  The patient was offered multiple procedures to help with her abdominal pain including a thoracic epidural placement for sympathetic block for pain control and a celiac plexuses/neurolytic block.  The patient's family and she will continue to think about these pain procedures and let us know if they are interested in either.  For the moment, we will not make any further recommendations on her current medical management.  We did ask Dr. X, a psychiatrist, who works for the Pain Service to come in and see Ms. A as anxiety is a large component of her suffering at this time.
+Keywords:
+soap / chart / progress notes, pleurodesis, abdominal pain, multiple bowel perforations, peritoneal mesothelioma, mesothelioma, peritoneal,

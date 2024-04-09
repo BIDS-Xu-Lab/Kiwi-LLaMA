@@ -1,0 +1,184 @@
+T1	problem 100 115	Gastroenteritis
+T2	problem 120 126	autism
+T3	problem 142 154	constipation
+T4	temporal 155 169	one week prior
+T5	drug 203 210	MiraLax
+T6	problem 215 231	her constipation
+T7	course 232 240	improved
+T8	problem 300 315	Gastroenteritis
+T9	problem 320 326	Autism
+T10	drug 390 398	Adderall
+T11	drug 403 412	clonidine
+T12	problem 417 457	attention deficit hyperactivity disorder
+T13	temporal 560 572	1 to 2 weeks
+T14	problem 649 655	autism
+T15	drug 701 709	Adderall
+T16	drug 714 723	clonidine
+T17	problem 728 745	her hyperactivity
+T18	problem 761 773	constipation
+T19	temporal 774 788	one week prior
+T20	drug 822 829	MiraLax
+T21	problem 834 850	her constipation
+T22	course 851 859	improved
+T23	course 865 874	developed
+T24	problem 875 883	vomiting
+T25	temporal 884 896	3 days prior
+T26	negation 919 927	not have
+T27	problem 928 936	diarrhea
+T28	test 1008 1018	her weight
+T29	labvalue 1023 1033	124 pounds
+T30	test 1105 1113	a weight
+T31	labvalue 1117 1129	151.5 pounds
+T32	temporal 1131 1141	05/30/2007
+T33	test 1146 1152	weight
+T34	labvalue 1156 1168	137.5 pounds
+T35	temporal 1170 1180	09/11/2007
+T36	test 1247 1258	this weight
+T37	problem 1292 1311	persistent vomiting
+T38	problem 1341 1356	the weight loss
+T39	test 1358 1378	Physical examination
+T40	problem 1438 1464	autistic spectrum disorder
+T41	test 1483 1498	Laboratory data
+T42	test 1508 1526	sedimentation rate
+T43	labvalue 1530 1532	12
+T44	test 1534 1549	magnesium level
+T45	labvalue 1553 1556	2.2
+T46	test 1558 1561	TSH
+T47	labvalue 1565 1569	2.63
+T48	labvalue 1588 1592	0.34
+T49	labvalue 1596 1600	5.60
+T50	test 1602 1609	free T4
+T51	labvalue 1613 1617	1.68
+T52	labvalue 1636 1640	0.58
+T53	labvalue 1644 1648	1.64
+T54	test 1650 1661	Chest x-ray
+T55	test 1666 1681	abdominal films
+T56	test 1701 1711	Hemoglobin
+T57	labvalue 1712 1716	14.5
+T58	test 1718 1728	hematocrit
+T59	labvalue 1729 1733	43.5
+T60	test 1735 1749	platelet count
+T61	labvalue 1750 1757	400,000
+T62	test 1759 1776	white blood count
+T63	labvalue 1777 1783	11,800
+T64	test 1785 1795	Urinalysis
+T65	labvalue 1800 1808	negative
+T66	test 1822 1838	Specific gravity
+T67	labvalue 1839 1844	1.023
+T68	labvalue 1850 1858	negative
+T69	test 1872 1878	Sodium
+T70	labvalue 1879 1882	137
+T71	test 1884 1893	potassium
+T72	labvalue 1894 1897	3.4
+T73	test 1899 1907	chloride
+T74	labvalue 1908 1911	103
+T75	test 1913 1916	CO2
+T76	labvalue 1917 1919	20
+T77	test 1921 1924	BUN
+T78	labvalue 1925 1927	21
+T79	test 1929 1939	creatinine
+T80	labvalue 1940 1943	0.9
+T81	test 1949 1958	anion gap
+T82	labvalue 1959 1961	14
+T83	test 1963 1970	glucose
+T84	labvalue 1971 1973	90
+T85	test 1975 1988	total protein
+T86	labvalue 1989 1992	8.1
+T87	test 1994 2001	albumin
+T88	labvalue 2002 2005	4.5
+T89	test 2007 2014	calcium
+T90	labvalue 2015 2018	8.8
+T91	test 2020 2029	bilirubin
+T92	labvalue 2030 2033	1.5
+T93	test 2035 2038	AST
+T94	labvalue 2039 2041	26
+T95	test 2043 2046	ALT
+T96	labvalue 2047 2049	16
+T97	test 2051 2071	alkaline phosphatase
+T98	labvalue 2072 2075	118
+T99	test 2077 2112	Thyroid peroxidase antibody studies
+T100	treatment 2169 2178	IV fluids
+T101	problem 2359 2374	the weight loss
+T102	test 2393 2403	her weight
+T103	labvalue 2408 2418	124 pounds
+T104	test 2420 2430	her height
+T105	labvalue 2431 2440	58 inches
+T106	test 2442 2453	temperature
+T107	labvalue 2454 2467	98.0 degree F
+T108	test 2470 2475	pulse
+T109	labvalue 2476 2479	123
+T110	test 2481 2493	respirations
+T111	labvalue 2494 2496	18
+T112	test 2498 2512	blood pressure
+T113	labvalue 2513 2519	148/94
+T114	test 2521 2545	Follow up blood pressure
+T115	labvalue 2576 2579	125
+T116	labvalue 2583 2585	70
+T117	problem 2608 2624	her hypertension
+T118	negation 2719 2721	no
+T119	problem 2722 2730	distress
+T120	problem 2825 2852	the unexplained weight loss
+T121	drug 2878 2886	Adderall
+T122	drug 2942 2950	Adderall
+T123	problem 2967 2982	the weight loss
+T124	test 2984 2995	The free T4
+T125	test 3055 3070	further studies
+T126	problem 3075 3089	Graves disease
+T127	problem 3137 3152	gastroenteritis
+T128	problem 3154 3160	autism
+T129	problem 3162 3174	constipation
+T130	problem 3176 3189	hyperactivity
+T131	test 3191 3205	blood pressure
+T132	problem 3207 3218	weight loss
+T133	drug 3220 3228	adderall
+R1	hasAttr Arg1:T3 Arg2:T4
+R2	hasAttr Arg1:T6 Arg2:T7
+R3	hasAttr Arg1:T18 Arg2:T19
+R4	hasAttr Arg1:T21 Arg2:T22
+R5	hasAttr Arg1:T24 Arg2:T23
+R6	hasAttr Arg1:T24 Arg2:T25
+R7	hasAttr Arg1:T27 Arg2:T26
+R8	hasAttr Arg1:T28 Arg2:T29
+R9	hasAttr Arg1:T30 Arg2:T31
+R10	hasAttr Arg1:T30 Arg2:T32
+R11	hasAttr Arg1:T33 Arg2:T35
+R12	hasAttr Arg1:T33 Arg2:T34
+R13	hasAttr Arg1:T42 Arg2:T43
+R14	hasAttr Arg1:T44 Arg2:T45
+R15	hasAttr Arg1:T46 Arg2:T48
+R16	hasAttr Arg1:T46 Arg2:T47
+R17	hasAttr Arg1:T46 Arg2:T49
+R18	hasAttr Arg1:T50 Arg2:T53
+R19	hasAttr Arg1:T50 Arg2:T52
+R20	hasAttr Arg1:T50 Arg2:T51
+R21	hasAttr Arg1:T56 Arg2:T57
+R22	hasAttr Arg1:T58 Arg2:T59
+R23	hasAttr Arg1:T60 Arg2:T61
+R24	hasAttr Arg1:T62 Arg2:T63
+R25	hasAttr Arg1:T64 Arg2:T65
+R26	hasAttr Arg1:T66 Arg2:T67
+R27	hasAttr Arg1:T66 Arg2:T68
+R28	hasAttr Arg1:T69 Arg2:T70
+R29	hasAttr Arg1:T71 Arg2:T72
+R30	hasAttr Arg1:T73 Arg2:T74
+R31	hasAttr Arg1:T75 Arg2:T76
+R32	hasAttr Arg1:T77 Arg2:T78
+R33	hasAttr Arg1:T79 Arg2:T80
+R34	hasAttr Arg1:T81 Arg2:T82
+R35	hasAttr Arg1:T83 Arg2:T84
+R36	hasAttr Arg1:T85 Arg2:T86
+R37	hasAttr Arg1:T87 Arg2:T88
+R38	hasAttr Arg1:T89 Arg2:T90
+R39	hasAttr Arg1:T91 Arg2:T92
+R40	hasAttr Arg1:T93 Arg2:T94
+R41	hasAttr Arg1:T95 Arg2:T96
+R42	hasAttr Arg1:T97 Arg2:T98
+R43	hasAttr Arg1:T102 Arg2:T103
+R44	hasAttr Arg1:T104 Arg2:T105
+R45	hasAttr Arg1:T106 Arg2:T107
+R46	hasAttr Arg1:T108 Arg2:T109
+R47	hasAttr Arg1:T110 Arg2:T111
+R48	hasAttr Arg1:T112 Arg2:T113
+R49	hasAttr Arg1:T114 Arg2:T116
+R50	hasAttr Arg1:T114 Arg2:T115
+R51	hasAttr Arg1:T119 Arg2:T118

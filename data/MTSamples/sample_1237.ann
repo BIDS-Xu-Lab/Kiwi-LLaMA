@@ -1,0 +1,73 @@
+T1	treatment 84 98	Gastric Bypass
+T2	problem 134 148	morbid obesity
+T3	course 134 140	morbid
+T4	problem 294 308	Morbid obesity
+T5	course 294 300	Morbid
+T6	test 310 313	BMI
+T7	labvalue 317 320	51.
+T8	problem 342 356	Morbid obesity
+T9	course 342 348	Morbid
+T10	test 358 361	BMI
+T11	labvalue 365 367	51
+T12	treatment 380 407	Laparoscopic gastric bypass
+T13	treatment 436 446	Anesthesia
+T14	problem 451 455	pain
+T15	problem 533 547	morbid obesity
+T16	course 533 539	morbid
+T17	test 653 674	a preoperative workup
+T18	treatment 693 707	gastric bypass
+T19	treatment 768 781	her procedure
+T20	treatment 816 829	her procedure
+T21	treatment 900 909	procedure
+T22	labvalue 1025 1031	normal
+T23	test 1032 1036	labs
+T24	treatment 1061 1080	a clear liquid diet
+T25	temporal 1167 1172	Today
+T26	problem 1232 1236	Pain
+T27	route 1253 1257	p.o.
+T28	drug 1258 1271	pain medicine
+T29	treatment 1315 1328	a liquid diet
+T30	treatment 1390 1399	Her drain
+T31	treatment 1442 1453	Liquid diet
+T32	treatment 1509 1525	No heavy lifting
+T33	treatment 1631 1648	maintain mobility
+T34	treatment 1650 1660	No driving
+T35	drug 1731 1753	narcotic pain medicine
+T36	problem 1789 1799	her wounds
+T37	test 1865 1889	postoperative evaluation
+T38	problem 1937 1956	shortness of breath
+T39	problem 1958 1968	chest pain
+T40	bodyloc 1958 1963	chest
+T41	problem 1970 1979	calf pain
+T42	bodyloc 1970 1974	calf
+T43	test 1981 1992	temperature
+T44	labvalue 2006 2011	101.5
+T45	problem 2013 2024	any redness
+T46	problem 2026 2034	swelling
+T47	problem 2039 2077	foul smelling drainage from her wounds
+T48	problem 2079 2097	intractable nausea
+T49	problem 2099 2107	vomiting
+T50	problem 2113 2127	abdominal pain
+T51	bodyloc 2113 2122	abdominal
+T52	drug 2162 2187	her discharge medications
+T53	drug 2240 2253	Lortab Elixir
+T54	drug 2255 2263	Flexeril
+T55	drug 2265 2273	ursodiol
+T56	drug 2279 2285	Colace
+T57	treatment 2316 2343	laparoscopic gastric bypass
+T58	treatment 2345 2359	gastric bypass
+T59	problem 2361 2375	morbid obesity
+T60	treatment 2377 2388	liquid diet
+T61	test 2390 2393	bmi
+R1	hasAttr Arg1:T2 Arg2:T3
+R2	hasAttr Arg1:T4 Arg2:T5
+R3	hasAttr Arg1:T6 Arg2:T7
+R4	hasAttr Arg1:T8 Arg2:T9
+R5	hasAttr Arg1:T10 Arg2:T11
+R6	hasAttr Arg1:T15 Arg2:T16
+R7	hasAttr Arg1:T23 Arg2:T22
+R8	hasAttr Arg1:T28 Arg2:T27
+R9	hasAttr Arg1:T39 Arg2:T40
+R10	hasAttr Arg1:T41 Arg2:T42
+R11	hasAttr Arg1:T43 Arg2:T44
+R12	hasAttr Arg1:T50 Arg2:T51

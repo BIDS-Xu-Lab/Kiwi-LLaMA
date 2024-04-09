@@ -1,0 +1,153 @@
+T1	problem 147 157	depression
+T2	problem 162 180	high risk behavior
+T3	problem 345 355	Depression
+T4	problem 360 378	High risk behavior
+T5	problem 408 443	depressed and anxious with paranoia
+T6	course 461 469	improved
+T7	problem 481 502	high risk for relapse
+T8	treatment 514 531	RTC level of care
+T9	treatment 548 609	A developmentally appropriate, group-oriented therapy program
+T10	test 682 692	evaluation
+T11	drug 715 739	psychotropic medications
+T12	treatment 776 813	individual, group, and family therapy
+T13	treatment 858 866	hospital
+T14	temporal 872 895	06/11/04 until 07/13/04
+T15	problem 986 1009	Perceptual disturbances
+T16	problem 1011 1032	disorganized thoughts
+T17	problem 1100 1126	audiovisual hallucinations
+T18	problem 1152 1163	flat affect
+T19	problem 1165 1174	irritable
+T20	problem 1176 1183	anxious
+T21	problem 1188 1203	depressed moods
+T22	problem 1205 1221	tearful at times
+T23	problem 1223 1231	homesick
+T24	problem 1233 1263	limited interaction with peers
+T25	problem 1312 1333	limited participation
+T26	problem 1662 1669	relapse
+T27	treatment 1758 1769	RTC program
+T28	test 1915 1933	sleep-deprived EEG
+T29	labvalue 1951 1957	normal
+T30	test 1959 1962	EKG
+T31	labvalue 1996 2010	grossly normal
+T32	test 2094 2097	H&P
+T33	treatment 2124 2145	psychiatric treatment
+T34	test 2183 2204	basic metabolic panel
+T35	test 2206 2209	CBC
+T36	test 2211 2214	TSH
+T37	test 2216 2218	UA
+T38	test 2224 2241	urine drug screen
+T39	problem 2271 2290	thyroid dysfunction
+T40	test 2312 2325	thyroid panel
+T41	test 2327 2329	T3
+T42	test 2331 2333	T4
+T43	test 2339 2342	TSH
+T44	labvalue 2355 2375	within normal limits
+T45	problem 2388 2394	asthma
+T46	problem 2428 2440	heart murmur
+T47	test 2459 2467	H&P exam
+T48	test 2470 2473	CBC
+T49	test 2475 2485	Hematocrit
+T50	labvalue 2489 2498	35.5, low
+T51	test 2500 2518	absolute monocytes
+T52	labvalue 2522 2531	0.5, high
+T53	problem 2600 2652	Major depression, recurrent, with psychotic features
+T54	course 2618 2627	recurrent
+T55	negation 2683 2685	No
+T56	problem 2686 2716	acute major medical conditions
+T57	course 2686 2691	acute
+T58	problem 2727 2749	Psychosocial stressors
+T59	test 2759 2762	GAF
+T60	labvalue 2764 2772	50 to 60
+T61	temporal 2774 2781	current
+T62	negation 2882 2888	denies
+T63	problem 2889 2916	suicidal or homicidal ideas
+T64	temporal 2920 2939	present exploration
+T65	negation 2945 2951	denies
+T66	problem 2952 2975	perception disturbances
+T67	treatment 3190 3199	treatment
+T68	treatment 3217 3235	intake appointment
+T69	temporal 3247 3268	07/21/04 at 2:00 p.m.
+T70	treatment 3324 3366	RTC (Residential Treatment Center) program
+T71	drug 3735 3743	Seroquel
+T72	dosage 3744 3749	25 mg
+T73	route 3750 3754	p.o.
+T74	frequency 3755 3759	a.m.
+T75	form 3760 3769	#30 pills
+T76	drug 3782 3790	Seroquel
+T77	dosage 3791 3796	50 mg
+T78	route 3797 3801	p.o.
+T79	frequency 3802 3807	q.h.s
+T80	drug 3809 3817	Benadryl
+T81	dosage 3818 3823	50 mg
+T82	route 3824 3827	p.o
+T83	frequency 3829 3840	q. 6h p.r.n
+T84	form 3867 3876	#30 pills
+T85	drug 3878 3891	Wellbutrin XL
+T86	dosage 3892 3898	300 mg
+T87	route 3899 3903	p.o.
+T88	frequency 3904 3909	q.a.m
+T89	drug 3912 3921	vitamin E
+T90	dosage 3922 3928	400 IU
+T91	route 3929 3933	p.o.
+T92	frequency 3934 3938	q.d.
+T93	form 3939 3948	#30 pills
+T94	drug 3950 3958	Restoril
+T95	dosage 3959 3964	25 mg
+T96	route 3965 3969	p.o.
+T97	frequency 3970 3976	p.r.n.
+T98	form 3989 3998	#16 pills
+T99	problem 4035 4047	galactorrhea
+T100	problem 4074 4086	galactorrhea
+T101	drug 4132 4141	Risperdal
+T102	drug 4155 4164	Risperdal
+T103	problem 4319 4329	depression
+T104	problem 4336 4354	high risk behavior
+T105	problem 4356 4378	psychosocial stressors
+T106	treatment 4380 4383	rtc
+T107	treatment 4385 4413	residential treatment center
+T108	problem 4415 4422	anxious
+T109	problem 4424 4432	paranoia
+T110	treatment 4434 4455	psychiatric treatment
+T111	drug 4457 4481	psychotropic medications
+T112	test 4483 4501	sleep-deprived eeg
+R1	hasAttr Arg1:T5 Arg2:T6
+R2	hasAttr Arg1:T13 Arg2:T14
+R3	hasAttr Arg1:T28 Arg2:T29
+R4	hasAttr Arg1:T30 Arg2:T31
+R5	hasAttr Arg1:T40 Arg2:T44
+R6	hasAttr Arg1:T41 Arg2:T44
+R7	hasAttr Arg1:T42 Arg2:T44
+R8	hasAttr Arg1:T43 Arg2:T44
+R9	hasAttr Arg1:T49 Arg2:T50
+R10	hasAttr Arg1:T51 Arg2:T52
+R11	hasAttr Arg1:T53 Arg2:T54
+R12	hasAttr Arg1:T56 Arg2:T55
+R13	hasAttr Arg1:T56 Arg2:T57
+R14	hasAttr Arg1:T59 Arg2:T61
+R15	hasAttr Arg1:T59 Arg2:T60
+R16	hasAttr Arg1:T63 Arg2:T62
+R17	hasAttr Arg1:T63 Arg2:T64
+R18	hasAttr Arg1:T66 Arg2:T65
+R19	hasAttr Arg1:T68 Arg2:T69
+R20	hasAttr Arg1:T71 Arg2:T75
+R21	hasAttr Arg1:T71 Arg2:T74
+R22	hasAttr Arg1:T71 Arg2:T72
+R23	hasAttr Arg1:T71 Arg2:T73
+R24	hasAttr Arg1:T76 Arg2:T78
+R25	hasAttr Arg1:T76 Arg2:T79
+R26	hasAttr Arg1:T76 Arg2:T77
+R27	hasAttr Arg1:T80 Arg2:T84
+R28	hasAttr Arg1:T80 Arg2:T82
+R29	hasAttr Arg1:T80 Arg2:T83
+R30	hasAttr Arg1:T80 Arg2:T81
+R31	hasAttr Arg1:T85 Arg2:T88
+R32	hasAttr Arg1:T85 Arg2:T86
+R33	hasAttr Arg1:T85 Arg2:T87
+R34	hasAttr Arg1:T89 Arg2:T92
+R35	hasAttr Arg1:T89 Arg2:T90
+R36	hasAttr Arg1:T89 Arg2:T93
+R37	hasAttr Arg1:T89 Arg2:T91
+R38	hasAttr Arg1:T94 Arg2:T98
+R39	hasAttr Arg1:T94 Arg2:T95
+R40	hasAttr Arg1:T94 Arg2:T97
+R41	hasAttr Arg1:T94 Arg2:T96

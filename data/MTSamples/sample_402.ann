@@ -1,0 +1,143 @@
+T1	problem 112 124	left otalgia
+T2	problem 126 139	serous otitis
+T3	problem 145 153	headache
+T4	problem 167 184	atopic dermatitis
+T5	problem 290 307	atopic dermatitis
+T6	problem 346 358	left otalgia
+T7	problem 363 371	headache
+T8	problem 374 382	Symptoms
+T9	temporal 405 420	three weeks ago
+T10	problem 440 458	difficulty hearing
+T11	course 478 494	greatly improved
+T12	problem 511 541	some left-sided sinus pressure
+T13	bodyloc 516 532	left-sided sinus
+T14	bodyloc 587 592	teeth
+T15	problem 598 605	hurting
+T16	problem 660 684	some left-sided jaw pain
+T17	bodyloc 665 679	left-sided jaw
+T18	negation 687 693	Denies
+T19	problem 694 706	any headache
+T20	problem 708 713	fever
+T21	problem 715 720	cough
+T22	problem 725 736	sore throat
+T23	bodyloc 730 736	throat
+T24	drug 752 760	Cutivate
+T25	form 761 766	cream
+T26	temporal 767 778	in the past
+T27	problem 783 804	the atopic dermatitis
+T28	problem 874 882	problems
+T29	problem 888 897	sinusitis
+T30	temporal 898 909	in the past
+T31	problem 914 941	chronic left-sided headache
+T32	course 914 921	chronic
+T33	bodyloc 922 932	left-sided
+T34	drug 999 1009	cephalexin
+T35	drug 1033 1042	Ibuprofen
+T36	negation 1112 1114	No
+T37	problem 1115 1121	nausea
+T38	problem 1123 1131	vomiting
+T39	problem 1136 1144	diarrhea
+T40	negation 1247 1249	no
+T41	problem 1250 1264	acute distress
+T42	course 1250 1255	acute
+T43	test 1266 1277	Vital Signs
+T44	test 1280 1286	Weight
+T45	labvalue 1289 1299	121 pounds
+T46	test 1302 1313	Temperature
+T47	labvalue 1316 1328	97.9 degrees
+T48	problem 1345 1375	scattered erythematous plaques
+T49	problem 1381 1427	some mild lichenification on the nuchal region
+T50	severity 1386 1390	mild
+T51	bodyloc 1414 1427	nuchal region
+T52	bodyloc 1432 1448	behind the knees
+T53	bodyloc 1497 1504	Left TM
+T54	problem 1510 1523	some effusion
+T55	treatment 1600 1612	manipulation
+T56	bodyloc 1621 1633	Nasal mucosa
+T57	negation 1652 1659	without
+T58	problem 1660 1669	discharge
+T59	negation 1698 1700	No
+T60	problem 1701 1722	tonsillar hypertrophy
+T61	bodyloc 1701 1710	tonsillar
+T62	problem 1726 1733	exudate
+T63	negation 1749 1756	without
+T64	problem 1757 1767	adenopathy
+T65	problem 1771 1782	thyromegaly
+T66	test 1800 1812	Respirations
+T67	labvalue 1817 1824	regular
+T68	labvalue 1848 1855	Regular
+T69	test 1856 1860	rate
+T70	test 1865 1871	rhythm
+T71	test 1875 1879	rate
+T72	labvalue 1883 1903	100 beats per minute
+T73	problem 1921 1934	Serous otitis
+T74	problem 1940 1957	Atopic dermatitis
+T75	drug 1969 1980	Nasacort AQ
+T76	dosage 1981 1984	two
+T77	form 1985 1991	sprays
+T78	route 1992 2004	each nostril
+T79	frequency 2005 2010	daily
+T80	drug 2016 2027	Duraphen II
+T81	dosage 2028 2031	one
+T82	frequency 2032 2037	b.i.d
+T83	drug 2051 2059	Cutivate
+T84	form 2060 2065	cream
+T85	strength 2066 2071	0.05%
+T86	problem 2084 2098	affected areas
+T87	frequency 2099 2105	b.i.d.
+T88	frequency 2115 2120	p.r.n
+T89	problem 2150 2162	left otalgia
+T90	problem 2164 2171	otalgia
+T91	problem 2173 2186	serous otitis
+T92	problem 2188 2205	atopic dermatitis
+T93	problem 2215 2221	otitis
+T94	problem 2223 2229	atopic
+T95	problem 2231 2241	dermatitis
+R1	hasAttr Arg1:T16 Arg2:T17
+R2	hasAttr Arg1:T39 Arg2:T36
+R3	hasAttr Arg1:T64 Arg2:T63
+R4	hasAttr Arg1:T60 Arg2:T59
+R5	hasAttr Arg1:T62 Arg2:T59
+R6	hasAttr Arg1:T22 Arg2:T23
+R7	hasAttr Arg1:T41 Arg2:T40
+R8	hasAttr Arg1:T19 Arg2:T18
+R9	hasAttr Arg1:T20 Arg2:T18
+R10	hasAttr Arg1:T49 Arg2:T50
+R11	hasAttr Arg1:T22 Arg2:T18
+R12	hasAttr Arg1:T38 Arg2:T36
+R13	hasAttr Arg1:T58 Arg2:T57
+R14	hasAttr Arg1:T41 Arg2:T42
+R15	hasAttr Arg1:T65 Arg2:T63
+R16	hasAttr Arg1:T12 Arg2:T13
+R17	hasAttr Arg1:T31 Arg2:T33
+R18	hasAttr Arg1:T37 Arg2:T36
+R19	hasAttr Arg1:T62 Arg2:T61
+R20	hasAttr Arg1:T21 Arg2:T18
+R21	hasAttr Arg1:T60 Arg2:T61
+R22	hasAttr Arg1:T46 Arg2:T47
+R23	hasAttr Arg1:T44 Arg2:T45
+R24	hasTemporal Arg1:T8 Arg2:T9
+R25	hasAttr Arg1:T10 Arg2:T11
+R26	hasAttr Arg1:T15 Arg2:T14
+R27	hasAttr Arg1:T24 Arg2:T25
+R28	hasAttr Arg1:T24 Arg2:T26
+R29	hasAttr Arg1:T29 Arg2:T30
+R30	hasAttr Arg1:T31 Arg2:T32
+R31	hasAttr Arg1:T66 Arg2:T67
+R32	hasAttr Arg1:T71 Arg2:T72
+R33	hasAttr Arg1:T69 Arg2:T68
+R34	hasAttr Arg1:T70 Arg2:T68
+R35	hasAttr Arg1:T80 Arg2:T81
+R36	hasAttr Arg1:T80 Arg2:T82
+R37	hasAttr Arg1:T83 Arg2:T84
+R38	hasAttr Arg1:T83 Arg2:T85
+R39	hasAttr Arg1:T83 Arg2:T87
+R40	hasAttr Arg1:T83 Arg2:T88
+R41	hasAttr Arg1:T49 Arg2:T51
+R42	hasAttr Arg1:T49 Arg2:T52
+R43	hasAttr Arg1:T54 Arg2:T53
+R44	hasAttr Arg1:T58 Arg2:T56
+R45	hasAttr Arg1:T75 Arg2:T76
+R46	hasAttr Arg1:T75 Arg2:T77
+R47	hasAttr Arg1:T75 Arg2:T78
+R48	hasAttr Arg1:T75 Arg2:T79

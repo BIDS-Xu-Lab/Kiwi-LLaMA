@@ -1,0 +1,30 @@
+T1	problem 511 561	Closed Fracture Of The Proximal End Of The Humerus
+T2	bodyloc 534 561	Proximal End Of The Humerus
+T3	problem 583 620	Open Fracture Of The Medial Malleolus
+T4	bodyloc 604 620	Medial Malleolus
+T5	problem 641 661	Shoulder Dislocation
+T6	bodyloc 641 649	Shoulder
+T7	negation 694 696	No
+T8	drug 697 715	Active MedicaHions
+T9	problem 716 725	Allergies
+T10	problem 730 747	Adverse Reactions
+T11	negation 750 752	No
+T12	problem 753 773	Known Drug Allergies
+T13	problem 817 824	Anxiety
+T14	course 846 854	Resolved
+T15	treatment 867 876	Proceduse
+T16	treatment 877 886	Proceduse
+T17	treatment 914 927	Ankle Surgery
+T18	temporal 1014 1024	03/05/2013
+T19	temporal 1076 1084	10:00 AM
+T20	temporal 1085 1095	04/22/2013
+T21	temporal 1341 1354	March 5, 2013
+T22	temporal 1355 1360	12:08
+T23	temporal 1498 1511	March 5, 2013
+T24	temporal 1512 1517	12:08
+R1	hasAttr Arg1:T1 Arg2:T2
+R2	hasAttr Arg1:T3 Arg2:T4
+R3	hasAttr Arg1:T5 Arg2:T6
+R4	hasAttr Arg1:T8 Arg2:T7
+R5	hasAttr Arg1:T12 Arg2:T11
+R6	hasAttr Arg1:T13 Arg2:T14

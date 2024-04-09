@@ -1,0 +1,179 @@
+T1	problem 127 146	shortness of breath
+T2	bodyloc 140 146	breath
+T3	problem 169 192	acute COPD exacerbation
+T4	severity 169 174	acute
+T5	problem 261 298	Chronic obstructive pulmonary disease
+T6	bodyloc 281 290	pulmonary
+T7	problem 303 312	Pneumonia
+T8	problem 317 341	Congestive heart failure
+T9	bodyloc 328 333	heart
+T10	problem 346 363	Diabetes mellitus
+T11	problem 368 378	Neuropathy
+T12	problem 383 390	Anxiety
+T13	problem 395 409	Hypothyroidism
+T14	problem 414 424	Depression
+T15	problem 429 441	Hypertension
+T16	problem 472 516	Severe chronic obstructive pulmonary disease
+T17	severity 472 478	Severe
+T18	bodyloc 499 508	pulmonary
+T19	problem 521 538	Diabetes mellitus
+T20	problem 543 557	Hypothyroidism
+T21	problem 562 583	Altered mental status
+T22	problem 585 599	less somnolent
+T23	treatment 621 632	medications
+T24	problem 647 675	Lower gastrointestinal bleed
+T25	bodyloc 647 669	Lower gastrointestinal
+T26	problem 703 722	atrial fibrillation
+T27	bodyloc 703 709	atrial
+T28	problem 739 757	diverticular bleed
+T29	treatment 785 802	Albuterol inhaler
+T30	drug 785 794	Albuterol
+T31	form 795 802	inhaler
+T32	frequency 803 808	q.i.d
+T33	drug 813 818	Xanax
+T34	strength 819 823	1 mg
+T35	frequency 824 829	t.i.d
+T36	drug 834 845	Cardizem CD
+T37	strength 846 852	120 mg
+T38	frequency 853 858	daily
+T39	drug 863 869	Colace
+T40	strength 870 876	100 mg
+T41	frequency 877 882	b.i.d
+T42	drug 887 899	Iron sulfate
+T43	strength 900 906	325 mg
+T44	frequency 907 912	b.i.d
+T45	drug 917 920	NPH
+T46	dosage 921 929	10 units
+T47	route 930 942	subcutaneous
+T48	frequency 943 948	b.i.d
+T49	treatment 953 969	Atrovent inhaler
+T50	drug 953 961	Atrovent
+T51	form 962 969	inhaler
+T52	frequency 970 975	q.i.d
+T53	drug 980 986	Statin
+T54	route 987 991	oral
+T55	form 992 1002	suspension
+T56	route 1003 1006	p.o
+T57	temporal 1008 1014	q.i.d.
+T58	drug 1035 1040	Paxil
+T59	strength 1041 1046	10 mg
+T60	frequency 1047 1052	daily
+T61	drug 1058 1068	Prednisone
+T62	strength 1069 1074	20 mg
+T63	frequency 1075 1080	daily
+T64	drug 1086 1105	Darvocet Darvocet-N
+T65	strength 1106 1109	100
+T66	frequency 1115 1123	q.4h PRN
+T67	condition 1120 1123	PRN
+T68	problem 1124 1128	pain
+T69	drug 1134 1143	Metamucil
+T70	dosage 1144 1147	one
+T71	form 1148 1152	pack
+T72	frequency 1153 1158	b.i.d
+T73	drug 1164 1173	Synthroid
+T74	strength 1174 1180	50 mcg
+T75	frequency 1181 1186	daily
+T76	drug 1192 1198	Nexium
+T77	strength 1199 1204	40 mg
+T78	frequency 1205 1210	daily
+T79	problem 1292 1311	shortness of breath
+T80	bodyloc 1305 1311	breath
+T81	problem 1334 1357	acute COPD exacerbation
+T82	severity 1334 1339	acute
+T83	treatment 1438 1443	BiPAP
+T84	treatment 1482 1487	BiPAP
+T85	problem 1534 1538	COPD
+T86	uncertain 1581 1596	thought to have
+T87	problem 1597 1607	bronchitis
+T88	drug 1637 1648	antibiotics
+T89	problem 1687 1707	acute lower GI bleed
+T90	severity 1687 1692	acute
+T91	bodyloc 1693 1701	lower GI
+T92	drug 1766 1788	packed red blood cells
+T93	test 1818 1827	endoscopy
+T94	problem 1839 1880	diverticular disease of the sigmoid colon
+T95	bodyloc 1867 1880	sigmoid colon
+T96	uncertain 1902 1920	suspected cause of
+T97	problem 1921 1931	hemorrhage
+T98	drug 1933 1939	Plavix
+T99	duration 1967 1974	10 days
+T100	temporal 1967 1974	10 days
+T101	drug 1976 1983	Lovenox
+T102	negation 1998 2017	No further signs of
+T103	problem 2018 2026	bleeding
+T104	treatment 2121 2148	the above noted medications
+T105	problem 2321 2358	chronic obstructive pulmonary disease
+T106	bodyloc 2341 2350	pulmonary
+T107	problem 2360 2369	pneumonia
+T108	problem 2371 2395	congestive heart failure
+T109	bodyloc 2382 2387	heart
+T110	problem 2397 2414	diabetes mellitus
+T111	problem 2416 2426	neuropathy
+T112	problem 2428 2435	anxiety
+T113	problem 2437 2451	hypothyroidism
+T114	problem 2453 2463	depression
+T115	problem 2465 2477	hypertension
+T116	problem 2479 2498	shortness of breath
+T117	bodyloc 2492 2498	breath
+T118	problem 2500 2529	obstructive pulmonary disease
+T119	bodyloc 2512 2521	pulmonary
+T120	problem 2531 2548	pulmonary disease
+T121	bodyloc 2531 2540	pulmonary
+T122	problem 2550 2559	discharge
+T123	treatment 2561 2568	inhaler
+T124	problem 2570 2574	copd
+T125	problem 2576 2588	exacerbation
+R1	hasAttr Arg1:T30 Arg2:T31
+R2	hasAttr Arg1:T30 Arg2:T32
+R3	hasAttr Arg1:T33 Arg2:T35
+R4	hasAttr Arg1:T33 Arg2:T34
+R5	hasAttr Arg1:T36 Arg2:T37
+R6	hasAttr Arg1:T36 Arg2:T38
+R7	hasAttr Arg1:T39 Arg2:T41
+R8	hasAttr Arg1:T39 Arg2:T40
+R9	hasAttr Arg1:T42 Arg2:T44
+R10	hasAttr Arg1:T42 Arg2:T43
+R11	hasAttr Arg1:T45 Arg2:T47
+R12	hasAttr Arg1:T45 Arg2:T48
+R13	hasAttr Arg1:T45 Arg2:T46
+R14	hasAttr Arg1:T50 Arg2:T52
+R15	hasAttr Arg1:T50 Arg2:T51
+R16	hasAttr Arg1:T53 Arg2:T56
+R17	hasAttr Arg1:T53 Arg2:T55
+R18	hasAttr Arg1:T53 Arg2:T54
+R19	hasAttr Arg1:T58 Arg2:T60
+R20	hasAttr Arg1:T58 Arg2:T59
+R21	hasAttr Arg1:T61 Arg2:T62
+R22	hasAttr Arg1:T61 Arg2:T63
+R23	hasAttr Arg1:T64 Arg2:T65
+R24	hasAttr Arg1:T64 Arg2:T66
+R25	hasAttr Arg1:T69 Arg2:T72
+R26	hasAttr Arg1:T69 Arg2:T71
+R27	hasAttr Arg1:T69 Arg2:T70
+R28	hasAttr Arg1:T73 Arg2:T74
+R29	hasAttr Arg1:T73 Arg2:T75
+R30	hasAttr Arg1:T76 Arg2:T78
+R31	hasAttr Arg1:T76 Arg2:T77
+R32	hasAttr Arg1:T98 Arg2:T99
+R33	hasAttr Arg1:T5 Arg2:T6
+R34	hasAttr Arg1:T24 Arg2:T25
+R35	hasAttr Arg1:T8 Arg2:T9
+R36	hasAttr Arg1:T118 Arg2:T119
+R37	hasAttr Arg1:T68 Arg2:T67
+R38	hasAttr Arg1:T16 Arg2:T17
+R39	hasAttr Arg1:T16 Arg2:T18
+R40	hasAttr Arg1:T79 Arg2:T80
+R41	hasAttr Arg1:T97 Arg2:T96
+R42	hasAttr Arg1:T103 Arg2:T102
+R43	hasAttr Arg1:T87 Arg2:T86
+R44	hasAttr Arg1:T3 Arg2:T4
+R45	hasAttr Arg1:T108 Arg2:T109
+R46	hasAttr Arg1:T26 Arg2:T27
+R47	hasAttr Arg1:T89 Arg2:T90
+R48	hasAttr Arg1:T94 Arg2:T95
+R49	hasAttr Arg1:T105 Arg2:T106
+R50	hasAttr Arg1:T120 Arg2:T121
+R51	hasAttr Arg1:T81 Arg2:T82
+R52	hasAttr Arg1:T116 Arg2:T117
+R53	hasAttr Arg1:T1 Arg2:T2
+R54	hasAttr Arg1:T89 Arg2:T91

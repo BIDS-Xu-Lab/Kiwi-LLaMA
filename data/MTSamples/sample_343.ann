@@ -1,0 +1,323 @@
+T1	problem 75 81	Asthma
+T2	test 108 127	a complete physical
+T3	problem 145 151	asthma
+T4	problem 157 174	allergic rhinitis
+T5	temporal 274 279	today
+T6	test 284 303	a complete physical
+T7	problem 321 327	asthma
+T8	problem 338 348	her asthma
+T9	course 358 363	worse
+T10	temporal 369 390	the last three months
+T11	treatment 411 422	her inhaler
+T12	problem 430 443	Her allergies
+T13	course 455 473	a little bit worse
+T14	negation 561 576	not been taking
+T15	drug 577 584	Allegra
+T16	frequency 585 590	daily
+T17	negation 653 668	not been taking
+T18	drug 669 680	her Flonase
+T19	temporal 738 746	the past
+T20	drug 758 764	Advair
+T21	problem 782 800	vaginal irritation
+T22	bodyloc 782 789	vaginal
+T23	problem 834 869	increasing symptoms of irritability
+T24	course 834 844	increasing
+T25	problem 874 877	PMS
+T26	problem 1201 1214	some spotting
+T27	negation 1237 1243	denies
+T28	problem 1244 1259	any hot flashes
+T29	problem 1263 1275	night sweats
+T30	problem 1340 1348	3+ blood
+T31	problem 1374 1399	a urinary tract infection
+T32	bodyloc 1374 1389	a urinary tract
+T33	temporal 1400 1410	previously
+T34	test 1412 1421	Her urine
+T35	negation 1426 1429	not
+T36	temporal 1450 1458	recently
+T37	test 1463 1471	lab work
+T38	test 1476 1487	cholesterol
+T39	negation 1610 1612	No
+T40	problem 1613 1619	fevers
+T41	negation 1621 1623	no
+T42	problem 1624 1633	headaches
+T43	negation 1635 1637	no
+T44	problem 1638 1657	shortness of breath
+T45	temporal 1658 1667	currently
+T46	negation 1669 1671	No
+T47	problem 1672 1682	chest pain
+T48	bodyloc 1672 1677	chest
+T49	problem 1686 1695	tightness
+T50	negation 1697 1699	No
+T51	problem 1700 1714	abdominal pain
+T52	bodyloc 1700 1709	abdominal
+T53	negation 1716 1718	no
+T54	problem 1719 1728	heartburn
+T55	negation 1730 1732	no
+T56	problem 1733 1745	constipation
+T57	problem 1747 1755	diarrhea
+T58	problem 1759 1766	dysuria
+T59	problem 1768 1798	Occasional stress incontinence
+T60	negation 1800 1802	No
+T61	problem 1803 1823	muscle or joint pain
+T62	bodyloc 1803 1809	muscle
+T63	bodyloc 1813 1818	joint
+T64	negation 1825 1827	No
+T65	problem 1828 1851	concerns about her skin
+T66	bodyloc 1843 1851	her skin
+T67	negation 1853 1855	No
+T68	problem 1856 1866	polyphagia
+T69	problem 1868 1878	polydipsia
+T70	problem 1882 1890	polyuria
+T71	problem 1930 1936	asthma
+T72	problem 1938 1955	allergic rhinitis
+T73	problem 1960 1978	cervical dysplasia
+T74	drug 2045 2054	Proventil
+T75	drug 2059 2066	Allegra
+T76	problem 2068 2077	ALLERGIES
+T77	drug 2079 2084	Sulfa
+T78	test 2110 2120	Her weight
+T79	labvalue 2124 2134	151 pounds
+T80	test 2136 2150	Blood pressure
+T81	labvalue 2154 2160	110/60
+T82	test 2162 2167	Pulse
+T83	labvalue 2171 2173	72
+T84	test 2175 2186	Temperature
+T85	labvalue 2190 2202	97.1 degrees
+T86	test 2204 2216	Respirations
+T87	labvalue 2221 2223	20
+T88	negation 2323 2325	no
+T89	problem 2326 2340	acute distress
+T90	course 2326 2331	acute
+T91	negation 2522 2529	without
+T92	problem 2530 2545	turbinate edema
+T93	bodyloc 2530 2539	turbinate
+T94	negation 2591 2598	without
+T95	problem 2599 2614	lymphadenopathy
+T96	problem 2616 2627	thyromegaly
+T97	problem 2629 2642	carotid bruit
+T98	bodyloc 2629 2636	carotid
+T99	problem 2646 2649	JVD
+T100	labvalue 2658 2663	Clear
+T101	test 2667 2679	auscultation
+T102	labvalue 2709 2716	Regular
+T103	test 2717 2721	rate
+T104	test 2726 2732	rhythm
+T105	negation 2733 2740	without
+T106	problem 2741 2747	murmur
+T107	labvalue 2789 2800	Normoactive
+T108	test 2801 2813	bowel sounds
+T109	negation 2815 2817	No
+T110	problem 2818 2824	masses
+T111	problem 2828 2840	organomegaly
+T112	test 2844 2853	palpation
+T113	negation 2868 2875	Without
+T114	problem 2876 2884	cyanosis
+T115	problem 2888 2893	edema
+T116	negation 2901 2908	Without
+T117	problem 2909 2922	abnormalities
+T118	bodyloc 2952 2959	breasts
+T119	negation 2960 2967	without
+T120	problem 2968 2976	dimpling
+T121	problem 2980 2990	retraction
+T122	negation 2992 2994	No
+T123	problem 2995 3011	nipple discharge
+T124	bodyloc 2995 3001	nipple
+T125	negation 3013 3015	No
+T126	problem 3016 3022	masses
+T127	problem 3026 3033	lesions
+T128	test 3037 3046	palpation
+T129	negation 3048 3050	No
+T130	problem 3051 3066	axillary masses
+T131	problem 3070 3085	lymphadenopathy
+T132	bodyloc 3130 3156	he walls of the vaginal va
+T133	negation 3203 3205	no
+T134	problem 3206 3213	lesions
+T135	bodyloc 3221 3227	Cervix
+T136	negation 3242 3249	without
+T137	problem 3250 3256	lesion
+T138	problem 3266 3323	a moderate amount of thick white/yellow vaginal discharge
+T139	bodyloc 3306 3313	vaginal
+T140	negation 3346 3348	No
+T141	problem 3349 3375	cervical motion tenderness
+T142	bodyloc 3349 3357	cervical
+T143	negation 3377 3379	No
+T144	problem 3380 3410	adnexal tenderness or fullness
+T145	bodyloc 3380 3387	adnexal
+T146	problem 3432 3438	Asthma
+T147	course 3452 3457	worse
+T148	drug 3494 3507	her Proventil
+T149	form 3508 3515	inhaler
+T150	frequency 3532 3537	daily
+T151	drug 3551 3558	Flovent
+T152	strength 3559 3565	44 mcg
+T153	dosage 3566 3569	two
+T154	form 3570 3575	puffs
+T155	route 3576 3580	p.o.
+T156	frequency 3581 3587	b.i.d.
+T157	problem 3631 3654	some vaginal irritation
+T158	bodyloc 3636 3643	vaginal
+T159	drug 3660 3666	Advair
+T160	temporal 3670 3678	the past
+T161	drug 3758 3767	Singulair
+T162	condition 3812 3814	If
+T163	problem 3815 3838	her shortness of breath
+T164	course 3839 3846	worsens
+T165	test 3935 3947	reevaluation
+T166	temporal 3951 3960	one month
+T167	problem 3965 3982	Allergic rhinitis
+T168	drug 4011 4018	Allegra
+T169	drug 4023 4030	Flonase
+T170	frequency 4031 4036	daily
+T171	problem 4060 4091	Premenstrual dysphoric disorder
+T172	problem 4106 4134	some perimenopausal symptoms
+T173	drug 4157 4167	fluoxetine
+T174	strength 4168 4173	20 mg
+T175	dosage 4174 4177	one
+T176	form 4178 4184	tablet
+T177	route 4185 4189	p.o.
+T178	frequency 4190 4194	q.d.
+T179	problem 4198 4207	Hematuria
+T180	problem 4237 4260	urinary tract infection
+T181	test 4280 4284	a UA
+T182	problem 4321 4342	some frequent dysuria
+T183	problem 4378 4396	Cervical dysplasia
+T184	bodyloc 4378 4386	Cervical
+T185	test 4398 4407	Pap smear
+T186	test 4486 4502	yearly Pap smear
+T187	test 4525 4544	screening mammogram
+T188	test 4563 4587	monthly self-breast exam
+T189	strength 4618 4625	1200 mg
+T190	drug 4629 4636	calcium
+T191	strength 4641 4646	400 U
+T192	drug 4650 4659	vitamin D
+T193	frequency 4660 4665	a day
+T194	problem 4695 4701	asthma
+T195	test 4703 4720	complete physical
+T196	treatment 4722 4729	inhaler
+T197	drug 4731 4738	allegra
+T198	problem 4740 4752	night sweats
+T199	problem 4754 4765	hot flashes
+T200	problem 4767 4785	vaginal irritation
+T201	problem 4787 4790	pms
+T202	problem 4809 4828	shortness of breath
+T203	problem 4830 4839	headaches
+T204	problem 4841 4858	allergic rhinitis
+T205	problem 4860 4878	cervical dysplasia
+T206	labvalue 4880 4887	regular
+T207	test 4888 4892	rate
+T208	test 4897 4903	rhythm
+T209	negation 4904 4911	without
+T210	problem 4912 4918	murmur
+T211	drug 4920 4937	proventil inhaler
+T212	drug 4939 4946	flonase
+T213	problem 4948 4979	premenstrual dysphoric disorder
+T214	test 4981 4990	pap smear
+R1	hasAttr Arg1:T6 Arg2:T5
+R2	hasAttr Arg1:T8 Arg2:T10
+R3	hasAttr Arg1:T8 Arg2:T9
+R4	hasAttr Arg1:T12 Arg2:T13
+R5	hasAttr Arg1:T15 Arg2:T14
+R6	hasAttr Arg1:T15 Arg2:T16
+R7	hasAttr Arg1:T18 Arg2:T17
+R8	hasAttr Arg1:T20 Arg2:T19
+R9	hasAttr Arg1:T21 Arg2:T22
+R10	hasAttr Arg1:T23 Arg2:T24
+R11	hasAttr Arg1:T28 Arg2:T27
+R12	hasAttr Arg1:T29 Arg2:T27
+R13	hasAttr Arg1:T31 Arg2:T32
+R14	hasAttr Arg1:T31 Arg2:T33
+R15	hasAttr Arg1:T34 Arg2:T35
+R16	hasAttr Arg1:T38 Arg2:T36
+R17	hasAttr Arg1:T37 Arg2:T36
+R18	hasAttr Arg1:T40 Arg2:T39
+R19	hasAttr Arg1:T42 Arg2:T41
+R20	hasAttr Arg1:T44 Arg2:T43
+R21	hasAttr Arg1:T44 Arg2:T45
+R22	hasAttr Arg1:T47 Arg2:T46
+R23	hasAttr Arg1:T49 Arg2:T46
+R24	hasAttr Arg1:T47 Arg2:T48
+R25	hasAttr Arg1:T51 Arg2:T50
+R26	hasAttr Arg1:T51 Arg2:T52
+R27	hasAttr Arg1:T54 Arg2:T53
+R28	hasAttr Arg1:T56 Arg2:T55
+R29	hasAttr Arg1:T57 Arg2:T55
+R30	hasAttr Arg1:T58 Arg2:T55
+R31	hasAttr Arg1:T61 Arg2:T60
+R32	hasAttr Arg1:T61 Arg2:T62
+R33	hasAttr Arg1:T61 Arg2:T63
+R34	hasAttr Arg1:T65 Arg2:T64
+R35	hasAttr Arg1:T65 Arg2:T66
+R36	hasAttr Arg1:T69 Arg2:T67
+R37	hasAttr Arg1:T70 Arg2:T67
+R38	hasAttr Arg1:T68 Arg2:T67
+R39	hasAttr Arg1:T78 Arg2:T79
+R40	hasAttr Arg1:T80 Arg2:T81
+R41	hasAttr Arg1:T82 Arg2:T83
+R42	hasAttr Arg1:T84 Arg2:T85
+R43	hasAttr Arg1:T86 Arg2:T87
+R44	hasAttr Arg1:T89 Arg2:T88
+R45	hasAttr Arg1:T89 Arg2:T90
+R46	hasAttr Arg1:T92 Arg2:T91
+R47	hasAttr Arg1:T92 Arg2:T93
+R48	hasAttr Arg1:T99 Arg2:T94
+R49	hasAttr Arg1:T97 Arg2:T94
+R50	hasAttr Arg1:T96 Arg2:T94
+R51	hasAttr Arg1:T95 Arg2:T94
+R52	hasAttr Arg1:T97 Arg2:T98
+R53	hasAttr Arg1:T101 Arg2:T100
+R54	hasAttr Arg1:T103 Arg2:T102
+R55	hasAttr Arg1:T104 Arg2:T102
+R56	hasAttr Arg1:T106 Arg2:T105
+R57	hasAttr Arg1:T108 Arg2:T107
+R58	hasAttr Arg1:T111 Arg2:T109
+R59	hasAttr Arg1:T110 Arg2:T109
+R60	hasAttr Arg1:T114 Arg2:T113
+R61	hasAttr Arg1:T115 Arg2:T113
+R62	hasAttr Arg1:T117 Arg2:T116
+R63	hasAttr Arg1:T120 Arg2:T118
+R64	hasAttr Arg1:T121 Arg2:T118
+R65	hasAttr Arg1:T121 Arg2:T119
+R66	hasAttr Arg1:T120 Arg2:T119
+R67	hasAttr Arg1:T123 Arg2:T122
+R68	hasAttr Arg1:T123 Arg2:T124
+R69	hasAttr Arg1:T126 Arg2:T125
+R70	hasAttr Arg1:T127 Arg2:T125
+R71	hasAttr Arg1:T131 Arg2:T129
+R72	hasAttr Arg1:T130 Arg2:T129
+R73	hasAttr Arg1:T134 Arg2:T132
+R74	hasAttr Arg1:T134 Arg2:T133
+R75	hasAttr Arg1:T137 Arg2:T135
+R76	hasAttr Arg1:T137 Arg2:T136
+R77	hasAttr Arg1:T138 Arg2:T139
+R78	hasAttr Arg1:T141 Arg2:T140
+R79	hasAttr Arg1:T141 Arg2:T142
+R80	hasAttr Arg1:T144 Arg2:T143
+R81	hasAttr Arg1:T144 Arg2:T145
+R82	hasAttr Arg1:T146 Arg2:T147
+R83	hasAttr Arg1:T148 Arg2:T150
+R84	hasAttr Arg1:T148 Arg2:T149
+R85	hasAttr Arg1:T151 Arg2:T154
+R86	hasAttr Arg1:T151 Arg2:T155
+R87	hasAttr Arg1:T151 Arg2:T152
+R88	hasAttr Arg1:T151 Arg2:T153
+R89	hasAttr Arg1:T151 Arg2:T156
+R90	hasAttr Arg1:T157 Arg2:T158
+R91	hasAttr Arg1:T159 Arg2:T160
+R92	hasAttr Arg1:T163 Arg2:T162
+R93	hasAttr Arg1:T163 Arg2:T164
+R94	hasAttr Arg1:T165 Arg2:T166
+R95	hasAttr Arg1:T168 Arg2:T170
+R96	hasAttr Arg1:T169 Arg2:T170
+R97	hasAttr Arg1:T173 Arg2:T175
+R98	hasAttr Arg1:T173 Arg2:T174
+R99	hasAttr Arg1:T173 Arg2:T176
+R100	hasAttr Arg1:T173 Arg2:T177
+R101	hasAttr Arg1:T173 Arg2:T178
+R102	hasAttr Arg1:T183 Arg2:T184
+R103	hasAttr Arg1:T190 Arg2:T189
+R104	hasAttr Arg1:T190 Arg2:T193
+R105	hasAttr Arg1:T192 Arg2:T191
+R106	hasAttr Arg1:T192 Arg2:T193
+R107	hasAttr Arg1:T207 Arg2:T206
+R108	hasAttr Arg1:T208 Arg2:T206
+R109	hasAttr Arg1:T210 Arg2:T209

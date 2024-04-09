@@ -1,0 +1,23 @@
+T1	treatment 64 78	Speech Therapy
+T2	treatment 112 126	Speech therapy
+T3	treatment 183 197	speech therapy
+T4	problem 211 240	cognitive-linguistic deficits
+T5	treatment 403 417	speech therapy
+T6	problem 431 460	cognitive-linguistic deficits
+T7	treatment 481 495	speech therapy
+T8	treatment 667 674	therapy
+T9	test 994 1009	visual scanning
+T10	labvalue 1021 1046	greater than 80% accuracy
+T11	temporal 1489 1493	last
+T12	test 1494 1506	reevaluation
+T13	problem 1701 1734	mild cognitive-linguistic deficit
+T14	severity 1701 1705	mild
+T15	test 1776 1798	her initial evaluation
+T16	problem 1813 1830	severe impairment
+T17	severity 1813 1819	severe
+T18	treatment 1874 1888	speech therapy
+T19	treatment 2116 2130	speech therapy
+R1	hasAttr Arg1:T9 Arg2:T10
+R2	hasAttr Arg1:T12 Arg2:T11
+R3	hasAttr Arg1:T13 Arg2:T14
+R4	hasAttr Arg1:T16 Arg2:T17

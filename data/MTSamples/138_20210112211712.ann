@@ -1,0 +1,143 @@
+T1	problem 64 73	Neck Pain
+T2	bodyloc 64 68	Neck
+T3	problem 107 116	Neck pain
+T4	bodyloc 107 111	Neck
+T5	problem 122 157	right upper extremity radiculopathy
+T6	bodyloc 122 143	right upper extremity
+T7	problem 162 182	cervical spondylosis
+T8	bodyloc 162 170	cervical
+T9	problem 188 214	herniated nucleus pulposus
+T10	bodyloc 215 220	C4-C5
+T11	bodyloc 222 227	C5-C6
+T12	bodyloc 233 238	C6-C7
+T13	problem 244 252	stenosis
+T14	problem 315 324	Neck pain
+T15	bodyloc 315 319	Neck
+T16	problem 330 365	right upper extremity radiculopathy
+T17	bodyloc 330 351	right upper extremity
+T18	problem 370 390	Cervical spondylosis
+T19	bodyloc 370 378	Cervical
+T20	problem 396 422	herniated nucleus pulposus
+T21	bodyloc 423 428	C4-C5
+T22	bodyloc 430 435	C5-C6
+T23	bodyloc 441 446	C6-C7
+T24	problem 452 460	stenosis
+T25	problem 485 494	Neck pain
+T26	bodyloc 485 489	Neck
+T27	problem 500 535	right upper extremity radiculopathy
+T28	bodyloc 500 521	right upper extremity
+T29	problem 540 560	Cervical spondylosis
+T30	bodyloc 540 548	Cervical
+T31	problem 566 592	herniated nucleus pulposus
+T32	bodyloc 576 583	nucleus
+T33	bodyloc 593 598	C4-C5
+T34	bodyloc 600 605	C5-C6
+T35	bodyloc 611 616	C6-C7
+T36	problem 622 630	stenosis
+T37	treatment 656 727	Anterior cervical discectomy with decompression C4-C5, C5-C6, and C6-C7
+T38	treatment 732 798	Arthrodesis with anterior interbody fusion C4-C5, C5-C6, and C6-C7
+T39	treatment 803 839	Spinal instrumentation C4 through C7
+T40	treatment 844 851	Implant
+T41	treatment 856 865	Allograft
+T42	temporal 1027 1035	09/13/07
+T43	problem 1051 1068	intense neck pain
+T44	bodyloc 1059 1063	neck
+T45	bodyloc 1086 1106	right shoulder blade
+T46	bodyloc 1110 1135	top of the right shoulder
+T47	bodyloc 1146 1167	right upper extremity
+T48	bodyloc 1175 1189	patient's hand
+T49	problem 1191 1213	The patient's symptoms
+T50	course 1250 1255	worse
+T51	problem 1261 1309	subjective weakness of the right upper extremity
+T52	bodyloc 1288 1309	right upper extremity
+T53	temporal 1330 1347	several weeks now
+T54	drug 1383 1394	medications
+T55	test 1440 1455	imaging studies
+T56	problem 1480 1500	cervical spondylosis
+T57	bodyloc 1480 1488	cervical
+T58	problem 1506 1520	herniated disk
+T59	bodyloc 1516 1520	disk
+T60	problem 1525 1559	stenosis at C4-C5, C5-C6 and C6-C7
+T61	bodyloc 1537 1542	C4-C5
+T62	bodyloc 1544 1549	C5-C6
+T63	bodyloc 1554 1559	C6-C7
+T64	treatment 1583 1596	liver surgery
+T65	problem 1670 1689	right shoulder pain
+T66	bodyloc 1670 1684	right shoulder
+T67	problem 1694 1722	some operative site soreness
+T68	route 1752 1754	IV
+T69	drug 1755 1763	morphine
+T70	problem 1795 1816	the pain down the arm
+T71	bodyloc 1813 1816	arm
+T72	problem 1836 1891	some tingling of the right thumb and right index finger
+T73	bodyloc 1857 1868	right thumb
+T74	bodyloc 1873 1891	right index finger
+T75	problem 1935 1951	slight dysphagia
+T76	drug 1973 1981	Decadron
+T77	drug 2013 2019	Medrol
+T78	drug 2053 2068	pain medication
+T79	drug 2083 2091	Darvocet
+T80	drug 2096 2104	Flexeril
+T81	problem 2214 2227	radiculopathy
+T82	problem 2229 2249	cervical spondylosis
+T83	bodyloc 2229 2237	cervical
+T84	problem 2251 2260	neck pain
+T85	bodyloc 2251 2255	neck
+T86	treatment 2262 2290	anterior cervical discectomy
+T87	problem 2292 2318	herniated nucleus pulposus
+T88	bodyloc 2302 2309	nucleus
+T89	bodyloc 2320 2328	cervical
+T90	bodyloc 2330 2338	anterior
+T91	problem 2340 2349	herniated
+R1	hasAttr Arg1:T1 Arg2:T2
+R2	hasAttr Arg1:T3 Arg2:T4
+R3	hasAttr Arg1:T5 Arg2:T6
+R4	hasAttr Arg1:T7 Arg2:T8
+R5	hasAttr Arg1:T9 Arg2:T11
+R6	hasAttr Arg1:T9 Arg2:T12
+R7	hasAttr Arg1:T9 Arg2:T10
+R8	hasAttr Arg1:T13 Arg2:T10
+R9	hasAttr Arg1:T13 Arg2:T11
+R10	hasAttr Arg1:T13 Arg2:T12
+R11	hasAttr Arg1:T14 Arg2:T15
+R12	hasAttr Arg1:T16 Arg2:T17
+R13	hasAttr Arg1:T18 Arg2:T19
+R14	hasAttr Arg1:T20 Arg2:T21
+R15	hasAttr Arg1:T20 Arg2:T23
+R16	hasAttr Arg1:T20 Arg2:T22
+R17	hasAttr Arg1:T24 Arg2:T21
+R18	hasAttr Arg1:T24 Arg2:T22
+R19	hasAttr Arg1:T24 Arg2:T23
+R20	hasAttr Arg1:T25 Arg2:T26
+R21	hasAttr Arg1:T27 Arg2:T28
+R22	hasAttr Arg1:T29 Arg2:T30
+R23	hasAttr Arg1:T31 Arg2:T33
+R24	hasAttr Arg1:T31 Arg2:T32
+R25	hasAttr Arg1:T31 Arg2:T35
+R26	hasAttr Arg1:T31 Arg2:T34
+R27	hasAttr Arg1:T36 Arg2:T33
+R28	hasAttr Arg1:T36 Arg2:T34
+R29	hasAttr Arg1:T36 Arg2:T35
+R30	hasAttr Arg1:T43 Arg2:T44
+R31	hasAttr Arg1:T43 Arg2:T46
+R32	hasAttr Arg1:T49 Arg2:T50
+R33	hasAttr Arg1:T51 Arg2:T53
+R34	hasAttr Arg1:T51 Arg2:T52
+R35	hasAttr Arg1:T56 Arg2:T57
+R36	hasAttr Arg1:T58 Arg2:T59
+R37	hasAttr Arg1:T60 Arg2:T61
+R38	hasAttr Arg1:T60 Arg2:T62
+R39	hasAttr Arg1:T60 Arg2:T63
+R40	hasAttr Arg1:T65 Arg2:T66
+R41	hasAttr Arg1:T69 Arg2:T68
+R42	hasAttr Arg1:T70 Arg2:T71
+R43	hasAttr Arg1:T72 Arg2:T74
+R44	hasAttr Arg1:T72 Arg2:T73
+R45	hasAttr Arg1:T82 Arg2:T83
+R46	hasAttr Arg1:T84 Arg2:T85
+R47	hasAttr Arg1:T87 Arg2:T88
+R48	hasAttr Arg1:T91 Arg2:T89
+R49	hasAttr Arg1:T91 Arg2:T90
+R50	hasAttr Arg1:T43 Arg2:T45
+R51	hasAttr Arg1:T43 Arg2:T47
+R52	hasAttr Arg1:T43 Arg2:T48

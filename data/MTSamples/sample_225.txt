@@ -1,0 +1,17 @@
+Sample Type / Medical Specialty: General Medicine
+Sample Name: Gen Med Consult - 2
+Description: Initial clinic visit for foreign body in left eye.
+(Medical Transcription Sample Report)
+HISTORY OF PRESENT ILLNESS: This is the initial clinic visit for a 41-year-old worker who is seen for a foreign body to his left eye. He states that he was doing his normal job when he felt a foreign body sensation. He attempted to flush this at work, but has had persistent pain which has progressively worsened throughout the course of the day. He has no significant blurriness of vision or photophobia.
+REVIEW OF SYSTEMS: Focal left eye pain without any changes in visual acuity or photophobia. He has no prior ophthalmologic problems. Review of systems for cardiac, pulmonary, GI, GU, neurologic, musculoskeletal, endocrine, immunologic systems is negative.
+PAST MEDICAL HISTORY: Surgeries: None. Injuries: Dislocated wrist. Illnesses: None.
+MEDICATIONS: None.
+ALLERGIES: None.
+SOCIAL HISTORY: He smokes one pack of cigarettes per day. He is a social drinker. He is not married, but has two children. Hobbies: Computers, hiking, camping, fishing.
+FAMILY HISTORY: Cancer, hypertension.
+PHYSICAL EXAMINATION: Vital signs: Blood pressure 132/82, respirations 12, pulse 68, temperature 98.6. Visual acuity: Bilateral 20/25, left 20/30, right 20/30.
+On slit lamp examination: Lids and lacrimal apparatus normal. Anterior chambers deep and clear. Lens clear. Conjunctiva are severely injected. There is a small metallic foreign body at 6 o'clock. This is removed with the aid of the slit lamp.
+DIAGNOSIS: Foreign body OS.
+PLAN: Following removal of the foreign body, the patient was returned to work with the caveat that if he finds it unbearable, he can return to work and have a pressure patch placed on his eye. He will be seen for a closing visit on Month DD, YYYY.
+Keywords:
+general medicine, foreign body, anterior chambers, conjunctiva, lens, lids, blurriness, consult, eye, lacrimal apparatus, metallic, pain, photophobia, sensation, slit lamp examination, smokes, social drinker, visual acuity, initial clinic visit, worker, foreign, body,

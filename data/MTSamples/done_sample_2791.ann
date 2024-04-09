@@ -1,0 +1,171 @@
+T1	problem 64 72	GI Bleed
+T2	bodyloc 64 66	GI
+T3	problem 106 114	GI bleed
+T4	bodyloc 106 108	GI
+T5	problem 116 144	Upper gastrointestinal bleed
+T6	bodyloc 116 138	Upper gastrointestinal
+T7	test 146 149	CBC
+T8	problem 159 176	microcytic anemia
+T9	problem 233 241	GI bleed
+T10	bodyloc 233 235	GI
+T11	problem 330 349	atrial fibrillation
+T12	bodyloc 330 336	atrial
+T13	drug 354 362	Coumadin
+T14	problem 408 426	increasing fatigue
+T15	course 408 418	increasing
+T16	test 428 431	CBC
+T17	problem 441 458	microcytic anemia
+T18	test 464 474	hemoglobin
+T19	labvalue 478 481	8.9
+T20	problem 483 499	Stool dark brown
+T21	bodyloc 483 488	Stool
+T22	problem 510 521	OB positive
+T23	negation 535 541	denied
+T24	problem 542 565	any shortness of breath
+T25	negation 567 569	No
+T26	problem 570 580	chest pain
+T27	bodyloc 570 575	chest
+T28	negation 582 584	No
+T29	problem 585 598	GI complaints
+T30	bodyloc 585 587	GI
+T31	test 637 655	further evaluation
+T32	problem 695 714	atrial fibrillation
+T33	bodyloc 695 701	atrial
+T34	problem 716 728	hypertension
+T35	problem 730 757	osteoarthritis of the knees
+T36	bodyloc 748 757	the knees
+T37	problem 759 779	hypercholesterolemia
+T38	problem 781 820	non-insulin-dependent diabetes mellitus
+T39	problem 822 828	asthma
+T40	problem 834 848	hypothyroidism
+T41	negation 899 901	no
+T42	problem 902 916	acute distress
+T43	course 902 907	acute
+T44	negation 968 970	No
+T45	problem 971 981	adenopathy
+T46	problem 1027 1046	Irregularly regular
+T47	negation 1048 1050	No
+T48	problem 1051 1058	gallops
+T49	labvalue 1069 1077	Positive
+T50	test 1078 1090	bowel sounds
+T51	negation 1113 1115	No
+T52	problem 1116 1122	masses
+T53	problem 1126 1138	organomegaly
+T54	problem 1153 1189	1+ lower extremity edema bilaterally
+T55	bodyloc 1156 1171	lower extremity
+T56	test 1230 1245	upper endoscopy
+T57	problem 1281 1298	erosive gastritis
+T58	test 1300 1311	Colonoscopy
+T59	problem 1323 1337	diverticulosis
+T60	problem 1349 1354	polyp
+T61	treatment 1398 1411	the procedure
+T62	test 1461 1471	hemoglobin
+T63	labvalue 1486 1490	10.7
+T64	negation 1508 1515	without
+T65	problem 1516 1537	further GI complaints
+T66	bodyloc 1524 1526	GI
+T67	drug 1539 1547	Coumadin
+T68	drug 1623 1631	Coumadin
+T69	duration 1636 1660	an additional three days
+T70	problem 1791 1819	Upper gastrointestinal bleed
+T71	bodyloc 1791 1813	Upper gastrointestinal
+T72	problem 1824 1830	Anemia
+T73	problem 1835 1854	Atrial fibrillation
+T74	bodyloc 1835 1841	Atrial
+T75	problem 1859 1898	Non-insulin-dependent diabetes mellitus
+T76	problem 1903 1915	Hypertension
+T77	problem 1920 1934	Hypothyroidism
+T78	problem 1939 1945	Asthma
+T79	drug 1994 2000	Feosol
+T80	strength 2001 2007	325 mg
+T81	frequency 2008 2013	daily
+T82	drug 2015 2028	multivitamins
+T83	dosage 2029 2032	one
+T84	frequency 2033 2038	daily
+T85	drug 2040 2048	Protonix
+T86	strength 2049 2054	40 mg
+T87	frequency 2055 2061	b.i.d.
+T88	drug 2063 2066	KCl
+T89	strength 2067 2073	20 mEq
+T90	frequency 2074 2079	daily
+T91	drug 2081 2086	Lasix
+T92	strength 2087 2092	40 mg
+T93	frequency 2093 2099	b.i.d.
+T94	drug 2101 2109	atenolol
+T95	strength 2110 2115	50 mg
+T96	frequency 2116 2121	daily
+T97	drug 2123 2132	Synthroid
+T98	strength 2133 2139	80 mcg
+T99	frequency 2140 2145	daily
+T100	drug 2147 2152	Actos
+T101	strength 2153 2158	30 mg
+T102	frequency 2159 2164	daily
+T103	drug 2166 2173	Mevacor
+T104	strength 2174 2179	40 mg
+T105	frequency 2180 2185	daily
+T106	drug 2191 2201	lisinopril
+T107	strength 2202 2207	20 mg
+T108	frequency 2208 2213	daily
+T109	problem 2215 2224	ALLERGIES
+T110	negation 2226 2230	None
+T111	drug 2310 2318	Coumadin
+T112	duration 2319 2334	through weekend
+T113	test 2345 2348	CBC
+T114	test 2353 2356	INR
+T115	problem 2433 2441	gi bleed
+T116	problem 2443 2460	microcytic anemia
+T117	test 2462 2465	cbc
+T118	test 2485 2494	endoscopy
+T119	problem 2496 2509	gi complaints
+T120	test 2511 2522	colonoscopy
+R1	hasAttr Arg1:T1 Arg2:T2
+R2	hasAttr Arg1:T3 Arg2:T4
+R3	hasAttr Arg1:T5 Arg2:T6
+R4	hasAttr Arg1:T9 Arg2:T10
+R5	hasAttr Arg1:T11 Arg2:T12
+R6	hasAttr Arg1:T14 Arg2:T15
+R7	hasAttr Arg1:T18 Arg2:T19
+R8	hasAttr Arg1:T20 Arg2:T21
+R9	hasAttr Arg1:T24 Arg2:T23
+R10	hasAttr Arg1:T26 Arg2:T25
+R11	hasAttr Arg1:T26 Arg2:T27
+R12	hasAttr Arg1:T29 Arg2:T28
+R13	hasAttr Arg1:T29 Arg2:T30
+R14	hasAttr Arg1:T32 Arg2:T33
+R15	hasAttr Arg1:T35 Arg2:T36
+R16	hasAttr Arg1:T42 Arg2:T41
+R17	hasAttr Arg1:T42 Arg2:T43
+R18	hasAttr Arg1:T45 Arg2:T44
+R19	hasAttr Arg1:T48 Arg2:T47
+R20	hasAttr Arg1:T50 Arg2:T49
+R21	hasAttr Arg1:T53 Arg2:T51
+R22	hasAttr Arg1:T52 Arg2:T51
+R23	hasAttr Arg1:T54 Arg2:T55
+R24	hasAttr Arg1:T62 Arg2:T63
+R25	hasAttr Arg1:T65 Arg2:T64
+R26	hasAttr Arg1:T65 Arg2:T66
+R27	hasAttr Arg1:T68 Arg2:T69
+R28	hasAttr Arg1:T70 Arg2:T71
+R29	hasAttr Arg1:T73 Arg2:T74
+R30	hasAttr Arg1:T79 Arg2:T80
+R31	hasAttr Arg1:T79 Arg2:T81
+R32	hasAttr Arg1:T82 Arg2:T84
+R33	hasAttr Arg1:T82 Arg2:T83
+R34	hasAttr Arg1:T85 Arg2:T87
+R35	hasAttr Arg1:T85 Arg2:T86
+R36	hasAttr Arg1:T88 Arg2:T89
+R37	hasAttr Arg1:T88 Arg2:T90
+R38	hasAttr Arg1:T91 Arg2:T92
+R39	hasAttr Arg1:T91 Arg2:T93
+R40	hasAttr Arg1:T94 Arg2:T95
+R41	hasAttr Arg1:T94 Arg2:T96
+R42	hasAttr Arg1:T97 Arg2:T99
+R43	hasAttr Arg1:T97 Arg2:T98
+R44	hasAttr Arg1:T100 Arg2:T102
+R45	hasAttr Arg1:T100 Arg2:T101
+R46	hasAttr Arg1:T103 Arg2:T104
+R47	hasAttr Arg1:T103 Arg2:T105
+R48	hasAttr Arg1:T106 Arg2:T107
+R49	hasAttr Arg1:T106 Arg2:T108
+R50	hasAttr Arg1:T109 Arg2:T110
+R51	hasAttr Arg1:T111 Arg2:T112
