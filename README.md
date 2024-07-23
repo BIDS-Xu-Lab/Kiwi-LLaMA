@@ -1,4 +1,4 @@
-# Instruction tuned Large Language Models are Superior Clinical Information Extractors
+# Information Extraction from Clinical Notes: Are We Ready for Adopting Large Language Models?
 
 ## Environment
 ```bash
