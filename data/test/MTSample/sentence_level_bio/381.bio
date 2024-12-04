@@ -1,0 +1,13 @@
+Darvocet	B-drug
+Darvocet	I-drug
+-	I-drug
+N	I-drug
+100	O
+,	O
+one	O
+q	O
+.	O
+4h	O
+PRN	O
+pain	B-problem
+.	O

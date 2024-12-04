@@ -1,0 +1,15 @@
+discharge	O
+summary	O
+,	O
+decreased	B-problem
+ability	I-problem
+,	O
+daily	O
+living	O
+activities	O
+,	O
+exacerbation	B-problem
+,	O
+back	B-problem
+pain	I-problem
+,	O

@@ -1,0 +1,12 @@
+Resp	O
+:	O
+Patient	O
+denies	O
+asthma	B-problem
+,	O
+lung	B-problem
+infections	I-problem
+and	O
+lung	B-problem
+lesions	I-problem
+.	O

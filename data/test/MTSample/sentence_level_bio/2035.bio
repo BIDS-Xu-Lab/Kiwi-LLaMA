@@ -1,0 +1,10 @@
+It	O
+was	O
+found	O
+that	O
+MRSA	B-problem
+was	O
+sensitive	O
+to	O
+Bactrim	B-drug
+.	O

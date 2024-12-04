@@ -1,0 +1,12 @@
+Negative	O
+straight	B-test
+-	I-test
+leg	I-test
+raising	I-test
+,	O
+Kernig	B-test
+,	O
+and	O
+Brudzinski	B-test
+signs	I-test
+.	O

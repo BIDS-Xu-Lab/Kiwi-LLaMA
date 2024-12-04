@@ -1,0 +1,8 @@
+The	O
+patient	O
+denies	O
+any	B-problem
+fever	I-problem
+or	O
+chills	B-problem
+.	O

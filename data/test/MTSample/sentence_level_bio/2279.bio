@@ -1,0 +1,10 @@
+Medication	B-drug
+was	O
+adjusted	O
+to	O
+benazepril	B-drug
+20	O
+mg	O
+a	O
+day	O
+.	O

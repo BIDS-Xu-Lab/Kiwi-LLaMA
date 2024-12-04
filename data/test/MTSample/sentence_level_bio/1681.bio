@@ -1,0 +1,17 @@
+Bimanual	B-test
+exam	I-test
+confirmed	O
+the	B-problem
+absence	I-problem
+of	I-problem
+uterus	I-problem
+and	I-problem
+cervix	I-problem
+and	O
+I	O
+could	O
+not	O
+palpate	O
+any	O
+ovaries	O
+.	O

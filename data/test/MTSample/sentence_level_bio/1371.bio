@@ -1,0 +1,12 @@
+PAST	O
+MEDICAL	O
+HISTORY	O
+:	O
+No	O
+significant	O
+medical	O
+history	O
+other	O
+than	O
+acne	B-problem
+.	O

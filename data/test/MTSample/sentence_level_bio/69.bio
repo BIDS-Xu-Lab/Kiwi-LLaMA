@@ -1,0 +1,16 @@
+He	O
+was	O
+ambulatory	O
+,	O
+had	O
+no	O
+cardiopulmonary	B-problem
+complaints	I-problem
+,	O
+no	O
+unusual	B-problem
+fever	I-problem
+or	O
+concerning	O
+symptoms	B-problem
+.	O

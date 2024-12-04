@@ -1,0 +1,13 @@
+Surgical	O
+consult	O
+also	O
+requested	O
+and	O
+blood	B-test
+culture	I-test
+and	O
+urine	B-test
+culture	I-test
+also	O
+ordered	O
+.	O

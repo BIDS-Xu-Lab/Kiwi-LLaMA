@@ -1,0 +1,13 @@
+Colonoscopy	B-test
+did	O
+reveal	O
+diverticulosis	B-problem
+as	O
+well	O
+as	O
+polyp	B-problem
+,	O
+which	O
+was	O
+resected	O
+.	O

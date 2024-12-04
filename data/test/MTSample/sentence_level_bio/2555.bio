@@ -1,0 +1,15 @@
+HOSPITAL	O
+COURSE	O
+:	O
+The	O
+patient	O
+was	O
+admitted	O
+on	O
+09/04/2007	O
+to	O
+undergo	O
+total	B-treatment
+vaginal	I-treatment
+hysterectomy	I-treatment
+.	O

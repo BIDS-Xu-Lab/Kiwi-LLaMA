@@ -1,0 +1,16 @@
+He	O
+considered	O
+the	O
+need	O
+to	O
+have	O
+a	B-treatment
+permanent	I-treatment
+pacemaker	I-treatment
+after	O
+reviewing	O
+electrocardiograms	B-test
+and	O
+telemetry	B-test
+readings	I-test
+.	O

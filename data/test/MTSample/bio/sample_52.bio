@@ -1,0 +1,570 @@
+Sample	O
+Type	O
+/	O
+Medical	O
+Specialty	O
+:	O
+Office	O
+Notes	O
+
+Sample	O
+Name	O
+:	O
+Cardiology	O
+Office	O
+Visit	O
+-	O
+1	O
+
+Description	O
+:	O
+Sample	O
+cardiology	O
+office	O
+visit	O
+note	O
+.	O
+
+(	O
+Medical	O
+Transcription	O
+Sample	O
+Report	O
+)	O
+
+HISTORY	O
+OF	O
+PRESENT	O
+ILLNESS	O
+:	O
+This	O
+66	O
+-	O
+year	O
+-	O
+old	O
+white	O
+male	O
+was	O
+seen	O
+in	O
+my	O
+office	O
+on	O
+Month	O
+DD	O
+,	O
+YYYY	O
+.	O
+
+Patient	O
+was	O
+recently	O
+discharged	O
+from	O
+Doctors	O
+Hospital	O
+at	O
+Parkway	O
+after	O
+he	O
+was	O
+treated	O
+for	O
+pneumonia	B-problem
+.	O
+
+Patient	O
+continues	O
+to	O
+have	O
+severe	B-severity
+orthopnea	I-problem
+,	O
+paroxysmal	B-problem
+nocturnal	I-problem
+dyspnea	I-problem
+,	O
+cough	B-problem
+with	O
+greenish	B-problem
+expectoration	I-problem
+.	O
+
+His	O
+exercise	O
+tolerance	O
+is	O
+about	O
+two	O
+to	O
+three	O
+yards	O
+for	O
+shortness	B-problem
+of	I-problem
+breath	I-problem
+.	O
+
+The	O
+patient	O
+stopped	O
+taking	O
+Coumadin	B-drug
+for	O
+reasons	O
+not	O
+very	O
+clear	O
+to	O
+him	O
+.	O
+
+He	O
+was	O
+documented	O
+to	O
+have	O
+recent	B-temporal
+atrial	B-bodyloc
+fibrillation	I-problem
+.	O
+
+Patient	O
+has	O
+longstanding	O
+history	O
+of	O
+ischemic	B-problem
+heart	B-bodyloc
+disease	I-problem
+,	O
+end	B-severity
+-	I-severity
+stage	I-severity
+LV	B-bodyloc
+systolic	I-problem
+dysfunction	I-problem
+,	O
+and	O
+is	O
+status	O
+post	O
+ICD	B-treatment
+implantation	I-treatment
+.	O
+
+Fasting	B-test
+blood	I-test
+sugar	I-test
+this	B-temporal
+morning	I-temporal
+is	O
+130	B-labvalue
+.	O
+
+PHYSICAL	O
+EXAMINATION	O
+:	O
+
+VITAL	O
+SIGNS	O
+:	O
+Blood	B-test
+pressure	I-test
+is	O
+120	B-labvalue
+/	I-labvalue
+60	I-labvalue
+.	O
+
+Respirations	B-test
+18	B-labvalue
+per	I-labvalue
+minute	I-labvalue
+.	O
+
+Heart	B-test
+rate	I-test
+75	B-labvalue
+-	I-labvalue
+85	I-labvalue
+beats	I-labvalue
+per	I-labvalue
+minute	I-labvalue
+,	O
+irregular	B-problem
+.	O
+
+Weight	B-test
+207	B-labvalue
+pounds	I-labvalue
+.	O
+
+HEENT	O
+:	O
+Head	O
+normocephalic	O
+.	O
+
+Eyes	B-bodyloc
+,	O
+no	B-negation
+evidence	I-negation
+of	I-negation
+anemia	B-problem
+or	O
+jaundice	B-problem
+.	O
+
+Oral	O
+hygiene	O
+is	O
+good	O
+.	O
+
+NECK	O
+:	O
+Supple	O
+.	O
+
+JVP	B-test
+is	O
+flat	O
+.	O
+
+Carotid	O
+upstroke	O
+is	O
+good	O
+.	O
+
+LUNGS	O
+:	O
+Severe	B-severity
+inspiratory	I-problem
+and	O
+expiratory	B-problem
+wheezing	I-problem
+heard	O
+throughout	O
+the	O
+lung	B-bodyloc
+fields	I-bodyloc
+.	O
+
+Fine	B-problem
+crepitations	I-problem
+heard	O
+at	O
+the	O
+base	B-bodyloc
+of	I-bodyloc
+the	I-bodyloc
+lungs	I-bodyloc
+on	I-bodyloc
+both	I-bodyloc
+sides	I-bodyloc
+.	O
+
+CARDIOVASCULAR	O
+:	O
+PMI	O
+felt	O
+in	O
+fifth	O
+left	O
+intercostal	O
+space	O
+0	O
+.	O
+5	O
+-	O
+inch	O
+lateral	O
+to	O
+midclavicular	O
+line	O
+.	O
+
+First	B-test
+and	I-test
+second	I-test
+heart	I-test
+sounds	I-test
+are	O
+normal	B-labvalue
+in	O
+character	O
+.	O
+
+There	O
+is	O
+a	B-problem
+II	I-problem
+/	I-problem
+VI	I-problem
+systolic	I-problem
+murmur	I-problem
+best	O
+heard	O
+at	O
+the	O
+apex	O
+.	O
+
+ABDOMEN	O
+:	O
+Soft	O
+.	O
+
+There	O
+is	O
+no	B-negation
+hepatosplenomegaly	B-problem
+.	O
+
+EXTREMITIES	O
+:	O
+Patient	O
+has	O
+1	B-problem
++	I-problem
+pedal	B-bodyloc
+edema	I-problem
+.	O
+
+MEDICATIONS	O
+:	O
+
+1	O
+.	O
+
+Ambien	B-drug
+10	B-strength
+mg	I-strength
+at	B-frequency
+bedtime	I-frequency
+p	B-frequency
+.	I-frequency
+r	I-frequency
+.	I-frequency
+n	I-frequency
+.	O
+
+2	O
+.	O
+
+Coumadin	B-drug
+7	B-strength
+.	I-strength
+5	I-strength
+mg	I-strength
+daily	B-frequency
+.	O
+
+3	O
+.	O
+
+Diovan	B-drug
+320	B-strength
+mg	I-strength
+daily	B-frequency
+.	O
+
+4	O
+.	O
+
+Lantus	B-drug
+insulin	I-drug
+50	B-dosage
+units	I-dosage
+in	B-frequency
+the	I-frequency
+morning	I-frequency
+.	O
+
+5	O
+.	O
+
+Lasix	B-drug
+80	B-strength
+mg	I-strength
+daily	B-frequency
+.	O
+
+6	O
+.	O
+
+Novolin	B-drug
+R	I-drug
+p	B-frequency
+.	I-frequency
+r	I-frequency
+.	I-frequency
+n	I-frequency
+.	O
+
+7	O
+.	O
+
+Toprol	B-drug
+XL	I-drug
+100	B-strength
+mg	I-strength
+daily	B-frequency
+.	O
+
+8	O
+.	O
+
+Flovent	B-drug
+100	B-strength
+mcg	I-strength
+twice	B-frequency
+a	I-frequency
+day	I-frequency
+.	O
+
+DIAGNOSES	O
+:	O
+
+1	O
+.	O
+
+Atherosclerotic	B-problem
+coronary	B-bodyloc
+vascular	I-bodyloc
+disease	I-problem
+with	O
+old	B-problem
+myocardial	B-bodyloc
+infarction	I-problem
+.	O
+
+2	O
+.	O
+
+Moderate	B-severity
+to	I-severity
+severe	I-severity
+LV	B-bodyloc
+systolic	I-problem
+dysfunction	I-problem
+.	O
+
+3	O
+.	O
+
+Diabetes	B-problem
+mellitus	I-problem
+.	O
+
+4	O
+.	O
+
+Diabetic	B-problem
+nephropathy	I-problem
+and	O
+renal	B-bodyloc
+failure	I-problem
+.	O
+
+5	O
+.	O
+
+Status	O
+post	O
+ICD	B-treatment
+implantation	I-treatment
+.	O
+
+6	O
+.	O
+
+New	O
+onset	O
+of	O
+atrial	B-bodyloc
+fibrillation	I-problem
+.	O
+
+7	O
+.	O
+
+Chronic	B-drug
+Coumadin	I-drug
+therapy	I-drug
+.	O
+
+PLAN	O
+:	O
+
+1	O
+.	O
+
+Continue	O
+present	B-temporal
+therapy	B-treatment
+.	O
+
+2	O
+.	O
+
+Patient	O
+will	O
+be	O
+seen	O
+again	O
+in	O
+my	O
+office	O
+in	O
+four	O
+weeks	O
+.	O
+
+Keywords	O
+:	O
+
+office	O
+notes	O
+,	O
+pneumonia	B-problem
+,	O
+atherosclerotic	B-problem
+coronary	B-bodyloc
+vascular	I-bodyloc
+disease	I-problem
+,	O
+icd	B-treatment
+implantation	I-treatment
+,	O
+atrial	B-bodyloc
+fibrillation	I-problem
+,	O
+myocardial	B-bodyloc
+infarction	I-problem
+,	O
+office	O
+visit	O
+,	O
+orthopnea	B-problem
+,	O
+paroxysmal	B-problem
+nocturnal	I-problem
+dyspnea	I-problem
+,	O
+shortness	B-problem
+of	I-problem
+breath	I-problem
+,	O
+cardiology	O
+office	O
+visit	O
+,	O
+systolic	O
+,	O
+lungs	O
+,	O
+

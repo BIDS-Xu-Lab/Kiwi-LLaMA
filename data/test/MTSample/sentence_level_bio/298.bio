@@ -1,0 +1,15 @@
+The	O
+patient	O
+denies	O
+fever	B-problem
+,	O
+fatigue	B-problem
+,	O
+weakness	B-problem
+,	O
+weight	B-problem
+gain	I-problem
+or	O
+weight	B-problem
+loss	I-problem
+.	O

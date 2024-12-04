@@ -1,0 +1,9 @@
+CHIEF	O
+COMPLAINT	O
+:	O
+Blood	B-problem
+-	I-problem
+borne	I-problem
+pathogen	I-problem
+exposure	I-problem
+.	O

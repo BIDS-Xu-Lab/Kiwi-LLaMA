@@ -1,0 +1,16 @@
+Her	B-drug
+insulin	I-drug
+pump	I-drug
+had	O
+a	O
+basal	O
+rate	O
+of	O
+roughly	O
+three	O
+at	O
+night	O
+during	O
+the	B-treatment
+feedings	I-treatment
+.	O

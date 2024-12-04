@@ -1,0 +1,11 @@
+CHEST	O
+:	O
+Lungs	O
+are	O
+bilaterally	O
+clear	O
+to	O
+auscultation	B-test
+and	O
+percussion	B-test
+.	O

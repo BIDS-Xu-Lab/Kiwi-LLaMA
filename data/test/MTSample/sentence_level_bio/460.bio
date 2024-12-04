@@ -1,0 +1,6 @@
+Aggressive	B-treatment
+antihyperlipidemic	I-treatment
+and	O
+antihypertensive	B-drug
+control	I-treatment
+.	O

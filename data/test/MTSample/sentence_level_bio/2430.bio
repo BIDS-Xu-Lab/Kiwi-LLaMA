@@ -1,0 +1,10 @@
+Chest	B-test
+x	I-test
+-	I-test
+ray	I-test
+has	O
+good	O
+ET	B-treatment
+tube	I-treatment
+placement	I-treatment
+.	O

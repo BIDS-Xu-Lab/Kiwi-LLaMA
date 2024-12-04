@@ -1,0 +1,8 @@
+The	O
+patient	O
+denied	O
+any	B-problem
+shortness	I-problem
+of	I-problem
+breath	I-problem
+.	O

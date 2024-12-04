@@ -1,0 +1,12 @@
+Dermatology	O
+:	O
+Patient	O
+denies	O
+allergic	B-problem
+reactions	I-problem
+,	O
+rashes	B-problem
+and	O
+skin	B-problem
+lesions	I-problem
+.	O

@@ -1,0 +1,17 @@
+Permanent	B-treatment
+pacemaker	I-treatment
+was	O
+placed	O
+on	O
+09/05/2007	O
+with	O
+right	B-treatment
+atrium	I-treatment
+appendage	I-treatment
+and	O
+right	B-treatment
+ventricular	I-treatment
+apex	I-treatment
+electrode	I-treatment
+placement	I-treatment
+.	O

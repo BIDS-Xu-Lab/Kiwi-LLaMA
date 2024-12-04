@@ -1,0 +1,13 @@
+Denies	O
+nausea	B-problem
+,	O
+vomiting	B-problem
+,	O
+diaphoresis	B-problem
+or	O
+shortness	B-problem
+of	I-problem
+breath	I-problem
+with	O
+it	O
+.	O

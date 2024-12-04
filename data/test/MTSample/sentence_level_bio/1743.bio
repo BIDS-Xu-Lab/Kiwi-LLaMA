@@ -1,0 +1,11 @@
+He	O
+was	O
+ruled	O
+out	O
+for	O
+myocardial	B-problem
+infarction	I-problem
+with	O
+troponin	B-test
+x2	O
+.	O

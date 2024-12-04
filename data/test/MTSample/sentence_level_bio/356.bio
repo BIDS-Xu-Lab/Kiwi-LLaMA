@@ -1,0 +1,7 @@
+Status	O
+post	O
+episode	O
+of	O
+atrial	B-problem
+fibrillation	I-problem
+.	O

@@ -1,0 +1,12 @@
+NOSE	O
+AND	O
+THROAT	O
+:	O
+Negative	O
+postnasal	B-problem
+drip	I-problem
+,	O
+negative	O
+sore	B-problem
+throat	I-problem
+.	O

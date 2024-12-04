@@ -1,0 +1,7 @@
+Fundoscopic	B-test
+exam	I-test
+appears	O
+normal	O
+without	O
+papilledema	B-problem
+.	O

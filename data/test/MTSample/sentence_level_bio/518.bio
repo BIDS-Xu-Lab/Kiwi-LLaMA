@@ -1,0 +1,14 @@
+She	O
+has	O
+had	O
+no	O
+problems	O
+with	O
+edema	B-problem
+or	O
+lower	B-problem
+extremity	I-problem
+numbness	I-problem
+or	I-problem
+tingling	I-problem
+.	O

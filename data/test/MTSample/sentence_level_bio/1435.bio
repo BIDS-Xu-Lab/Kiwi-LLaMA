@@ -1,0 +1,13 @@
+The	O
+patient	O
+also	O
+has	O
+emergent	B-test
+CT	I-test
+scan	I-test
+without	I-test
+contrast	I-test
+of	I-test
+the	I-test
+abdomen	I-test
+.	O

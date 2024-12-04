@@ -1,0 +1,10 @@
+Health	O
+care	O
+maintenance	O
+,	O
+Pap	B-test
+smear	I-test
+was	O
+obtained	O
+today	O
+.	O

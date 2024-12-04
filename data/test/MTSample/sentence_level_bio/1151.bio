@@ -1,0 +1,14 @@
+The	O
+patient	O
+will	O
+follow	O
+up	O
+with	O
+her	O
+PCP	O
+for	O
+control	B-treatment
+of	I-treatment
+migraine	I-treatment
+headache	I-treatment
+.	O

@@ -1,0 +1,500 @@
+Sample	O
+Type	O
+/	O
+Medical	O
+Specialty	O
+:	O
+General	O
+Medicine	O
+
+Sample	O
+Name	O
+:	O
+Gen	O
+Med	O
+Consult	O
+-	O
+14	O
+
+Description	O
+:	O
+Complaint	O
+of	O
+left	B-problem
+otalgia	I-problem
+(	O
+serous	B-problem
+otitis	I-problem
+)	O
+and	O
+headache	B-problem
+.	O
+
+History	O
+of	O
+atopic	B-problem
+dermatitis	I-problem
+.	O
+
+(	O
+Medical	O
+Transcription	O
+Sample	O
+Report	O
+)	O
+
+HISTORY	O
+OF	O
+PRESENT	O
+ILLNESS	O
+:	O
+A	O
+49	O
+-	O
+year	O
+-	O
+old	O
+female	O
+with	O
+history	O
+of	O
+atopic	B-problem
+dermatitis	I-problem
+comes	O
+to	O
+the	O
+clinic	O
+with	O
+complaint	O
+of	O
+left	B-problem
+otalgia	I-problem
+and	O
+headache	B-problem
+.	O
+
+Symptoms	B-problem
+started	O
+approximately	O
+three	B-temporal
+weeks	I-temporal
+ago	I-temporal
+and	O
+she	O
+was	O
+having	O
+difficulty	B-problem
+hearing	I-problem
+,	O
+although	O
+that	O
+has	O
+greatly	B-course
+improved	I-course
+.	O
+
+She	O
+is	O
+having	O
+some	B-problem
+left	B-bodyloc
+-	I-bodyloc
+sided	I-bodyloc
+sinus	I-bodyloc
+pressure	I-problem
+and	O
+actually	O
+went	O
+to	O
+the	O
+dentist	O
+because	O
+her	O
+teeth	B-bodyloc
+were	O
+hurting	B-problem
+;	O
+however	O
+,	O
+the	O
+teeth	O
+were	O
+okay	O
+.	O
+
+She	O
+continues	O
+to	O
+have	O
+some	B-problem
+left	B-bodyloc
+-	I-bodyloc
+sided	I-bodyloc
+jaw	I-bodyloc
+pain	I-problem
+.	O
+
+Denies	B-negation
+any	B-problem
+headache	I-problem
+,	O
+fever	B-problem
+,	O
+cough	B-problem
+,	O
+or	O
+sore	B-problem
+throat	B-bodyloc
+.	O
+
+She	O
+had	O
+used	O
+Cutivate	B-drug
+cream	B-form
+in	B-temporal
+the	I-temporal
+past	I-temporal
+for	O
+the	B-problem
+atopic	I-problem
+dermatitis	I-problem
+with	O
+good	O
+results	O
+and	O
+is	O
+needing	O
+a	O
+refill	O
+of	O
+that	O
+.	O
+
+She	O
+has	O
+also	O
+had	O
+problems	B-problem
+with	O
+sinusitis	B-problem
+in	B-temporal
+the	I-temporal
+past	I-temporal
+and	O
+chronic	B-course
+left	B-bodyloc
+-	I-bodyloc
+sided	I-bodyloc
+headache	I-problem
+.	O
+
+FAMILY	O
+HISTORY	O
+:	O
+Reviewed	O
+and	O
+unchanged	O
+.	O
+
+ALLERGIES	O
+:	O
+To	O
+cephalexin	B-drug
+.	O
+
+CURRENT	O
+MEDICATIONS	O
+:	O
+Ibuprofen	B-drug
+.	O
+
+SOCIAL	O
+HISTORY	O
+:	O
+She	O
+is	O
+a	O
+nonsmoker	O
+.	O
+
+REVIEW	O
+OF	O
+SYSTEMS	O
+:	O
+As	O
+above	O
+.	O
+
+No	B-negation
+nausea	B-problem
+,	O
+vomiting	B-problem
+,	O
+or	O
+diarrhea	B-problem
+.	O
+
+PHYSICAL	O
+EXAMINATION	O
+:	O
+
+General	O
+:	O
+A	O
+well	O
+-	O
+developed	O
+and	O
+well	O
+-	O
+nourished	O
+female	O
+,	O
+conscious	O
+,	O
+alert	O
+,	O
+and	O
+in	O
+no	B-negation
+acute	B-course
+distress	I-problem
+.	O
+
+Vital	B-test
+Signs	I-test
+:	O
+Weight	B-test
+:	O
+121	B-labvalue
+pounds	I-labvalue
+.	O
+
+Temperature	B-test
+:	O
+97	B-labvalue
+.	I-labvalue
+9	I-labvalue
+degrees	I-labvalue
+.	O
+
+Skin	O
+:	O
+Reveals	O
+scattered	B-problem
+erythematous	I-problem
+plaques	I-problem
+with	O
+some	B-problem
+mild	B-severity
+lichenification	I-problem
+on	I-problem
+the	I-problem
+nuchal	B-bodyloc
+region	I-bodyloc
+and	O
+behind	B-bodyloc
+the	I-bodyloc
+knees	I-bodyloc
+.	O
+
+Eyes	O
+:	O
+PERRLA	O
+.	O
+
+Conjunctivae	O
+are	O
+clear	O
+.	O
+
+Ears	O
+:	O
+Left	B-bodyloc
+TM	I-bodyloc
+with	O
+some	B-problem
+effusion	I-problem
+.	O
+
+Right	O
+TM	O
+is	O
+clear	O
+.	O
+
+Canals	O
+are	O
+clear	O
+.	O
+
+External	O
+auricles	O
+are	O
+nontender	O
+to	O
+manipulation	B-treatment
+.	O
+
+Nose	O
+:	O
+Nasal	B-bodyloc
+mucosa	I-bodyloc
+is	O
+pink	O
+and	O
+moist	O
+without	B-negation
+discharge	B-problem
+.	O
+
+Throat	O
+:	O
+Nonerythematous	O
+.	O
+
+No	B-negation
+tonsillar	B-bodyloc
+hypertrophy	I-problem
+or	O
+exudate	B-problem
+.	O
+
+Neck	O
+:	O
+Supple	O
+without	B-negation
+adenopathy	B-problem
+or	O
+thyromegaly	B-problem
+.	O
+
+Lungs	O
+:	O
+Clear	O
+.	O
+
+Respirations	B-test
+are	O
+regular	B-labvalue
+and	O
+unlabored	O
+.	O
+
+Heart	O
+:	O
+Regular	B-labvalue
+rate	B-test
+and	O
+rhythm	B-test
+at	O
+rate	B-test
+of	O
+100	B-labvalue
+beats	I-labvalue
+per	I-labvalue
+minute	I-labvalue
+.	O
+
+ASSESSMENT	O
+:	O
+
+1	O
+.	O
+
+Serous	B-problem
+otitis	I-problem
+.	O
+
+2	O
+.	O
+
+Atopic	B-problem
+dermatitis	I-problem
+.	O
+
+PLAN	O
+:	O
+
+1	O
+.	O
+
+Nasacort	B-drug
+AQ	I-drug
+two	B-dosage
+sprays	B-form
+each	B-route
+nostril	I-route
+daily	B-frequency
+.	O
+
+2	O
+.	O
+
+Duraphen	B-drug
+II	I-drug
+one	B-dosage
+b	B-frequency
+.	I-frequency
+i	I-frequency
+.	I-frequency
+d	I-frequency
+.	O
+
+3	O
+.	O
+
+Refills	O
+Cutivate	B-drug
+cream	B-form
+0	B-strength
+.	I-strength
+05	I-strength
+%	I-strength
+to	O
+apply	O
+to	O
+affected	B-problem
+areas	I-problem
+b	B-frequency
+.	I-frequency
+i	I-frequency
+.	I-frequency
+d	I-frequency
+.	I-frequency
+
+Recheck	O
+p	B-frequency
+.	I-frequency
+r	I-frequency
+.	I-frequency
+n	I-frequency
+.	O
+
+Keywords	O
+:	O
+
+general	O
+medicine	O
+,	O
+left	B-problem
+otalgia	I-problem
+,	O
+otalgia	B-problem
+,	O
+serous	B-problem
+otitis	I-problem
+,	O
+atopic	B-problem
+dermatitis	I-problem
+,	O
+serous	O
+,	O
+otitis	B-problem
+,	O
+atopic	B-problem
+,	O
+dermatitis	B-problem
+,	O
+

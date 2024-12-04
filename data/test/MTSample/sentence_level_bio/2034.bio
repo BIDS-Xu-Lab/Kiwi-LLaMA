@@ -1,0 +1,15 @@
+The	B-drug
+Bactrim	I-drug
+was	O
+used	O
+to	O
+cover	O
+the	B-problem
+MRSA	I-problem
+at	O
+the	B-treatment
+J	I-treatment
+-	I-treatment
+tube	I-treatment
+site	I-treatment
+.	O

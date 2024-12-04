@@ -1,0 +1,8 @@
+MUSCULOSKELETAL	O
+:	O
+No	O
+arthritis	B-problem
+or	O
+muscle	B-problem
+weakness	I-problem
+.	O

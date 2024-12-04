@@ -1,0 +1,10 @@
+Integumentary	O
+:	O
+Normal	O
+breast	O
+tissue	O
+without	O
+lumps	B-problem
+or	O
+masses	B-problem
+.	O

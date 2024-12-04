@@ -1,0 +1,13 @@
+Sample	O
+Name	O
+:	O
+Full	O
+-	O
+Field	O
+Digital	B-test
+Mammogram	I-test
+(	I-test
+FFDM	I-test
+)	I-test
+-	O
+1	O

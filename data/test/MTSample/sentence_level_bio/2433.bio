@@ -1,0 +1,14 @@
+CT	B-test
+scan	I-test
+of	I-test
+the	I-test
+head	I-test
+:	O
+I	O
+do	O
+not	O
+see	O
+any	B-problem
+active	I-problem
+bleeding	I-problem
+.	O

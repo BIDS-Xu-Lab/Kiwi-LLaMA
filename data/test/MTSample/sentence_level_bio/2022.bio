@@ -1,0 +1,15 @@
+A	B-test
+colonoscopy	I-test
+was	O
+performed	O
+,	O
+which	O
+found	O
+a	B-problem
+mass	I-problem
+at	I-problem
+the	I-problem
+right	I-problem
+hepatic	I-problem
+flexure	I-problem
+.	O

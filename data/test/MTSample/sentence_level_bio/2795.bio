@@ -1,0 +1,10 @@
+No	O
+dysuria	B-problem
+,	O
+gross	B-problem
+hematuria	I-problem
+,	O
+fever	B-problem
+,	O
+chills	B-problem
+.	O

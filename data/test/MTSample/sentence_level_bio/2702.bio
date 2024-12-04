@@ -1,0 +1,17 @@
+The	B-test
+patient	I-test
+weighs	I-test
+260	O
+pounds	O
+and	O
+is	O
+5	O
+feet	O
+and	O
+10	O
+inches	O
+tall	B-test
+by	O
+his	O
+report	O
+.	O

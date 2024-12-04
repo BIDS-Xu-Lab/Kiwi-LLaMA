@@ -1,0 +1,11 @@
+Send	O
+ascitic	O
+fluid	O
+for	O
+cell	B-test
+count	I-test
+,	O
+differential	B-test
+and	O
+cultures	B-test
+.	O

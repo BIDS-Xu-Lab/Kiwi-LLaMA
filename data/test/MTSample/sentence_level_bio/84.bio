@@ -1,0 +1,6 @@
+ADMISSION	O
+DIAGNOSIS	O
+:	O
+Morbid	B-problem
+obesity	I-problem
+.	O

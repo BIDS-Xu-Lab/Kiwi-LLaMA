@@ -1,0 +1,14 @@
+CHIEF	O
+COMPLAINT	O
+:	O
+Multiple	B-problem
+problems	I-problem
+,	O
+main	O
+one	O
+is	O
+chest	B-problem
+pain	I-problem
+at	I-problem
+night	I-problem
+.	O

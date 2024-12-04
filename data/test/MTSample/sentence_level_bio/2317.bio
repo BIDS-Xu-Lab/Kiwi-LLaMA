@@ -1,0 +1,14 @@
+Tylenol	B-drug
+325	O
+mg	O
+tablets	O
+every	O
+4	O
+to	O
+6	O
+hours	O
+as	O
+needed	O
+for	O
+pain	B-problem
+.	O

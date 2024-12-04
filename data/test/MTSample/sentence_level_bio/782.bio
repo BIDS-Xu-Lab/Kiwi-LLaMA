@@ -1,0 +1,6 @@
+CHIEF	O
+COMPLAINT	O
+:	O
+Abdominal	B-problem
+pain	I-problem
+.	O

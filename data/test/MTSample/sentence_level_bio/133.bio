@@ -1,0 +1,10 @@
+He	O
+then	O
+changed	O
+antibiotic	B-drug
+regiment	I-drug
+to	O
+vancomycin	B-drug
+and	O
+doripenem	B-drug
+.	O

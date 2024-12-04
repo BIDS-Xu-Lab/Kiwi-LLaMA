@@ -1,0 +1,13 @@
+HEENT	O
+:	O
+Patient	O
+denies	O
+ear	B-problem
+abnormalities	I-problem
+,	O
+nose	B-problem
+abnormalities	I-problem
+and	O
+throat	B-problem
+abnormalities	I-problem
+.	O

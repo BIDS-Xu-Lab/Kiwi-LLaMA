@@ -1,0 +1,17 @@
+The	O
+patient	O
+also	O
+had	O
+history	O
+of	O
+CHF	B-problem
+in	O
+the	O
+past	O
+and	O
+recently	O
+had	O
+some	B-test
+workup	I-test
+done	O
+.	O

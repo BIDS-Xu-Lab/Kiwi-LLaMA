@@ -1,0 +1,10 @@
+ABDOMEN	O
+:	O
+Obese	B-problem
+,	O
+softly	B-problem
+protuberant	I-problem
+,	O
+and	O
+nontender	O
+.	O

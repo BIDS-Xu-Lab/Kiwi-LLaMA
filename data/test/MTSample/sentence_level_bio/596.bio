@@ -1,0 +1,14 @@
+ALLERGIES	O
+:	O
+The	O
+patient	O
+denied	O
+any	B-problem
+allergy	I-problem
+to	O
+iodine	B-drug
+,	O
+lidocaine	B-drug
+or	O
+codeine	B-drug
+.	O

@@ -1,0 +1,14 @@
+Morbid	B-problem
+obesity	I-problem
+,	O
+status	O
+post	O
+laparoscopic	B-treatment
+Roux	I-treatment
+-	I-treatment
+en	I-treatment
+-	I-treatment
+Y	I-treatment
+gastric	I-treatment
+bypass	I-treatment
+.	O

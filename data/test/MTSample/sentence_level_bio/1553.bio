@@ -1,0 +1,13 @@
+MOUTH	O
+:	O
+The	O
+patient	O
+has	O
+a	O
+dental	B-problem
+fracture	I-problem
+at	I-problem
+tooth	I-problem
+#	I-problem
+18	I-problem
+.	O

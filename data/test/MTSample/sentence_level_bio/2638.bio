@@ -1,0 +1,13 @@
+HEMATOPOIETIC	O
+:	O
+Negative	O
+bleeding	B-problem
+,	O
+negative	O
+lymph	B-problem
+node	I-problem
+enlargement	I-problem
+,	O
+negative	O
+bruisability	B-problem
+.	O

@@ -1,0 +1,14 @@
+Ferrous	B-drug
+sulfate	I-drug
+drops	O
+325	O
+mg	O
+,	O
+PEG	B-treatment
+tube	I-treatment
+b	O
+.	O
+i	O
+.	O
+d	O
+.	O

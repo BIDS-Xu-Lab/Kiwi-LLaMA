@@ -1,0 +1,14 @@
+Pyelonephritis	B-problem
+likely	O
+secondary	O
+to	O
+mucous	B-problem
+plugging	I-problem
+of	O
+indwelling	B-treatment
+Foley	I-treatment
+in	O
+the	B-treatment
+ileal	I-treatment
+conduit	I-treatment
+.	O

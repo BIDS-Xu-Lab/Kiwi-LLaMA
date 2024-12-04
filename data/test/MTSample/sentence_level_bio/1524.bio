@@ -1,0 +1,11 @@
+The	O
+patient	O
+does	O
+not	O
+have	O
+ear	B-problem
+pain	I-problem
+or	O
+hearing	B-problem
+change	I-problem
+.	O

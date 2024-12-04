@@ -1,0 +1,12 @@
+Gastroesophageal	B-problem
+reflux	I-problem
+disease	I-problem
+,	O
+irritable	B-problem
+bowel	I-problem
+syndrome	I-problem
+,	O
+and	O
+gastrointestinal	B-treatment
+prophylaxis	I-treatment
+.	O

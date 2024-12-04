@@ -1,0 +1,17 @@
+We	O
+will	O
+also	O
+plan	O
+to	O
+perform	O
+a	B-test
+carotid	I-test
+duplex	I-test
+Doppler	I-test
+ultrasound	I-test
+to	O
+evaluate	O
+her	B-problem
+carotid	I-problem
+bruits	I-problem
+.	O

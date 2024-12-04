@@ -1,0 +1,16 @@
+BACK	O
+:	O
+The	O
+patient	O
+does	O
+not	O
+have	O
+any	B-problem
+decubitus	I-problem
+or	O
+skin	B-problem
+changes	I-problem
+on	I-problem
+her	I-problem
+back	I-problem
+.	O

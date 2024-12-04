@@ -1,0 +1,13 @@
+Preeclampsia	B-problem
+,	O
+status	O
+post	O
+delivery	B-treatment
+with	O
+Cesarean	B-treatment
+section	I-treatment
+with	O
+uncontrolled	B-problem
+blood	I-problem
+pressure	I-problem
+.	O

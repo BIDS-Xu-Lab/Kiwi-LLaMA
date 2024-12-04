@@ -1,0 +1,9 @@
+The	O
+patient	O
+was	O
+told	O
+to	O
+resume	O
+all	B-treatment
+medications	I-treatment
+.	O

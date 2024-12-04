@@ -1,0 +1,635 @@
+Sample	O
+Type	O
+/	O
+Medical	O
+Specialty	O
+:	O
+General	O
+Medicine	O
+
+Sample	O
+Name	O
+:	O
+Discharge	O
+Summary	O
+-	O
+2	O
+
+Description	O
+:	O
+Patient	O
+with	O
+complaints	O
+of	O
+shortness	B-problem
+of	I-problem
+breath	B-bodyloc
+and	O
+was	O
+found	O
+to	O
+have	O
+acute	B-severity
+COPD	I-problem
+exacerbation	I-problem
+.	O
+
+(	O
+Medical	O
+Transcription	O
+Sample	O
+Report	O
+)	O
+
+ADMISSION	O
+DIAGNOSIS	O
+(	O
+ES	O
+)	O
+:	O
+
+1	O
+.	O
+
+Chronic	B-problem
+obstructive	I-problem
+pulmonary	B-bodyloc
+disease	I-problem
+.	O
+
+2	O
+.	O
+
+Pneumonia	B-problem
+.	O
+
+3	O
+.	O
+
+Congestive	B-problem
+heart	B-bodyloc
+failure	I-problem
+.	O
+
+4	O
+.	O
+
+Diabetes	B-problem
+mellitus	I-problem
+.	O
+
+5	O
+.	O
+
+Neuropathy	B-problem
+.	O
+
+6	O
+.	O
+
+Anxiety	B-problem
+.	O
+
+7	O
+.	O
+
+Hypothyroidism	B-problem
+.	O
+
+8	O
+.	O
+
+Depression	B-problem
+.	O
+
+9	O
+.	O
+
+Hypertension	B-problem
+.	O
+
+DISCHARGE	O
+DIAGNOSIS	O
+(	O
+ES	O
+)	O
+:	O
+
+1	O
+.	O
+
+Severe	B-severity
+chronic	I-problem
+obstructive	I-problem
+pulmonary	B-bodyloc
+disease	I-problem
+.	O
+
+2	O
+.	O
+
+Diabetes	B-problem
+mellitus	I-problem
+.	O
+
+3	O
+.	O
+
+Hypothyroidism	B-problem
+.	O
+
+4	O
+.	O
+
+Altered	B-problem
+mental	I-problem
+status	I-problem
+,	O
+less	B-problem
+somnolent	I-problem
+,	O
+likely	O
+secondary	O
+to	O
+medications	B-treatment
+,	O
+resolved	O
+.	O
+
+5	O
+.	O
+
+Lower	B-bodyloc
+gastrointestinal	I-bodyloc
+bleed	I-problem
+.	O
+
+6	O
+.	O
+
+Status	O
+post	O
+episode	O
+of	O
+atrial	B-bodyloc
+fibrillation	I-problem
+.	O
+
+7	O
+.	O
+
+Status	O
+post	O
+diverticular	B-problem
+bleed	I-problem
+.	O
+
+DISCHARGE	O
+MEDICATIONS	O
+:	O
+
+1	O
+.	O
+
+Albuterol	B-drug
+inhaler	B-form
+q	B-frequency
+.	I-frequency
+i	I-frequency
+.	I-frequency
+d	I-frequency
+.	O
+
+2	O
+.	O
+
+Xanax	B-drug
+1	B-strength
+mg	I-strength
+t	B-frequency
+.	I-frequency
+i	I-frequency
+.	I-frequency
+d	I-frequency
+.	O
+
+3	O
+.	O
+
+Cardizem	B-drug
+CD	I-drug
+120	B-strength
+mg	I-strength
+daily	B-frequency
+.	O
+
+4	O
+.	O
+
+Colace	B-drug
+100	B-strength
+mg	I-strength
+b	B-frequency
+.	I-frequency
+i	I-frequency
+.	I-frequency
+d	I-frequency
+.	O
+
+5	O
+.	O
+
+Iron	B-drug
+sulfate	I-drug
+325	B-strength
+mg	I-strength
+b	B-frequency
+.	I-frequency
+i	I-frequency
+.	I-frequency
+d	I-frequency
+.	O
+
+6	O
+.	O
+
+NPH	B-drug
+10	B-dosage
+units	I-dosage
+subcutaneous	B-route
+b	B-frequency
+.	I-frequency
+i	I-frequency
+.	I-frequency
+d	I-frequency
+.	O
+
+7	O
+.	O
+
+Atrovent	B-drug
+inhaler	B-form
+q	B-frequency
+.	I-frequency
+i	I-frequency
+.	I-frequency
+d	I-frequency
+.	O
+
+8	O
+.	O
+
+Statin	B-drug
+oral	B-route
+suspension	B-form
+p	B-route
+.	I-route
+o	I-route
+.	O
+q	B-temporal
+.	I-temporal
+i	I-temporal
+.	I-temporal
+d	I-temporal
+.	I-temporal
+,	O
+swish	O
+and	O
+spit	O
+.	O
+
+9	O
+.	O
+
+Paxil	B-drug
+10	B-strength
+mg	I-strength
+daily	B-frequency
+.	O
+
+10	O
+.	O
+
+Prednisone	B-drug
+20	B-strength
+mg	I-strength
+daily	B-frequency
+.	O
+
+11	O
+.	O
+
+Darvocet	B-drug
+Darvocet	I-drug
+-	I-drug
+N	I-drug
+100	B-strength
+,	O
+one	O
+q	B-frequency
+.	I-frequency
+4h	I-frequency
+PRN	B-condition
+pain	B-problem
+.	O
+
+12	O
+.	O
+
+Metamucil	B-drug
+one	B-dosage
+pack	B-form
+b	B-frequency
+.	I-frequency
+i	I-frequency
+.	I-frequency
+d	I-frequency
+.	O
+
+13	O
+.	O
+
+Synthroid	B-drug
+50	B-strength
+mcg	I-strength
+daily	B-frequency
+.	O
+
+14	O
+.	O
+
+Nexium	B-drug
+40	B-strength
+mg	I-strength
+daily	B-frequency
+.	O
+
+HOSPITAL	O
+COURSE	O
+:	O
+The	O
+patient	O
+was	O
+a	O
+66	O
+-	O
+year	O
+-	O
+old	O
+who	O
+presented	O
+with	O
+complaints	O
+of	O
+shortness	B-problem
+of	I-problem
+breath	B-bodyloc
+and	O
+was	O
+found	O
+to	O
+have	O
+acute	B-severity
+COPD	I-problem
+exacerbation	I-problem
+.	O
+
+She	O
+had	O
+previously	O
+been	O
+at	O
+outlying	O
+hospital	O
+and	O
+had	O
+left	O
+AMA	O
+after	O
+10	O
+sets	O
+of	O
+BiPAP	B-treatment
+use	O
+.	O
+
+Here	O
+she	O
+was	O
+able	O
+to	O
+be	O
+kept	O
+off	O
+BiPAP	B-treatment
+later	O
+and	O
+slowly	O
+improved	O
+her	O
+exacerbation	O
+of	O
+COPD	B-problem
+with	O
+the	O
+assistance	O
+of	O
+pulmonary	O
+.	O
+
+She	O
+was	O
+thought	B-uncertain
+to	I-uncertain
+have	I-uncertain
+bronchitis	B-problem
+as	O
+well	O
+and	O
+was	O
+treated	O
+with	O
+antibiotics	B-drug
+.	O
+
+During	O
+hospitalization	O
+she	O
+developed	O
+acute	B-severity
+lower	B-bodyloc
+GI	I-bodyloc
+bleed	I-problem
+and	O
+was	O
+transferred	O
+to	O
+intensive	O
+care	O
+unit	O
+and	O
+transfused	O
+packed	B-drug
+red	I-drug
+blood	I-drug
+cells	I-drug
+.	O
+
+GI	O
+was	O
+consulted	O
+,	O
+performed	O
+endoscopy	B-test
+,	O
+revealing	O
+diverticular	B-problem
+disease	I-problem
+of	I-problem
+the	I-problem
+sigmoid	B-bodyloc
+colon	I-bodyloc
+,	O
+with	O
+this	O
+being	O
+the	O
+suspected	B-uncertain
+cause	I-uncertain
+of	I-uncertain
+hemorrhage	B-problem
+.	O
+
+Plavix	B-drug
+is	O
+being	O
+held	O
+for	O
+at	O
+least	O
+10	B-temporal
+days	I-temporal
+.	O
+
+Lovenox	B-drug
+held	O
+as	O
+well	O
+.	O
+
+No	B-negation
+further	I-negation
+signs	I-negation
+of	I-negation
+bleeding	B-problem
+.	O
+
+The	O
+patient	O
+'	O
+s	O
+respiratory	O
+status	O
+did	O
+slowly	O
+improve	O
+to	O
+baseline	O
+.	O
+
+She	O
+is	O
+discharged	O
+and	O
+given	O
+the	B-treatment
+above	I-treatment
+noted	I-treatment
+medications	I-treatment
+.	O
+
+Followup	O
+with	O
+Dr	O
+.	O
+Pesce	O
+,	O
+of	O
+diagnostic	O
+pulmonary	O
+,	O
+in	O
+the	O
+outpatient	O
+setting	O
+.	O
+
+She	O
+will	O
+also	O
+followup	O
+with	O
+Dr	O
+.	O
+Pesce	O
+,	O
+in	O
+the	O
+outpatient	O
+setting	O
+.	O
+
+Keywords	O
+:	O
+
+general	O
+medicine	O
+,	O
+chronic	B-problem
+obstructive	I-problem
+pulmonary	B-bodyloc
+disease	I-problem
+,	O
+pneumonia	B-problem
+,	O
+congestive	B-problem
+heart	B-bodyloc
+failure	I-problem
+,	O
+diabetes	B-problem
+mellitus	I-problem
+,	O
+neuropathy	B-problem
+,	O
+anxiety	B-problem
+,	O
+hypothyroidism	B-problem
+,	O
+depression	B-problem
+,	O
+hypertension	B-problem
+,	O
+shortness	B-problem
+of	I-problem
+breath	B-bodyloc
+,	O
+obstructive	B-problem
+pulmonary	B-bodyloc
+disease	I-problem
+,	O
+pulmonary	B-bodyloc
+disease	I-problem
+,	O
+discharge	B-problem
+,	O
+inhaler	B-treatment
+,	O
+copd	B-problem
+,	O
+exacerbation	B-problem
+,	O
+pulmonary	O
+,	O
+breath	O
+,	O
+

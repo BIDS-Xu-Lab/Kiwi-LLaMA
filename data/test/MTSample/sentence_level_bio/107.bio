@@ -1,0 +1,16 @@
+The	O
+patient	O
+is	O
+instructed	O
+to	O
+not	O
+engage	O
+in	O
+any	O
+strenuous	O
+activity	O
+,	O
+but	O
+maintain	B-treatment
+mobility	I-treatment
+.	O

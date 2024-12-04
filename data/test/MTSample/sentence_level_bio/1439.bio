@@ -1,0 +1,9 @@
+The	O
+patient	O
+has	O
+laboratory	B-test
+studies	I-test
+done	O
+as	O
+well	O
+.	O

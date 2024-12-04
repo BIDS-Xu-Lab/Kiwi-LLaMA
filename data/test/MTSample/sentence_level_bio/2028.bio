@@ -1,0 +1,17 @@
+She	O
+was	O
+treated	O
+with	O
+Zosyn	B-drug
+,	O
+Levaquin	B-drug
+,	O
+and	O
+vancomycin	B-drug
+,	O
+and	O
+tolerated	O
+the	B-drug
+medications	I-drug
+well	O
+.	O

@@ -1,0 +1,12 @@
+Cultures	B-test
+have	O
+been	O
+reported	O
+positive	O
+for	O
+methicillin	B-problem
+-	I-problem
+sensitive	I-problem
+Staphylococcus	I-problem
+aureus	I-problem
+.	O

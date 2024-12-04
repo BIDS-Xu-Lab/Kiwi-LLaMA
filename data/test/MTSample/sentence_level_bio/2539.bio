@@ -1,0 +1,10 @@
+Description	O
+:	O
+The	O
+patient	O
+underwent	O
+a	B-treatment
+total	I-treatment
+vaginal	I-treatment
+hysterectomy	I-treatment
+.	O

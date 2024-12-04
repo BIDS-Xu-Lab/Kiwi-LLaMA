@@ -1,0 +1,16 @@
+VITAL	B-test
+SIGNS	I-test
+:	O
+Blood	B-test
+pressure	I-test
+*	O
+,	O
+pulse	B-test
+*	O
+,	O
+respirations	B-test
+*	O
+,	O
+temperature	B-test
+*	O
+.	O

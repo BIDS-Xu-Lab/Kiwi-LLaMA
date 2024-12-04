@@ -1,0 +1,17 @@
+CARDIOVASCULAR	O
+:	O
+Negative	O
+chest	B-problem
+pain	I-problem
+,	O
+negative	O
+dyspnea	B-problem
+on	I-problem
+exertion	I-problem
+,	O
+negative	O
+palpations	B-problem
+,	O
+negative	O
+edema	B-problem
+.	O

@@ -1,0 +1,8 @@
+DISCHARGE	O
+DIAGNOSIS	O
+:	O
+Status	O
+post	O
+vaginal	B-treatment
+hysterectomy	I-treatment
+.	O

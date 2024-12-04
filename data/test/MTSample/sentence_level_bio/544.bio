@@ -1,0 +1,11 @@
+Abdomen	O
+:	O
+Soft	O
+,	O
+nontender	O
+,	O
+and	O
+nondistended	O
+without	O
+organomegaly	B-problem
+.	O

@@ -1,0 +1,16 @@
+Sensory	O
+:	O
+No	O
+deficits	B-problem
+on	O
+LT	B-test
+/	I-test
+PP	I-test
+/	I-test
+VIB	I-test
+/	I-test
+TEMP	I-test
+/	I-test
+PROP	I-test
+testing	I-test
+.	O

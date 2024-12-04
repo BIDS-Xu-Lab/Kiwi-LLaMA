@@ -1,0 +1,14 @@
+The	O
+patient	O
+does	O
+seem	O
+to	O
+have	O
+a	O
+psychosomatic	O
+component	O
+to	O
+her	B-problem
+chest	I-problem
+pain	I-problem
+.	O

@@ -1,0 +1,14 @@
+PAST	O
+MEDICAL	O
+HISTORY	O
+:	O
+Significant	O
+for	O
+asthma	B-problem
+,	O
+allergic	B-problem
+rhinitis	I-problem
+and	O
+cervical	B-problem
+dysplasia	I-problem
+.	O

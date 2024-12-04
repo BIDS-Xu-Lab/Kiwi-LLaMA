@@ -1,0 +1,11 @@
+ABDOMEN	O
+:	O
+Positive	O
+bowel	B-test
+sounds	I-test
+,	O
+soft	O
+,	O
+and	O
+nontender	O
+.	O

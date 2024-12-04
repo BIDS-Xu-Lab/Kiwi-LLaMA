@@ -1,0 +1,7 @@
+No	O
+other	O
+antibiotic	B-drug
+therapy	I-drug
+was	O
+prescribed	O
+.	O

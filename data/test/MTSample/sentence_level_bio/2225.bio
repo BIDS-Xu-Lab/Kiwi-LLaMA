@@ -1,0 +1,12 @@
+The	O
+patient	O
+has	O
+been	O
+followed	O
+with	O
+periodic	B-test
+evaluation	I-test
+including	O
+blood	B-test
+testing	I-test
+.	O

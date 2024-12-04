@@ -1,0 +1,11 @@
+Breath	B-test
+sounds	I-test
+were	O
+clear	O
+and	O
+equal	O
+without	O
+wheeze	B-problem
+or	O
+rales	B-problem
+.	O

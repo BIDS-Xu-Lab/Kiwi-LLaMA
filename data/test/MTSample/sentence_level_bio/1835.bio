@@ -1,0 +1,13 @@
+The	O
+patient	O
+stopped	O
+taking	O
+Coumadin	B-drug
+for	O
+reasons	O
+not	O
+very	O
+clear	O
+to	O
+him	O
+.	O

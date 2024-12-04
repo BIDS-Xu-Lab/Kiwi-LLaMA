@@ -1,0 +1,12 @@
+colon	B-problem
+cancer	I-problem
+status	O
+post	B-treatment
+right	I-treatment
+hemicolectomy	I-treatment
+,	O
+hospital	B-problem
+-	I-problem
+acquired	I-problem
+pneumonia	I-problem
+,	O

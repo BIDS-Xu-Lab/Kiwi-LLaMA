@@ -1,0 +1,16 @@
+ABDOMEN	O
+:	O
+No	O
+hepatosplenomegaly	B-problem
+,	O
+mass	B-problem
+,	O
+tenderness	B-problem
+,	O
+rebound	B-problem
+,	O
+rigidity	B-problem
+,	O
+or	O
+guarding	B-problem
+.	O

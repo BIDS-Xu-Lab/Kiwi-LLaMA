@@ -1,0 +1,7 @@
+DISCHARGE	O
+DIAGNOSIS	O
+:	O
+Sick	B-problem
+sinus	I-problem
+syndrome	I-problem
+.	O

@@ -1,0 +1,8 @@
+Patient	O
+denies	O
+personal	O
+history	O
+of	O
+breast	B-problem
+cancer	I-problem
+.	O

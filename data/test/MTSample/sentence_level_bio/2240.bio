@@ -1,0 +1,12 @@
+There	O
+were	O
+no	O
+physical	B-test
+findings	I-test
+that	O
+were	O
+suggestive	O
+of	O
+disease	B-problem
+transmission	I-problem
+.	O

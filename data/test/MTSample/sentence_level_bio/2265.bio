@@ -1,0 +1,11 @@
+PROCEDURES	O
+DONE	O
+:	O
+Permanent	B-treatment
+pacemaker	I-treatment
+placement	I-treatment
+after	O
+temporary	B-treatment
+internal	I-treatment
+pacemaker	I-treatment
+.	O

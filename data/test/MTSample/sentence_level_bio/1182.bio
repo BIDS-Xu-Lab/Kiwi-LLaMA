@@ -1,0 +1,7 @@
+All	B-drug
+injected	I-drug
+medications	I-drug
+were	O
+preservative	O
+free	O
+.	O

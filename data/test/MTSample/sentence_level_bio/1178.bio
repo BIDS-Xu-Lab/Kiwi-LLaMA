@@ -1,0 +1,11 @@
+Multiple	B-test
+fluoroscopic	I-test
+views	I-test
+were	O
+used	O
+to	O
+ensure	B-treatment
+proper	I-treatment
+needle	I-treatment
+placement	I-treatment
+.	O

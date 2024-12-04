@@ -1,0 +1,14 @@
+Description	O
+:	O
+Patient	O
+discharged	O
+after	O
+laparoscopic	B-treatment
+Roux	I-treatment
+-	I-treatment
+en	I-treatment
+-	I-treatment
+Y	I-treatment
+gastric	I-treatment
+bypass	I-treatment
+.	O

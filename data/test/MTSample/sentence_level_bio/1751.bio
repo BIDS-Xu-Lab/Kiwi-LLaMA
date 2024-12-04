@@ -1,0 +1,11 @@
+The	O
+patient	O
+is	O
+now	O
+stable	O
+for	O
+transfer	O
+for	O
+cardiac	B-treatment
+cath	I-treatment
+.	O

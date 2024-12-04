@@ -1,0 +1,11 @@
+Heart	B-test
+rate	I-test
+75	O
+-	O
+85	O
+beats	O
+per	O
+minute	O
+,	O
+irregular	B-problem
+.	O

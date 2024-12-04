@@ -1,0 +1,16 @@
+She	O
+is	O
+scheduled	O
+for	O
+screening	B-test
+mammogram	I-test
+and	O
+instructed	O
+on	O
+monthly	B-test
+self	I-test
+-	I-test
+breast	I-test
+exam	I-test
+techniques	O
+.	O

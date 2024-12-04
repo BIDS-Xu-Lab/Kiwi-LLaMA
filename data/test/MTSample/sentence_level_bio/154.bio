@@ -1,0 +1,7 @@
+Thyroid	O
+is	O
+not	O
+enlarged	B-problem
+on	O
+inspection	B-test
+.	O

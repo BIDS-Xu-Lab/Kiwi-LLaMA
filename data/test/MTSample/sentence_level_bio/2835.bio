@@ -1,0 +1,17 @@
+GENERAL	O
+:	O
+The	O
+patient	O
+is	O
+pleasant	O
+82	O
+-	O
+year	O
+-	O
+old	O
+female	O
+in	O
+no	O
+acute	B-problem
+distress	I-problem
+.	O

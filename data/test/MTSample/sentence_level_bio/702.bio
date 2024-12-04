@@ -1,0 +1,11 @@
+GASTROINTESTINAL	O
+:	O
+No	O
+epigastric	B-problem
+discomfort	I-problem
+,	O
+hematemesis	B-problem
+,	O
+or	O
+melena	B-problem
+.	O

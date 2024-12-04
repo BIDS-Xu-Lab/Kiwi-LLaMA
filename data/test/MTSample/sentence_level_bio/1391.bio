@@ -1,0 +1,11 @@
+External	B-test
+ocular	I-test
+movements	I-test
+are	O
+intact	O
+bilaterally	O
+without	O
+nystagmus	B-problem
+or	O
+entrapment	B-problem
+.	O

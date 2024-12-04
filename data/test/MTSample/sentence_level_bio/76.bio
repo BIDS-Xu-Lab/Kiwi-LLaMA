@@ -1,0 +1,13 @@
+Can	O
+shower	O
+starting	O
+tomorrow	O
+,	O
+drain	B-treatment
+site	I-treatment
+care	I-treatment
+and	O
+wound	B-treatment
+care	I-treatment
+reviewed	O
+.	O

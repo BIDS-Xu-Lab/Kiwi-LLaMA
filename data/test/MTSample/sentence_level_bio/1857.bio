@@ -1,0 +1,9 @@
+EXTREMITIES	O
+:	O
+Patient	O
+has	O
+1	B-problem
++	I-problem
+pedal	I-problem
+edema	I-problem
+.	O

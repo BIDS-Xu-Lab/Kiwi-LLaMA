@@ -1,0 +1,12 @@
+Abdomen	O
+:	O
+Soft	O
+,	O
+nontender	O
+,	O
+nondistended	O
+with	O
+positive	O
+bowel	B-test
+sounds	I-test
+.	O

@@ -1,0 +1,13 @@
+Sample	O
+Name	O
+:	O
+MRI	B-test
+C	I-test
+-	I-test
+Spine	I-test
+-	O
+C5	B-problem
+-	I-problem
+6	I-problem
+Disk	I-problem
+Herniation	I-problem

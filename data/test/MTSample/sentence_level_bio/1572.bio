@@ -1,0 +1,16 @@
+CARDIOVASCULAR	O
+:	O
+Heart	O
+is	O
+regular	O
+rate	B-test
+and	O
+rhythm	B-test
+without	O
+murmur	B-problem
+,	O
+rub	B-problem
+,	O
+or	O
+gallop	B-problem
+.	O

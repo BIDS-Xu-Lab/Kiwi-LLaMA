@@ -1,0 +1,16 @@
+RECTAL	O
+:	O
+Negative	O
+to	O
+7	O
+cm	O
+by	O
+gloved	B-test
+digital	I-test
+palpation	I-test
+with	O
+Hemoccult	O
+-	O
+negative	O
+stool	B-test
+.	O

@@ -1,0 +1,10 @@
+Scripts	O
+left	O
+in	O
+the	O
+chart	O
+for	O
+omeprazole	B-drug
+and	O
+Lortab	B-drug
+.	O

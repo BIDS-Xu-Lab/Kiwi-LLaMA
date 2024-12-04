@@ -1,0 +1,14 @@
+No	O
+joint	B-problem
+swelling	I-problem
+,	O
+neck	B-problem
+pain	I-problem
+,	O
+back	B-problem
+pain	I-problem
+or	O
+major	B-problem
+orthopedic	I-problem
+injuries	I-problem
+.	O

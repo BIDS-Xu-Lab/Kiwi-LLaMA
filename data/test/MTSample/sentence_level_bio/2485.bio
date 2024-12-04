@@ -1,0 +1,14 @@
+No	O
+chest	B-problem
+pain	I-problem
+,	O
+shortness	B-problem
+of	I-problem
+breath	I-problem
+,	O
+abdominal	B-problem
+pain	I-problem
+or	O
+back	B-problem
+pain	I-problem
+.	O

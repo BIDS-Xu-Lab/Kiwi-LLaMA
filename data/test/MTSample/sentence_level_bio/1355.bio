@@ -1,0 +1,14 @@
+The	O
+patient	O
+denies	O
+any	B-problem
+pain	I-problem
+in	I-problem
+her	I-problem
+knees	I-problem
+,	O
+ankles	O
+,	O
+or	O
+feet	O
+.	O

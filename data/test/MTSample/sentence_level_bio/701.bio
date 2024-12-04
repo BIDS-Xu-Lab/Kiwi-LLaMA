@@ -1,0 +1,10 @@
+RESPIRATORY	O
+:	O
+No	O
+history	O
+of	O
+pneumonia	B-problem
+or	O
+valley	B-problem
+fever	I-problem
+.	O

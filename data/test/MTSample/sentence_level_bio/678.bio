@@ -1,0 +1,12 @@
+Following	O
+this	O
+,	O
+the	O
+patient	O
+was	O
+treated	O
+for	O
+her	B-test
+blood	I-test
+pressure	I-test
+.	O

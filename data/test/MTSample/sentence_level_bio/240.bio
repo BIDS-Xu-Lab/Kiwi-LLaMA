@@ -1,0 +1,7 @@
+ALLERGIES	B-problem
+:	O
+No	O
+known	B-problem
+drug	I-problem
+allergies	I-problem
+.	O

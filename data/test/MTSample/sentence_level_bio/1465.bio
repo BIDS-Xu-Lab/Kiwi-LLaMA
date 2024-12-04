@@ -1,0 +1,17 @@
+PROCEDURES	O
+:	O
+Incision	B-treatment
+and	I-treatment
+drainage	I-treatment
+,	O
+first	O
+metatarsal	O
+head	O
+,	O
+left	O
+foot	O
+with	O
+culture	B-test
+and	O
+sensitivity	B-test
+.	O

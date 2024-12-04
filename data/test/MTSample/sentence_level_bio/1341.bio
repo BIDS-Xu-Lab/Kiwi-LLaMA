@@ -1,0 +1,7 @@
+CHIEF	O
+COMPLAINT	O
+:	O
+Motor	B-problem
+vehicle	I-problem
+accident	I-problem
+.	O

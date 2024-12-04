@@ -1,0 +1,16 @@
+EYES	O
+:	O
+Negative	O
+visual	B-problem
+changes	I-problem
+,	O
+negative	O
+diplopia	B-problem
+,	O
+negative	O
+scotomata	B-problem
+,	O
+negative	O
+impaired	B-problem
+vision	I-problem
+.	O

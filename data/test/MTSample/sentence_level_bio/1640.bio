@@ -1,0 +1,10 @@
+Cardiovascular	O
+history	O
+:	O
+Negative	O
+for	O
+chest	B-problem
+pain	I-problem
+or	O
+palpitations	B-problem
+.	O

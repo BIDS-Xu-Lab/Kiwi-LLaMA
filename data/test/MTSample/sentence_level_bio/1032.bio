@@ -1,0 +1,13 @@
+She	O
+was	O
+taken	O
+to	O
+the	O
+operating	O
+room	O
+that	O
+night	O
+for	O
+laparoscopic	B-treatment
+cholecystectomy	I-treatment
+.	O

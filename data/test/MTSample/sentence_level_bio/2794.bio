@@ -1,0 +1,14 @@
+No	O
+chest	B-problem
+pain	I-problem
+,	O
+no	O
+nitroglycerin	B-drug
+usage	O
+,	O
+no	O
+fever	B-problem
+,	O
+no	O
+chills	B-problem
+.	O

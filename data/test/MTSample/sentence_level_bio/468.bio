@@ -1,0 +1,15 @@
+Description	O
+:	O
+Patient	O
+with	O
+multiple	B-problem
+problems	I-problem
+,	O
+main	O
+one	O
+is	O
+chest	B-problem
+pain	I-problem
+at	I-problem
+night	I-problem
+.	O

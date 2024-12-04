@@ -1,0 +1,15 @@
+Mouth	O
+,	O
+Tongue	O
+,	O
+Teeth	O
+,	O
+and	O
+Throat	O
+:	O
+Negative	O
+except	O
+for	O
+dental	B-treatment
+work	I-treatment
+.	O

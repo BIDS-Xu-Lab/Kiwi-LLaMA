@@ -1,0 +1,9 @@
+He	O
+has	O
+good	O
+breath	B-test
+sounds	I-test
+and	O
+no	O
+wheezing	B-problem
+.	O

@@ -1,0 +1,17 @@
+ALLERGIES	O
+:	O
+Sulfa	B-drug
+,	O
+aspirin	B-drug
+,	O
+Darvon	B-drug
+,	O
+codeine	B-drug
+,	O
+NSAID	B-drug
+,	O
+amoxicillin	B-drug
+,	O
+and	O
+quinine	B-drug
+.	O

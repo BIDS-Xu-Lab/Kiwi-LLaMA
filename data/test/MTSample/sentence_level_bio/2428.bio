@@ -1,0 +1,13 @@
+Chest	B-test
+x	I-test
+-	I-test
+ray	I-test
+is	O
+read	O
+as	O
+mild	B-problem
+cardiomegaly	I-problem
+and	O
+atherosclerotic	B-problem
+aorta	I-problem
+.	O

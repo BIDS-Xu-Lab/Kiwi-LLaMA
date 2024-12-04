@@ -1,0 +1,16 @@
+Description	O
+:	O
+A	O
+white	O
+female	O
+who	O
+presents	O
+for	O
+complete	B-test
+physical	I-test
+,	O
+Pap	B-test
+and	O
+breast	B-test
+exam	I-test
+.	O

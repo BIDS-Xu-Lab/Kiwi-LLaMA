@@ -1,0 +1,14 @@
+The	O
+patient	O
+was	O
+given	O
+prescription	O
+for	O
+Vicodin	B-drug
+for	O
+any	O
+breakthrough	O
+or	O
+uncontrolled	O
+pain	O
+.	O

@@ -1,0 +1,11 @@
+Ultrasound	B-test
+of	I-test
+the	I-test
+abdomen	I-test
+revealed	O
+echogenic	B-problem
+liver	I-problem
+with	O
+fatty	B-problem
+infiltration	I-problem
+.	O

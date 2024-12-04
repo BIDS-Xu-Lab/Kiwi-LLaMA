@@ -1,0 +1,10 @@
+Hematologic	O
+history	O
+:	O
+Positive	O
+for	O
+essential	B-problem
+thrombocythemia	I-problem
+and	O
+anemia	B-problem
+.	O

@@ -1,0 +1,16 @@
+White	B-test
+blood	I-test
+cell	I-test
+count	I-test
+was	O
+down	O
+to	O
+7500	O
+and	O
+bilirubin	B-test
+decreased	O
+to	O
+2	O
+.	O
+1	O
+.	O

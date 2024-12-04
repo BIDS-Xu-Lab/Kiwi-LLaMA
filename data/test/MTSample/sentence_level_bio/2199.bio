@@ -1,0 +1,13 @@
+PAST	O
+MEDICAL	O
+HISTORY	O
+:	O
+Significant	O
+for	O
+degenerative	B-problem
+disc	I-problem
+disease	I-problem
+in	I-problem
+the	I-problem
+back	I-problem
+.	O

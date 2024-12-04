@@ -1,0 +1,12 @@
+The	O
+patient	O
+does	O
+have	O
+intact	O
+dorsalis	B-test
+pedis	I-test
+and	I-test
+radial	I-test
+pulses	I-test
+bilaterally	O
+.	O

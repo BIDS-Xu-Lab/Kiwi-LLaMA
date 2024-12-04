@@ -1,0 +1,347 @@
+Sample	O
+Type	O
+/	O
+Medical	O
+Specialty	O
+:	O
+Discharge	O
+Summary	O
+
+Sample	O
+Name	O
+:	O
+Pyelonephritis	B-problem
+-	O
+Discharge	O
+Summary	O
+
+Description	O
+:	O
+Pyelonephritis	B-problem
+likely	O
+secondary	O
+to	O
+mucous	B-problem
+plugging	I-problem
+of	O
+indwelling	B-treatment
+Foley	I-treatment
+in	O
+the	B-treatment
+ileal	I-treatment
+conduit	I-treatment
+,	O
+hypertension	B-problem
+,	O
+mild	B-problem
+renal	I-problem
+insufficiency	I-problem
+,	O
+and	O
+anemia	B-problem
+,	O
+which	O
+has	O
+been	O
+present	O
+chronically	B-course
+over	O
+the	B-temporal
+past	I-temporal
+year	I-temporal
+.	O
+
+(	O
+Medical	O
+Transcription	O
+Sample	O
+Report	O
+)	O
+
+ADMISSION	O
+DIAGNOSES	O
+:	O
+
+1	O
+.	O
+
+Pyelonephritis	B-problem
+.	O
+
+2	O
+.	O
+
+History	O
+of	O
+uterine	B-problem
+cancer	I-problem
+and	O
+ileal	B-treatment
+conduit	I-treatment
+urinary	I-treatment
+diversion	I-treatment
+.	O
+
+3	O
+.	O
+
+Hypertension	B-problem
+.	O
+
+4	O
+.	O
+
+Renal	B-bodyloc
+insufficiency	I-problem
+.	O
+
+5	O
+.	O
+
+Anemia	B-problem
+.	O
+
+DISCHARGE	O
+DIAGNOSES	O
+:	O
+
+1	O
+.	O
+
+Pyelonephritis	B-problem
+likely	O
+secondary	O
+to	O
+mucous	B-problem
+plugging	I-problem
+of	O
+indwelling	B-treatment
+Foley	I-treatment
+in	O
+the	B-treatment
+ileal	I-treatment
+conduit	I-treatment
+.	O
+
+2	O
+.	O
+
+Hypertension	B-problem
+.	O
+
+3	O
+.	O
+
+Mild	B-problem
+renal	I-problem
+insufficiency	I-problem
+.	O
+
+4	O
+.	O
+
+Anemia	B-problem
+,	O
+which	O
+has	O
+been	O
+present	O
+chronically	B-course
+over	O
+the	B-temporal
+past	I-temporal
+year	I-temporal
+.	O
+
+HOSPITAL	O
+COURSE	O
+:	O
+The	O
+patient	O
+was	O
+admitted	O
+with	O
+suspected	B-uncertain
+pyelonephritis	B-problem
+.	O
+
+Renal	O
+was	O
+consulted	O
+.	O
+
+It	O
+was	O
+thought	O
+that	O
+there	O
+was	O
+a	B-problem
+thick	I-problem
+mucous	I-problem
+plug	I-problem
+in	O
+the	B-treatment
+Foley	I-treatment
+in	O
+the	B-treatment
+ileal	I-treatment
+conduit	I-treatment
+that	O
+was	O
+irrigated	O
+by	O
+Dr	O
+.	O
+X	O
+.	O
+
+Her	B-problem
+symptoms	I-problem
+responded	O
+to	O
+IV	B-route
+antibiotics	B-drug
+and	O
+she	O
+remained	O
+clinically	O
+stable	O
+.	O
+
+Klebsiella	B-problem
+was	O
+isolated	O
+in	O
+this	O
+urine	O
+,	O
+which	O
+was	O
+sensitive	O
+to	O
+Bactrim	B-drug
+and	O
+she	O
+was	O
+discharged	O
+on	O
+p	B-route
+.	I-route
+o	I-route
+.	I-route
+
+Bactrim	B-drug
+.	O
+
+She	O
+was	O
+scheduled	O
+on	O
+08/07/2007	B-temporal
+for	O
+further	B-treatment
+surgery	I-treatment
+.	O
+
+She	O
+is	O
+to	O
+follow	O
+up	O
+with	O
+Dr	O
+.	O
+Y	O
+in	O
+7	O
+-	O
+10	O
+days	O
+.	O
+
+She	O
+also	O
+complained	O
+of	O
+right	B-bodyloc
+knee	I-bodyloc
+pain	I-problem
+and	O
+the	B-bodyloc
+right	I-bodyloc
+knee	I-bodyloc
+showed	O
+no	B-negation
+sign	I-negation
+of	I-negation
+effusion	B-problem
+.	O
+
+She	O
+was	O
+exquisitely	B-problem
+tender	I-problem
+to	I-problem
+touch	I-problem
+of	O
+the	B-bodyloc
+patellar	I-bodyloc
+tendon	I-bodyloc
+.	O
+
+It	O
+was	O
+thought	O
+that	O
+this	O
+did	O
+not	O
+represent	O
+intraarticular	O
+process	O
+.	O
+
+She	O
+was	O
+advised	O
+to	O
+use	O
+ibuprofen	B-drug
+over	O
+-	O
+the	O
+-	O
+counter	O
+two	B-dosage
+to	I-dosage
+three	I-dosage
+tabs	B-form
+t	B-frequency
+.	I-frequency
+i	I-frequency
+.	I-frequency
+d	I-frequency
+.	I-frequency
+
+Keywords	O
+:	O
+
+discharge	O
+summary	O
+,	O
+uterine	B-problem
+cancer	I-problem
+,	O
+renal	B-problem
+insufficiency	I-problem
+,	O
+pyelonephritis	B-problem
+,	O
+mucous	B-problem
+plugging	I-problem
+,	O
+ileal	B-treatment
+conduit	I-treatment
+,	O
+

@@ -1,0 +1,13 @@
+MEDICATIONS	O
+:	O
+He	O
+has	O
+previously	O
+been	O
+on	O
+analgesics	B-drug
+and	O
+pain	B-drug
+medications	I-drug
+chronically	O
+.	O

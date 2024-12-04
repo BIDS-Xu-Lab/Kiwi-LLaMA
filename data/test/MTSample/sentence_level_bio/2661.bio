@@ -1,0 +1,16 @@
+The	O
+patient	O
+'	O
+s	O
+home	O
+regimen	O
+includes	O
+Duragesic	B-drug
+patch	O
+at	O
+125	O
+mcg	O
+every	O
+3	O
+days	O
+.	O

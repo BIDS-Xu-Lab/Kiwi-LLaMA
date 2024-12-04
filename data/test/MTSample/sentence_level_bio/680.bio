@@ -1,0 +1,13 @@
+She	O
+is	O
+on	O
+multiple	B-treatment
+medications	I-treatment
+,	O
+unable	O
+to	O
+control	O
+the	B-test
+blood	I-test
+pressure	I-test
+.	O

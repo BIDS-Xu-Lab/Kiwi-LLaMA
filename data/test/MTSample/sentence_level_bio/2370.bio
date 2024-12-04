@@ -1,0 +1,10 @@
+Polymyositis	B-problem
+on	O
+immunosuppressive	B-drug
+therapy	I-drug
+(	O
+methotrexate	B-drug
+and	O
+prednisone	B-drug
+)	O
+.	O

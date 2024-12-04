@@ -1,0 +1,13 @@
+discharge	O
+summary	O
+,	O
+seizure	B-problem
+,	O
+hypoglycemia	B-problem
+,	O
+anemia	B-problem
+,	O
+dyspnea	B-problem
+,	O
+edema	B-problem
+.	O

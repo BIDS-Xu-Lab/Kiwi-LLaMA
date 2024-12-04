@@ -1,0 +1,8 @@
+X	B-test
+-	I-test
+ray	I-test
+is	O
+negative	O
+for	O
+osteomyelitis	B-problem
+.	O

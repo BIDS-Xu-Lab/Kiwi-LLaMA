@@ -1,0 +1,7 @@
+Rectal	O
+Exam	O
+:	O
+Normal	O
+rectal	B-test
+tone	I-test
+.	O

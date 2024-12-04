@@ -1,0 +1,12 @@
+CBC	B-test
+is	O
+within	O
+normal	O
+limits	O
+without	O
+anemia	B-problem
+,	O
+thrombocytopenia	B-problem
+or	O
+leukocytosis	B-problem
+.	O

@@ -1,0 +1,17 @@
+The	O
+area	O
+was	O
+covered	O
+with	O
+sterile	O
+drapes	O
+,	O
+leaving	O
+a	O
+small	O
+window	O
+opening	O
+for	O
+needle	B-treatment
+placement	I-treatment
+.	O

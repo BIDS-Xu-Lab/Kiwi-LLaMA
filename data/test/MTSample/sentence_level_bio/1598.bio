@@ -1,0 +1,11 @@
+The	O
+patient	O
+was	O
+also	O
+given	O
+a	O
+prescription	O
+for	O
+pen	B-drug
+V	I-drug
+.	I-drug

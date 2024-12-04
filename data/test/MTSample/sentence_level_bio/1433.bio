@@ -1,0 +1,16 @@
+The	B-test
+CT	I-test
+scan	I-test
+of	I-test
+the	I-test
+brain	I-test
+without	I-test
+contrast	I-test
+shows	O
+no	O
+evidence	O
+of	O
+acute	B-problem
+intracranial	I-problem
+injury	I-problem
+.	O

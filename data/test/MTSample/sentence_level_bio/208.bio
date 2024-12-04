@@ -1,0 +1,8 @@
+Follow	O
+up	O
+with	O
+result	O
+of	O
+blood	B-test
+cultures	I-test
+.	O

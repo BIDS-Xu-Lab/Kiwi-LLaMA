@@ -1,0 +1,692 @@
+Sample	O
+Type	O
+/	O
+Medical	O
+Specialty	O
+:	O
+Discharge	O
+Summary	O
+
+Sample	O
+Name	O
+:	O
+Discharge	O
+Summary	O
+-	O
+13	O
+
+Description	O
+:	O
+Bradycardia	B-problem
+,	O
+dizziness	B-problem
+,	O
+diabetes	B-problem
+,	O
+hypertension	B-problem
+,	O
+abdominal	B-bodyloc
+pain	I-problem
+,	O
+and	O
+sick	B-problem
+sinus	I-problem
+syndrome	I-problem
+.	O
+
+(	O
+Medical	O
+Transcription	O
+Sample	O
+Report	O
+)	O
+
+ADMITTING	O
+DIAGNOSES	O
+:	O
+
+1	O
+.	O
+
+Bradycardia	B-problem
+.	O
+
+2	O
+.	O
+
+Dizziness	B-problem
+.	O
+
+3	O
+.	O
+
+Diabetes	B-problem
+.	O
+
+4	O
+.	O
+
+Hypertension	B-problem
+.	O
+
+5	O
+.	O
+
+Abdominal	B-problem
+pain	I-problem
+.	O
+
+DISCHARGE	O
+DIAGNOSIS	O
+:	O
+Sick	B-problem
+sinus	I-problem
+syndrome	I-problem
+.	O
+
+The	O
+rest	O
+of	O
+her	O
+past	O
+medical	O
+history	O
+remained	O
+the	O
+same	O
+.	O
+
+PROCEDURES	O
+DONE	O
+:	O
+Permanent	B-treatment
+pacemaker	I-treatment
+placement	I-treatment
+after	O
+temporary	B-treatment
+internal	I-treatment
+pacemaker	I-treatment
+.	O
+
+HOSPITAL	O
+COURSE	O
+:	O
+The	O
+patient	O
+was	O
+admitted	O
+to	O
+the	O
+intensive	O
+care	O
+unit	O
+.	O
+
+Dr	O
+.	O
+X	O
+was	O
+consulted	O
+.	O
+
+A	O
+temporary	B-treatment
+intracardiac	I-treatment
+pacemaker	I-treatment
+was	O
+placed	O
+.	O
+
+Consultation	O
+was	O
+requested	O
+to	O
+Dr	O
+.	O
+Y	O
+.	O
+
+He	O
+considered	O
+the	O
+need	O
+to	O
+have	O
+a	B-treatment
+permanent	I-treatment
+pacemaker	I-treatment
+after	O
+reviewing	O
+electrocardiograms	B-test
+and	O
+telemetry	B-test
+readings	I-test
+.	O
+
+The	O
+patient	O
+remained	O
+in	O
+sinus	O
+rhythm	O
+with	O
+severe	B-problem
+bradycardias	I-problem
+,	O
+but	O
+all	O
+of	O
+them	O
+one	O
+to	O
+one	O
+transmission	O
+.	O
+
+This	O
+was	O
+considered	O
+to	O
+be	O
+a	B-problem
+sick	I-problem
+sinus	I-problem
+syndrome	I-problem
+.	O
+
+Permanent	B-treatment
+pacemaker	I-treatment
+was	O
+placed	O
+on	O
+09/05/2007	B-temporal
+with	O
+right	B-treatment
+atrium	I-treatment
+appendage	I-treatment
+and	O
+right	B-treatment
+ventricular	I-treatment
+apex	I-treatment
+electrode	I-treatment
+placement	I-treatment
+.	O
+
+This	O
+is	O
+a	O
+Medtronic	B-treatment
+pacemaker	I-treatment
+.	O
+
+After	O
+this	O
+,	O
+the	O
+patient	O
+remained	O
+with	O
+pain	B-problem
+in	I-problem
+the	I-problem
+left	I-problem
+side	I-problem
+of	I-problem
+the	I-problem
+chest	B-bodyloc
+in	I-problem
+the	I-problem
+upper	I-problem
+area	I-problem
+as	O
+expected	O
+,	O
+but	O
+well	O
+controlled	O
+.	O
+
+Right	B-treatment
+femoral	I-treatment
+artery	I-treatment
+catheter	I-treatment
+was	O
+removed	O
+.	O
+
+The	O
+patient	O
+remained	O
+with	O
+good	O
+pulses	O
+in	O
+the	O
+right	O
+lower	O
+extremity	O
+with	O
+no	B-negation
+hematoma	B-problem
+.	O
+
+Other	O
+problem	O
+was	O
+the	O
+patient	O
+'	O
+s	O
+blood	B-test
+pressure	I-test
+,	O
+which	O
+on	O
+09/05/2007	B-temporal
+was	O
+found	O
+at	O
+180	B-labvalue
+/	I-labvalue
+90	I-labvalue
+.	O
+
+Medication	B-drug
+was	O
+adjusted	O
+to	O
+benazepril	B-drug
+20	B-strength
+mg	I-strength
+a	B-frequency
+day	I-frequency
+.	O
+
+Norvasc	B-drug
+5	B-strength
+mg	I-strength
+was	O
+added	O
+as	O
+well	O
+.	O
+
+Her	B-test
+blood	I-test
+pressure	I-test
+has	O
+remained	O
+better	O
+,	O
+being	O
+today	O
+144	B-labvalue
+/	I-labvalue
+74	I-labvalue
+and	O
+129	B-labvalue
+/	I-labvalue
+76	I-labvalue
+.	O
+
+FINAL	O
+DIAGNOSES	O
+:	O
+Sick	B-problem
+sinus	I-problem
+syndrome	I-problem
+.	O
+
+The	O
+rest	O
+of	O
+her	O
+past	O
+medical	O
+history	O
+remained	O
+without	O
+change	O
+,	O
+which	O
+are	O
+:	O
+
+1	O
+.	O
+
+Diabetes	B-problem
+mellitus	I-problem
+.	O
+
+2	O
+.	O
+
+History	O
+of	O
+peptic	B-problem
+ulcer	I-problem
+disease	I-problem
+.	O
+
+3	O
+.	O
+
+Hypertension	B-problem
+.	O
+
+4	O
+.	O
+
+Insomnia	B-problem
+.	O
+
+5	O
+.	O
+
+Osteoarthritis	B-problem
+.	O
+
+PLAN	O
+:	O
+The	O
+patient	O
+is	O
+discharged	O
+home	O
+to	O
+continue	O
+her	O
+previous	O
+home	B-drug
+medications	I-drug
+,	O
+which	O
+are	O
+:	O
+
+1	O
+.	O
+
+Actos	B-drug
+45	B-strength
+mg	I-strength
+a	B-frequency
+day	I-frequency
+.	I-frequency
+
+2	O
+.	O
+
+Bisacodyl	B-drug
+10	B-strength
+mg	I-strength
+p	B-route
+.	I-route
+o	I-route
+.	I-route
+daily	B-frequency
+p	B-frequency
+.	I-frequency
+r	I-frequency
+.	I-frequency
+n	I-frequency
+.	I-frequency
+constipation	B-problem
+.	O
+
+3	O
+.	O
+
+Cosopt	B-drug
+eye	B-route
+drops	B-form
+,	O
+1	B-dosage
+drop	B-form
+in	O
+each	B-route
+eye	I-route
+2	B-frequency
+times	I-frequency
+a	I-frequency
+day	I-frequency
+.	O
+
+4	O
+.	O
+
+Famotidine	B-drug
+20	B-strength
+mg	I-strength
+1	B-dosage
+tablet	B-form
+p	B-route
+.	I-route
+o	I-route
+.	I-route
+b	B-frequency
+.	I-frequency
+i	I-frequency
+.	I-frequency
+d	I-frequency
+.	I-frequency
+
+5	O
+.	O
+
+Lotemax	B-drug
+0	B-strength
+.	I-strength
+5	I-strength
+%	I-strength
+eye	B-form
+drops	I-form
+,	O
+1	B-dosage
+drop	B-form
+in	O
+each	B-route
+eye	I-route
+4	B-frequency
+times	I-frequency
+a	I-frequency
+day	I-frequency
+.	O
+
+6	O
+.	O
+
+Lotensin	B-drug
+(	B-drug
+benazepril	I-drug
+)	I-drug
+increased	O
+to	O
+20	B-strength
+mg	I-strength
+a	B-frequency
+day	I-frequency
+.	O
+
+7	O
+.	O
+
+Triazolam	B-drug
+0	B-strength
+.	I-strength
+125	I-strength
+mg	I-strength
+p	B-route
+.	I-route
+o	I-route
+.	I-route
+at	B-frequency
+bedtime	I-frequency
+.	O
+
+8	O
+.	O
+
+Milk	B-drug
+of	I-drug
+Magnesia	I-drug
+suspension	O
+30	B-dosage
+mL	I-dosage
+daily	B-frequency
+for	O
+constipation	B-problem
+.	O
+
+9	O
+.	O
+
+Tylenol	B-drug
+No	O
+.	O
+
+3	O
+,	O
+one	B-dosage
+to	I-dosage
+two	I-dosage
+tablets	B-form
+every	B-frequency
+6	I-frequency
+hours	I-frequency
+p	B-frequency
+.	I-frequency
+r	I-frequency
+.	I-frequency
+n	I-frequency
+.	I-frequency
+pain	B-problem
+.	O
+
+10	O
+.	O
+
+Promethazine	B-drug
+25	B-strength
+mg	I-strength
+IM	B-route
+every	B-frequency
+6	I-frequency
+hours	I-frequency
+p	B-frequency
+.	I-frequency
+r	I-frequency
+.	I-frequency
+n	I-frequency
+.	I-frequency
+nausea	B-problem
+or	O
+vomiting	B-problem
+.	O
+
+11	O
+.	O
+
+Tylenol	B-drug
+325	B-strength
+mg	I-strength
+tablets	B-form
+every	B-frequency
+4	I-frequency
+to	I-frequency
+6	I-frequency
+hours	I-frequency
+as	B-frequency
+needed	I-frequency
+for	O
+pain	B-problem
+.	O
+
+12	O
+.	O
+
+The	O
+patient	O
+will	O
+finish	O
+cefazolin	B-drug
+1	B-strength
+g	I-strength
+IV	B-route
+every	B-frequency
+6	I-frequency
+hours	I-frequency
+,	O
+total	O
+5	B-dosage
+dosages	O
+after	O
+pacemaker	B-treatment
+placement	I-treatment
+.	O
+
+DISCHARGE	O
+INSTRUCTIONS	O
+:	O
+Follow	O
+up	O
+in	O
+the	O
+office	O
+in	O
+10	O
+days	O
+for	O
+staple	B-treatment
+removal	I-treatment
+.	O
+
+Resume	O
+home	O
+activities	O
+as	O
+tolerated	O
+with	O
+no	O
+starch	O
+,	O
+sugar	O
+-	O
+free	O
+diet	O
+.	O
+
+Keywords	O
+:	O
+
+discharge	O
+summary	O
+,	O
+bradycardia	B-problem
+,	O
+abdominal	B-problem
+pain	I-problem
+,	O
+diabetes	B-problem
+,	O
+dizziness	B-problem
+,	O
+hypertension	B-problem
+,	O
+sick	B-problem
+sinus	I-problem
+syndrome	I-problem
+,	O
+permanent	B-problem
+pacemaker	I-problem
+,	O
+abdominal	O
+,	O
+syndrome	B-problem
+,	O
+sinus	O
+,	O
+pacemaker	B-treatment
+,	O
+

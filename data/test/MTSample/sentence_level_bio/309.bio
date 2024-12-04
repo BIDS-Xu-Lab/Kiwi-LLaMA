@@ -1,0 +1,14 @@
+MUSCULOSKELETAL	O
+:	O
+The	O
+patient	O
+denies	O
+arm	B-problem
+,	I-problem
+buttock	I-problem
+,	I-problem
+thigh	I-problem
+or	I-problem
+calf	I-problem
+cramps	I-problem
+.	O

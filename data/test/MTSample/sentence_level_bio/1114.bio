@@ -1,0 +1,15 @@
+The	O
+patient	O
+has	O
+history	O
+of	O
+tobacco	B-problem
+abuse	I-problem
+as	O
+well	O
+as	O
+multiple	B-problem
+illicit	I-problem
+drug	I-problem
+abuse	I-problem
+.	O

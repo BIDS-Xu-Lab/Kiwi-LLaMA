@@ -1,0 +1,13 @@
+The	O
+source	O
+patient	O
+was	O
+tested	O
+and	O
+found	O
+to	O
+be	O
+negative	O
+for	O
+HIV	B-problem
+.	O

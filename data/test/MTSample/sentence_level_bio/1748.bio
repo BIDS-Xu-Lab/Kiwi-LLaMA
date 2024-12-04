@@ -1,0 +1,17 @@
+I	O
+performed	O
+an	B-test
+MRI	I-test
+,	O
+which	O
+showed	O
+a	B-problem
+1	I-problem
+cm	I-problem
+lesion	I-problem
+in	I-problem
+the	I-problem
+right	I-problem
+parietal	I-problem
+lobe	I-problem
+.	O

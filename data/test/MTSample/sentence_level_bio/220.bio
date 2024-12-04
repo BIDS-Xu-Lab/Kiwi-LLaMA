@@ -1,0 +1,15 @@
+REASON	O
+FOR	O
+CONSULTATION	O
+:	O
+Antibiotic	B-drug
+management	O
+for	O
+a	B-problem
+right	I-problem
+foot	I-problem
+ulcer	I-problem
+and	O
+possible	O
+osteomyelitis	B-problem
+.	O

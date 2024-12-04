@@ -1,0 +1,14 @@
+Altered	B-problem
+mental	I-problem
+status	I-problem
+,	O
+less	B-problem
+somnolent	I-problem
+,	O
+likely	O
+secondary	O
+to	O
+medications	B-treatment
+,	O
+resolved	O
+.	O

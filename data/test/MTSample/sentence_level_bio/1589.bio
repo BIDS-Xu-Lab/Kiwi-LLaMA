@@ -1,0 +1,13 @@
+#	B-problem
+18	I-problem
+DENTAL	I-problem
+FRACTURE	I-problem
+,	O
+WHICH	O
+IS	O
+AN	B-problem
+ELLIS	I-problem
+TYPE	I-problem
+II	I-problem
+FRACTURE	I-problem
+.	O

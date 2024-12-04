@@ -1,0 +1,10 @@
+The	O
+patient	O
+also	O
+seen	O
+by	O
+nephrologist	O
+and	O
+underwent	O
+dialysis	B-treatment
+.	O

@@ -1,0 +1,8 @@
+REASON	O
+FOR	O
+ADMISSION	O
+:	O
+Cholecystitis	B-problem
+with	O
+choledocholithiasis	B-problem
+.	O

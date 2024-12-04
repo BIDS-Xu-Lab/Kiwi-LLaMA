@@ -1,0 +1,16 @@
+CT	B-test
+of	I-test
+the	I-test
+abdomen	I-test
+revealed	O
+acute	B-problem
+pancreatitis	I-problem
+,	O
+cardiomegaly	B-problem
+,	O
+and	O
+right	B-problem
+lung	I-problem
+base	I-problem
+atelectasis	I-problem
+.	O

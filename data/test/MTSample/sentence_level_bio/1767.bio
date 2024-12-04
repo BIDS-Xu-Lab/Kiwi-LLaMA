@@ -1,0 +1,13 @@
+DISCHARGE	O
+FOLLOWUP	O
+:	O
+Followup	O
+to	O
+be	O
+arranged	O
+at	O
+ABCD	O
+after	O
+cardiac	B-treatment
+cath	I-treatment
+.	O

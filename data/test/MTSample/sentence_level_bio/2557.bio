@@ -1,0 +1,7 @@
+Uterus	O
+was	O
+sent	O
+for	O
+pathologic	B-test
+analysis	I-test
+.	O

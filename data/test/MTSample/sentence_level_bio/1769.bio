@@ -1,0 +1,16 @@
+discharge	O
+summary	O
+,	O
+cardiac	B-treatment
+cath	I-treatment
+,	O
+parietal	O
+lobe	O
+,	O
+cardiac	B-treatment
+catheterization	I-treatment
+,	O
+cardiology	O
+,	O
+echocardiogram	B-test
+,	O

@@ -1,0 +1,10 @@
+The	O
+patient	O
+has	O
+no	O
+significant	B-problem
+bony	I-problem
+deformities	I-problem
+or	O
+abnormalities	B-problem
+.	O

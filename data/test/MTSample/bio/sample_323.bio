@@ -1,0 +1,410 @@
+Sample	O
+Type	O
+/	O
+Medical	O
+Specialty	O
+:	O
+General	O
+Medicine	O
+
+Sample	O
+Name	O
+:	O
+Female	B-test
+Physical	I-test
+Exam	I-test
+-	O
+2	O
+
+Description	O
+:	O
+Sample	O
+female	B-test
+physical	I-test
+exam	I-test
+.	O
+
+(	O
+Medical	O
+Transcription	O
+Sample	O
+Report	O
+)	O
+
+FEMALE	O
+PHYSICAL	O
+EXAMINATION	O
+
+HEENT	O
+:	O
+Pupils	O
+equal	O
+,	O
+round	O
+and	O
+reactive	O
+to	O
+light	O
+and	O
+accommodation	O
+.	O
+
+Extraocular	B-test
+movements	I-test
+are	O
+intact	O
+.	O
+
+Sclerae	O
+are	O
+anicteric	O
+.	O
+
+TMs	O
+are	O
+clear	O
+bilaterally	O
+.	O
+
+Oropharynx	O
+is	O
+clear	O
+without	B-negation
+erythema	B-problem
+or	O
+exudate	B-problem
+.	O
+
+Neck	O
+:	O
+Supple	O
+without	B-negation
+lymphadenopathy	B-problem
+or	O
+thyromegaly	B-problem
+.	O
+
+Carotids	O
+are	O
+silent	O
+.	O
+
+There	O
+is	O
+no	B-negation
+jugular	B-bodyloc
+venous	I-bodyloc
+distention	I-problem
+.	O
+
+Chest	O
+:	O
+Clear	B-labvalue
+to	O
+auscultation	B-test
+bilaterally	O
+.	O
+
+Cardiovascular	O
+:	O
+Regular	B-labvalue
+rate	B-test
+and	O
+rhythm	B-test
+without	B-negation
+S3	B-problem
+,	O
+S4	B-problem
+.	O
+
+No	B-negation
+murmurs	B-problem
+or	O
+rubs	B-problem
+are	O
+appreciated	O
+.	O
+
+Peripheral	B-test
+pulses	I-test
+are	O
++	B-labvalue
+2	I-labvalue
+and	O
+equal	O
+bilaterally	O
+in	O
+all	O
+four	O
+extremities	O
+.	O
+
+Abdomen	O
+:	O
+Soft	O
+,	O
+nontender	O
+,	O
+nondistended	O
+with	O
+positive	B-labvalue
+bowel	B-test
+sounds	I-test
+.	O
+
+No	B-negation
+masses	B-problem
+,	O
+hepatomegaly	B-problem
+or	O
+splenomegaly	B-problem
+are	O
+appreciated	O
+.	O
+
+GU	O
+:	O
+Reveals	O
+normal	O
+female	O
+external	O
+genitalia	O
+.	O
+
+Speculum	B-test
+exam	I-test
+reveals	O
+vaginal	B-labvalue
+mucosa	I-labvalue
+to	I-labvalue
+be	I-labvalue
+pink	I-labvalue
+and	I-labvalue
+rugous	I-labvalue
+.	O
+
+Cervix	O
+appears	O
+normal	O
+.	O
+
+Bimanual	B-test
+exam	I-test
+reveals	O
+uterus	O
+to	O
+be	O
+within	O
+normal	B-labvalue
+limits	O
+.	O
+
+Adnexa	B-bodyloc
+are	O
+normal	O
+without	B-negation
+masses	B-problem
+appreciated	O
+.	O
+
+There	O
+is	O
+no	B-negation
+cervical	B-bodyloc
+motion	I-problem
+tenderness	I-problem
+.	O
+
+Rectal	O
+Exam	O
+:	O
+Normal	B-labvalue
+rectal	B-test
+tone	I-test
+.	O
+
+No	B-negation
+masses	B-problem
+are	O
+appreciated	O
+.	O
+
+Hemoccult	B-test
+is	O
+negative	B-labvalue
+.	O
+
+Extremities	O
+:	O
+Reveal	O
+no	B-negation
+clubbing	B-problem
+,	O
+cyanosis	B-problem
+,	O
+or	O
+edema	B-problem
+.	O
+
+Joint	O
+Exam	O
+:	O
+Reveals	O
+no	B-negation
+tenosynovitis	B-problem
+.	O
+
+Integumentary	O
+:	O
+Normal	O
+breast	O
+tissue	O
+without	B-negation
+lumps	B-problem
+or	O
+masses	B-problem
+.	O
+
+There	O
+are	O
+no	B-negation
+skin	B-bodyloc
+changes	I-problem
+over	I-problem
+the	I-problem
+breasts	B-bodyloc
+.	O
+
+Axillae	B-bodyloc
+are	O
+free	B-negation
+of	I-negation
+masses	B-problem
+.	O
+
+Neurologic	O
+:	O
+Cranial	O
+nerves	O
+II	O
+through	O
+XII	O
+are	O
+grossly	O
+intact	O
+.	O
+
+Motor	B-test
+strength	I-test
+is	O
+5	B-labvalue
+/	I-labvalue
+5	I-labvalue
+and	O
+equal	O
+in	O
+all	O
+four	O
+extremities	O
+.	O
+
+Deep	B-test
+tendon	I-test
+reflexes	I-test
+are	O
++	B-labvalue
+2	I-labvalue
+/	I-labvalue
+4	I-labvalue
+and	O
+equal	O
+bilaterally	O
+.	O
+
+Patient	O
+is	O
+alert	O
+and	O
+oriented	O
+times	O
+3	O
+.	O
+
+Psychiatric	O
+:	O
+Grossly	O
+normal	O
+.	O
+
+Dermatologic	O
+:	O
+No	B-negation
+lesions	B-problem
+or	O
+rashes	B-problem
+.	O
+
+Keywords	O
+:	O
+
+general	O
+medicine	O
+,	O
+female	B-test
+physical	I-test
+examination	I-test
+,	O
+bimanual	B-test
+exam	I-test
+,	O
+heent	O
+,	O
+hemoccult	B-test
+,	O
+ii	O
+through	O
+xii	O
+,	O
+breast	O
+tissue	O
+,	O
+cardiovascular	O
+,	O
+dermatologic	O
+,	O
+external	O
+genitalia	O
+,	O
+integumentary	O
+,	O
+joint	B-test
+exam	I-test
+,	O
+lymphadenopathy	B-test
+,	O
+neck	O
+,	O
+neurologic	O
+,	O
+physical	B-test
+examination	I-test
+,	O
+rectal	B-test
+exam	I-test
+,	O
+skin	B-bodyloc
+changes	I-problem
+,	O
+speculum	B-test
+exam	I-test
+,	O
+female	O
+physical	O
+,	O
+extremities	O
+,	O
+masses	B-problem
+,	O
+oropharynx	O
+,	O
+

@@ -1,0 +1,16 @@
+Patient	O
+continues	O
+to	O
+have	O
+severe	B-problem
+orthopnea	I-problem
+,	O
+paroxysmal	B-problem
+nocturnal	I-problem
+dyspnea	I-problem
+,	O
+cough	B-problem
+with	O
+greenish	B-problem
+expectoration	I-problem
+.	O

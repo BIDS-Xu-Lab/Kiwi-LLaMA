@@ -1,0 +1,13 @@
+DIAGNOSTIC	O
+STUDIES	O
+:	O
+The	O
+patient	O
+does	O
+have	O
+multiple	B-test
+x	I-test
+-	I-test
+rays	I-test
+done	O
+.	O

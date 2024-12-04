@@ -1,0 +1,17 @@
+PLAN	O
+:	O
+The	O
+patient	O
+is	O
+discharged	O
+home	O
+to	O
+continue	O
+her	O
+previous	O
+home	B-drug
+medications	I-drug
+,	O
+which	O
+are	O
+:	O

@@ -1,0 +1,10 @@
+Right	B-problem
+foot	I-problem
+infected	I-problem
+ulcer	I-problem
+with	O
+clinical	O
+evidence	O
+of	O
+osteomyelitis	B-problem
+.	O

@@ -1,0 +1,566 @@
+Sample	O
+Type	O
+/	O
+Medical	O
+Specialty	O
+:	O
+Discharge	O
+Summary	O
+
+Sample	O
+Name	O
+:	O
+Cardiac	O
+Transfer	O
+Summary	O
+
+Description	O
+:	O
+Need	O
+for	O
+cardiac	B-treatment
+catheterization	I-treatment
+.	O
+
+Coronary	B-bodyloc
+artery	I-bodyloc
+disease	I-problem
+,	O
+chest	B-bodyloc
+pain	I-problem
+,	O
+history	O
+of	O
+diabetes	B-problem
+,	O
+history	O
+of	O
+hypertension	B-problem
+,	O
+history	O
+of	O
+obesity	B-problem
+,	O
+a	B-problem
+1	I-problem
+.	I-problem
+1	I-problem
+cm	I-problem
+lesion	I-problem
+in	I-problem
+the	I-problem
+medial	B-bodyloc
+aspect	I-bodyloc
+of	I-bodyloc
+the	I-bodyloc
+right	I-bodyloc
+parietal	I-bodyloc
+lobe	I-bodyloc
+,	O
+and	O
+deconditioning	B-problem
+.	O
+
+(	O
+Medical	O
+Transcription	O
+Sample	O
+Report	O
+)	O
+
+REASON	O
+FOR	O
+TRANSFER	O
+:	O
+Need	O
+for	O
+cardiac	B-treatment
+catheterization	I-treatment
+done	O
+at	O
+ABCD	O
+.	O
+
+TRANSFER	O
+DIAGNOSES	O
+:	O
+
+1	O
+.	O
+
+Coronary	B-bodyloc
+artery	I-bodyloc
+disease	I-problem
+.	O
+
+2	O
+.	O
+
+Chest	B-bodyloc
+pain	I-problem
+.	O
+
+3	O
+.	O
+
+History	O
+of	O
+diabetes	B-problem
+.	O
+
+4	O
+.	O
+
+History	O
+of	O
+hypertension	B-problem
+.	O
+
+5	O
+.	O
+
+History	O
+of	O
+obesity	B-problem
+.	O
+
+6	O
+.	O
+
+A	B-problem
+1	I-problem
+.	I-problem
+1	I-problem
+cm	I-problem
+lesion	I-problem
+in	I-problem
+the	I-problem
+medial	B-bodyloc
+aspect	I-bodyloc
+of	I-bodyloc
+the	I-bodyloc
+right	I-bodyloc
+parietal	I-bodyloc
+lobe	I-bodyloc
+.	O
+
+7	O
+.	O
+
+Deconditioning	B-problem
+.	O
+
+CONSULTATIONS	O
+:	O
+Cardiology	O
+.	O
+
+PROCEDURES	O
+:	O
+
+1	O
+.	O
+
+Echocardiogram	B-test
+.	O
+
+2	O
+.	O
+
+MRI	B-test
+of	I-test
+the	I-test
+brain	I-test
+.	O
+
+3	O
+.	O
+
+Lower	B-test
+extremity	I-test
+Duplex	I-test
+ultrasound	I-test
+.	O
+
+HOSPITAL	O
+COURSE	O
+:	O
+Please	O
+refer	O
+to	O
+my	O
+H	O
+&	O
+P	O
+for	O
+full	O
+details	O
+.	O
+
+In	O
+brief	O
+,	O
+the	O
+patient	O
+is	O
+a	O
+64	O
+-	O
+year	O
+-	O
+old	O
+male	O
+with	O
+history	O
+of	O
+diabetes	B-problem
+,	O
+who	O
+presented	O
+with	O
+6	B-temporal
+hours	I-temporal
+of	O
+chest	B-bodyloc
+pressure	I-problem
+.	O
+
+He	O
+was	O
+brought	O
+in	O
+by	O
+a	O
+friend	O
+.	O
+
+The	O
+friend	O
+states	O
+that	O
+the	O
+patient	O
+deteriorated	O
+over	O
+the	O
+last	O
+few	O
+weeks	O
+to	O
+the	O
+point	O
+that	O
+he	O
+is	O
+very	O
+short	B-problem
+of	I-problem
+breath	I-problem
+with	I-problem
+exertion	I-problem
+.	O
+
+He	O
+apparently	O
+underwent	O
+a	B-test
+cardiac	I-test
+workup	I-test
+6	B-temporal
+months	I-temporal
+ago	I-temporal
+that	O
+the	O
+patient	O
+states	O
+he	O
+barely	O
+passed	O
+.	O
+
+His	B-test
+vital	I-test
+signs	I-test
+were	O
+stable	B-labvalue
+on	O
+admission	O
+.	O
+
+He	O
+was	O
+ruled	B-negation
+out	I-negation
+for	I-negation
+myocardial	B-problem
+infarction	I-problem
+with	O
+troponin	B-test
+x2	O
+.	O
+
+An	B-test
+echocardiogram	I-test
+showed	O
+concentric	B-problem
+LVH	I-problem
+with	O
+an	O
+EF	B-test
+of	O
+62	B-labvalue
+%	I-labvalue
+.	O
+
+I	O
+had	O
+Cardiology	O
+come	O
+to	O
+see	O
+the	O
+patient	O
+,	O
+who	O
+reviewed	O
+the	O
+records	O
+from	O
+Fountain	O
+Valley	O
+.	O
+
+Based	O
+on	O
+his	B-test
+stress	I-test
+test	I-test
+in	O
+the	O
+past	O
+,	O
+Dr	O
+.	O
+X	O
+felt	O
+the	O
+patient	O
+needed	O
+to	O
+undergo	O
+a	B-treatment
+cardiac	I-treatment
+cath	I-treatment
+during	O
+his	O
+inpatient	O
+stay	O
+.	O
+
+The	O
+patient	O
+on	O
+initial	O
+presentation	O
+complained	O
+of	O
+,	O
+what	O
+sounded	O
+like	O
+,	O
+amaurosis	B-problem
+fugax	I-problem
+.	O
+
+I	O
+performed	O
+an	B-test
+MRI	I-test
+,	O
+which	O
+showed	O
+a	B-problem
+1	I-problem
+cm	I-problem
+lesion	I-problem
+in	I-problem
+the	I-problem
+right	B-bodyloc
+parietal	I-bodyloc
+lobe	I-bodyloc
+.	O
+
+I	O
+was	O
+going	O
+to	O
+call	O
+Neurology	O
+at	O
+XYZ	O
+for	O
+evaluation	B-test
+.	O
+
+However	O
+,	O
+secondary	O
+to	O
+his	O
+indication	O
+for	O
+transfer	O
+,	O
+this	O
+could	O
+be	O
+followed	O
+up	O
+at	O
+ABCD	O
+with	O
+Dr	O
+.	O
+Y	O
+.	O
+
+The	O
+patient	O
+is	O
+now	O
+stable	O
+for	O
+transfer	O
+for	O
+cardiac	B-treatment
+cath	I-treatment
+.	O
+
+Discharged	O
+to	O
+ABCD	O
+.	O
+
+DISCHARGE	O
+CONDITION	O
+:	O
+Stable	O
+.	O
+
+DISCHARGE	B-drug
+MEDICATIONS	I-drug
+:	O
+
+1	O
+.	O
+
+Aspirin	B-drug
+325	B-strength
+mg	I-strength
+p	B-route
+.	I-route
+o	I-route
+.	I-route
+daily	B-frequency
+.	O
+
+2	O
+.	O
+
+Lovenox	B-drug
+40	B-strength
+mg	I-strength
+p	B-route
+.	I-route
+o	I-route
+.	I-route
+daily	B-frequency
+.	O
+
+3	O
+.	O
+
+Regular	B-drug
+Insulin	I-drug
+sliding	B-dosage
+scale	I-dosage
+.	O
+
+4	O
+.	O
+
+Novolin	B-drug
+70	B-strength
+/	I-strength
+30	I-strength
+,	O
+15	B-dosage
+units	I-dosage
+b	B-frequency
+.	I-frequency
+i	I-frequency
+.	I-frequency
+d	I-frequency
+.	I-frequency
+
+5	O
+.	O
+
+Metformin	B-drug
+500	B-strength
+mg	I-strength
+p	B-route
+.	I-route
+o	I-route
+.	I-route
+daily	B-frequency
+.	O
+
+6	O
+.	O
+
+Protonix	B-drug
+40	B-strength
+mg	I-strength
+p	B-route
+.	I-route
+o	I-route
+.	I-route
+daily	B-frequency
+.	O
+
+DISCHARGE	O
+FOLLOWUP	O
+:	O
+Followup	O
+to	O
+be	O
+arranged	O
+at	O
+ABCD	O
+after	O
+cardiac	B-treatment
+cath	I-treatment
+.	O
+
+Keywords	O
+:	O
+
+discharge	O
+summary	O
+,	O
+cardiac	B-treatment
+cath	I-treatment
+,	O
+parietal	O
+lobe	O
+,	O
+cardiac	B-treatment
+catheterization	I-treatment
+,	O
+cardiology	O
+,	O
+echocardiogram	B-test
+,	O
+

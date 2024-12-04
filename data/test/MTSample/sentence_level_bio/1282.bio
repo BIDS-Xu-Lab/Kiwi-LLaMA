@@ -1,0 +1,6 @@
+ABDOMEN	O
+:	O
+Normal	O
+bowel	B-test
+sounds	I-test
+.	O

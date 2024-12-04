@@ -1,0 +1,14 @@
+HOSPITAL	O
+COURSE	O
+:	O
+The	O
+patient	O
+was	O
+admitted	O
+for	O
+an	B-problem
+acute	I-problem
+onset	I-problem
+of	I-problem
+congestion	I-problem
+.	O

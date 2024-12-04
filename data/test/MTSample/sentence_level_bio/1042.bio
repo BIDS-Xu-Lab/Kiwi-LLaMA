@@ -1,0 +1,5 @@
+Foley	B-treatment
+catheter	I-treatment
+was	O
+discontinued	O
+.	O

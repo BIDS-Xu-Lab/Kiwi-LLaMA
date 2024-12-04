@@ -1,0 +1,13 @@
+History	O
+of	O
+cardiac	B-problem
+arrhythmia	I-problem
+and	O
+history	O
+of	O
+pacemaker	B-treatment
+secondary	O
+to	O
+AV	B-problem
+block	I-problem
+.	O

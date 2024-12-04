@@ -1,0 +1,12 @@
+PAST	O
+MEDICAL	O
+HISTORY	O
+:	O
+Episodic	B-problem
+leukopenia	I-problem
+and	O
+mild	B-problem
+irritable	I-problem
+bowel	I-problem
+syndrome	I-problem
+.	O

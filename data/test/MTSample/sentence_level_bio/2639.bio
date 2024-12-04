@@ -1,0 +1,17 @@
+NEUROLOGIC	O
+:	O
+Negative	O
+headaches	B-problem
+,	O
+negative	O
+syncope	B-problem
+,	O
+negative	O
+seizures	B-problem
+,	O
+negative	O
+weakness	B-problem
+,	O
+negative	O
+tremor	B-problem
+.	O

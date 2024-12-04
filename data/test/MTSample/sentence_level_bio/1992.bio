@@ -1,0 +1,8 @@
+Colon	B-problem
+cancer	I-problem
+,	O
+status	O
+post	B-treatment
+right	I-treatment
+hemicolectomy	I-treatment
+.	O

@@ -1,0 +1,16 @@
+ASSESSMENT	O
+:	O
+The	O
+patient	O
+presents	O
+for	O
+evaluation	B-test
+after	O
+a	B-problem
+contaminated	I-problem
+needlestick	I-problem
+to	I-problem
+the	I-problem
+index	I-problem
+finger	I-problem
+.	O

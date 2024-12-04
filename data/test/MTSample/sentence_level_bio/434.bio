@@ -1,0 +1,13 @@
+CORONARY	B-test
+ANGIOGRAM	I-test
+:	O
+The	O
+left	O
+main	O
+coronary	O
+artery	O
+had	O
+mild	B-problem
+atherosclerotic	I-problem
+plaque	I-problem
+.	O

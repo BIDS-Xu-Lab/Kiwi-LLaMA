@@ -1,0 +1,9 @@
+PAST	O
+MEDICAL	O
+HISTORY	O
+:	O
+Remarkable	O
+for	O
+chronic	B-problem
+pain	I-problem
+.	O

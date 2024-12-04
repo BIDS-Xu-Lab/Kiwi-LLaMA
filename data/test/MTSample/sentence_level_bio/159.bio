@@ -1,0 +1,12 @@
+Positive	B-problem
+bipedal	I-problem
+edema	I-problem
+,	O
+2	O
++	O
+,	O
+right	O
+worse	B-problem
+than	O
+left	O
+.	O

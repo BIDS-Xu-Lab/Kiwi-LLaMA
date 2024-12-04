@@ -1,0 +1,10 @@
+The	O
+patient	O
+has	O
+negative	O
+Romberg	B-test
+and	O
+negative	O
+pronator	B-test
+drift	I-test
+.	O

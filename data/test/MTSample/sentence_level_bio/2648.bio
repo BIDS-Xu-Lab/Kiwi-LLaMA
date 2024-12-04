@@ -1,0 +1,14 @@
+GENITOURINARY	O
+:	O
+Negative	O
+frequency	B-problem
+,	O
+negative	O
+urgency	B-problem
+,	O
+negative	O
+dysuria	B-problem
+,	O
+negative	O
+incontinence	B-problem
+.	O

@@ -1,0 +1,10 @@
+The	O
+patient	O
+denied	O
+any	B-problem
+loss	I-problem
+of	I-problem
+consciousness	I-problem
+or	O
+incontinence	B-problem
+.	O

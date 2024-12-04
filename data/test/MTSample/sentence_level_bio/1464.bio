@@ -1,0 +1,12 @@
+DISCHARGE	O
+DIAGNOSIS	O
+:	O
+Status	O
+post	O
+I	B-treatment
+&	I-treatment
+D	I-treatment
+,	O
+left	O
+foot	O
+.	O

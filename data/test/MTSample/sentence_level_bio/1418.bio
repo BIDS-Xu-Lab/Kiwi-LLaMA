@@ -1,0 +1,17 @@
+The	O
+patient	O
+has	O
+equal	O
+and	O
+strong	O
+distal	B-test
+and	I-test
+proximal	I-test
+muscle	I-test
+group	I-test
+strength	I-test
+in	O
+all	O
+four	O
+extremities	O
+.	O

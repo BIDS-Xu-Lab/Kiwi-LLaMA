@@ -1,0 +1,15 @@
+HEMATOLOGIC	O
+/	O
+LYMPHATIC	O
+:	O
+The	O
+patient	O
+denies	O
+anemia	B-problem
+,	O
+bleeding	B-problem
+tendency	I-problem
+or	O
+clotting	B-problem
+tendency	I-problem
+.	O

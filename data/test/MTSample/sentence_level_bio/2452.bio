@@ -1,0 +1,12 @@
+Her	B-test
+Digoxin	I-test
+level	I-test
+is	O
+appropriate	O
+,	O
+as	O
+well	O
+as	O
+a	B-test
+TSH	I-test
+.	O

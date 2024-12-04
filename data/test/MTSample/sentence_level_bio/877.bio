@@ -1,0 +1,14 @@
+No	O
+abdominal	B-problem
+pain	I-problem
+,	O
+no	O
+heartburn	B-problem
+,	O
+no	O
+constipation	B-problem
+,	O
+diarrhea	B-problem
+or	O
+dysuria	B-problem
+.	O

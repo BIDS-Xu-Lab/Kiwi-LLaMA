@@ -1,0 +1,9 @@
+She	O
+also	O
+received	O
+Lipitor	B-drug
+for	O
+her	B-problem
+high	I-problem
+cholesterol	I-problem
+.	O

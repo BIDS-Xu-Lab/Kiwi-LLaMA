@@ -1,0 +1,13 @@
+Neck	O
+:	O
+Supple	O
+without	O
+lymphadenopathy	B-problem
+,	O
+thyromegaly	B-problem
+,	O
+carotid	B-problem
+bruit	I-problem
+or	O
+JVD	B-problem
+.	O

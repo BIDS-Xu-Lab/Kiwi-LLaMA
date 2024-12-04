@@ -1,0 +1,10 @@
+LABORATORY	O
+:	O
+White	B-test
+blood	I-test
+cell	I-test
+count	I-test
+never	O
+was	O
+abnormal	B-problem
+.	O

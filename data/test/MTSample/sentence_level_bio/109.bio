@@ -1,0 +1,16 @@
+She	O
+must	O
+be	O
+able	O
+to	O
+stop	O
+in	O
+an	O
+emergency	O
+and	O
+be	O
+off	O
+narcotic	B-drug
+pain	I-drug
+medicine	I-drug
+.	O

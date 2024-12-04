@@ -1,0 +1,12 @@
+SURGICAL	O
+HISTORY	O
+:	O
+No	O
+major	B-treatment
+surgery	I-treatment
+except	O
+for	O
+C	B-treatment
+-	I-treatment
+section	I-treatment
+.	O

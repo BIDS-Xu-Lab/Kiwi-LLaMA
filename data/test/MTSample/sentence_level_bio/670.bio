@@ -1,0 +1,15 @@
+The	O
+patient	O
+is	O
+a	O
+38	O
+-	O
+year	O
+-	O
+old	O
+female	O
+admitted	O
+following	O
+a	B-treatment
+delivery	I-treatment
+.	O

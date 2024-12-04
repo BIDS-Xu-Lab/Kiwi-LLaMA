@@ -1,0 +1,14 @@
+The	O
+patient	O
+understood	O
+the	O
+informed	O
+consent	O
+and	O
+desired	O
+to	O
+have	O
+the	B-treatment
+procedure	I-treatment
+performed	O
+.	O

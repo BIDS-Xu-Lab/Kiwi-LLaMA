@@ -1,0 +1,16 @@
+Patient	O
+was	O
+recently	O
+discharged	O
+from	O
+Doctors	O
+Hospital	O
+at	O
+Parkway	O
+after	O
+he	O
+was	O
+treated	O
+for	O
+pneumonia	B-problem
+.	O

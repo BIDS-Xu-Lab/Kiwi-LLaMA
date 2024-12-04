@@ -1,0 +1,7 @@
+CONSULT	O
+REQUEST	O
+FOR	O
+:	O
+Medical	B-treatment
+management	I-treatment
+.	O

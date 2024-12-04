@@ -1,0 +1,7 @@
+Obstructive	B-problem
+sleep	I-problem
+apnea	I-problem
+,	O
+on	O
+CPAP	B-treatment
+.	O

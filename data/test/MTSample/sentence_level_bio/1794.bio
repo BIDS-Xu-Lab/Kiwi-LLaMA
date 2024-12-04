@@ -1,0 +1,11 @@
+ALLERGIES	B-problem
+:	O
+TORADOL	B-drug
+,	O
+MORPHINE	B-drug
+,	O
+PENICILLIN	B-drug
+,	O
+AND	O
+AMPICILLIN	B-drug
+.	O

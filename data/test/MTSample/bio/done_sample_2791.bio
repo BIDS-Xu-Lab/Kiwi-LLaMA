@@ -1,0 +1,553 @@
+Sample	O
+Type	O
+/	O
+Medical	O
+Specialty	O
+:	O
+Discharge	O
+Summary	O
+
+Sample	O
+Name	O
+:	O
+GI	B-bodyloc
+Bleed	I-problem
+-	O
+Discharge	O
+Summary	O
+
+Description	O
+:	O
+GI	B-bodyloc
+bleed	I-problem
+.	O
+
+Upper	B-bodyloc
+gastrointestinal	I-bodyloc
+bleed	I-problem
+.	O
+
+CBC	B-test
+revealed	O
+microcytic	B-problem
+anemia	I-problem
+.	O
+
+(	O
+Medical	O
+Transcription	O
+Sample	O
+Report	O
+)	O
+
+CHIEF	O
+COMPLAINT	O
+:	O
+GI	B-bodyloc
+bleed	I-problem
+.	O
+
+HISTORY	O
+OF	O
+PRESENT	O
+ILLNESS	O
+:	O
+The	O
+patient	O
+is	O
+an	O
+80	O
+-	O
+year	O
+-	O
+old	O
+white	O
+female	O
+with	O
+history	O
+of	O
+atrial	B-bodyloc
+fibrillation	I-problem
+,	O
+on	O
+Coumadin	B-drug
+,	O
+who	O
+presented	O
+as	O
+outpatient	O
+,	O
+complaining	O
+of	O
+increasing	B-course
+fatigue	I-problem
+.	O
+
+CBC	B-test
+revealed	O
+microcytic	B-problem
+anemia	I-problem
+with	O
+hemoglobin	B-test
+of	O
+8	B-labvalue
+.	I-labvalue
+9	I-labvalue
+.	O
+
+Stool	B-bodyloc
+dark	I-problem
+brown	I-problem
+,	O
+strongly	O
+OB	B-problem
+positive	I-problem
+.	O
+
+The	O
+patient	O
+denied	B-negation
+any	B-problem
+shortness	I-problem
+of	I-problem
+breath	I-problem
+.	O
+
+No	B-negation
+chest	B-bodyloc
+pain	I-problem
+.	O
+
+No	B-negation
+GI	B-bodyloc
+complaints	I-problem
+.	O
+
+The	O
+patient	O
+was	O
+admitted	O
+to	O
+ABCD	O
+for	O
+further	B-test
+evaluation	I-test
+.	O
+
+PAST	O
+MEDICAL	O
+HISTORY	O
+:	O
+Significant	O
+for	O
+atrial	B-bodyloc
+fibrillation	I-problem
+,	O
+hypertension	B-problem
+,	O
+osteoarthritis	B-problem
+of	I-problem
+the	B-bodyloc
+knees	I-bodyloc
+,	O
+hypercholesterolemia	B-problem
+,	O
+non	B-problem
+-	I-problem
+insulin	I-problem
+-	I-problem
+dependent	I-problem
+diabetes	I-problem
+mellitus	I-problem
+,	O
+asthma	B-problem
+,	O
+and	O
+hypothyroidism	B-problem
+.	O
+
+PHYSICAL	O
+EXAMINATION	O
+:	O
+
+GENERAL	O
+:	O
+The	O
+patient	O
+is	O
+in	O
+no	B-negation
+acute	B-course
+distress	I-problem
+.	O
+
+VITAL	O
+SIGNS	O
+:	O
+Stable	O
+.	O
+
+HEENT	O
+:	O
+Benign	O
+.	O
+
+NECK	O
+:	O
+Supple	O
+.	O
+
+No	B-negation
+adenopathy	B-problem
+.	O
+
+LUNGS	O
+:	O
+Clear	O
+with	O
+good	O
+air	O
+movement	O
+.	O
+
+HEART	O
+:	O
+Irregularly	B-problem
+regular	I-problem
+.	O
+
+No	B-negation
+gallops	B-problem
+.	O
+
+ABDOMEN	O
+:	O
+Positive	B-labvalue
+bowel	B-test
+sounds	I-test
+,	O
+soft	O
+,	O
+and	O
+nontender	O
+.	O
+
+No	B-negation
+masses	B-problem
+or	O
+organomegaly	B-problem
+.	O
+
+EXTREMITIES	O
+:	O
+1	B-problem
++	I-problem
+lower	B-bodyloc
+extremity	I-bodyloc
+edema	I-problem
+bilaterally	I-problem
+.	O
+
+HOSPITAL	O
+COURSE	O
+:	O
+The	O
+patient	O
+underwent	O
+upper	B-test
+endoscopy	I-test
+performed	O
+by	O
+Dr	O
+.	O
+A	O
+,	O
+which	O
+revealed	O
+erosive	B-problem
+gastritis	I-problem
+.	O
+
+Colonoscopy	B-test
+did	O
+reveal	O
+diverticulosis	B-problem
+as	O
+well	O
+as	O
+polyp	B-problem
+,	O
+which	O
+was	O
+resected	O
+.	O
+
+The	O
+patient	O
+tolerated	O
+the	B-treatment
+procedure	I-treatment
+well	O
+.	O
+
+She	O
+was	O
+transfused	O
+,	O
+and	O
+prior	O
+to	O
+discharge	O
+hemoglobin	B-test
+was	O
+stable	O
+at	O
+10	B-labvalue
+.	I-labvalue
+7	I-labvalue
+.	O
+
+The	O
+patient	O
+was	O
+without	B-negation
+further	B-problem
+GI	B-bodyloc
+complaints	I-problem
+.	O
+
+Coumadin	B-drug
+was	O
+held	O
+during	O
+hospital	O
+stay	O
+and	O
+recommendations	O
+were	O
+given	O
+by	O
+GI	O
+to	O
+hold	O
+Coumadin	B-drug
+for	O
+an	B-duration
+additional	I-duration
+three	I-duration
+days	I-duration
+after	O
+discharge	O
+then	O
+resume	O
+.	O
+
+The	O
+patient	O
+was	O
+discharged	O
+with	O
+outpatient	O
+PMD	O
+,	O
+GI	O
+,	O
+and	O
+Cardiology	O
+followup	O
+.	O
+
+DISCHARGE	O
+DIAGNOSES	O
+:	O
+
+1	O
+.	O
+
+Upper	B-bodyloc
+gastrointestinal	I-bodyloc
+bleed	I-problem
+.	O
+
+2	O
+.	O
+
+Anemia	B-problem
+.	O
+
+3	O
+.	O
+
+Atrial	B-bodyloc
+fibrillation	I-problem
+.	O
+
+4	O
+.	O
+
+Non	B-problem
+-	I-problem
+insulin	I-problem
+-	I-problem
+dependent	I-problem
+diabetes	I-problem
+mellitus	I-problem
+.	O
+
+5	O
+.	O
+
+Hypertension	B-problem
+.	O
+
+6	O
+.	O
+
+Hypothyroidism	B-problem
+.	O
+
+7	O
+.	O
+
+Asthma	B-problem
+.	O
+
+CONDITION	O
+UPON	O
+DISCHARGE	O
+:	O
+Stable	O
+.	O
+
+MEDICATIONS	O
+:	O
+Feosol	B-drug
+325	B-strength
+mg	I-strength
+daily	B-frequency
+,	O
+multivitamins	B-drug
+one	B-dosage
+daily	B-frequency
+,	O
+Protonix	B-drug
+40	B-strength
+mg	I-strength
+b	B-frequency
+.	I-frequency
+i	I-frequency
+.	I-frequency
+d	I-frequency
+.	I-frequency
+
+,	O
+KCl	B-drug
+20	B-strength
+mEq	I-strength
+daily	B-frequency
+,	O
+Lasix	B-drug
+40	B-strength
+mg	I-strength
+b	B-frequency
+.	I-frequency
+i	I-frequency
+.	I-frequency
+d	I-frequency
+.	I-frequency
+,	O
+atenolol	B-drug
+50	B-strength
+mg	I-strength
+daily	B-frequency
+,	O
+Synthroid	B-drug
+80	B-strength
+mcg	I-strength
+daily	B-frequency
+,	O
+Actos	B-drug
+30	B-strength
+mg	I-strength
+daily	B-frequency
+,	O
+Mevacor	B-drug
+40	B-strength
+mg	I-strength
+daily	B-frequency
+,	O
+and	O
+lisinopril	B-drug
+20	B-strength
+mg	I-strength
+daily	B-frequency
+.	O
+
+ALLERGIES	B-problem
+:	O
+None	B-negation
+.	O
+
+DIET	O
+:	O
+1800	O
+-	O
+calorie	O
+ADA	O
+.	O
+
+ACTIVITY	O
+:	O
+As	O
+tolerated	O
+.	O
+
+FOLLOWUP	O
+:	O
+The	O
+patient	O
+to	O
+hold	O
+Coumadin	B-drug
+through	B-duration
+weekend	I-duration
+.	O
+
+Followup	O
+CBC	B-test
+and	O
+INR	B-test
+were	O
+ordered	O
+.	O
+
+Outpatient	O
+followup	O
+as	O
+arranged	O
+.	O
+
+Keywords	O
+:	O
+
+discharge	O
+summary	O
+,	O
+gi	B-problem
+bleed	I-problem
+,	O
+microcytic	B-problem
+anemia	I-problem
+,	O
+cbc	B-test
+,	O
+gastrointestinal	O
+,	O
+endoscopy	B-test
+,	O
+gi	B-problem
+complaints	I-problem
+,	O
+colonoscopy	B-test
+,	O
+

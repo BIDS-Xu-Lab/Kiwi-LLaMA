@@ -1,0 +1,12 @@
+EARS	O
+:	O
+Negative	O
+tinnitus	B-problem
+,	O
+negative	O
+vertigo	B-problem
+,	O
+negative	O
+hearing	B-problem
+impairment	I-problem
+.	O

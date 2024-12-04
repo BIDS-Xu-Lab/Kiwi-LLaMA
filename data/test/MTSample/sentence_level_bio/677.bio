@@ -1,0 +1,7 @@
+The	O
+patient	O
+had	O
+a	B-treatment
+cesarean	I-treatment
+section	I-treatment
+.	O

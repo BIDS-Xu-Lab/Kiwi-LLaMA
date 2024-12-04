@@ -1,0 +1,16 @@
+Description	O
+:	O
+The	O
+patient	O
+has	O
+recently	O
+had	O
+an	O
+admission	O
+for	O
+pneumonia	B-problem
+with	O
+positive	B-problem
+blood	I-problem
+count	I-problem
+.	O

@@ -1,0 +1,15 @@
+HEENT	O
+:	O
+She	O
+does	O
+complain	O
+of	O
+some	B-problem
+allergies	I-problem
+,	O
+sneezing	B-problem
+,	O
+and	O
+sore	B-problem
+throat	I-problem
+.	O

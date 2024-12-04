@@ -1,0 +1,7 @@
+FINAL	O
+DIAGNOSES	O
+:	O
+Sick	B-problem
+sinus	I-problem
+syndrome	I-problem
+.	O

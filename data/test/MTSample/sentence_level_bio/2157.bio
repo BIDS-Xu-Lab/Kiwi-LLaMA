@@ -1,0 +1,11 @@
+HOSPITAL	O
+COURSE	O
+:	O
+The	O
+patient	O
+was	O
+admitted	O
+with	O
+suspected	O
+pyelonephritis	B-problem
+.	O

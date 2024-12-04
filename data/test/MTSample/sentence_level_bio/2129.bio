@@ -1,0 +1,8 @@
+PLAN	O
+:	O
+Endocrinology	O
+Consult	O
+,	O
+complete	B-test
+CBC	I-test
+.	O

@@ -1,0 +1,9 @@
+Atherosclerotic	B-problem
+coronary	I-problem
+vascular	I-problem
+disease	I-problem
+with	O
+old	B-problem
+myocardial	I-problem
+infarction	I-problem
+.	O

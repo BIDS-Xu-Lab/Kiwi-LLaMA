@@ -1,0 +1,6 @@
+This	O
+is	O
+a	O
+Medtronic	B-treatment
+pacemaker	I-treatment
+.	O

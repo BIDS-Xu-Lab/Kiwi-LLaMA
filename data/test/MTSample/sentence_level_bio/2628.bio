@@ -1,0 +1,13 @@
+The	O
+patient	O
+subsequently	O
+underwent	O
+C5	B-treatment
+-	I-treatment
+6	I-treatment
+laminectomy	I-treatment
+and	O
+her	B-problem
+symptoms	I-problem
+resolved	O
+.	O

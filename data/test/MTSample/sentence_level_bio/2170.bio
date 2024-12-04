@@ -1,0 +1,17 @@
+discharge	O
+summary	O
+,	O
+uterine	B-problem
+cancer	I-problem
+,	O
+renal	B-problem
+insufficiency	I-problem
+,	O
+pyelonephritis	B-problem
+,	O
+mucous	B-problem
+plugging	I-problem
+,	O
+ileal	B-treatment
+conduit	I-treatment
+,	O

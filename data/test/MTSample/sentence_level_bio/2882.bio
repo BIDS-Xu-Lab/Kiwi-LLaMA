@@ -1,0 +1,16 @@
+FOLLOW	O
+-	O
+UP	O
+:	O
+The	O
+patient	O
+discharged	O
+to	O
+a	O
+skilled	O
+nursing	O
+facility	O
+for	O
+further	B-treatment
+rehabilitation	I-treatment
+.	O

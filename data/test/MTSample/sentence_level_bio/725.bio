@@ -1,0 +1,13 @@
+No	O
+prior	O
+history	O
+of	O
+cardiac	B-problem
+disease	I-problem
+except	O
+for	O
+borderline	B-problem
+gestational	I-problem
+diabetes	I-problem
+mellitus	I-problem
+.	O

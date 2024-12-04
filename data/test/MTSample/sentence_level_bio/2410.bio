@@ -1,0 +1,11 @@
+ALLERGIES	O
+:	O
+MORPHINE	B-drug
+,	O
+SULFAS	B-drug
+(	O
+RASH	B-problem
+)	O
+,	O
+PROZAC	B-drug
+.	O

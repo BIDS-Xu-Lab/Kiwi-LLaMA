@@ -1,0 +1,14 @@
+The	O
+patient	O
+is	O
+without	O
+capsular	B-problem
+retractions	I-problem
+,	O
+labored	B-problem
+respirations	I-problem
+or	O
+accessory	B-problem
+muscle	I-problem
+usage	I-problem
+.	O

@@ -1,0 +1,14 @@
+The	O
+patient	O
+was	O
+given	O
+written	O
+and	O
+oral	O
+instruction	O
+about	O
+wound	B-treatment
+care	I-treatment
+before	O
+discharge	O
+.	O

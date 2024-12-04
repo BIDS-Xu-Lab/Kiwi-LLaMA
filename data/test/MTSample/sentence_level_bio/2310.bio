@@ -1,0 +1,10 @@
+Milk	B-drug
+of	I-drug
+Magnesia	I-drug
+suspension	O
+30	O
+mL	O
+daily	O
+for	O
+constipation	B-problem
+.	O

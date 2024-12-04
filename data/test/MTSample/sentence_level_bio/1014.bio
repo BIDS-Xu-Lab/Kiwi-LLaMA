@@ -1,0 +1,15 @@
+Laparoscopic	B-treatment
+cholecystectomy	I-treatment
+with	O
+laparoscopy	B-test
+converted	O
+to	O
+open	O
+common	B-test
+bile	I-test
+duct	I-test
+exploration	I-test
+and	O
+stone	B-treatment
+extraction	I-treatment
+.	O

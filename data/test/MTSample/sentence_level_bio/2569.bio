@@ -1,0 +1,17 @@
+Description	O
+:	O
+Bilateral	B-test
+Screening	I-test
+Mammogram	I-test
+Full	I-test
+-	I-test
+Field	I-test
+Digital	I-test
+Mammography	I-test
+(	I-test
+FFDM	I-test
+)	I-test
+(	O
+Benign	O
+Findings	O
+)	O

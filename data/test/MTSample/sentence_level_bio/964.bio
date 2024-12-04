@@ -1,0 +1,10 @@
+The	O
+patient	O
+was	O
+admitted	O
+to	O
+ABCD	O
+for	O
+further	B-test
+evaluation	I-test
+.	O

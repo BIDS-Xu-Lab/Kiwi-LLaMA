@@ -1,0 +1,10 @@
+PAST	O
+MEDICAL	O
+HISTORY	O
+:	O
+Negative	O
+for	O
+chronic	B-problem
+medical	I-problem
+problems	I-problem
+.	O

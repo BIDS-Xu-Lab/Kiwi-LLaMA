@@ -1,0 +1,12 @@
+Denies	O
+any	B-problem
+black	I-problem
+or	I-problem
+bloody	I-problem
+stools	I-problem
+,	O
+diarrhea	B-problem
+,	O
+or	O
+constipation	B-problem
+.	O
