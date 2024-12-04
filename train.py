@@ -11,19 +11,15 @@ device_index = Accelerator().process_index
 device_map = {"": device_index}
 import os
 
-token = '' ### your huggingface token
-output_dir = "./models/Llama-2-7b-2epoch"
-if 'Llama-2-7b' in output_dir:
-    model_name = "meta-llama/Llama-2-7b-chat-hf"
-if 'Llama-2-13b' in output_dir:
-    model_name = "meta-llama/Llama-2-13b-chat-hf"
-if 'Llama-2-70b' in output_dir:
-    model_name = "meta-llama/Llama-2-70b-chat-hf"
+token = '' # your token
+output_dir = "./models/Llama-3-8b-mix-2epoch"
+model_name = "meta-llama/Meta-Llama-3-8B-Instruct"
+
 os.environ["WANDB_PROJECT"] = output_dir.split('/')[-1]
 
 
-train_dataset = load_dataset("csv", data_files=["./data/NER_main_train.csv","./data/RE_train.csv"], split="train")
-eval_dataset = load_dataset("csv", data_files=["./data/NER_main_dev.csv","./data/RE_dev.csv"], split="train")
+train_dataset = load_dataset("csv", data_files=["../data/NER_main_train.csv","../data/RE/RE_train.csv"], split="train")
+eval_dataset = load_dataset("csv", data_files=["../data/NER_main_dev.csv","../data/RE/RE_dev.csv"], split="train")
 
 
 bnb_config = BitsAndBytesConfig(
@@ -96,7 +92,7 @@ trainer = SFTTrainer(
     train_dataset=train_dataset,
     eval_dataset=eval_dataset,
     tokenizer=tokenizer,
-    max_seq_length=1500,
+    max_seq_length=1000,
     formatting_func=formatting_prompts_func,
     args=training_args,
     #callbacks = [EarlyStoppingCallback(early_stopping_patience=3)]
