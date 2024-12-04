@@ -6,6 +6,8 @@ git clone https://github.com/BIDS-Xu-Lab/Kiwi-LLaMA.git
 cd Kiwi-LLaMA
 pip install -r requirements.txt
 ```
+### Data
+In this repository, we are providing the MTSample dataset. The MIMIC-III and 2010 i2b2 datasets, we are providing entity offsets and texts without the original text files.
 
 ## Instruction Tuning
 ```bash
