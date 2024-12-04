@@ -8,9 +8,7 @@ pip install -r requirements.txt
 ```
 
 ### Data
-```bash
-For the MTSample dataset, we are providing both entity offsets and texts, as well as the instruction tuning format. The MIMIC-III and 2010 i2b2 datasets, we are only providing entity offsets and texts without the original notes.
-```
+#### For the MTSample dataset, we are providing both entity offsets and texts, as well as the instruction tuning format. The MIMIC-III and 2010 i2b2 datasets, we are only providing entity offsets and texts without the original notes.
 
 ## Instruction Tuning
 ```bash
