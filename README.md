@@ -3,7 +3,7 @@
 ## Environment
 ```bash
 git clone https://github.com/BIDS-Xu-Lab/Kiwi-LLaMA.git
-cd cd Kiwi-LLaMA
+cd Kiwi-LLaMA
 pip install -r requirements.txt
 ```
 
