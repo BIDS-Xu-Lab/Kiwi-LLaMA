@@ -1,0 +1,292 @@
+T1	test 63 83	Female Physical Exam
+T2	test 108 128	female physical exam
+T3	negation 222 224	no
+T4	problem 225 230	edema
+T5	negation 250 252	no
+T6	problem 253 261	erythema
+T7	problem 263 275	foreign body
+T8	problem 280 291	lacerations
+T9	negation 321 323	no
+T10	problem 324 332	jaundice
+T11	negation 347 354	without
+T12	problem 355 362	lesions
+T13	negation 419 421	no
+T14	problem 422 429	lesions
+T15	negation 513 515	no
+T16	problem 516 524	erythema
+T17	problem 526 531	edema
+T18	problem 536 543	lesions
+T19	negation 568 575	without
+T20	problem 576 581	edema
+T21	problem 583 592	discharge
+T22	problem 597 604	lesions
+T23	labvalue 636 642	normal
+T24	test 643 655	light reflex
+T25	negation 657 659	No
+T26	problem 660 680	middle ear effusions
+T27	negation 715 717	No
+T28	problem 718 730	skin lesions
+T29	bodyloc 718 722	skin
+T30	negation 747 754	free of
+T31	problem 755 762	lesions
+T32	negation 818 820	No
+T33	problem 821 837	internal lesions
+T34	negation 847 849	No
+T35	problem 850 858	erythema
+T36	problem 862 870	exudates
+T37	negation 911 918	without
+T38	problem 919 926	lesions
+T39	negation 958 965	without
+T40	problem 966 972	lesion
+T41	negation 1008 1015	without
+T42	problem 1016 1023	lesions
+T43	negation 1060 1062	No
+T44	problem 1063 1073	adenopathy
+T45	negation 1151 1153	no
+T46	problem 1154 1161	lesions
+T47	negation 1181 1183	No
+T48	problem 1184 1194	adenopathy
+T49	problem 1196 1207	thyromegaly
+T50	problem 1212 1218	masses
+T51	labvalue 1220 1226	Normal
+T52	test 1227 1242	range of motion
+T53	labvalue 1292 1297	Clear
+T54	test 1301 1313	auscultation
+T55	negation 1327 1329	No
+T56	problem 1330 1338	wheezing
+T57	problem 1340 1345	rales
+T58	problem 1349 1356	rhonchi
+T59	negation 1398 1400	No
+T60	problem 1401 1421	accessory muscle use
+T61	labvalue 1449 1456	regular
+T62	test 1457 1461	rate
+T63	test 1466 1472	rhythm
+T64	negation 1478 1480	no
+T65	problem 1481 1483	S3
+T66	problem 1487 1489	S4
+T67	test 1491 1501	Heart rate
+T68	labvalue 1505 1511	normal
+T69	test 1555 1567	bowel sounds
+T70	labvalue 1568 1575	present
+T71	negation 1577 1579	No
+T72	problem 1580 1592	hepatomegaly
+T73	problem 1594 1606	splenomegaly
+T74	problem 1608 1614	masses
+T75	problem 1619 1625	bruits
+T76	negation 1662 1669	without
+T77	problem 1670 1678	erythema
+T78	problem 1682 1689	lesions
+T79	negation 1717 1724	without
+T80	problem 1725 1733	erythema
+T81	problem 1737 1744	lesions
+T82	problem 1817 1824	lesions
+T83	negation 1826 1828	No
+T84	problem 1829 1850	significant discharge
+T85	severity 1829 1840	significant
+T86	negation 1883 1890	without
+T87	problem 1891 1898	lesions
+T88	negation 1934 1936	No
+T89	problem 1937 1950	pelvic masses
+T90	bodyloc 1937 1943	pelvic
+T91	negation 1985 1987	No
+T92	problem 1988 2008	external hemorrhoids
+T93	labvalue 2027 2033	Normal
+T94	test 2034 2042	strength
+T95	labvalue 2062 2068	Normal
+T96	test 2069 2084	range of motion
+T97	negation 2097 2099	No
+T98	problem 2100 2115	joint effusions
+T99	negation 2150 2152	No
+T100	problem 2153 2166	muscle masses
+T101	negation 2174 2176	No
+T102	problem 2177 2185	erythema
+T103	negation 2187 2189	No
+T104	problem 2190 2195	edema
+T105	labvalue 2197 2203	Normal
+T106	test 2204 2219	range of motion
+T107	negation 2255 2257	No
+T108	problem 2258 2312	pain with inversion, eversion, plantar or dorsiflexion
+T109	test 2321 2355	Anterior and posterior drawer test
+T110	labvalue 2356 2364	negative
+T111	negation 2366 2368	No
+T112	problem 2369 2432	pain with inversion, eversion, dorsiflexion, or plantar flexion
+T113	negation 2463 2465	No
+T114	problem 2466 2480	joint effusion
+T115	problem 2482 2490	erythema
+T116	problem 2492 2497	edema
+T117	problem 2499 2507	crepitus
+T118	problem 2509 2519	ecchymosis
+T119	problem 2524 2534	tenderness
+T120	labvalue 2542 2548	Normal
+T121	test 2549 2564	range of motion
+T122	negation 2566 2568	No
+T123	problem 2569 2583	joint effusion
+T124	problem 2585 2593	erythema
+T125	test 2606 2641	Anterior and posterior drawer tests
+T126	labvalue 2642 2650	negative
+T127	test 2652 2666	Lachman's test
+T128	labvalue 2667 2675	negative
+T129	negation 2723 2730	without
+T130	problem 2731 2736	edema
+T131	labvalue 2745 2751	Normal
+T132	test 2752 2767	range of motion
+T133	negation 2769 2771	No
+T134	problem 2772 2777	edema
+T135	problem 2781 2789	effusion
+T136	labvalue 2802 2810	Negative
+T137	test 2811 2816	Tinel
+T138	test 2821 2833	Phalen tests
+T139	labvalue 2835 2841	Normal
+T140	test 2842 2850	strength
+T141	labvalue 2877 2883	Normal
+T142	test 2884 2899	range of motion
+T143	negation 2901 2903	No
+T144	problem 2904 2918	joint effusion
+T145	problem 2922 2930	erythema
+T146	labvalue 2932 2938	Normal
+T147	test 2939 2947	strength
+T148	negation 3014 3016	no
+T149	problem 3017 3022	edema
+T150	labvalue 3024 3030	Normal
+T151	test 3031 3066	supination and pronation of forearm
+T152	negation 3068 3070	No
+T153	problem 3071 3079	crepitus
+T154	labvalue 3086 3094	Negative
+T155	test 3095 3108	swinging test
+T156	labvalue 3140 3146	Normal
+T157	test 3147 3162	range of motion
+T158	labvalue 3164 3170	Normal
+T159	test 3171 3179	strength
+T160	negation 3199 3201	No
+T161	problem 3202 3206	pain
+T162	test 3212 3220	eversion
+T163	test 3225 3234	inversion
+T164	negation 3236 3238	No
+T165	problem 3239 3247	crepitus
+T166	negation 3306 3308	No
+T167	problem 3309 3318	delusions
+T168	problem 3322 3336	hallucinations
+T169	problem 3341 3359	loose associations
+T170	negation 3361 3363	no
+T171	problem 3364 3379	flight of ideas
+T172	negation 3381 3383	no
+T173	problem 3384 3397	tangentiality
+T174	negation 3422 3424	No
+T175	problem 3425 3444	psychomotor slowing
+T176	problem 3448 3457	agitation
+T177	test 3515 3535	physical examination
+T178	test 3627 3654	female physical examination
+T179	problem 3725 3733	crepitus
+T180	problem 3735 3745	ecchymosis
+T181	problem 3747 3752	edema
+T182	problem 3754 3762	erythema
+T183	problem 3764 3778	joint effusion
+T184	test 3787 3802	range of motion
+T185	test 3830 3838	strength
+T186	problem 3840 3855	joint effusions
+T187	bodyloc 3840 3845	joint
+T188	problem 3882 3889	lesions
+T189	problem 3891 3900	effusions
+R1	hasAttr Arg1:T4 Arg2:T3
+R2	hasAttr Arg1:T8 Arg2:T5
+R3	hasAttr Arg1:T7 Arg2:T5
+R4	hasAttr Arg1:T6 Arg2:T5
+R5	hasAttr Arg1:T10 Arg2:T9
+R6	hasAttr Arg1:T12 Arg2:T11
+R7	hasAttr Arg1:T14 Arg2:T13
+R8	hasAttr Arg1:T17 Arg2:T15
+R9	hasAttr Arg1:T18 Arg2:T15
+R10	hasAttr Arg1:T16 Arg2:T15
+R11	hasAttr Arg1:T20 Arg2:T19
+R12	hasAttr Arg1:T22 Arg2:T19
+R13	hasAttr Arg1:T21 Arg2:T19
+R14	hasAttr Arg1:T24 Arg2:T23
+R15	hasAttr Arg1:T26 Arg2:T25
+R16	hasAttr Arg1:T28 Arg2:T27
+R17	hasAttr Arg1:T28 Arg2:T29
+R18	hasAttr Arg1:T31 Arg2:T30
+R19	hasAttr Arg1:T33 Arg2:T32
+R20	hasAttr Arg1:T36 Arg2:T34
+R21	hasAttr Arg1:T35 Arg2:T34
+R22	hasAttr Arg1:T38 Arg2:T37
+R23	hasAttr Arg1:T40 Arg2:T39
+R24	hasAttr Arg1:T42 Arg2:T41
+R25	hasAttr Arg1:T44 Arg2:T43
+R26	hasAttr Arg1:T46 Arg2:T45
+R27	hasAttr Arg1:T48 Arg2:T47
+R28	hasAttr Arg1:T49 Arg2:T47
+R29	hasAttr Arg1:T50 Arg2:T47
+R30	hasAttr Arg1:T52 Arg2:T51
+R31	hasAttr Arg1:T54 Arg2:T53
+R32	hasAttr Arg1:T56 Arg2:T55
+R33	hasAttr Arg1:T57 Arg2:T55
+R34	hasAttr Arg1:T58 Arg2:T55
+R35	hasAttr Arg1:T60 Arg2:T59
+R36	hasAttr Arg1:T62 Arg2:T61
+R37	hasAttr Arg1:T63 Arg2:T61
+R38	hasAttr Arg1:T66 Arg2:T64
+R39	hasAttr Arg1:T65 Arg2:T64
+R40	hasAttr Arg1:T67 Arg2:T68
+R41	hasAttr Arg1:T69 Arg2:T70
+R42	hasAttr Arg1:T72 Arg2:T71
+R43	hasAttr Arg1:T75 Arg2:T71
+R44	hasAttr Arg1:T73 Arg2:T71
+R45	hasAttr Arg1:T74 Arg2:T71
+R46	hasAttr Arg1:T78 Arg2:T76
+R47	hasAttr Arg1:T77 Arg2:T76
+R48	hasAttr Arg1:T81 Arg2:T79
+R49	hasAttr Arg1:T80 Arg2:T79
+R50	hasAttr Arg1:T84 Arg2:T83
+R51	hasAttr Arg1:T84 Arg2:T85
+R52	hasAttr Arg1:T87 Arg2:T86
+R53	hasAttr Arg1:T89 Arg2:T88
+R54	hasAttr Arg1:T89 Arg2:T90
+R55	hasAttr Arg1:T92 Arg2:T91
+R56	hasAttr Arg1:T94 Arg2:T93
+R57	hasAttr Arg1:T96 Arg2:T95
+R58	hasAttr Arg1:T98 Arg2:T97
+R59	hasAttr Arg1:T100 Arg2:T99
+R60	hasAttr Arg1:T102 Arg2:T101
+R61	hasAttr Arg1:T104 Arg2:T103
+R62	hasAttr Arg1:T106 Arg2:T105
+R63	hasAttr Arg1:T108 Arg2:T107
+R64	hasAttr Arg1:T109 Arg2:T110
+R65	hasAttr Arg1:T112 Arg2:T111
+R66	hasAttr Arg1:T114 Arg2:T113
+R67	hasAttr Arg1:T117 Arg2:T113
+R68	hasAttr Arg1:T115 Arg2:T113
+R69	hasAttr Arg1:T119 Arg2:T113
+R70	hasAttr Arg1:T116 Arg2:T113
+R71	hasAttr Arg1:T118 Arg2:T113
+R72	hasAttr Arg1:T121 Arg2:T120
+R73	hasAttr Arg1:T124 Arg2:T122
+R74	hasAttr Arg1:T123 Arg2:T122
+R75	hasAttr Arg1:T125 Arg2:T126
+R76	hasAttr Arg1:T127 Arg2:T128
+R77	hasAttr Arg1:T130 Arg2:T129
+R78	hasAttr Arg1:T132 Arg2:T131
+R79	hasAttr Arg1:T135 Arg2:T133
+R80	hasAttr Arg1:T134 Arg2:T133
+R81	hasAttr Arg1:T137 Arg2:T136
+R82	hasAttr Arg1:T138 Arg2:T136
+R83	hasAttr Arg1:T140 Arg2:T139
+R84	hasAttr Arg1:T142 Arg2:T141
+R85	hasAttr Arg1:T145 Arg2:T143
+R86	hasAttr Arg1:T144 Arg2:T143
+R87	hasAttr Arg1:T147 Arg2:T146
+R88	hasAttr Arg1:T149 Arg2:T148
+R89	hasAttr Arg1:T151 Arg2:T150
+R90	hasAttr Arg1:T153 Arg2:T152
+R91	hasAttr Arg1:T155 Arg2:T154
+R92	hasAttr Arg1:T157 Arg2:T156
+R93	hasAttr Arg1:T159 Arg2:T158
+R94	hasAttr Arg1:T161 Arg2:T160
+R95	hasAttr Arg1:T165 Arg2:T164
+R96	hasAttr Arg1:T169 Arg2:T166
+R97	hasAttr Arg1:T167 Arg2:T166
+R98	hasAttr Arg1:T168 Arg2:T166
+R99	hasAttr Arg1:T171 Arg2:T170
+R100	hasAttr Arg1:T173 Arg2:T172
+R101	hasAttr Arg1:T176 Arg2:T174
+R102	hasAttr Arg1:T175 Arg2:T174
+R103	hasAttr Arg1:T186 Arg2:T187

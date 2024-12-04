@@ -1,0 +1,268 @@
+T1	temporal 121 132	Nov 10 2007
+T2	temporal 221 231	Nov 6 2007
+T3	problem 280 299	Acute renal failure
+T4	course 280 285	Acute
+T5	bodyloc 286 291	renal
+T6	problem 305 321	Multiple myeloma
+T7	problem 349 389	Membranoproliferative glomerulonephritis
+T8	problem 395 409	Hypothyroidism
+T9	test 425 439	CT of the head
+T10	temporal 450 460	Nov 3 2007
+T11	problem 471 511	increasing microvascular ischemic change
+T12	course 471 481	increasing
+T13	bodyloc 482 495	microvascular
+T14	test 517 533	Renal ultrasound
+T15	temporal 544 554	Nov 4 2007
+T16	problem 565 582	echogenic kidneys
+T17	bodyloc 575 582	kidneys
+T18	problem 599 624	renal parenchymal disease
+T19	bodyloc 599 604	renal
+T20	test 630 644	Echocardiogram
+T21	temporal 655 665	Nov 6 2007
+T22	test 676 693	ejection fraction
+T23	labvalue 697 700	55%
+T24	problem 703 728	mild mitral insufficiency
+T25	course 703 707	mild
+T26	bodyloc 708 714	mitral
+T27	problem 735 761	1+ tricuspid insufficiency
+T28	bodyloc 738 747	tricuspid
+T29	problem 767 794	mild pulmonary hypertension
+T30	course 767 771	mild
+T31	bodyloc 772 781	pulmonary
+T32	test 800 815	MRI of the head
+T33	temporal 826 836	Nov 8 2007
+T34	problem 866 916	small-vessel ischemic changes within the brainstem
+T35	bodyloc 866 878	small-vessel
+T36	test 995 1015	A bone marrow biopsy
+T37	temporal 1040 1050	Nov 4 2007
+T38	labvalue 1067 1082	a less than 10%
+T39	test 1083 1100	plasma cell level
+T40	problem 1199 1226	smoldering multiple myeloma
+T41	problem 1231 1271	membranoproliferative glomerulonephritis
+T42	problem 1313 1319	anemia
+T43	problem 1324 1340	thrombocytopenia
+T44	problem 1345 1354	epistaxis
+T45	test 1378 1386	lab work
+T46	problem 1396 1415	acute renal failure
+T47	course 1396 1401	acute
+T48	bodyloc 1402 1407	renal
+T49	problem 1421 1440	elevated creatinine
+T50	course 1421 1429	elevated
+T51	problem 1474 1481	fatigue
+T52	problem 1486 1494	headache
+T53	problem 1548 1554	anemia
+T54	problem 1558 1579	the patient 's anemia
+T55	treatment 1597 1608	transfusion
+T56	problem 1628 1635	fatigue
+T57	course 1640 1648	improved
+T58	test 1667 1679	iron studies
+T59	problem 1693 1715	iron-deficiency anemia
+T60	treatment 1735 1747	iron therapy
+T61	problem 1765 1781	Thrombocytopenia
+T62	test 1811 1825	platelet count
+T63	labvalue 1829 1831	41
+T64	problem 1852 1874	bleeding from her nose
+T65	bodyloc 1866 1874	her nose
+T66	treatment 1893 1913	transfused platelets
+T67	test 1952 1966	Platelet count
+T68	treatment 1981 1992	transfusion
+T69	problem 2110 2113	TTP
+T70	test 2119 2141	peripheral blood smear
+T71	problem 2159 2168	hemolysis
+T72	problem 2206 2227	altered mental status
+T73	problem 2246 2252	fevers
+T74	test 2257 2268	blood smear
+T75	problem 2276 2295	very few histocytes
+T76	problem 2347 2350	TTP
+T77	problem 2353 2369	Multiple myeloma
+T78	problem 2401 2428	smoldering multiple myeloma
+T79	treatment 2434 2444	treatments
+T80	drug 2450 2457	Cytoxan
+T81	drug 2462 2470	steroids
+T82	treatment 2479 2503	a bone marrow transplant
+T83	temporal 2514 2522	Mar 2007
+T84	problem 2526 2557	The patient 's multiple myeloma
+T85	problem 2583 2600	her renal failure
+T86	bodyloc 2587 2592	renal
+T87	problem 2640 2666	worsening multiple myeloma
+T88	course 2640 2649	worsening
+T89	test 2669 2691	The patient 's M spike
+T90	labvalue 2696 2708	not elevated
+T91	problem 2728 2747	Acute renal failure
+T92	course 2728 2733	Acute
+T93	bodyloc 2734 2739	renal
+T94	test 2750 2760	Creatinine
+T95	labvalue 2780 2783	3.5
+T96	treatment 2873 2885	hemodialysis
+T97	temporal 2896 2906	Nov 6 2006
+T98	treatment 2916 2944	a tunneled dialysis catheter
+T99	problem 3042 3061	acute renal failure
+T100	course 3042 3047	acute
+T101	bodyloc 3048 3053	renal
+T102	problem 3142 3162	her multiple myeloma
+T103	test 3181 3204	24 - hour urine protein
+T104	labvalue 3215 3230	7.22 gm per day
+T105	problem 3262 3302	membranoproliferative glomerulonephritis
+T106	problem 3407 3427	her multiple myeloma
+T107	treatment 3553 3565	hemodialysis
+T108	problem 3580 3592	Hypertension
+T109	drug 3622 3632	nifedipine
+T110	drug 3663 3671	atenolol
+T111	test 3676 3690	blood pressure
+T112	problem 3712 3726	Hypothyroidism
+T113	drug 3775 3784	Synthroid
+T114	negation 3787 3789	No
+T115	problem 3790 3803	active issues
+T116	problem 3839 3858	shortness of breath
+T117	problem 3890 3910	some pulmonary edema
+T118	bodyloc 3895 3904	pulmonary
+T119	test 3923 3940	an echocardiogram
+T120	labvalue 3970 3976	normal
+T121	test 3977 3979	EF
+T122	problem 3985 3993	Headache
+T123	problem 4012 4020	headache
+T124	drug 4049 4058	oxycodone
+T125	test 4061 4082	A CT scan of the head
+T126	problem 4090 4120	microvascular ischemic changes
+T127	test 4123 4137	A followup MRI
+T128	problem 4202 4222	her multiple myeloma
+T129	problem 4228 4242	hyperviscosity
+T130	problem 4248 4253	Fever
+T131	problem 4278 4285	a fever
+T132	temporal 4298 4303	day 7
+T133	test 4314 4322	Cultures
+T134	drug 4388 4400	moxifloxacin
+T135	problem 4405 4414	sinusitis
+T136	problem 4419 4424	fever
+T137	drug 4463 4471	Atenolol
+T138	strength 4472 4477	25 mg
+T139	route 4478 4482	p.o.
+T140	frequency 4483 4489	q. day
+T141	drug 4495 4504	Synthroid
+T142	strength 4505 4514	0.125 mcg
+T143	route 4515 4519	p.o.
+T144	frequency 4520 4526	q. day
+T145	drug 4532 4539	Valtrex
+T146	strength 4540 4546	500 mg
+T147	route 4547 4551	p.o.
+T148	frequency 4552 4558	q. day
+T149	drug 4564 4578	Hydrocortisone
+T150	strength 4579 4584	10 mg
+T151	route 4585 4589	p.o.
+T152	frequency 4590 4596	q. day
+T153	drug 4602 4611	Detrol LA
+T154	strength 4612 4616	4 mg
+T155	route 4617 4621	p.o.
+T156	frequency 4622 4628	q. day
+T157	drug 4634 4642	Protonix
+T158	strength 4643 4648	40 mg
+T159	route 4649 4653	p.o.
+T160	frequency 4654 4660	q. day
+T161	drug 4666 4679	Nifedipine XL
+T162	strength 4680 4685	90 mg
+T163	route 4686 4690	p.o.
+T164	frequency 4691 4697	q. day
+T165	drug 4703 4710	Procrit
+T166	dosage 4711 4723	20,000 units
+T167	route 4724 4726	IV
+T168	frequency 4727 4742	q. hemodialysis
+T169	drug 4748 4757	Sevelamer
+T170	strength 4758 4765	2400 mg
+T171	route 4766 4770	p.o.
+T172	frequency 4771 4777	t.i.d.
+T173	drug 4782 4788	PhosLo
+T174	frequency 4789 4795	t.i.d.
+T175	drug 4800 4812	Iron sulfate
+T176	strength 4813 4819	325 mg
+T177	route 4820 4824	p.o.
+T178	frequency 4825 4831	t.i.d.
+T179	temporal 5005 5016	Nov 16 2007
+T180	temporal 5023 5033	10:45 a.m.
+T181	temporal 5063 5073	Dec 7 2007
+T182	temporal 5108 5114	2 p.m.
+T183	test 5150 5160	blood work
+T184	test 5171 5179	lab work
+T185	temporal 5298 5309	Nov 11 2007
+T186	temporal 5311 5316	13:56
+T187	temporal 5327 5338	Nov 12 2007
+T188	temporal 5340 5345	09:12
+R1	hasAttr Arg1:T3 Arg2:T4
+R2	hasAttr Arg1:T3 Arg2:T5
+R3	hasAttr Arg1:T9 Arg2:T10
+R4	hasAttr Arg1:T11 Arg2:T10
+R5	hasAttr Arg1:T11 Arg2:T13
+R6	hasAttr Arg1:T11 Arg2:T12
+R7	hasAttr Arg1:T14 Arg2:T15
+R8	hasAttr Arg1:T16 Arg2:T15
+R9	hasAttr Arg1:T18 Arg2:T15
+R10	hasAttr Arg1:T16 Arg2:T17
+R11	hasAttr Arg1:T18 Arg2:T19
+R12	hasAttr Arg1:T20 Arg2:T21
+R13	hasAttr Arg1:T22 Arg2:T21
+R14	hasAttr Arg1:T29 Arg2:T21
+R15	hasAttr Arg1:T24 Arg2:T21
+R16	hasAttr Arg1:T27 Arg2:T21
+R17	hasAttr Arg1:T22 Arg2:T23
+R18	hasAttr Arg1:T24 Arg2:T25
+R19	hasAttr Arg1:T24 Arg2:T26
+R20	hasAttr Arg1:T27 Arg2:T28
+R21	hasAttr Arg1:T29 Arg2:T30
+R22	hasAttr Arg1:T29 Arg2:T31
+R23	hasAttr Arg1:T32 Arg2:T33
+R24	hasAttr Arg1:T34 Arg2:T33
+R25	hasAttr Arg1:T34 Arg2:T35
+R26	hasAttr Arg1:T36 Arg2:T37
+R27	hasAttr Arg1:T39 Arg2:T37
+R28	hasAttr Arg1:T39 Arg2:T38
+R29	hasAttr Arg1:T46 Arg2:T47
+R30	hasAttr Arg1:T46 Arg2:T48
+R31	hasAttr Arg1:T49 Arg2:T50
+R32	hasAttr Arg1:T56 Arg2:T57
+R33	hasAttr Arg1:T62 Arg2:T63
+R34	hasAttr Arg1:T64 Arg2:T65
+R35	hasAttr Arg1:T82 Arg2:T83
+R36	hasAttr Arg1:T85 Arg2:T86
+R37	hasAttr Arg1:T87 Arg2:T88
+R38	hasAttr Arg1:T89 Arg2:T90
+R39	hasAttr Arg1:T91 Arg2:T92
+R40	hasAttr Arg1:T91 Arg2:T93
+R41	hasAttr Arg1:T94 Arg2:T95
+R42	hasAttr Arg1:T96 Arg2:T97
+R43	hasAttr Arg1:T99 Arg2:T100
+R44	hasAttr Arg1:T99 Arg2:T101
+R45	hasAttr Arg1:T103 Arg2:T104
+R46	hasAttr Arg1:T115 Arg2:T114
+R47	hasAttr Arg1:T117 Arg2:T118
+R48	hasAttr Arg1:T121 Arg2:T120
+R49	hasAttr Arg1:T131 Arg2:T132
+R50	hasAttr Arg1:T137 Arg2:T138
+R51	hasAttr Arg1:T137 Arg2:T140
+R52	hasAttr Arg1:T137 Arg2:T139
+R53	hasAttr Arg1:T141 Arg2:T143
+R54	hasAttr Arg1:T141 Arg2:T144
+R55	hasAttr Arg1:T141 Arg2:T142
+R56	hasAttr Arg1:T145 Arg2:T148
+R57	hasAttr Arg1:T145 Arg2:T147
+R58	hasAttr Arg1:T145 Arg2:T146
+R59	hasAttr Arg1:T149 Arg2:T152
+R60	hasAttr Arg1:T149 Arg2:T150
+R61	hasAttr Arg1:T149 Arg2:T151
+R62	hasAttr Arg1:T153 Arg2:T156
+R63	hasAttr Arg1:T153 Arg2:T155
+R64	hasAttr Arg1:T153 Arg2:T154
+R65	hasAttr Arg1:T157 Arg2:T159
+R66	hasAttr Arg1:T157 Arg2:T158
+R67	hasAttr Arg1:T157 Arg2:T160
+R68	hasAttr Arg1:T161 Arg2:T164
+R69	hasAttr Arg1:T161 Arg2:T163
+R70	hasAttr Arg1:T161 Arg2:T162
+R71	hasAttr Arg1:T165 Arg2:T166
+R72	hasAttr Arg1:T165 Arg2:T167
+R73	hasAttr Arg1:T165 Arg2:T168
+R74	hasAttr Arg1:T169 Arg2:T172
+R75	hasAttr Arg1:T169 Arg2:T170
+R76	hasAttr Arg1:T169 Arg2:T171
+R77	hasAttr Arg1:T173 Arg2:T174
+R78	hasAttr Arg1:T175 Arg2:T176
+R79	hasAttr Arg1:T175 Arg2:T177
+R80	hasAttr Arg1:T175 Arg2:T178

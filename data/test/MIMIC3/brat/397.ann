@@ -1,0 +1,411 @@
+T1	temporal 19 29	2107-12-17
+T2	temporal 52 62	2107-12-24
+T3	problem 97 108	Hypotension
+T4	temporal 109 122	times one day
+T5	temporal 221 224	7-1
+T6	problem 234 246	v-fib arrest
+T7	bodyloc 234 235	v
+T8	treatment 264 277	defibrillated
+T9	problem 316 337	anoxic encephalopathy
+T10	problem 367 381	vent dependent
+T11	treatment 387 390	PEG
+T12	problem 421 442	a large occiput decub
+T13	bodyloc 429 436	occiput
+T14	temporal 452 477	on day prior to admission
+T15	problem 513 535	persistent hypotension
+T16	treatment 541 544	IVF
+T17	problem 567 586	atrial fibrillation
+T18	bodyloc 567 573	atrial
+T19	temporal 615 620	Today
+T20	test 621 625	labs
+T21	test 643 665	white blood cell count
+T22	labvalue 669 671	50
+T23	test 673 683	hematocrit
+T24	labvalue 684 686	17
+T25	test 688 697	platelets
+T26	labvalue 698 700	42
+T27	test 708 731	systolic blood pressure
+T28	labvalue 739 742	80s
+T29	test 744 755	Temperature
+T30	labvalue 760 764	98.4
+T31	test 766 776	heart rate
+T32	labvalue 777 779	76
+T33	test 781 797	respiratory rate
+T34	labvalue 798 800	19
+T35	drug 829 837	dopamine
+T36	negation 846 855	not given
+T37	drug 856 860	vanc
+T38	drug 861 867	ceftaz
+T39	strength 868 872	1 gm
+T40	test 1008 1022	blood pressure
+T41	labvalue 1027 1032	99/49
+T42	test 1034 1044	heart rate
+T43	labvalue 1045 1048	142
+T44	test 1050 1061	temperature
+T45	labvalue 1062 1067	100.6
+T46	test 1092 1106	blood pressure
+T47	labvalue 1123 1130	40/palp
+T48	test 1135 1145	heart rate
+T49	labvalue 1150 1153	130
+T50	test 1155 1158	EKG
+T51	temporal 1162 1171	that time
+T52	problem 1179 1184	a-fib
+T53	bodyloc 1179 1180	a
+T54	problem 1190 1212	rapid ventricular rate
+T55	problem 1250 1261	slower rate
+T56	problem 1278 1283	a-fib
+T57	bodyloc 1278 1279	a
+T58	test 1285 1313	The patient's blood pressure
+T59	labvalue 1326 1332	120/60
+T60	drug 1361 1375	Neo-Synephrine
+T61	dosage 1542 1550	2 liters
+T62	drug 1554 1567	normal saline
+T63	problem 1640 1652	v-fib arrest
+T64	bodyloc 1640 1641	v
+T65	problem 1668 1689	anoxic encephalopathy
+T66	problem 1694 1708	vent dependent
+T67	temporal 1716 1723	**7-1**
+T68	problem 1726 1734	Seizures
+T69	problem 1747 1765	status epilepticus
+T70	temporal 1773 1777	past
+T71	problem 1779 1785	Anemia
+T72	problem 1787 1792	A-fib
+T73	bodyloc 1787 1788	A
+T74	problem 1798 1801	CHF
+T75	treatment 1815 1818	PEG
+T76	problem 1820 1847	Chronic renal insufficiency
+T77	course 1820 1827	Chronic
+T78	bodyloc 1828 1833	renal
+T79	problem 1849 1857	GI bleed
+T80	bodyloc 1849 1851	GI
+T81	problem 1858 1869	gastric AVM
+T82	problem 1871 1882	Severe PHTN
+T83	severity 1871 1877	Severe
+T84	problem 1884 1900	Thrombocytopenia
+T85	negation 1913 1915	No
+T86	problem 1916 1936	known drug allergies
+T87	drug 1964 1974	Amiodarone
+T88	strength 1975 1981	200 mg
+T89	route 1982 1985	p.o
+T90	frequency 1987 1992	q.day
+T91	drug 1994 2003	Neurontin
+T92	strength 2004 2010	600 mg
+T93	frequency 2011 2017	t.i.d.
+T94	drug 2019 2025	Flagyl
+T95	strength 2026 2032	500 mg
+T96	route 2033 2037	p.o.
+T97	frequency 2038 2044	t.i.d.
+T98	drug 2046 2056	omeprazole
+T99	strength 2057 2062	20 mg
+T100	route 2063 2067	p.o.
+T101	frequency 2068 2074	b.i.d.
+T102	drug 2076 2082	Colace
+T103	strength 2083 2089	100 mg
+T104	route 2090 2094	p.o.
+T105	frequency 2095 2101	b.i.d.
+T106	drug 2103 2112	captopril
+T107	strength 2113 2118	25 mg
+T108	route 2119 2123	p.o.
+T109	frequency 2124 2130	t.i.d.
+T110	drug 2132 2141	Lopressor
+T111	strength 2142 2149	12.5 mg
+T112	route 2150 2154	p.o.
+T113	frequency 2155 2160	b.i.d
+T114	drug 2163 2175	multivitamin
+T115	drug 2177 2184	Tylenol
+T116	drug 2186 2194	Darvocet
+T117	drug 2196 2204	Klonopin
+T118	problem 2283 2297	vent dependent
+T119	problem 2381 2389	an obese
+T120	problem 2425 2437	unresponsive
+T121	problem 2442 2465	decerebrate positioning
+T122	negation 2470 2472	no
+T123	problem 2473 2502	apparent respiratory distress
+T124	bodyloc 2482 2493	respiratory
+T125	test 2504 2515	Vital signs
+T126	test 2521 2532	temperature
+T127	labvalue 2533 2537	98.4
+T128	test 2539 2549	heart rate
+T129	labvalue 2550 2552	70
+T130	test 2554 2568	blood pressure
+T131	labvalue 2569 2575	115/40
+T132	treatment 2577 2609	Vent setting AC tidal volume 600
+T133	test 2611 2627	respiratory rate
+T134	labvalue 2628 2630	15
+T135	test 2632 2636	PEEP
+T136	labvalue 2637 2638	5
+T137	test 2640 2644	FiO2
+T138	labvalue 2645 2648	50%
+T139	test 2666 2672	sating
+T140	labvalue 2673 2677	100%
+T141	problem 2686 2709	4 to 5 cm occiput decub
+T142	bodyloc 2696 2703	occiput
+T143	bodyloc 2713 2734	skull about 8 mm deep
+T144	bodyloc 2736 2742	Pupils
+T145	problem 2743 2754	nonreactive
+T146	problem 2756 2771	left about 5 mm
+T147	problem 2773 2797	right approximately 3 mm
+T148	problem 2799 2804	fixed
+T149	labvalue 2817 2825	Positive
+T150	test 2826 2832	pallor
+T151	bodyloc 2834 2838	Neck
+T152	negation 2848 2850	no
+T153	problem 2851 2866	lymphadenopathy
+T154	problem 2868 2871	JVP
+T155	problem 2903 2928	Difficult range of motion
+T156	negation 2934 2937	not
+T157	problem 2938 2948	meningitic
+T158	bodyloc 2950 2955	Chest
+T159	problem 2991 3029	minimal expiratory wheezes bilaterally
+T160	problem 3034 3066	irregularly irregular heart rate
+T161	bodyloc 3056 3061	heart
+T162	labvalue 3068 3074	normal
+T163	test 3075 3077	S1
+T164	test 3079 3081	S2
+T165	negation 3083 3085	no
+T166	problem 3086 3093	murmurs
+T167	problem 3095 3099	rubs
+T168	problem 3103 3110	gallops
+T169	problem 3121 3143	decreased bowel sounds
+T170	course 3121 3130	decreased
+T171	bodyloc 3131 3136	bowel
+T172	problem 3145 3165	moderately distended
+T173	severity 3145 3155	moderately
+T174	problem 3171 3200	reproducible umbilical hernia
+T175	bodyloc 3184 3193	umbilical
+T176	test 3202 3204	OB
+T177	labvalue 3205 3213	positive
+T178	bodyloc 3215 3226	Extremities
+T179	negation 3231 3233	no
+T180	problem 3234 3251	clubbing cyanosis
+T181	problem 3253 3275	positive 2 to 3+ edema
+T182	negation 3277 3279	no
+T183	problem 3280 3300	splinter hemorrhages
+T184	problem 3302 3324	Sacral decub to muscle
+T185	bodyloc 3302 3308	Sacral
+T186	problem 3326 3340	Neuro comatose
+T187	problem 3342 3353	decerebrate
+T188	labvalue 3355 3363	positive
+T189	test 3364 3382	corneal reflex/gag
+T190	problem 3384 3419	decreased tone in lower extremities
+T191	bodyloc 3402 3419	lower extremities
+T192	problem 3421 3441	upgoing toe on right
+T193	labvalue 3462 3464	No
+T194	test 3465 3504	biceps or patellar deep tendon reflexes
+T195	test 3533 3555	White blood cell count
+T196	labvalue 3556 3558	58
+T197	test 3560 3570	hematocrit
+T198	labvalue 3571 3573	20
+T199	test 3575 3584	platelets
+T200	labvalue 3585 3587	47
+T201	test 3589 3592	MCV
+T202	labvalue 3593 3596	107
+T203	test 3598 3609	Chest x-ray
+T204	labvalue 3617 3630	normal limits
+T205	negation 3636 3638	no
+T206	problem 3639 3655	pneumoperitoneum
+T207	problem 3675 3700	The patient's hypotension
+T208	drug 3718 3726	Levophed
+T209	drug 3755 3769	Neo-Synephrine
+T210	test 3792 3799	head CT
+T211	drug 3819 3830	ceftriaxone
+T212	drug 3835 3845	vancomycin
+T213	drug 3879 3884	Cipro
+T214	test 3895 3909	blood cultures
+T215	test 3911 3925	urine cultures
+T216	test 3930 3944	fecal cultures
+T217	test 3957 4002	Swabs of the occipital decub and sacral decub
+T218	test 4015 4022	Head CT
+T219	labvalue 4027 4035	negative
+T220	problem 4040 4070	any acute intracranial process
+T221	course 4044 4049	acute
+T222	bodyloc 4050 4062	intracranial
+T223	problem 4082 4098	new pansinusitis
+T224	problem 4124 4157	decubitus ulcer to bony calvarium
+T225	bodyloc 4143 4157	bony calvarium
+T226	problem 4169 4185	cerebral atrophy
+T227	bodyloc 4169 4177	cerebral
+T228	problem 4197 4222	old right frontal lucency
+T229	bodyloc 4201 4214	right frontal
+T230	uncertain 4229 4235	may be
+T231	problem 4236 4261	chronic epidural hematoma
+T232	course 4236 4243	chronic
+T233	bodyloc 4244 4252	epidural
+T234	test 4349 4357	her exam
+T235	labvalue 4393 4415	minimal brain function
+T236	problem 4433 4468	lost most of her brainstem function
+T237	bodyloc 4450 4459	brainstem
+T238	test 4491 4497	an EEG
+T239	negation 4515 4517	no
+T240	problem 4518 4525	seizure
+T241	problem 4566 4582	facial twitching
+T242	bodyloc 4566 4572	facial
+T243	uncertain 4593 4603	felt to be
+T244	problem 4604 4613	myoclonus
+T245	problem 4642 4661	anoxic brain injury
+T246	bodyloc 4649 4654	brain
+T247	negation 4684 4705	did not meet criteria
+T248	problem 4710 4721	brain death
+T249	bodyloc 4710 4715	brain
+T250	uncertain 4765 4783	very little chance
+T251	problem 4787 4818	significant functional recovery
+T252	problem 4842 4852	her injury
+T253	temporal 5525 5543	After several days
+T254	temporal 5596 5606	2107-12-24
+T255	temporal 5627 5637	10:00 p.m.
+T256	drug 5638 5646	Levophed
+T257	drug 5665 5673	Morphine
+T258	route 5674 5678	drip
+T259	treatment 5718 5732	the ventilator
+T260	treatment 5744 5758	a trach collar
+T261	problem 5772 5779	expired
+T262	temporal 5797 5806	2:55 a.m.
+T263	temporal 5813 5823	2107-12-24
+T264	negation 5839 5841	no
+T265	test 5842 5854	heart sounds
+T266	negation 5875 5877	no
+T267	test 5890 5902	respirations
+T268	bodyloc 5904 5910	Pupils
+T269	problem 5916 5933	fixed and dilated
+T270	problem 6019 6035	Pulmonary arrest
+T271	bodyloc 6019 6028	Pulmonary
+T272	temporal 6200 6208	2108-2-9
+T273	temporal 6212 6217	08:52
+T274	temporal 6224 6233	2108-2-11
+T275	temporal 6237 6242	18:00
+R1	hasAttr Arg1:T3 Arg2:T4
+R2	hasAttr Arg1:T6 Arg2:T5
+R3	hasAttr Arg1:T6 Arg2:T7
+R4	hasAttr Arg1:T12 Arg2:T13
+R5	hasAttr Arg1:T12 Arg2:T14
+R6	hasAttr Arg1:T17 Arg2:T18
+R7	hasAttr Arg1:T20 Arg2:T19
+R8	hasAttr Arg1:T21 Arg2:T19
+R9	hasAttr Arg1:T23 Arg2:T19
+R10	hasAttr Arg1:T25 Arg2:T19
+R11	hasAttr Arg1:T27 Arg2:T19
+R12	hasAttr Arg1:T21 Arg2:T22
+R13	hasAttr Arg1:T23 Arg2:T24
+R14	hasAttr Arg1:T25 Arg2:T26
+R15	hasAttr Arg1:T27 Arg2:T28
+R16	hasAttr Arg1:T29 Arg2:T30
+R17	hasAttr Arg1:T31 Arg2:T32
+R18	hasAttr Arg1:T33 Arg2:T34
+R19	hasAttr Arg1:T37 Arg2:T36
+R20	hasAttr Arg1:T38 Arg2:T36
+R21	hasAttr Arg1:T38 Arg2:T39
+R22	hasAttr Arg1:T40 Arg2:T41
+R23	hasAttr Arg1:T42 Arg2:T43
+R24	hasAttr Arg1:T44 Arg2:T45
+R25	hasAttr Arg1:T46 Arg2:T47
+R26	hasAttr Arg1:T48 Arg2:T49
+R27	hasAttr Arg1:T50 Arg2:T51
+R28	hasAttr Arg1:T52 Arg2:T53
+R29	hasAttr Arg1:T56 Arg2:T57
+R30	hasAttr Arg1:T58 Arg2:T59
+R31	hasAttr Arg1:T62 Arg2:T61
+R32	hasAttr Arg1:T63 Arg2:T64
+R33	hasAttr Arg1:T65 Arg2:T67
+R34	hasAttr Arg1:T66 Arg2:T67
+R35	hasAttr Arg1:T68 Arg2:T70
+R36	hasAttr Arg1:T69 Arg2:T70
+R37	hasAttr Arg1:T72 Arg2:T73
+R38	hasAttr Arg1:T76 Arg2:T78
+R39	hasAttr Arg1:T76 Arg2:T77
+R40	hasAttr Arg1:T79 Arg2:T80
+R41	hasAttr Arg1:T82 Arg2:T83
+R42	hasAttr Arg1:T86 Arg2:T85
+R43	hasAttr Arg1:T87 Arg2:T89
+R44	hasAttr Arg1:T87 Arg2:T88
+R45	hasAttr Arg1:T87 Arg2:T90
+R46	hasAttr Arg1:T91 Arg2:T92
+R47	hasAttr Arg1:T91 Arg2:T93
+R48	hasAttr Arg1:T94 Arg2:T96
+R49	hasAttr Arg1:T94 Arg2:T97
+R50	hasAttr Arg1:T94 Arg2:T95
+R51	hasAttr Arg1:T98 Arg2:T99
+R52	hasAttr Arg1:T98 Arg2:T101
+R53	hasAttr Arg1:T98 Arg2:T100
+R54	hasAttr Arg1:T102 Arg2:T105
+R55	hasAttr Arg1:T102 Arg2:T103
+R56	hasAttr Arg1:T102 Arg2:T104
+R57	hasAttr Arg1:T106 Arg2:T109
+R58	hasAttr Arg1:T106 Arg2:T107
+R59	hasAttr Arg1:T106 Arg2:T108
+R60	hasAttr Arg1:T110 Arg2:T112
+R61	hasAttr Arg1:T110 Arg2:T111
+R62	hasAttr Arg1:T110 Arg2:T113
+R63	hasAttr Arg1:T123 Arg2:T122
+R64	hasAttr Arg1:T123 Arg2:T124
+R65	hasAttr Arg1:T126 Arg2:T127
+R66	hasAttr Arg1:T128 Arg2:T129
+R67	hasAttr Arg1:T130 Arg2:T131
+R68	hasAttr Arg1:T133 Arg2:T134
+R69	hasAttr Arg1:T135 Arg2:T136
+R70	hasAttr Arg1:T137 Arg2:T138
+R71	hasAttr Arg1:T139 Arg2:T140
+R72	hasAttr Arg1:T141 Arg2:T143
+R73	hasAttr Arg1:T141 Arg2:T142
+R74	hasAttr Arg1:T145 Arg2:T144
+R75	hasAttr Arg1:T146 Arg2:T144
+R76	hasAttr Arg1:T147 Arg2:T144
+R77	hasAttr Arg1:T148 Arg2:T144
+R78	hasAttr Arg1:T150 Arg2:T149
+R79	hasAttr Arg1:T153 Arg2:T151
+R80	hasAttr Arg1:T154 Arg2:T151
+R81	hasAttr Arg1:T154 Arg2:T152
+R82	hasAttr Arg1:T153 Arg2:T152
+R83	hasAttr Arg1:T157 Arg2:T156
+R84	hasAttr Arg1:T159 Arg2:T158
+R85	hasAttr Arg1:T160 Arg2:T161
+R86	hasAttr Arg1:T163 Arg2:T162
+R87	hasAttr Arg1:T164 Arg2:T162
+R88	hasAttr Arg1:T167 Arg2:T165
+R89	hasAttr Arg1:T168 Arg2:T165
+R90	hasAttr Arg1:T166 Arg2:T165
+R91	hasAttr Arg1:T169 Arg2:T170
+R92	hasAttr Arg1:T169 Arg2:T171
+R93	hasAttr Arg1:T172 Arg2:T173
+R94	hasAttr Arg1:T174 Arg2:T175
+R95	hasAttr Arg1:T176 Arg2:T177
+R96	hasAttr Arg1:T180 Arg2:T178
+R97	hasAttr Arg1:T180 Arg2:T179
+R98	hasAttr Arg1:T181 Arg2:T179
+R99	hasAttr Arg1:T183 Arg2:T182
+R100	hasAttr Arg1:T184 Arg2:T185
+R101	hasAttr Arg1:T189 Arg2:T188
+R102	hasAttr Arg1:T190 Arg2:T191
+R103	hasAttr Arg1:T194 Arg2:T193
+R104	hasAttr Arg1:T195 Arg2:T196
+R105	hasAttr Arg1:T197 Arg2:T198
+R106	hasAttr Arg1:T199 Arg2:T200
+R107	hasAttr Arg1:T201 Arg2:T202
+R108	hasAttr Arg1:T203 Arg2:T204
+R109	hasAttr Arg1:T206 Arg2:T205
+R110	hasAttr Arg1:T218 Arg2:T219
+R111	hasAttr Arg1:T220 Arg2:T221
+R112	hasAttr Arg1:T220 Arg2:T222
+R113	hasAttr Arg1:T224 Arg2:T225
+R114	hasAttr Arg1:T226 Arg2:T227
+R115	hasAttr Arg1:T228 Arg2:T230
+R116	hasAttr Arg1:T228 Arg2:T229
+R117	hasAttr Arg1:T231 Arg2:T233
+R118	hasAttr Arg1:T231 Arg2:T232
+R119	hasAttr Arg1:T234 Arg2:T235
+R120	hasAttr Arg1:T236 Arg2:T237
+R121	hasAttr Arg1:T240 Arg2:T239
+R122	hasAttr Arg1:T241 Arg2:T242
+R123	hasAttr Arg1:T244 Arg2:T243
+R124	hasAttr Arg1:T245 Arg2:T246
+R125	hasAttr Arg1:T248 Arg2:T247
+R126	hasAttr Arg1:T248 Arg2:T249
+R127	hasAttr Arg1:T251 Arg2:T250
+R128	hasAttr Arg1:T256 Arg2:T254
+R129	hasAttr Arg1:T256 Arg2:T255
+R130	hasAttr Arg1:T257 Arg2:T258
+R131	hasAttr Arg1:T261 Arg2:T263
+R132	hasAttr Arg1:T261 Arg2:T262
+R133	hasAttr Arg1:T265 Arg2:T264
+R134	hasAttr Arg1:T267 Arg2:T266
+R135	hasAttr Arg1:T269 Arg2:T268
+R136	hasAttr Arg1:T270 Arg2:T271

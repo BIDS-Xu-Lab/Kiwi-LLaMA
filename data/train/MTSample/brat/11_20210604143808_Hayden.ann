@@ -1,0 +1,197 @@
+T1	problem 63 69	Anemia
+T2	problem 93 110	Refractory anemia
+T3	problem 119 140	transfusion dependent
+T4	problem 181 187	anemia
+T5	test 193 203	hemoglobin
+T6	labvalue 207 210	7.1
+T7	treatment 225 236	transfusion
+T8	problem 287 304	Refractory anemia
+T9	problem 313 334	transfusion dependent
+T10	treatment 362 381	a blood transfusion
+T11	problem 483 491	diabetes
+T12	negation 496 502	denies
+T13	problem 503 529	any comorbid complications
+T14	problem 533 545	the diabetes
+T15	problem 556 570	kidney disease
+T16	bodyloc 556 562	kidney
+T17	problem 572 585	heart disease
+T18	bodyloc 572 577	heart
+T19	problem 587 593	stroke
+T20	problem 595 606	vision loss
+T21	problem 611 621	neuropathy
+T22	temporal 626 635	this time
+T23	problem 662 668	anemia
+T24	test 674 684	hemoglobin
+T25	labvalue 688 691	7.1
+T26	treatment 706 717	transfusion
+T27	negation 742 744	no
+T28	problem 765 773	bleeding
+T29	treatment 782 801	a blood transfusion
+T30	temporal 816 830	two months ago
+T31	treatment 865 887	that blood transfusion
+T32	treatment 896 909	a transfusion
+T33	problem 914 920	anemia
+T34	drug 944 947	B12
+T35	route 949 953	oral
+T36	drug 954 958	iron
+T37	drug 964 971	Procrit
+T38	problem 1053 1063	his anemia
+T39	negation 1068 1074	denies
+T40	problem 1075 1104	any constitutional complaints
+T41	problem 1116 1123	fatigue
+T42	problem 1125 1132	malaise
+T43	problem 1138 1150	some dyspnea
+T44	negation 1159 1161	no
+T45	problem 1162 1172	adenopathy
+T46	negation 1190 1192	No
+T47	problem 1193 1199	fevers
+T48	problem 1201 1213	night sweats
+T49	problem 1215 1224	bone pain
+T50	bodyloc 1215 1219	bone
+T51	problem 1226 1230	rash
+T52	problem 1232 1243	arthralgias
+T53	problem 1248 1256	myalgias
+T54	problem 1280 1288	Diabetes
+T55	treatment 1313 1326	Hernia repair
+T56	negation 1346 1348	no
+T57	problem 1349 1358	allergies
+T58	drug 1405 1413	Coumadin
+T59	drug 1415 1420	Lasix
+T60	drug 1422 1431	metformin
+T61	drug 1433 1443	folic acid
+T62	drug 1445 1454	diltiazem
+T63	drug 1456 1459	B12
+T64	drug 1461 1469	Prevacid
+T65	drug 1475 1481	Feosol
+T66	negation 1622 1630	Negative
+T67	problem 1635 1660	blood or cancer disorders
+T68	negation 1748 1750	no
+T69	problem 1751 1765	acute distress
+T70	test 1890 1904	Blood pressure
+T71	labvalue 1908 1914	110/60
+T72	test 1916 1921	pulse
+T73	labvalue 1925 1927	99
+T74	test 1929 1945	respiratory rate
+T75	labvalue 1949 1951	14
+T76	test 1957 1968	temperature
+T77	labvalue 1972 1976	97.4
+T78	problem 2042 2073	mild arcus senilis in the right
+T79	bodyloc 2068 2073	right
+T80	negation 2227 2229	No
+T81	problem 2230 2264	jugular venous pressure distention
+T82	bodyloc 2230 2244	jugular venous
+T83	negation 2275 2277	No
+T84	problem 2278 2340	adenopathy in the cervical, supraclavicular, or axillary areas
+T85	bodyloc 2296 2340	cervical, supraclavicular, or axillary areas
+T86	labvalue 2363 2370	Regular
+T87	test 2371 2375	rate
+T88	test 2380 2386	rhythm
+T89	uncertain 2423 2429	may be
+T90	problem 2430 2470	some fullness in the left upper quadrant
+T91	bodyloc 2451 2470	left upper quadrant
+T92	negation 2546 2548	No
+T93	problem 2549 2557	clubbing
+T94	problem 2572 2582	some edema
+T95	negation 2588 2590	no
+T96	problem 2591 2599	cyanosis
+T97	problem 2722 2739	refractory anemia
+T98	problem 2750 2771	transfusion dependent
+T99	drug 2782 2785	B12
+T100	drug 2787 2791	iron
+T101	drug 2793 2803	folic acid
+T102	drug 2809 2816	Procrit
+T103	negation 2828 2849	no sign or symptom of
+T104	problem 2850 2860	blood loss
+T105	temporal 2867 2873	recent
+T106	test 2874 2900	esophagogastroduodenoscopy
+T107	labvalue 2912 2920	negative
+T108	test 2922 2936	His creatinine
+T109	labvalue 2941 2942	1
+T110	uncertain 2982 2990	probably
+T111	problem 2995 3033	an underlying myelodysplastic syndrome
+T112	problem 3037 3056	bone marrow failure
+T113	bodyloc 3037 3048	bone marrow
+T114	test 3058 3072	His creatinine
+T115	labvalue 3116 3119	1.6
+T116	problem 3147 3157	his anemia
+T117	test 3245 3273	further serologic evaluation
+T118	test 3279 3297	reticulocyte count
+T119	test 3299 3312	serum protein
+T120	test 3318 3333	electrophoresis
+T121	test 3335 3339	LDH,
+T122	test 3340 3344	B12,
+T123	test 3345 3352	folate,
+T124	test 3353 3374	erythropoietin level,
+T125	test 3397 3421	a bone marrow aspiration
+T126	test 3426 3432	biopsy
+T127	problem 3626 3643	refractory anemia
+T128	treatment 3648 3681	further therapeutic interventions
+T129	test 3747 3758	the studies
+T130	test 3798 3826	an ultrasound of his abdomen
+T131	uncertain 3842 3850	possible
+T132	problem 3851 3873	fullness of the spleen
+T133	bodyloc 3867 3873	spleen
+T134	test 4107 4122	electrophoresis
+T135	test 4124 4128	ldh,
+T136	test 4129 4133	b12,
+T137	test 4134 4141	folate,
+T138	test 4142 4163	erythropoietin level,
+T139	test 4164 4182	reticulocyte count
+T140	test 4184 4197	serum protein
+T141	treatment 4199 4216	blood transfusion
+T142	problem 4231 4248	refractory anemia
+T143	problem 4250 4256	anemia
+T144	problem 4258 4266	myalgias
+R1	hasAttr Arg1:T5 Arg2:T6
+R2	hasAttr Arg1:T21 Arg2:T12
+R3	hasAttr Arg1:T13 Arg2:T12
+R4	hasAttr Arg1:T17 Arg2:T12
+R5	hasAttr Arg1:T20 Arg2:T12
+R6	hasAttr Arg1:T19 Arg2:T12
+R7	hasAttr Arg1:T15 Arg2:T12
+R8	hasAttr Arg1:T15 Arg2:T16
+R9	hasAttr Arg1:T17 Arg2:T18
+R10	hasAttr Arg1:T24 Arg2:T25
+R11	hasAttr Arg1:T28 Arg2:T27
+R12	hasAttr Arg1:T29 Arg2:T30
+R13	hasAttr Arg1:T36 Arg2:T35
+R14	hasAttr Arg1:T40 Arg2:T39
+R15	hasAttr Arg1:T45 Arg2:T44
+R16	hasAttr Arg1:T53 Arg2:T46
+R17	hasAttr Arg1:T51 Arg2:T46
+R18	hasAttr Arg1:T47 Arg2:T46
+R19	hasAttr Arg1:T52 Arg2:T46
+R20	hasAttr Arg1:T48 Arg2:T46
+R21	hasAttr Arg1:T49 Arg2:T46
+R22	hasAttr Arg1:T49 Arg2:T50
+R23	hasAttr Arg1:T57 Arg2:T56
+R24	hasAttr Arg1:T67 Arg2:T66
+R25	hasAttr Arg1:T69 Arg2:T68
+R26	hasAttr Arg1:T70 Arg2:T71
+R27	hasAttr Arg1:T72 Arg2:T73
+R28	hasAttr Arg1:T74 Arg2:T75
+R29	hasAttr Arg1:T76 Arg2:T77
+R30	hasAttr Arg1:T81 Arg2:T80
+R31	hasAttr Arg1:T81 Arg2:T82
+R32	hasAttr Arg1:T84 Arg2:T83
+R33	hasAttr Arg1:T87 Arg2:T86
+R34	hasAttr Arg1:T88 Arg2:T86
+R35	hasAttr Arg1:T90 Arg2:T89
+R36	hasAttr Arg1:T93 Arg2:T92
+R37	hasAttr Arg1:T96 Arg2:T95
+R38	hasAttr Arg1:T106 Arg2:T107
+R39	hasAttr Arg1:T108 Arg2:T109
+R40	hasAttr Arg1:T111 Arg2:T110
+R41	hasAttr Arg1:T112 Arg2:T110
+R42	hasAttr Arg1:T112 Arg2:T113
+R43	hasAttr Arg1:T114 Arg2:T115
+R44	hasAttr Arg1:T132 Arg2:T131
+R45	hasAttr Arg1:T78 Arg2:T79
+R46	hasAttr Arg1:T84 Arg2:T85
+R47	hasAttr Arg1:T90 Arg2:T91
+R48	hasAttr Arg1:T132 Arg2:T133
+R49	hasAttr Arg1:T23 Arg2:T22
+R50	hasAttr Arg1:T24 Arg2:T22
+R51	hasAttr Arg1:T37 Arg2:T35
+R52	hasAttr Arg1:T104 Arg2:T103
+R53	hasAttr Arg1:T106 Arg2:T105

@@ -1,0 +1,90 @@
+T1	temporal 198 209	Oct 28 2007
+T2	temporal 236 245	Nov 01 07
+T3	treatment 333 355	laparoscopic colectomy
+T4	problem 360 373	colonic polys
+T5	bodyloc 360 367	colonic
+T6	problem 399 421	ischemic heart disease
+T7	bodyloc 408 413	heart
+T8	problem 427 475	some moderate systolic and diastolic dysfunction
+T9	severity 432 440	moderate
+T10	problem 487 499	hypertension
+T11	treatment 515 538	mechanical mitral valve
+T12	treatment 541 574	His preoperative fluid management
+T13	treatment 682 705	mechanically ventilated
+T14	treatment 728 754	management of these issues
+T15	treatment 866 880	the management
+T16	problem 924 936	The problems
+T17	treatment 941 951	management
+T18	problem 972 991	Respiratory failure
+T19	test 994 1005	Chest x-ray
+T20	treatment 1012 1039	a pulmonary artery catheter
+T21	treatment 1044 1061	endotracheal tube
+T22	problem 1114 1129	volume overload
+T23	problem 1135 1164	pulmonary vascular congestion
+T24	bodyloc 1135 1153	pulmonary vascular
+T25	treatment 1168 1182	the ventilator
+T26	temporal 1189 1192	now
+T27	test 1195 1211	His gas exchange
+T28	treatment 1223 1231	40% FIO2
+T29	labvalue 1236 1237	5
+T30	test 1241 1245	PEEP
+T31	treatment 1308 1315	sedated
+T32	treatment 1327 1370	a primarily narcotic based sedative regimen
+T33	treatment 1419 1438	ventilatory weaning
+T34	problem 1499 1521	Ischemic heart disease
+T35	treatment 1538 1557	mitral valve repair
+T36	test 1560 1575	His PA catheter
+T37	test 1587 1596	pressures
+T38	labvalue 1606 1611	55/30
+T39	problem 1638 1668	chronic pulmonary hypertension
+T40	course 1638 1645	chronic
+T41	bodyloc 1646 1655	pulmonary
+T42	test 1693 1706	Cardiac index
+T43	labvalue 1717 1720	2.2
+T44	test 1726 1758	a mixed venous oxygen saturation
+T45	labvalue 1769 1772	58%
+T46	test 1775 1786	His lactate
+T47	labvalue 1800 1801	2
+T48	test 1807 1811	exam
+T49	bodyloc 1814 1822	his toes
+T50	negation 1832 1835	not
+T51	problem 1836 1840	cold
+T52	problem 1991 2009	the fluid overload
+T53	test 2013 2028	the chest x-ray
+T54	test 2031 2058	the central venous pressure
+T55	labvalue 2066 2073	mid 20s
+T56	problem 2078 2104	the pulmonary hypertension
+T57	bodyloc 2082 2091	pulmonary
+T58	treatment 2131 2147	empiric diuresis
+T59	test 2191 2205	cardiac output
+T60	test 2250 2265	cardiac outputs
+T61	test 2293 2324	mixed venous oxygen saturations
+T62	drug 2349 2356	a Lasix
+T63	treatment 2422 2435	his operation
+T64	treatment 2441 2456	ICU Prophylaxis
+T65	treatment 2466 2503	some stress ulcer and DVT prophylaxis
+T66	treatment 2528 2549	some glycemic control
+T67	temporal 2718 2729	Nov 01 2007
+T68	temporal 2731 2739	22:25:53
+T69	temporal 2751 2762	Nov 01 2007
+T70	temporal 2764 2772	22:42:59
+T71	temporal 2784 2795	Nov 01 2007
+T72	temporal 2797 2805	22:42:59
+T73	temporal 2931 2942	Nov 19 2007
+T74	temporal 2944 2955	07:32:11 PM
+R1	hasAttr Arg1:T4 Arg2:T5
+R2	hasAttr Arg1:T6 Arg2:T7
+R3	hasAttr Arg1:T8 Arg2:T9
+R4	hasAttr Arg1:T23 Arg2:T24
+R5	hasAttr Arg1:T25 Arg2:T26
+R6	hasAttr Arg1:T30 Arg2:T29
+R7	hasAttr Arg1:T37 Arg2:T38
+R8	hasAttr Arg1:T39 Arg2:T41
+R9	hasAttr Arg1:T39 Arg2:T40
+R10	hasAttr Arg1:T42 Arg2:T43
+R11	hasAttr Arg1:T44 Arg2:T45
+R12	hasAttr Arg1:T46 Arg2:T47
+R13	hasAttr Arg1:T51 Arg2:T49
+R14	hasAttr Arg1:T51 Arg2:T50
+R15	hasAttr Arg1:T54 Arg2:T55
+R16	hasAttr Arg1:T56 Arg2:T57

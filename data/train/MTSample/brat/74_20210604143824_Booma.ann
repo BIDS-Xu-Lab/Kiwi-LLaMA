@@ -1,0 +1,55 @@
+T1	labvalue 63 69	Normal
+T2	test 70 78	ENT Exam
+T3	labvalue 99 105	normal
+T4	test 106 139	ear, nose, mouth, and throat exam
+T5	bodyloc 213 217	nose
+T6	negation 221 244	without any evidence of
+T7	problem 245 258	any deformity
+T8	test 302 327	Examination of the canals
+T9	labvalue 331 337	normal
+T10	negation 370 372	no
+T11	problem 373 381	drainage
+T12	problem 385 393	erythema
+T13	labvalue 495 501	normal
+T14	test 502 514	light reflex
+T15	negation 632 646	no evidence of
+T16	problem 647 662	septal hematoma
+T17	bodyloc 647 653	septal
+T18	bodyloc 668 678	turbinates
+T19	negation 683 690	without
+T20	problem 691 702	abnormality
+T21	negation 704 706	No
+T22	problem 707 728	obvious abnormalities
+T23	bodyloc 736 740	lips
+T24	bodyloc 774 782	gingivae
+T25	negation 787 818	without any obvious evidence of
+T26	problem 819 828	infection
+T27	negation 875 877	no
+T28	problem 878 892	obvious masses
+T29	bodyloc 900 919	hard or soft palate
+T30	bodyloc 1011 1028	posterior pharynx
+T31	negation 1032 1039	without
+T32	problem 1040 1048	erythema
+T33	problem 1052 1059	exudate
+T34	problem 1123 1131	erythema
+R1	hasAttr Arg1:T2 Arg2:T1
+R2	hasAttr Arg1:T4 Arg2:T3
+R3	hasAttr Arg1:T8 Arg2:T9
+R4	hasAttr Arg1:T12 Arg2:T10
+R5	hasAttr Arg1:T11 Arg2:T10
+R6	hasAttr Arg1:T14 Arg2:T13
+R7	hasAttr Arg1:T16 Arg2:T17
+R8	hasAttr Arg1:T20 Arg2:T19
+R9	hasAttr Arg1:T22 Arg2:T21
+R10	hasAttr Arg1:T28 Arg2:T27
+R11	hasAttr Arg1:T32 Arg2:T31
+R12	hasAttr Arg1:T7 Arg2:T5
+R13	hasAttr Arg1:T20 Arg2:T18
+R14	hasAttr Arg1:T22 Arg2:T23
+R15	hasAttr Arg1:T26 Arg2:T24
+R16	hasAttr Arg1:T28 Arg2:T29
+R17	hasAttr Arg1:T33 Arg2:T30
+R18	hasAttr Arg1:T32 Arg2:T30
+R19	hasAttr Arg1:T7 Arg2:T6
+R20	hasAttr Arg1:T16 Arg2:T15
+R21	hasAttr Arg1:T26 Arg2:T25

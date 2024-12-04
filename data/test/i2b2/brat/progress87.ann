@@ -1,0 +1,44 @@
+T1	temporal 192 203	Sep 07 2007
+T2	temporal 230 239	Sep 11 07
+T3	problem 316 321	dizzy
+T4	problem 430 443	her dizziness
+T5	test 498 513	her examination
+T6	temporal 514 519	today
+T7	problem 530 562	a few crackles at her right base
+T8	bodyloc 545 562	at her right base
+T9	test 613 625	Her strength
+T10	problem 666 684	Temporal arteritis
+T11	bodyloc 666 674	Temporal
+T12	test 695 723	the temporal artery biopsies
+T13	drug 766 781	steroid therapy
+T14	strength 782 787	30 mg
+T15	frequency 788 794	b.i.d.
+T16	test 913 924	her glucose
+T17	dosage 931 941	high doses
+T18	drug 945 960	steroid therapy
+T19	problem 1006 1019	hyperglycemia
+T20	problem 1024 1030	Anemia
+T21	problem 1033 1039	Anemia
+T22	problem 1053 1068	chronic disease
+T23	course 1053 1060	chronic
+T24	drug 1115 1127	iron therapy
+T25	problem 1140 1147	Vertigo
+T26	test 1236 1244	our exam
+T27	problem 1260 1285	benign positional vertigo
+T28	severity 1260 1266	benign
+T29	temporal 1605 1616	Sep 11 2007
+T30	temporal 1618 1626	23:17:32
+T31	temporal 1638 1649	Sep 12 2007
+T32	temporal 1651 1659	06:37:11
+T33	temporal 1671 1682	Sep 12 2007
+T34	temporal 1684 1692	06:37:11
+T35	temporal 1818 1829	Sep 21 2007
+T36	temporal 1831 1842	09:06:44 PM
+R1	hasAttr Arg1:T5 Arg2:T6
+R2	hasAttr Arg1:T7 Arg2:T8
+R3	hasAttr Arg1:T10 Arg2:T11
+R4	hasAttr Arg1:T13 Arg2:T15
+R5	hasAttr Arg1:T13 Arg2:T14
+R6	hasAttr Arg1:T18 Arg2:T17
+R7	hasAttr Arg1:T22 Arg2:T23
+R8	hasAttr Arg1:T27 Arg2:T28

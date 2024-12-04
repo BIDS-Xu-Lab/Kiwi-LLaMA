@@ -1,0 +1,243 @@
+T1	temporal 19 27	2174-9-8
+T2	temporal 50 59	2174-9-11
+T3	temporal 81 89	2119-3-4
+T4	problem 130 147	Left leg ischemia
+T5	bodyloc 130 138	Left leg
+T6	problem 214 217	HIV
+T7	problem 219 242	coronary artery disease
+T8	bodyloc 219 234	coronary artery
+T9	problem 256 277	myocardial infarction
+T10	temporal 294 302	1:00 a.m
+T11	problem 309 329	an ice cold left leg
+T12	bodyloc 321 329	left leg
+T13	bodyloc 335 362	the upper thigh to the foot
+T14	problem 377 393	pain in the calf
+T15	bodyloc 389 393	calf
+T16	problem 398 406	numbness
+T17	problem 408 416	Symptoms
+T18	course 417 425	improved
+T19	temporal 429 438	5:00 a.m.
+T20	problem 444 448	pain
+T21	route 628 630	IV
+T22	drug 631 638	heparin
+T23	test 664 682	further evaluation
+T24	treatment 687 696	treatment
+T25	treatment 796 812	vascular service
+T26	treatment 817 832	definitive care
+T27	problem 856 865	Allergies
+T28	drug 869 879	penicillin
+T29	problem 923 946	coronary artery disease
+T30	bodyloc 923 938	coronary artery
+T31	problem 951 972	myocardial infarction
+T32	treatment 1003 1014	angioplasty
+T33	problem 1027 1030	HIV
+T34	problem 1043 1055	hypertension
+T35	drug 1121 1133	Lopressor XL
+T36	strength 1134 1139	25 mg
+T37	frequency 1140 1145	daily
+T38	drug 1147 1155	Combivir
+T39	dosage 1156 1157	1
+T40	form 1158 1162	puff
+T41	frequency 1163 1168	b.i.d
+T42	drug 1171 1181	Lisinopril
+T43	strength 1182 1187	25 mg
+T44	frequency 1188 1193	daily
+T45	drug 1195 1202	Lipitor
+T46	strength 1203 1208	40 mg
+T47	frequency 1209 1214	daily
+T48	drug 1216 1223	aspirin
+T49	strength 1224 1230	325 mg
+T50	frequency 1231 1236	daily
+T51	test 1360 1371	Vital signs
+T52	test 1373 1384	Temperature
+T53	labvalue 1385 1389	98.4
+T54	test 1391 1396	Pulse
+T55	labvalue 1397 1399	80
+T56	test 1401 1413	Respirations
+T57	labvalue 1414 1416	18
+T58	test 1418 1432	Blood pressure
+T59	labvalue 1433 1439	207/94
+T60	labvalue 1451 1458	172/107
+T61	labvalue 1470 1476	148/81
+T62	test 1478 1495	Oxygen saturation
+T63	labvalue 1496 1499	96%
+T64	test 1554 1564	HEENT exam
+T65	negation 1593 1595	no
+T66	problem 1596 1610	carotid bruits
+T67	bodyloc 1596 1603	carotid
+T68	problem 1622 1647	irregular rate and rhythm
+T69	labvalue 1660 1665	clear
+T70	test 1669 1681	auscultation
+T71	test 1684 1698	Abdominal exam
+T72	labvalue 1702 1714	unremarkable
+T73	test 1717 1727	Pulse exam
+T74	test 1875 1883	The exam
+T75	problem 1898 1935	numbness on the base of the left foot
+T76	bodyloc 1926 1935	left foot
+T77	test 1999 2014	The white count
+T78	labvalue 2018 2021	7.1
+T79	test 2023 2033	hematocrit
+T80	labvalue 2034 2038	42.0
+T81	test 2040 2049	platelets
+T82	labvalue 2050 2054	249K
+T83	test 2056 2059	BUN
+T84	labvalue 2060 2062	23
+T85	test 2064 2074	creatinine
+T86	labvalue 2075 2078	1.1
+T87	test 2080 2083	EKG
+T88	negation 2106 2108	no
+T89	problem 2109 2122	acute changes
+T90	course 2109 2114	acute
+T91	route 2157 2159	IV
+T92	drug 2160 2167	heparin
+T93	test 2169 2193	A diagnostic arteriogram
+T94	temporal 2211 2222	the morning
+T95	test 2248 2260	initial exam
+T96	problem 2292 2302	an embolus
+T97	problem 2306 2323	embolic occlusion
+T98	problem 2350 2367	cath claudication
+T99	treatment 2415 2441	a left femoral embolectomy
+T100	treatment 2447 2471	a vein patch angioplasty
+T101	problem 2525 2578	embolus in the left common femoral at the bifurcation
+T102	bodyloc 2540 2559	left common femoral
+T103	negation 2723 2725	no
+T104	problem 2726 2738	acute events
+T105	course 2726 2731	acute
+T106	drug 2752 2765	nitroglycerin
+T107	test 2803 2831	His postoperative hematocrit
+T108	labvalue 2836 2840	36.2
+T109	problem 3029 3039	The wounds
+T110	treatment 3114 3123	IV fluids
+T111	drug 3129 3137	Hep-Lock
+T112	treatment 3139 3149	Ambulation
+T113	drug 3259 3266	Lovenox
+T114	drug 3272 3280	Coumadin
+T115	test 3293 3300	An echo
+T116	test 3482 3486	labs
+T117	drug 3509 3517	Coumadin
+T118	problem 3621 3641	Left femoral embolus
+T119	bodyloc 3621 3633	Left femoral
+T120	treatment 3655 3666	embolectomy
+T121	treatment 3671 3693	vein patch angioplasty
+T122	problem 3709 3732	coronary artery disease
+T123	bodyloc 3709 3724	coronary artery
+T124	problem 3746 3767	myocardial infarction
+T125	treatment 3781 3801	coronary angioplasty
+T126	problem 3817 3820	HIV
+T127	problem 3836 3848	hypertension
+T128	problem 3864 3878	hyperlipidemia
+T129	problem 3894 3921	peripheral vascular disease
+T130	bodyloc 3905 3913	vascular
+T131	drug 3949 3956	Lovenox
+T132	strength 3957 3962	80 mg
+T133	frequency 3963 3969	b.i.d.
+T134	test 4005 4008	INR
+T135	labvalue 4033 4047	2.0 or greater
+T136	test 4049 4057	His labs
+T137	drug 4194 4202	Coumadin
+T138	drug 4225 4233	Percocet
+T139	strength 4234 4239	5/325
+T140	form 4240 4247	tablets
+T141	dosage 4248 4254	1 to 2
+T142	frequency 4255 4261	q.4-6h
+T143	frequency 4262 4268	p.r.n.
+T144	problem 4273 4277	pain
+T145	drug 4282 4290	Coumadin
+T146	strength 4291 4295	5 mg
+T147	frequency 4296 4301	daily
+T148	drug 4306 4312	Colace
+T149	strength 4313 4319	100 mg
+T150	frequency 4320 4326	b.i.d.
+T151	drug 4352 4380	his preoperative medications
+T152	drug 4388 4400	Lopressor XL
+T153	strength 4401 4406	25 mg
+T154	frequency 4407 4412	daily
+T155	drug 4417 4425	Combivir
+T156	dosage 4426 4427	1
+T157	form 4428 4432	puff
+T158	frequency 4433 4439	b.i.d.
+T159	drug 4443 4450	Lipitor
+T160	strength 4451 4456	40 mg
+T161	frequency 4457 4462	daily
+T162	drug 4467 4477	Lisinopril
+T163	strength 4478 4483	25 mg
+T164	frequency 4484 4489	daily
+T165	drug 4494 4501	Aspirin
+T166	strength 4502 4508	325 mg
+T167	frequency 4509 4514	daily
+T168	temporal 4674 4683	2174-11-1
+T169	temporal 4687 4695	13:56:32
+T170	temporal 4702 4711	2174-11-1
+T171	temporal 4715 4723	14:21:01
+R1	hasAttr Arg1:T4 Arg2:T5
+R2	hasAttr Arg1:T7 Arg2:T8
+R3	hasAttr Arg1:T11 Arg2:T10
+R4	hasAttr Arg1:T11 Arg2:T13
+R5	hasAttr Arg1:T11 Arg2:T12
+R6	hasAttr Arg1:T14 Arg2:T15
+R7	hasAttr Arg1:T17 Arg2:T18
+R8	hasAttr Arg1:T17 Arg2:T19
+R9	hasAttr Arg1:T22 Arg2:T21
+R10	hasAttr Arg1:T29 Arg2:T30
+R11	hasAttr Arg1:T35 Arg2:T37
+R12	hasAttr Arg1:T35 Arg2:T36
+R13	hasAttr Arg1:T38 Arg2:T40
+R14	hasAttr Arg1:T38 Arg2:T41
+R15	hasAttr Arg1:T38 Arg2:T39
+R16	hasAttr Arg1:T42 Arg2:T44
+R17	hasAttr Arg1:T42 Arg2:T43
+R18	hasAttr Arg1:T45 Arg2:T46
+R19	hasAttr Arg1:T45 Arg2:T47
+R20	hasAttr Arg1:T48 Arg2:T50
+R21	hasAttr Arg1:T48 Arg2:T49
+R22	hasAttr Arg1:T52 Arg2:T53
+R23	hasAttr Arg1:T54 Arg2:T55
+R24	hasAttr Arg1:T56 Arg2:T57
+R25	hasAttr Arg1:T58 Arg2:T61
+R26	hasAttr Arg1:T58 Arg2:T60
+R27	hasAttr Arg1:T58 Arg2:T59
+R28	hasAttr Arg1:T62 Arg2:T63
+R29	hasAttr Arg1:T66 Arg2:T65
+R30	hasAttr Arg1:T66 Arg2:T67
+R31	hasAttr Arg1:T70 Arg2:T69
+R32	hasAttr Arg1:T71 Arg2:T72
+R33	hasAttr Arg1:T75 Arg2:T76
+R34	hasAttr Arg1:T77 Arg2:T78
+R35	hasAttr Arg1:T79 Arg2:T80
+R36	hasAttr Arg1:T81 Arg2:T82
+R37	hasAttr Arg1:T83 Arg2:T84
+R38	hasAttr Arg1:T85 Arg2:T86
+R39	hasAttr Arg1:T89 Arg2:T88
+R40	hasAttr Arg1:T89 Arg2:T90
+R41	hasAttr Arg1:T92 Arg2:T91
+R42	hasAttr Arg1:T93 Arg2:T94
+R43	hasAttr Arg1:T101 Arg2:T102
+R44	hasAttr Arg1:T104 Arg2:T103
+R45	hasAttr Arg1:T104 Arg2:T105
+R46	hasAttr Arg1:T107 Arg2:T108
+R47	hasAttr Arg1:T118 Arg2:T119
+R48	hasAttr Arg1:T122 Arg2:T123
+R49	hasAttr Arg1:T129 Arg2:T130
+R50	hasAttr Arg1:T131 Arg2:T132
+R51	hasAttr Arg1:T131 Arg2:T133
+R52	hasAttr Arg1:T134 Arg2:T135
+R53	hasAttr Arg1:T138 Arg2:T141
+R54	hasAttr Arg1:T138 Arg2:T140
+R55	hasAttr Arg1:T138 Arg2:T139
+R56	hasAttr Arg1:T138 Arg2:T142
+R57	hasAttr Arg1:T138 Arg2:T143
+R58	hasAttr Arg1:T145 Arg2:T147
+R59	hasAttr Arg1:T145 Arg2:T146
+R60	hasAttr Arg1:T148 Arg2:T149
+R61	hasAttr Arg1:T148 Arg2:T150
+R62	hasAttr Arg1:T152 Arg2:T153
+R63	hasAttr Arg1:T152 Arg2:T154
+R64	hasAttr Arg1:T155 Arg2:T157
+R65	hasAttr Arg1:T155 Arg2:T156
+R66	hasAttr Arg1:T155 Arg2:T158
+R67	hasAttr Arg1:T159 Arg2:T161
+R68	hasAttr Arg1:T159 Arg2:T160
+R69	hasAttr Arg1:T162 Arg2:T164
+R70	hasAttr Arg1:T162 Arg2:T163
+R71	hasAttr Arg1:T165 Arg2:T166
+R72	hasAttr Arg1:T165 Arg2:T167

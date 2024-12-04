@@ -1,0 +1,89 @@
+T1	temporal 192 203	Nov 18 2007
+T2	temporal 230 239	Nov 23 07
+T3	temporal 301 312	Nov 23 2007
+T4	problem 515 542	some urinary tract bleeding
+T5	bodyloc 520 533	urinary tract
+T6	problem 547 568	persistent mild fever
+T7	course 547 557	persistent
+T8	negation 574 580	denies
+T9	problem 581 595	any chest pain
+T10	bodyloc 585 590	chest
+T11	problem 599 606	dyspnea
+T12	negation 612 618	denies
+T13	problem 619 633	abdominal pain
+T14	bodyloc 619 628	abdominal
+T15	problem 636 642	nausea
+T16	problem 646 654	vomiting
+T17	problem 657 665	diarrhea
+T18	problem 669 681	constipation
+T19	test 687 707	physical examination
+T20	test 710 725	his temperature
+T21	labvalue 729 733	99.5
+T22	test 736 754	His blood pressure
+T23	labvalue 805 810	clear
+T24	test 814 826	auscultation
+T25	test 831 841	percussion
+T26	labvalue 852 859	regular
+T27	test 860 866	rhythm
+T28	temporal 1024 1035	Nov 22 2007
+T29	test 1171 1178	His BUN
+T30	labvalue 1182 1184	15
+T31	test 1187 1197	creatinine
+T32	labvalue 1198 1201	1.1
+T33	test 1204 1215	His glucose
+T34	labvalue 1219 1222	109
+T35	test 1225 1236	White count
+T36	labvalue 1254 1258	9200
+T37	test 1261 1271	Hemoglobin
+T38	test 1276 1286	hematocrit
+T39	treatment 1337 1350	his procedure
+T40	temporal 1353 1362	yesterday
+T41	temporal 1384 1396	this morning
+T42	test 1399 1406	His INR
+T43	labvalue 1410 1413	2.2
+T44	problem 1474 1493	pink tinge to urine
+T45	problem 1557 1569	his bleeding
+T46	treatment 1593 1606	his procedure
+T47	drug 1646 1657	fluconazole
+T48	duration 1658 1678	for at least 2 weeks
+T49	test 1734 1746	another scan
+T50	treatment 1792 1808	prostate removed
+T51	temporal 1936 1941	today
+T52	treatment 1947 1954	a Foley
+T53	treatment 1979 1994	present therapy
+T54	drug 2000 2015	anticoagulation
+T55	drug 2020 2031	fluconazole
+T56	drug 2060 2088	low molecular weight heparin
+T57	treatment 2108 2130	his surgical procedure
+T58	treatment 2147 2165	an artifical valve
+T59	temporal 2289 2300	Nov 23 2007
+T60	temporal 2302 2310	14:45:38
+T61	temporal 2322 2333	Nov 24 2007
+T62	temporal 2335 2343	02:26:22
+T63	temporal 2355 2366	Nov 24 2007
+T64	temporal 2368 2379	02:26:22/sk
+T65	temporal 2511 2522	Nov 26 2007
+T66	temporal 2524 2535	09:05:44 AM
+R1	hasAttr Arg1:T4 Arg2:T5
+R2	hasAttr Arg1:T6 Arg2:T7
+R3	hasAttr Arg1:T9 Arg2:T8
+R4	hasAttr Arg1:T11 Arg2:T8
+R5	hasAttr Arg1:T9 Arg2:T10
+R6	hasAttr Arg1:T18 Arg2:T12
+R7	hasAttr Arg1:T15 Arg2:T12
+R8	hasAttr Arg1:T13 Arg2:T12
+R9	hasAttr Arg1:T17 Arg2:T12
+R10	hasAttr Arg1:T16 Arg2:T12
+R11	hasAttr Arg1:T13 Arg2:T14
+R12	hasAttr Arg1:T20 Arg2:T21
+R13	hasAttr Arg1:T24 Arg2:T23
+R14	hasAttr Arg1:T25 Arg2:T23
+R15	hasAttr Arg1:T27 Arg2:T26
+R16	hasAttr Arg1:T29 Arg2:T30
+R17	hasAttr Arg1:T31 Arg2:T32
+R18	hasAttr Arg1:T33 Arg2:T34
+R19	hasAttr Arg1:T35 Arg2:T36
+R20	hasAttr Arg1:T39 Arg2:T40
+R21	hasAttr Arg1:T42 Arg2:T43
+R22	hasAttr Arg1:T52 Arg2:T51
+R23	hasAttr Arg1:T47 Arg2:T48

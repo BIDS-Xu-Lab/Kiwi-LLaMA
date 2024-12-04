@@ -1,0 +1,525 @@
+T1	temporal 19 29	2101-12-17
+T2	temporal 52 62	2101-12-22
+T3	temporal 84 93	2045-5-15
+T4	problem 121 130	Allergies
+T5	drug 132 140	Novocain
+T6	problem 196 218	left multidigit trauma
+T7	bodyloc 196 211	left multidigit
+T8	problem 224 240	table saw injury
+T9	treatment 309 336	digital nerve repair radial
+T10	treatment 341 359	ulnar nerve repair
+T11	treatment 366 407	radial lateral collateral ligament repair
+T12	treatment 411 456	left long finger radial digital artery repair
+T13	treatment 460 530	left long finger digital artery, digital nerve radial and ulnar repair
+T14	treatment 537 587	left long finger flexor digitorum profundus repair
+T15	treatment 591 636	left ring finger radial digital artery repair
+T16	treatment 642 667	microvascular anastomosis
+T17	treatment 671 725	left ring finger radial and ulnar digital nerve repair
+T18	treatment 732 782	left ring finger flexor digitorum profundus repair
+T19	treatment 786 803	A1 pulley release
+T20	treatment 808 829	repair of lacerations
+T21	treatment 841 866	dissection of dorsal vein
+T22	treatment 871 889	vein graft harvest
+T23	problem 966 982	traumatic injury
+T24	bodyloc 966 975	traumatic
+T25	problem 1116 1128	the incident
+T26	problem 1146 1159	moderate pain
+T27	severity 1146 1154	moderate
+T28	problem 1260 1286	general numbness of digits
+T29	bodyloc 1280 1286	digits
+T30	temporal 1290 1294	1-26
+T31	problem 1302 1325	inability to flex digit
+T32	bodyloc 1320 1325	digit
+T33	drug 1346 1355	cefazolin
+T34	drug 1360 1375	tetanus booster
+T35	problem 1419 1421	MI
+T36	bodyloc 1426 1430	2081
+T37	problem 1436 1450	hyperlipidemia
+T38	problem 1452 1456	GERD
+T39	problem 1458 1476	nephrotic syndrome
+T40	problem 1478 1490	pneumothorax
+T41	test 1667 1671	AOx3
+T42	test 1686 1690	CTAB
+T43	test 1697 1700	RRR
+T44	test 1702 1707	S1/S2
+T45	labvalue 1708 1719	appreciated
+T46	problem 1817 1846	multiple injuries of the hand
+T47	bodyloc 1842 1846	hand
+T48	bodyloc 1859 1868	1st digit
+T49	problem 1870 1900	laceration of the volar aspect
+T50	bodyloc 1911 1914	MCP
+T51	negation 1916 1918	no
+T52	problem 1919 1933	exposed tendon
+T53	bodyloc 1927 1933	tendon
+T54	test 1935 1951	capillary refill
+T55	labvalue 1952 1958	< 1sec
+T56	test 1960 1984	sensation to light touch
+T57	labvalue 1985 1991	intact
+T58	bodyloc 2011 2019	2d digit
+T59	problem 2021 2065	deep laceration along radial aspect of digit
+T60	bodyloc 2043 2065	radial aspect of digit
+T61	bodyloc 2071 2107	MCP and extending along volar aspect
+T62	problem 2108 2131	exposing flexor tendons
+T63	bodyloc 2124 2131	tendons
+T64	test 2133 2149	capillary refill
+T65	labvalue 2150 2156	< 1sec
+T66	problem 2238 2255	altered sensorium
+T67	bodyloc 2261 2271	the finger
+T68	bodyloc 2273 2281	3d digit
+T69	problem 2283 2314	deep laceration on volar aspect
+T70	bodyloc 2323 2330	the MCP
+T71	bodyloc 2335 2345	PIP joints
+T72	problem 2351 2373	exposed flexor tendons
+T73	bodyloc 2359 2373	flexor tendons
+T74	problem 2375 2398	finger is cool to touch
+T75	bodyloc 2375 2381	finger
+T76	test 2400 2416	capillary refill
+T77	labvalue 2417 2423	< 2sec
+T78	negation 2425 2427	no
+T79	problem 2428 2483	dopplerable signal in digital arteries distal to injury
+T80	bodyloc 2450 2466	digital arteries
+T81	negation 2498 2500	no
+T82	problem 2501 2538	sensation over digit distal to injury
+T83	bodyloc 2511 2528	over digit distal
+T84	bodyloc 2540 2549	4th digit
+T85	problem 2551 2582	deep laceration on volar aspect
+T86	bodyloc 2586 2602	level of the PIP
+T87	bodyloc 2652 2658	finger
+T88	problem 2662 2666	cool
+T89	test 2677 2693	capillary refill
+T90	labvalue 2694 2700	< 2sec
+T91	problem 2858 2888	no sensation over digit distal
+T92	bodyloc 2876 2888	digit distal
+T93	problem 2892 2898	injury
+T94	bodyloc 2900 2909	5th digit
+T95	problem 2911 2937	laceration on volar aspect
+T96	bodyloc 2950 2953	DIP
+T97	negation 2959 2961	no
+T98	problem 2962 2983	exposed flexor tendon
+T99	bodyloc 2977 2983	tendon
+T100	test 2985 3001	capillary refill
+T101	labvalue 3002 3008	< 1sec
+T102	temporal 3126 3136	2101-12-17
+T103	temporal 3140 3147	07:15PM
+T104	test 3148 3155	GLUCOSE
+T105	labvalue 3156 3159	100
+T106	test 3160 3166	UREA N
+T107	labvalue 3167 3169	12
+T108	test 3170 3175	CREAT
+T109	labvalue 3176 3179	0.9
+T110	test 3180 3186	SODIUM
+T111	labvalue 3187 3190	136
+T112	test 3191 3200	POTASSIUM
+T113	labvalue 3201 3204	4.2
+T114	test 3205 3213	CHLORIDE
+T115	labvalue 3214 3217	104
+T116	test 3218 3227	TOTAL CO2
+T117	labvalue 3228 3230	25
+T118	test 3231 3240	ANION GAP
+T119	labvalue 3241 3243	11
+T120	temporal 3248 3258	2101-12-17
+T121	temporal 3262 3269	07:15PM
+T122	test 3270 3276	estGFR
+T123	temporal 3292 3302	2101-12-17
+T124	temporal 3306 3313	07:15PM
+T125	test 3314 3317	WBC
+T126	labvalue 3318 3322	17.4
+T127	test 3325 3328	RBC
+T128	labvalue 3329 3333	4.48
+T129	test 3335 3338	HGB
+T130	labvalue 3339 3343	14.7
+T131	test 3344 3347	HCT
+T132	labvalue 3348 3352	42.1
+T133	test 3353 3356	MCV
+T134	labvalue 3357 3359	94
+T135	test 3360 3363	MCH
+T136	labvalue 3364 3368	32.7
+T137	test 3370 3374	MCHC
+T138	labvalue 3375 3379	34.9
+T139	test 3380 3383	RDW
+T140	labvalue 3384 3388	12.9
+T141	temporal 3393 3403	2101-12-17
+T142	temporal 3407 3414	07:15PM
+T143	test 3415 3420	NEUTS
+T144	labvalue 3421 3425	82.0
+T145	test 3427 3433	LYMPHS
+T146	labvalue 3434 3438	15.0
+T147	test 3440 3445	MONOS
+T148	labvalue 3446 3449	2.5
+T149	test 3450 3453	EOS
+T150	labvalue 3454 3457	0.1
+T151	test 3458 3463	BASOS
+T152	labvalue 3464 3467	0.3
+T153	temporal 3472 3482	2101-12-17
+T154	temporal 3486 3493	07:15PM
+T155	test 3494 3503	PLT COUNT
+T156	labvalue 3504 3507	280
+T157	temporal 3512 3522	2101-12-17
+T158	temporal 3526 3533	07:15PM
+T159	test 3534 3536	PT
+T160	labvalue 3537 3541	11.6
+T161	test 3542 3545	PTT
+T162	labvalue 3546 3550	27.0
+T163	test 3551 3558	INR(PT)
+T164	labvalue 3559 3562	1.0
+T165	temporal 3648 3658	2101-12-17
+T166	treatment 3699 3746	Left index digital artery, digital nerve repair
+T167	treatment 3747 3776	radial and ulnar nerve repair
+T168	treatment 3784 3825	Radial lateral collateral ligament repair
+T169	treatment 3830 3875	Left long finger radial digital artery repair
+T170	treatment 3880 3950	Left long finger digital artery, digital nerve radial and ulnar repair
+T171	treatment 3958 4008	Left long finger flexor digitorum profundus repair
+T172	treatment 4013 4058	Left ring finger radial digital artery repair
+T173	treatment 4064 4089	microvascular anastomosis
+T174	treatment 4094 4148	Left ring finger radial and ulnar digital nerve repair
+T175	treatment 4156 4206	Left ring finger flexor digitorum profundus repair
+T176	treatment 4211 4228	A1 pulley release
+T177	treatment 4234 4255	Repair of lacerations
+T178	treatment 4268 4293	Dissection of dorsal vein
+T179	treatment 4298 4316	vein graft harvest
+T180	treatment 4339 4353	the procedures
+T181	drug 4406 4414	Dilaudid
+T182	route 4415 4417	IV
+T183	treatment 4418 4421	PCA
+T184	treatment 4452 4464	pain control
+T185	route 4527 4531	oral
+T186	drug 4532 4548	pain medications
+T187	test 4611 4622	vital signs
+T188	test 4712 4723	vital signs
+T189	treatment 4797 4806	IV fluids
+T190	treatment 4926 4941	a bowel regimen
+T191	treatment 4971 4976	Foley
+T192	route 5090 5092	IV
+T193	drug 5093 5102	cefazolin
+T194	route 5121 5123	PO
+T195	drug 5124 5134	cefadroxil
+T196	test 5165 5176	temperature
+T197	problem 5201 5219	signs of infection
+T198	treatment 5221 5232	Prophylaxis
+T199	drug 5272 5279	heparin
+T200	route 5280 5284	drip
+T201	duration 5306 5314	48 hours
+T202	route 5341 5353	subcutaneous
+T203	drug 5354 5361	heparin
+T204	treatment 5438 5446	ambulate
+T205	problem 5637 5641	pain
+T206	drug 5689 5695	nexium
+T207	drug 5697 5704	lipitor
+T208	drug 5706 5715	enalapril
+T209	drug 5742 5754	Pantoprazole
+T210	strength 5755 5760	40 mg
+T211	form 5761 5784	Tablet, Delayed Release
+T212	dosage 5797 5800	One
+T213	form 5805 5828	Tablet, Delayed Release
+T214	route 5836 5838	PO
+T215	frequency 5839 5860	Q24H (every 24 hours)
+T216	drug 5865 5877	Atorvastatin
+T217	strength 5878 5883	20 mg
+T218	form 5884 5890	Tablet
+T219	dosage 5896 5903	One (1)
+T220	form 5904 5910	Tablet
+T221	route 5911 5913	PO
+T222	frequency 5914 5927	DAILY (Daily)
+T223	drug 5932 5945	Acetaminophen
+T224	strength 5946 5952	500 mg
+T225	form 5953 5960	Capsule
+T226	temporal 5969 5974	12-24
+T227	form 5978 5986	Capsules
+T228	route 5987 5989	PO
+T229	frequency 5990 6009	Q6H (every 6 hours)
+T230	frequency 6010 6019	as needed
+T231	problem 6024 6028	pain
+T232	problem 6030 6035	fever
+T233	drug 6040 6055	Docusate Sodium
+T234	strength 6056 6062	100 mg
+T235	form 6063 6070	Capsule
+T236	dosage 6076 6083	One (1)
+T237	form 6084 6091	Capsule
+T238	route 6092 6094	PO
+T239	frequency 6095 6114	BID (2 times a day)
+T240	drug 6153 6160	Aspirin
+T241	strength 6161 6166	81 mg
+T242	form 6167 6183	Tablet, Chewable
+T243	dosage 6189 6192	1.5
+T244	form 6193 6210	Tablet, Chewables
+T245	route 6211 6213	PO
+T246	frequency 6214 6227	DAILY (Daily)
+T247	drug 6275 6284	Bisacodyl
+T248	strength 6285 6289	5 mg
+T249	form 6290 6313	Tablet, Delayed Release
+T250	dosage 6326 6329	Two
+T251	form 6334 6357	Tablet, Delayed Release
+T252	route 6365 6367	PO
+T253	frequency 6368 6381	DAILY (Daily)
+T254	frequency 6382 6391	as needed
+T255	problem 6396 6408	constipation
+T256	drug 6470 6483	Hydromorphone
+T257	strength 6484 6488	2 mg
+T258	form 6489 6495	Tablet
+T259	dosage 6501 6504	1-2
+T260	form 6505 6512	Tablets
+T261	route 6513 6515	PO
+T262	frequency 6516 6535	Q6H (every 6 hours)
+T263	frequency 6536 6545	as needed
+T264	problem 6550 6554	pain
+T265	drug 6592 6602	Gabapentin
+T266	strength 6603 6609	100 mg
+T267	form 6610 6617	Capsule
+T268	dosage 6623 6630	One (1)
+T269	form 6631 6638	Capsule
+T270	route 6639 6641	PO
+T271	frequency 6642 6661	Q8H (every 8 hours)
+T272	drug 6700 6710	Cefadroxil
+T273	strength 6711 6717	500 mg
+T274	form 6718 6725	Capsule
+T275	dosage 6731 6738	One (1)
+T276	form 6739 6746	Capsule
+T277	route 6747 6749	PO
+T278	frequency 6750 6761	twice a day
+T279	duration 6766 6773	10 days
+T280	problem 6909 6932	left multi-digit trauma
+T281	problem 6946 6962	table saw injury
+T282	treatment 7256 7266	the splint
+T283	treatment 7334 7344	the splint
+T284	treatment 7424 7446	daily dressing changes
+T285	drug 7513 7520	aspirin
+T286	drug 7525 7536	antibiotics
+T287	condition 7591 7593	If
+T288	problem 7606 7620	worsening pain
+T289	course 7606 7615	worsening
+T290	problem 7622 7638	loss of function
+T291	problem 7643 7706	futher loss/worsening of sensation in your left upper extremity
+T292	course 7643 7664	futher loss/worsening
+T293	bodyloc 7686 7706	left upper extremity
+T294	condition 7709 7711	If
+T295	problem 7720 7728	vomiting
+T296	drug 7763 7774	medications
+T297	condition 7778 7780	If
+T298	problem 7790 7804	shaking chills
+T299	problem 7806 7811	fever
+T300	problem 7862 7879	increased redness
+T301	course 7862 7871	increased
+T302	problem 7881 7889	swelling
+T303	problem 7893 7916	discharge from incision
+T304	problem 7918 7928	chest pain
+T305	bodyloc 7918 7923	chest
+T306	problem 7930 7949	shortness of breath
+T307	problem 7993 8028	Any serious change in your symptoms
+T308	problem 8033 8049	any new symptoms
+T309	drug 8096 8112	home medications
+T310	drug 8206 8230	narcotic pain medication
+T311	problem 8245 8257	constipation
+T312	drug 8270 8295	narcotic pain medications
+T313	drug 8297 8306	oxycodone
+T314	drug 8308 8316	percocet
+T315	drug 8318 8325	vicodin
+T316	drug 8327 8338	hydrocodone
+T317	drug 8340 8348	dilaudid
+T318	drug 8407 8422	stool softeners
+T319	temporal 8581 8591	2101-12-27
+T320	temporal 8611 8621	2101-12-22
+R1	hasAttr Arg1:T6 Arg2:T7
+R2	hasAttr Arg1:T23 Arg2:T24
+R3	hasAttr Arg1:T26 Arg2:T27
+R4	hasAttr Arg1:T28 Arg2:T30
+R5	hasAttr Arg1:T31 Arg2:T32
+R6	hasAttr Arg1:T35 Arg2:T36
+R7	hasAttr Arg1:T44 Arg2:T45
+R8	hasAttr Arg1:T46 Arg2:T47
+R9	hasAttr Arg1:T49 Arg2:T48
+R10	hasAttr Arg1:T52 Arg2:T48
+R11	hasAttr Arg1:T49 Arg2:T50
+R12	hasAttr Arg1:T52 Arg2:T51
+R13	hasAttr Arg1:T52 Arg2:T53
+R14	hasAttr Arg1:T54 Arg2:T55
+R15	hasAttr Arg1:T56 Arg2:T57
+R16	hasAttr Arg1:T62 Arg2:T58
+R17	hasAttr Arg1:T59 Arg2:T58
+R18	hasAttr Arg1:T66 Arg2:T58
+R19	hasAttr Arg1:T59 Arg2:T61
+R20	hasAttr Arg1:T59 Arg2:T60
+R21	hasAttr Arg1:T62 Arg2:T63
+R22	hasAttr Arg1:T64 Arg2:T65
+R23	hasAttr Arg1:T66 Arg2:T67
+R24	hasAttr Arg1:T69 Arg2:T68
+R25	hasAttr Arg1:T72 Arg2:T68
+R26	hasAttr Arg1:T74 Arg2:T68
+R27	hasAttr Arg1:T69 Arg2:T71
+R28	hasAttr Arg1:T69 Arg2:T70
+R29	hasAttr Arg1:T72 Arg2:T73
+R30	hasAttr Arg1:T74 Arg2:T75
+R31	hasAttr Arg1:T76 Arg2:T77
+R32	hasAttr Arg1:T79 Arg2:T78
+R33	hasAttr Arg1:T79 Arg2:T80
+R34	hasAttr Arg1:T82 Arg2:T81
+R35	hasAttr Arg1:T82 Arg2:T83
+R36	hasAttr Arg1:T91 Arg2:T84
+R37	hasAttr Arg1:T93 Arg2:T84
+R38	hasAttr Arg1:T85 Arg2:T84
+R39	hasAttr Arg1:T85 Arg2:T86
+R40	hasAttr Arg1:T88 Arg2:T87
+R41	hasAttr Arg1:T89 Arg2:T90
+R42	hasAttr Arg1:T91 Arg2:T92
+R43	hasAttr Arg1:T95 Arg2:T94
+R44	hasAttr Arg1:T98 Arg2:T94
+R45	hasAttr Arg1:T95 Arg2:T96
+R46	hasAttr Arg1:T98 Arg2:T97
+R47	hasAttr Arg1:T98 Arg2:T99
+R48	hasAttr Arg1:T100 Arg2:T101
+R49	hasAttr Arg1:T108 Arg2:T102
+R50	hasAttr Arg1:T110 Arg2:T102
+R51	hasAttr Arg1:T104 Arg2:T102
+R52	hasAttr Arg1:T106 Arg2:T102
+R53	hasAttr Arg1:T118 Arg2:T102
+R54	hasAttr Arg1:T112 Arg2:T102
+R55	hasAttr Arg1:T114 Arg2:T102
+R56	hasAttr Arg1:T116 Arg2:T102
+R57	hasAttr Arg1:T108 Arg2:T103
+R58	hasAttr Arg1:T110 Arg2:T103
+R59	hasAttr Arg1:T118 Arg2:T103
+R60	hasAttr Arg1:T104 Arg2:T103
+R61	hasAttr Arg1:T112 Arg2:T103
+R62	hasAttr Arg1:T114 Arg2:T103
+R63	hasAttr Arg1:T116 Arg2:T103
+R64	hasAttr Arg1:T104 Arg2:T105
+R65	hasAttr Arg1:T106 Arg2:T107
+R66	hasAttr Arg1:T108 Arg2:T109
+R67	hasAttr Arg1:T110 Arg2:T111
+R68	hasAttr Arg1:T112 Arg2:T113
+R69	hasAttr Arg1:T114 Arg2:T115
+R70	hasAttr Arg1:T116 Arg2:T117
+R71	hasAttr Arg1:T118 Arg2:T119
+R72	hasAttr Arg1:T122 Arg2:T120
+R73	hasAttr Arg1:T122 Arg2:T121
+R74	hasAttr Arg1:T129 Arg2:T123
+R75	hasAttr Arg1:T133 Arg2:T123
+R76	hasAttr Arg1:T131 Arg2:T123
+R77	hasAttr Arg1:T127 Arg2:T123
+R78	hasAttr Arg1:T125 Arg2:T123
+R79	hasAttr Arg1:T139 Arg2:T123
+R80	hasAttr Arg1:T137 Arg2:T123
+R81	hasAttr Arg1:T135 Arg2:T123
+R82	hasAttr Arg1:T133 Arg2:T124
+R83	hasAttr Arg1:T131 Arg2:T124
+R84	hasAttr Arg1:T129 Arg2:T124
+R85	hasAttr Arg1:T127 Arg2:T124
+R86	hasAttr Arg1:T125 Arg2:T124
+R87	hasAttr Arg1:T139 Arg2:T124
+R88	hasAttr Arg1:T135 Arg2:T124
+R89	hasAttr Arg1:T137 Arg2:T124
+R90	hasAttr Arg1:T125 Arg2:T126
+R91	hasAttr Arg1:T127 Arg2:T128
+R92	hasAttr Arg1:T129 Arg2:T130
+R93	hasAttr Arg1:T131 Arg2:T132
+R94	hasAttr Arg1:T133 Arg2:T134
+R95	hasAttr Arg1:T135 Arg2:T136
+R96	hasAttr Arg1:T137 Arg2:T138
+R97	hasAttr Arg1:T139 Arg2:T140
+R98	hasAttr Arg1:T143 Arg2:T141
+R99	hasAttr Arg1:T145 Arg2:T141
+R100	hasAttr Arg1:T151 Arg2:T141
+R101	hasAttr Arg1:T149 Arg2:T141
+R102	hasAttr Arg1:T147 Arg2:T141
+R103	hasAttr Arg1:T147 Arg2:T142
+R104	hasAttr Arg1:T143 Arg2:T142
+R105	hasAttr Arg1:T145 Arg2:T142
+R106	hasAttr Arg1:T151 Arg2:T142
+R107	hasAttr Arg1:T149 Arg2:T142
+R108	hasAttr Arg1:T143 Arg2:T144
+R109	hasAttr Arg1:T145 Arg2:T146
+R110	hasAttr Arg1:T147 Arg2:T148
+R111	hasAttr Arg1:T149 Arg2:T150
+R112	hasAttr Arg1:T151 Arg2:T152
+R113	hasAttr Arg1:T155 Arg2:T153
+R114	hasAttr Arg1:T155 Arg2:T154
+R115	hasAttr Arg1:T155 Arg2:T156
+R116	hasAttr Arg1:T163 Arg2:T157
+R117	hasAttr Arg1:T161 Arg2:T157
+R118	hasAttr Arg1:T159 Arg2:T157
+R119	hasAttr Arg1:T163 Arg2:T158
+R120	hasAttr Arg1:T161 Arg2:T158
+R121	hasAttr Arg1:T159 Arg2:T158
+R122	hasAttr Arg1:T159 Arg2:T160
+R123	hasAttr Arg1:T161 Arg2:T162
+R124	hasAttr Arg1:T163 Arg2:T164
+R125	hasAttr Arg1:T181 Arg2:T182
+R126	hasAttr Arg1:T186 Arg2:T185
+R127	hasAttr Arg1:T193 Arg2:T192
+R128	hasAttr Arg1:T195 Arg2:T194
+R129	hasAttr Arg1:T199 Arg2:T201
+R130	hasAttr Arg1:T199 Arg2:T200
+R131	hasAttr Arg1:T203 Arg2:T202
+R132	hasAttr Arg1:T209 Arg2:T211
+R133	hasAttr Arg1:T209 Arg2:T210
+R134	hasAttr Arg1:T209 Arg2:T212
+R135	hasAttr Arg1:T209 Arg2:T215
+R136	hasAttr Arg1:T209 Arg2:T214
+R137	hasAttr Arg1:T209 Arg2:T213
+R138	hasAttr Arg1:T216 Arg2:T219
+R139	hasAttr Arg1:T216 Arg2:T218
+R140	hasAttr Arg1:T216 Arg2:T221
+R141	hasAttr Arg1:T216 Arg2:T220
+R142	hasAttr Arg1:T216 Arg2:T217
+R143	hasAttr Arg1:T216 Arg2:T222
+R144	hasAttr Arg1:T223 Arg2:T228
+R145	hasAttr Arg1:T223 Arg2:T224
+R146	hasAttr Arg1:T223 Arg2:T225
+R147	hasAttr Arg1:T223 Arg2:T227
+R148	hasAttr Arg1:T223 Arg2:T226
+R149	hasAttr Arg1:T223 Arg2:T229
+R150	hasAttr Arg1:T223 Arg2:T230
+R151	hasAttr Arg1:T233 Arg2:T235
+R152	hasAttr Arg1:T233 Arg2:T234
+R153	hasAttr Arg1:T233 Arg2:T237
+R154	hasAttr Arg1:T233 Arg2:T236
+R155	hasAttr Arg1:T233 Arg2:T238
+R156	hasAttr Arg1:T233 Arg2:T239
+R157	hasAttr Arg1:T240 Arg2:T242
+R158	hasAttr Arg1:T240 Arg2:T241
+R159	hasAttr Arg1:T240 Arg2:T245
+R160	hasAttr Arg1:T240 Arg2:T244
+R161	hasAttr Arg1:T240 Arg2:T243
+R162	hasAttr Arg1:T240 Arg2:T246
+R163	hasAttr Arg1:T247 Arg2:T252
+R164	hasAttr Arg1:T247 Arg2:T248
+R165	hasAttr Arg1:T247 Arg2:T249
+R166	hasAttr Arg1:T247 Arg2:T250
+R167	hasAttr Arg1:T247 Arg2:T251
+R168	hasAttr Arg1:T247 Arg2:T253
+R169	hasAttr Arg1:T247 Arg2:T254
+R170	hasAttr Arg1:T256 Arg2:T257
+R171	hasAttr Arg1:T256 Arg2:T258
+R172	hasAttr Arg1:T256 Arg2:T259
+R173	hasAttr Arg1:T256 Arg2:T260
+R174	hasAttr Arg1:T256 Arg2:T261
+R175	hasAttr Arg1:T256 Arg2:T262
+R176	hasAttr Arg1:T256 Arg2:T263
+R177	hasAttr Arg1:T265 Arg2:T269
+R178	hasAttr Arg1:T265 Arg2:T270
+R179	hasAttr Arg1:T265 Arg2:T271
+R180	hasAttr Arg1:T265 Arg2:T267
+R181	hasAttr Arg1:T265 Arg2:T268
+R182	hasAttr Arg1:T265 Arg2:T266
+R183	hasAttr Arg1:T272 Arg2:T277
+R184	hasAttr Arg1:T272 Arg2:T279
+R185	hasAttr Arg1:T272 Arg2:T278
+R186	hasAttr Arg1:T272 Arg2:T273
+R187	hasAttr Arg1:T272 Arg2:T276
+R188	hasAttr Arg1:T272 Arg2:T275
+R189	hasAttr Arg1:T272 Arg2:T274
+R190	hasAttr Arg1:T290 Arg2:T287
+R191	hasAttr Arg1:T291 Arg2:T287
+R192	hasAttr Arg1:T288 Arg2:T287
+R193	hasAttr Arg1:T288 Arg2:T289
+R194	hasAttr Arg1:T291 Arg2:T292
+R195	hasAttr Arg1:T291 Arg2:T293
+R196	hasAttr Arg1:T295 Arg2:T294
+R197	hasAttr Arg1:T303 Arg2:T297
+R198	hasAttr Arg1:T304 Arg2:T297
+R199	hasAttr Arg1:T306 Arg2:T297
+R200	hasAttr Arg1:T299 Arg2:T297
+R201	hasAttr Arg1:T298 Arg2:T297
+R202	hasAttr Arg1:T302 Arg2:T297
+R203	hasAttr Arg1:T300 Arg2:T297
+R204	hasAttr Arg1:T300 Arg2:T301
+R205	hasAttr Arg1:T304 Arg2:T305

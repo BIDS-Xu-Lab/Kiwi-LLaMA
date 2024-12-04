@@ -1,0 +1,148 @@
+T1	problem 63 100	Perioperative Elevated Blood Pressure
+T2	test 130 158	the patient's blood pressure
+T3	labvalue 163 170	181/107
+T4	route 193 195	IV
+T5	drug 196 205	labetalol
+T6	test 207 221	Blood pressure
+T7	test 263 277	blood pressure
+T8	labvalue 295 302	180/100
+T9	problem 367 404	Perioperative elevated blood pressure
+T10	problem 431 445	Graves disease
+T11	problem 450 480	Paroxysmal atrial fibrillation
+T12	labvalue 494 500	normal
+T13	test 501 513	sinus rhythm
+T14	drug 538 548	medication
+T15	problem 553 567	Diverticulosis
+T16	problem 572 576	GERD
+T17	problem 581 600	High blood pressure
+T18	problem 605 626	Prostatic hypertrophy
+T19	treatment 640 679	transurethral resection of the prostate
+T20	treatment 704 736	Bilateral inguinal hernia repair
+T21	treatment 738 760	right shoulder surgery
+T22	treatment 766 780	reconstruction
+T23	treatment 782 816	both shoulders rotator cuff repair
+T24	treatment 818 840	left knee arthroplasty
+T25	treatment 846 881	transurethral resection of prostate
+T26	treatment 977 990	laser surgery
+T27	treatment 1030 1037	surgery
+T28	test 1039 1067	the patient's blood pressure
+T29	labvalue 1072 1079	181/107
+T30	route 1102 1104	IV
+T31	drug 1105 1114	labetalol
+T32	test 1116 1130	Blood pressure
+T33	test 1158 1186	the patient's blood pressure
+T34	labvalue 1204 1211	180/100
+T35	temporal 1213 1222	Currently
+T36	test 1224 1238	blood pressure
+T37	labvalue 1242 1249	158/100
+T38	labvalue 1262 1265	155
+T39	negation 1331 1337	denies
+T40	problem 1338 1357	shortness of breath
+T41	problem 1359 1369	chest pain
+T42	bodyloc 1359 1364	chest
+T43	problem 1371 1383	palpitations
+T44	problem 1388 1397	dizziness
+T45	negation 1434 1436	No
+T46	temporal 1437 1443	recent
+T47	problem 1444 1449	fever
+T48	problem 1453 1468	general malaise
+T49	negation 1502 1504	No
+T50	problem 1505 1510	cough
+T51	problem 1514 1533	shortness of breath
+T52	negation 1551 1553	No
+T53	problem 1554 1564	chest pain
+T54	bodyloc 1554 1559	chest
+T55	negation 1584 1586	No
+T56	problem 1587 1593	nausea
+T57	problem 1597 1605	vomiting
+T58	problem 1638 1659	prostatic hypertrophy
+T59	treatment 1665 1678	laser surgery
+T60	negation 1705 1713	Negative
+T61	problem 1718 1726	diabetes
+T62	problem 1745 1759	Graves disease
+T63	drug 1792 1801	Synthroid
+T64	drug 1806 1813	aspirin
+T65	drug 1815 1822	Aspirin
+T66	drug 1880 1888	atenolol
+T67	drug 1890 1900	lisinopril
+T68	drug 1906 1915	terazosin
+T69	negation 2057 2063	not in
+T70	problem 2064 2078	acute distress
+T71	course 2064 2069	acute
+T72	labvalue 2087 2092	Clear
+T73	test 2096 2108	auscultation
+T74	negation 2168 2170	No
+T75	problem 2171 2177	murmur
+T76	negation 2234 2236	no
+T77	problem 2237 2245	swelling
+T78	test 2299 2310	Examination
+T79	problem 2348 2374	Perioperative hypertension
+T80	drug 2392 2402	lisinopril
+T81	strength 2444 2449	20 mg
+T82	route 2450 2453	p.o
+T83	frequency 2455 2460	daily
+T84	test 2465 2479	blood pressure
+T85	labvalue 2506 2509	150
+T86	drug 2553 2563	lisinopril
+T87	strength 2567 2572	40 mg
+T88	route 2573 2576	p.o
+T89	frequency 2578 2583	daily
+T90	test 2658 2672	blood pressure
+T91	labvalue 2697 2700	150
+T92	strength 2718 2723	40 mg
+T93	drug 2727 2737	lisinopril
+T94	problem 2828 2849	Prostatic hypertrophy
+T95	treatment 2863 2876	laser surgery
+T96	problem 2934 2948	Graves disease
+T97	problem 2964 2983	atrial fibrillation
+T98	labvalue 3003 3009	normal
+T99	test 3010 3022	sinus rhythm
+T100	drug 3123 3133	lisinopril
+T101	test 3147 3165	the blood pressure
+T102	problem 3215 3238	elevated blood pressure
+T103	problem 3240 3270	paroxysmal atrial fibrillation
+T104	problem 3272 3293	prostatic hypertrophy
+T105	treatment 3295 3314	rotator cuff repair
+T106	treatment 3316 3338	left knee arthroplasty
+T107	treatment 3340 3375	transurethral resection of prostate
+T108	test 3377 3391	blood pressure
+R1	hasAttr Arg1:T2 Arg2:T3
+R2	hasAttr Arg1:T5 Arg2:T4
+R3	hasAttr Arg1:T7 Arg2:T8
+R4	hasAttr Arg1:T13 Arg2:T12
+R5	hasAttr Arg1:T28 Arg2:T29
+R6	hasAttr Arg1:T31 Arg2:T30
+R7	hasAttr Arg1:T33 Arg2:T34
+R8	hasAttr Arg1:T36 Arg2:T35
+R9	hasAttr Arg1:T36 Arg2:T37
+R10	hasAttr Arg1:T36 Arg2:T38
+R11	hasAttr Arg1:T44 Arg2:T39
+R12	hasAttr Arg1:T43 Arg2:T39
+R13	hasAttr Arg1:T40 Arg2:T39
+R14	hasAttr Arg1:T41 Arg2:T39
+R15	hasAttr Arg1:T41 Arg2:T42
+R16	hasAttr Arg1:T48 Arg2:T45
+R17	hasAttr Arg1:T51 Arg2:T49
+R18	hasAttr Arg1:T50 Arg2:T49
+R19	hasAttr Arg1:T53 Arg2:T52
+R20	hasAttr Arg1:T53 Arg2:T54
+R21	hasAttr Arg1:T57 Arg2:T55
+R22	hasAttr Arg1:T56 Arg2:T55
+R23	hasAttr Arg1:T61 Arg2:T60
+R24	hasAttr Arg1:T70 Arg2:T69
+R25	hasAttr Arg1:T70 Arg2:T71
+R26	hasAttr Arg1:T73 Arg2:T72
+R27	hasAttr Arg1:T75 Arg2:T74
+R28	hasAttr Arg1:T77 Arg2:T76
+R29	hasAttr Arg1:T80 Arg2:T81
+R30	hasAttr Arg1:T80 Arg2:T82
+R31	hasAttr Arg1:T80 Arg2:T83
+R32	hasAttr Arg1:T84 Arg2:T85
+R33	hasAttr Arg1:T86 Arg2:T89
+R34	hasAttr Arg1:T86 Arg2:T88
+R35	hasAttr Arg1:T86 Arg2:T87
+R36	hasAttr Arg1:T90 Arg2:T91
+R37	hasAttr Arg1:T93 Arg2:T92
+R38	hasAttr Arg1:T99 Arg2:T98
+R39	hasAttr Arg1:T47 Arg2:T45
+R40	hasAttr Arg1:T47 Arg2:T46

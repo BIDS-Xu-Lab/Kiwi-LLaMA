@@ -1,0 +1,347 @@
+T1	uncertain 79 87	probable
+T2	problem 88 90	MS
+T3	problem 100 142	difficulties with cognition and ambulation
+T4	problem 144 155	MRI changes
+T5	test 161 164	CSF
+T6	temporal 224 232	May 2011
+T7	negation 242 245	not
+T8	drug 257 267	interferon
+T9	problem 273 285	Her symptoms
+T10	course 290 303	still present
+T11	course 314 326	not improved
+T12	problem 332 365	R leg drags at the end of the day
+T13	bodyloc 332 337	R leg
+T14	problem 433 438	falls
+T15	negation 491 498	doesn't
+T16	problem 504 520	heat sensitivity
+T17	drug 543 552	betaseron
+T18	negation 570 573	not
+T19	drug 574 588	the medication
+T20	drug 610 629	thyroid replacement
+T21	problem 766 795	Her urinary frequency/urgency
+T22	course 800 808	improved
+T23	problem 835 850	minor accidents
+T24	severity 835 840	minor
+T25	negation 912 915	not
+T26	drug 923 933	oxybutynin
+T27	problem 935 947	Her symptoms
+T28	temporal 963 967	2003
+T29	problem 973 991	right leg weakness
+T30	bodyloc 973 982	right leg
+T31	temporal 997 1012	January 1, 2008
+T32	problem 1063 1111	numbness effecting the left axilla, arm, and leg
+T33	bodyloc 1086 1097	left axilla
+T34	bodyloc 1099 1102	arm
+T35	bodyloc 1108 1111	leg
+T36	test 1113 1116	MRI
+T37	problem 1123 1130	lesions
+T38	problem 1143 1145	MS
+T39	test 1151 1164	blood studies
+T40	labvalue 1170 1204	not shown an alternative diagnosis
+T41	problem 1207 1216	Allergies
+T42	drug 1221 1232	Penicillins
+T43	drug 1251 1262	Flovent HFA
+T44	strength 1263 1273	44 MCG/ACT
+T45	route 1274 1284	Inhalation
+T46	form 1285 1292	Aerosol
+T47	route 1294 1300	INHALE
+T48	dosage 1301 1308	2 PUFFS
+T49	frequency 1309 1323	EVERY 12 HOURS
+T50	temporal 1334 1343	13Nov2009
+T51	temporal 1358 1367	17Feb2011
+T52	temporal 1384 1393	18Jan2011
+T53	temporal 1404 1413	18Jan2011
+T54	drug 1417 1424	Levoxyl
+T55	strength 1425 1432	100 MCG
+T56	route 1433 1437	Oral
+T57	form 1438 1444	Tablet
+T58	dosage 1451 1452	1
+T59	form 1453 1459	TABLET
+T60	frequency 1460 1465	DAILY
+T61	temporal 1477 1486	23Jul2010
+T62	temporal 1501 1510	17Aug2011
+T63	temporal 1527 1536	18Jul2011
+T64	temporal 1547 1556	18Jul2011
+T65	drug 1561 1571	ProAir HFA
+T66	strength 1572 1593	108 (90 Base) MCG/ACT
+T67	route 1594 1604	Inhalation
+T68	form 1605 1621	Aerosol Solution
+T69	route 1623 1629	INHALE
+T70	dosage 1630 1637	2 PUFFS
+T71	frequency 1638 1651	EVERY 4 HOURS
+T72	frequency 1652 1661	AS NEEDED
+T73	problem 1666 1671	COUGH
+T74	problem 1676 1682	WHEEZE
+T75	temporal 1694 1703	13Nov2009
+T76	temporal 1718 1727	22Aug2011
+T77	temporal 1744 1753	24May2011
+T78	temporal 1764 1773	24May2011
+T79	treatment 1778 1804	Accu-Chek Softclix Lancets
+T80	temporal 1846 1855	17Mar2010
+T81	temporal 1869 1878	17Mar2010
+T82	temporal 1895 1904	17Mar2010
+T83	drug 1909 1928	Pantoprazole Sodium
+T84	strength 1929 1934	40 MG
+T85	route 1935 1939	Oral
+T86	form 1940 1962	Tablet Delayed Release
+T87	dosage 1969 1970	1
+T88	form 1971 1977	TABLET
+T89	frequency 1978 1983	DAILY
+T90	temporal 1995 2004	27Apr2010
+T91	temporal 2022 2031	04May2011
+T92	temporal 2042 2051	04May2011
+T93	drug 2092 2097	Rebif
+T94	strength 2098 2110	44 MCG/0.5ML
+T95	route 2111 2123	Subcutaneous
+T96	form 2124 2132	Solution
+T97	dosage 2141 2147	0.5 ML
+T98	frequency 2148 2162	3 TIMES WEEKLY
+T99	temporal 2186 2195	04May2011
+T100	problem 2222 2238	primary syphilis
+T101	temporal 2245 2249	1980
+T102	subject 2279 2287	Paternal
+T103	problem 2299 2305	Asthma
+T104	subject 2316 2324	Maternal
+T105	problem 2336 2348	Hypertension
+T106	test 2821 2827	Vitals
+T107	test 2838 2849	Vital Signs
+T108	temporal 2887 2896	17Aug2011
+T109	temporal 2897 2904	09:43AM
+T110	test 2906 2909	BMI
+T111	labvalue 2922 2927	25.07
+T112	test 2929 2932	BSA
+T113	labvalue 2945 2949	1.62
+T114	test 2951 2957	Height
+T115	labvalue 2959 2968	5 ft 2 in
+T116	test 2970 2976	Weight
+T117	labvalue 2978 2989	136 lb 4 oz
+T118	test 2991 2999	Systolic
+T119	labvalue 3001 3004	134
+T120	test 3006 3015	Diastolic
+T121	labvalue 3017 3019	85
+T122	test 3021 3031	Heart Rate
+T123	labvalue 3033 3035	71
+T124	test 3037 3050	Physical Exam
+T125	negation 3109 3121	not observed
+T126	problem 3128 3133	obese
+T127	test 3206 3227	Auscultation of lungs
+T128	labvalue 3229 3235	Normal
+T129	test 3254 3275	Auscultation of heart
+T130	labvalue 3277 3283	Normal
+T131	test 3301 3321	A mental status exam
+T132	labvalue 3344 3350	normal
+T133	negation 3363 3365	No
+T134	problem 3366 3375	dysphasia
+T135	problem 3376 3383	aphasia
+T136	test 3435 3448	visual acuity
+T137	test 3453 3466	visual fields
+T138	labvalue 3472 3478	intact
+T139	test 3513 3536	the extraocular motions
+T140	labvalue 3542 3548	intact
+T141	test 3569 3590	sensation to the face
+T142	test 3595 3612	masseter strength
+T143	labvalue 3618 3624	intact
+T144	test 3647 3662	facial strength
+T145	labvalue 3667 3673	intact
+T146	test 3709 3716	hearing
+T147	labvalue 3721 3727	intact
+T148	labvalue 3765 3771	normal
+T149	test 3772 3799	movement of the soft palate
+T150	labvalue 3804 3810	normal
+T151	test 3811 3814	gag
+T152	test 3835 3849	shoulder shrug
+T153	labvalue 3854 3860	intact
+T154	negation 3905 3907	no
+T155	problem 3908 3924	tongue deviation
+T156	bodyloc 3908 3914	tongue
+T157	problem 3930 3940	protrusion
+T158	test 3943 3957	Motor Strength
+T159	labvalue 3959 3983	Upper Extremities Normal
+T160	problem 3985 4026	Lower Extremities: (4 to 5-, weaker on R)
+T161	bodyloc 3985 4002	Lower Extremities
+T162	test 4029 4041	Motor Survey
+T163	bodyloc 4043 4052	both legs
+T164	problem 4058 4068	hypertonic
+T165	test 4079 4087	Reflexes
+T166	test 4089 4113	the deep tendon reflexes
+T167	problem 4119 4127	abnormal
+T168	test 4292 4307	Babinski reflex
+T169	labvalue 4308 4314	absent
+T170	problem 4351 4363	Ankle Clonus
+T171	test 4431 4435	Gait
+T172	problem 4437 4444	spastic
+T173	problem 4458 4476	Decreased response
+T174	test 4480 4497	touch stimulation
+T175	problem 4498 4516	Decreased response
+T176	test 4520 4544	stimulation by vibration
+T177	problem 4560 4578	Decreased response
+T178	test 4582 4614	pain and temperature stimulation
+T179	temporal 4657 4663	1/2011
+T180	test 4664 4667	CBC
+T181	test 4669 4672	LFT
+T182	test 4674 4676	Fe
+T183	test 4682 4686	TIBC
+T184	labvalue 4692 4698	normal
+T185	test 4709 4719	Assessment
+T186	problem 4724 4742	Multiple Sclerosis
+T187	problem 4751 4760	Dyspepsia
+T188	drug 4777 4796	Pantoprazole Sodium
+T189	strength 4797 4802	40 MG
+T190	route 4803 4807	Oral
+T191	form 4808 4830	Tablet Delayed Release
+T192	dosage 4837 4838	1
+T193	form 4839 4845	TABLET
+T194	frequency 4846 4851	DAILY
+T195	temporal 4863 4872	17Aug2011
+T196	temporal 4887 4896	13Feb2012
+T197	temporal 4908 4917	17Aug2011
+T198	problem 4935 4957	relapsing-remitting MS
+T199	course 4935 4954	relapsing-remitting
+T200	negation 4973 4976	not
+T201	drug 4985 4990	rebif
+T202	problem 5054 5067	her too tired
+T203	drug 5103 5117	the medication
+T204	drug 5130 5135	rebif
+T205	test 5139 5144	- CBC
+T206	test 5146 5149	LFT
+T207	temporal 5159 5167	3 months
+T208	problem 5184 5205	short term disability
+T209	temporal 5281 5292	Aug 17 2011
+T210	temporal 5293 5299	3:16PM
+R1	hasAttr Arg1:T2 Arg2:T1
+R2	hasAttr Arg1:T8 Arg2:T7
+R3	hasAttr Arg1:T9 Arg2:T11
+R4	hasAttr Arg1:T9 Arg2:T10
+R5	hasAttr Arg1:T12 Arg2:T13
+R6	hasAttr Arg1:T16 Arg2:T15
+R7	hasAttr Arg1:T19 Arg2:T18
+R8	hasAttr Arg1:T21 Arg2:T22
+R9	hasAttr Arg1:T23 Arg2:T24
+R10	hasAttr Arg1:T26 Arg2:T25
+R11	hasAttr Arg1:T27 Arg2:T28
+R12	hasAttr Arg1:T29 Arg2:T28
+R13	hasAttr Arg1:T29 Arg2:T30
+R14	hasAttr Arg1:T32 Arg2:T31
+R15	hasAttr Arg1:T32 Arg2:T35
+R16	hasAttr Arg1:T32 Arg2:T33
+R17	hasAttr Arg1:T32 Arg2:T34
+R18	hasAttr Arg1:T39 Arg2:T40
+R19	hasAttr Arg1:T43 Arg2:T52
+R20	hasAttr Arg1:T43 Arg2:T51
+R21	hasAttr Arg1:T43 Arg2:T53
+R22	hasAttr Arg1:T43 Arg2:T50
+R23	hasAttr Arg1:T43 Arg2:T49
+R24	hasAttr Arg1:T43 Arg2:T48
+R25	hasAttr Arg1:T43 Arg2:T45
+R26	hasAttr Arg1:T43 Arg2:T44
+R27	hasAttr Arg1:T43 Arg2:T47
+R28	hasAttr Arg1:T43 Arg2:T46
+R29	hasAttr Arg1:T54 Arg2:T58
+R30	hasAttr Arg1:T54 Arg2:T57
+R31	hasAttr Arg1:T54 Arg2:T56
+R32	hasAttr Arg1:T54 Arg2:T55
+R33	hasAttr Arg1:T54 Arg2:T59
+R34	hasAttr Arg1:T54 Arg2:T61
+R35	hasAttr Arg1:T54 Arg2:T60
+R36	hasAttr Arg1:T54 Arg2:T64
+R37	hasAttr Arg1:T54 Arg2:T63
+R38	hasAttr Arg1:T54 Arg2:T62
+R39	hasAttr Arg1:T65 Arg2:T71
+R40	hasAttr Arg1:T65 Arg2:T72
+R41	hasAttr Arg1:T65 Arg2:T70
+R42	hasAttr Arg1:T65 Arg2:T75
+R43	hasAttr Arg1:T65 Arg2:T76
+R44	hasAttr Arg1:T65 Arg2:T68
+R45	hasAttr Arg1:T65 Arg2:T69
+R46	hasAttr Arg1:T65 Arg2:T66
+R47	hasAttr Arg1:T65 Arg2:T67
+R48	hasAttr Arg1:T65 Arg2:T77
+R49	hasAttr Arg1:T65 Arg2:T78
+R50	hasAttr Arg1:T79 Arg2:T81
+R51	hasAttr Arg1:T79 Arg2:T82
+R52	hasAttr Arg1:T79 Arg2:T80
+R53	hasAttr Arg1:T83 Arg2:T89
+R54	hasAttr Arg1:T83 Arg2:T88
+R55	hasAttr Arg1:T83 Arg2:T85
+R56	hasAttr Arg1:T83 Arg2:T84
+R57	hasAttr Arg1:T83 Arg2:T87
+R58	hasAttr Arg1:T83 Arg2:T86
+R59	hasAttr Arg1:T83 Arg2:T92
+R60	hasAttr Arg1:T83 Arg2:T91
+R61	hasAttr Arg1:T83 Arg2:T90
+R62	hasAttr Arg1:T93 Arg2:T97
+R63	hasAttr Arg1:T93 Arg2:T96
+R64	hasAttr Arg1:T93 Arg2:T95
+R65	hasAttr Arg1:T93 Arg2:T94
+R66	hasAttr Arg1:T93 Arg2:T99
+R67	hasAttr Arg1:T93 Arg2:T98
+R68	hasAttr Arg1:T100 Arg2:T101
+R69	hasAttr Arg1:T103 Arg2:T102
+R70	hasAttr Arg1:T105 Arg2:T104
+R71	hasAttr Arg1:T106 Arg2:T109
+R72	hasAttr Arg1:T106 Arg2:T108
+R73	hasAttr Arg1:T107 Arg2:T108
+R74	hasAttr Arg1:T107 Arg2:T109
+R75	hasAttr Arg1:T110 Arg2:T108
+R76	hasAttr Arg1:T116 Arg2:T108
+R77	hasAttr Arg1:T122 Arg2:T108
+R78	hasAttr Arg1:T118 Arg2:T108
+R79	hasAttr Arg1:T112 Arg2:T108
+R80	hasAttr Arg1:T120 Arg2:T108
+R81	hasAttr Arg1:T114 Arg2:T108
+R82	hasAttr Arg1:T110 Arg2:T109
+R83	hasAttr Arg1:T116 Arg2:T109
+R84	hasAttr Arg1:T122 Arg2:T109
+R85	hasAttr Arg1:T118 Arg2:T109
+R86	hasAttr Arg1:T112 Arg2:T109
+R87	hasAttr Arg1:T120 Arg2:T109
+R88	hasAttr Arg1:T114 Arg2:T109
+R89	hasAttr Arg1:T110 Arg2:T111
+R90	hasAttr Arg1:T112 Arg2:T113
+R91	hasAttr Arg1:T114 Arg2:T115
+R92	hasAttr Arg1:T116 Arg2:T117
+R93	hasAttr Arg1:T118 Arg2:T119
+R94	hasAttr Arg1:T120 Arg2:T121
+R95	hasAttr Arg1:T122 Arg2:T123
+R96	hasAttr Arg1:T127 Arg2:T128
+R97	hasAttr Arg1:T129 Arg2:T130
+R98	hasAttr Arg1:T131 Arg2:T132
+R99	hasAttr Arg1:T135 Arg2:T133
+R100	hasAttr Arg1:T134 Arg2:T133
+R101	hasAttr Arg1:T136 Arg2:T138
+R102	hasAttr Arg1:T137 Arg2:T138
+R103	hasAttr Arg1:T139 Arg2:T140
+R104	hasAttr Arg1:T141 Arg2:T143
+R105	hasAttr Arg1:T142 Arg2:T143
+R106	hasAttr Arg1:T144 Arg2:T145
+R107	hasAttr Arg1:T146 Arg2:T147
+R108	hasAttr Arg1:T149 Arg2:T148
+R109	hasAttr Arg1:T151 Arg2:T150
+R110	hasAttr Arg1:T152 Arg2:T153
+R111	hasAttr Arg1:T157 Arg2:T154
+R112	hasAttr Arg1:T155 Arg2:T154
+R113	hasAttr Arg1:T155 Arg2:T156
+R114	hasAttr Arg1:T158 Arg2:T159
+R115	hasAttr Arg1:T160 Arg2:T161
+R116	hasAttr Arg1:T164 Arg2:T163
+R117	hasAttr Arg1:T168 Arg2:T169
+R118	hasAttr Arg1:T180 Arg2:T179
+R119	hasAttr Arg1:T181 Arg2:T179
+R120	hasAttr Arg1:T183 Arg2:T179
+R121	hasAttr Arg1:T182 Arg2:T179
+R122	hasAttr Arg1:T180 Arg2:T184
+R123	hasAttr Arg1:T181 Arg2:T184
+R124	hasAttr Arg1:T182 Arg2:T184
+R125	hasAttr Arg1:T183 Arg2:T184
+R126	hasAttr Arg1:T188 Arg2:T197
+R127	hasAttr Arg1:T188 Arg2:T196
+R128	hasAttr Arg1:T188 Arg2:T189
+R129	hasAttr Arg1:T188 Arg2:T191
+R130	hasAttr Arg1:T188 Arg2:T190
+R131	hasAttr Arg1:T188 Arg2:T193
+R132	hasAttr Arg1:T188 Arg2:T192
+R133	hasAttr Arg1:T188 Arg2:T195
+R134	hasAttr Arg1:T188 Arg2:T194
+R135	hasAttr Arg1:T198 Arg2:T199
+R136	hasAttr Arg1:T201 Arg2:T200
+R137	hasAttr Arg1:T126 Arg2:T125

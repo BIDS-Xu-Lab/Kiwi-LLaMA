@@ -1,0 +1,67 @@
+T1	temporal 190 201	Aug 02 2007
+T2	temporal 228 237	Aug 06 07
+T3	negation 328 331	not
+T4	problem 332 340	agitated
+T5	negation 351 354	not
+T6	problem 359 384	any periods of somnolence
+T7	problem 413 432	some hallucinations
+T8	problem 437 446	delusions
+T9	negation 453 459	denies
+T10	problem 460 469	any fever
+T11	problem 473 479	chills
+T12	problem 483 502	shortness of breath
+T13	negation 505 507	No
+T14	problem 508 518	chest pain
+T15	bodyloc 508 513	chest
+T16	negation 521 523	No
+T17	problem 524 538	abdominal pain
+T18	bodyloc 524 533	abdominal
+T19	test 575 590	her vital signs
+T20	labvalue 665 672	Regular
+T21	test 673 679	rhythm
+T22	negation 682 684	No
+T23	problem 685 691	murmur
+T24	problem 695 701	gallop
+T25	negation 714 716	No
+T26	problem 717 727	tenderness
+T27	negation 753 755	no
+T28	problem 756 761	edema
+T29	test 764 780	Laboratory tests
+T30	problem 823 837	Acute delirium
+T31	course 823 828	Acute
+T32	problem 911 928	drug intoxication
+T33	problem 933 963	underlying psychiatric illness
+T34	problem 1046 1066	aspiration pneumonia
+T35	route 1079 1083	oral
+T36	drug 1084 1095	antibiotics
+T37	negation 1100 1106	denies
+T38	problem 1107 1119	any symptoms
+T39	problem 1125 1133	Diabetes
+T40	drug 1146 1155	metformin
+T41	drug 1175 1184	metformin
+T42	drug 1209 1220	medications
+T43	temporal 1367 1378	Aug 06 2007
+T44	temporal 1380 1388	13:28:35
+T45	temporal 1400 1411	Aug 07 2007
+T46	temporal 1413 1421	01:19:40
+T47	temporal 1433 1444	Aug 07 2007
+T48	temporal 1446 1454	01:19:40
+T49	temporal 1580 1591	Aug 16 2007
+T50	temporal 1593 1604	02:52:53 PM
+R1	hasAttr Arg1:T4 Arg2:T3
+R2	hasAttr Arg1:T6 Arg2:T5
+R3	hasAttr Arg1:T11 Arg2:T9
+R4	hasAttr Arg1:T12 Arg2:T9
+R5	hasAttr Arg1:T10 Arg2:T9
+R6	hasAttr Arg1:T14 Arg2:T13
+R7	hasAttr Arg1:T14 Arg2:T15
+R8	hasAttr Arg1:T17 Arg2:T16
+R9	hasAttr Arg1:T17 Arg2:T18
+R10	hasAttr Arg1:T21 Arg2:T20
+R11	hasAttr Arg1:T24 Arg2:T22
+R12	hasAttr Arg1:T23 Arg2:T22
+R13	hasAttr Arg1:T26 Arg2:T25
+R14	hasAttr Arg1:T28 Arg2:T27
+R15	hasAttr Arg1:T30 Arg2:T31
+R16	hasAttr Arg1:T36 Arg2:T35
+R17	hasAttr Arg1:T38 Arg2:T37

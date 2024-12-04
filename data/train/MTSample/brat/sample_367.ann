@@ -1,0 +1,220 @@
+T1	problem 106 130	several medical problems
+T2	problem 133 149	mouth being sore
+T3	bodyloc 133 138	mouth
+T4	problem 151 156	cough
+T5	problem 158 177	right shoulder pain
+T6	bodyloc 158 172	right shoulder
+T7	problem 183 192	neck pain
+T8	bodyloc 183 187	neck
+T9	problem 266 290	several medical problems
+T10	problem 305 325	his mouth being sore
+T11	bodyloc 309 314	mouth
+T12	problem 362 382	trouble with my eyes
+T13	bodyloc 378 382	eyes
+T14	negation 459 465	denies
+T15	problem 475 483	diarrhea
+T16	problem 487 501	abdominal pain
+T17	bodyloc 487 496	abdominal
+T18	negation 531 537	denies
+T19	problem 538 544	nausea
+T20	problem 548 556	diarrhea
+T21	negation 610 616	denies
+T22	problem 617 624	dysuria
+T23	problem 630 645	back is hurting
+T24	bodyloc 630 634	back
+T25	problem 669 688	right shoulder pain
+T26	bodyloc 669 683	right shoulder
+T27	problem 693 702	neck pain
+T28	bodyloc 693 697	neck
+T29	temporal 703 721	over the last week
+T30	negation 726 732	denies
+T31	problem 733 743	any injury
+T32	problem 761 770	his cough
+T33	drug 811 824	Metronidazole
+T34	strength 825 831	250 mg
+T35	frequency 832 838	q.i.d.
+T36	drug 840 846	Lortab
+T37	strength 847 852	5/500
+T38	frequency 853 859	b.i.d.
+T39	drug 861 868	Allegra
+T40	strength 869 875	180 mg
+T41	frequency 876 881	daily
+T42	drug 883 893	Levothroid
+T43	strength 894 901	100 mcg
+T44	frequency 902 907	daily
+T45	drug 909 914	Lasix
+T46	strength 915 920	20 mg
+T47	frequency 921 926	daily
+T48	drug 928 934	Flomax
+T49	strength 935 941	0.4 mg
+T50	frequency 942 949	at h.s.
+T51	drug 951 958	aspirin
+T52	strength 959 964	81 mg
+T53	frequency 965 970	daily
+T54	drug 972 978	Celexa
+T55	strength 979 984	40 mg
+T56	frequency 985 990	daily
+T57	drug 992 1004	verapamil SR
+T58	strength 1005 1011	180 mg
+T59	dosage 1012 1026	one and a half
+T60	form 1027 1033	tablet
+T61	frequency 1034 1039	daily
+T62	drug 1041 1046	Zetia
+T63	strength 1047 1052	10 mg
+T64	frequency 1053 1058	daily
+T65	drug 1060 1066	Feosol
+T66	frequency 1067 1073	b.i.d.
+T67	problem 1074 1083	ALLERGIES
+T68	drug 1085 1092	Lamisil
+T69	drug 1094 1103	Equagesic
+T70	drug 1105 1112	Bactrim
+T71	drug 1114 1123	Dilatrate
+T72	drug 1125 1140	cyclobenzaprine
+T73	negation 1218 1220	no
+T74	problem 1221 1235	acute distress
+T75	course 1221 1226	acute
+T76	test 1265 1276	Temperature
+T77	labvalue 1278 1282	97.7
+T78	test 1284 1298	Blood pressure
+T79	labvalue 1300 1307	134/80.
+T80	test 1308 1313	Pulse
+T81	labvalue 1315 1317	88
+T82	test 1319 1325	Weight
+T83	labvalue 1327 1338	201 pounds.
+T84	test 1370 1395	Examination of the throat
+T85	problem 1433 1480	a few slight red patches on his upper inner lip
+T86	bodyloc 1465 1480	upper inner lip
+T87	problem 1497 1513	yeast dermatitis
+T88	negation 1528 1535	without
+T89	problem 1536 1546	adenopathy
+T90	problem 1550 1561	thyromegaly
+T91	labvalue 1584 1591	Regular
+T92	test 1592 1596	rate
+T93	test 1601 1607	rhythm
+T94	test 1634 1666	range of motion of his shoulders
+T95	problem 1671 1686	some tenderness
+T96	test 1746 1761	range of motion
+T97	test 1792 1812	Deep tendon reflexes
+T98	labvalue 1817 1831	2+ bilaterally
+T99	test 1854 1874	Straight leg raising
+T100	labvalue 1878 1886	positive
+T101	problem 1891 1900	back pain
+T102	bodyloc 1891 1895	back
+T103	negation 1959 1966	without
+T104	problem 1967 1985	hepatosplenomegaly
+T105	problem 1989 1993	mass
+T106	labvalue 2002 2008	normal
+T107	test 2009 2021	bowel sounds
+T108	problem 2038 2069	Clostridium difficile enteritis
+T109	course 2071 2079	improved
+T110	problem 2084 2103	Right shoulder pain
+T111	bodyloc 2084 2098	Right shoulder
+T112	problem 2108 2129	Chronic low back pain
+T113	course 2108 2115	Chronic
+T114	bodyloc 2116 2124	low back
+T115	problem 2134 2146	Yeast thrush
+T116	problem 2151 2174	Coronary artery disease
+T117	bodyloc 2151 2166	Coronary artery
+T118	problem 2179 2196	Urinary retention
+T119	drug 2240 2248	Diflucan
+T120	strength 2249 2255	200 mg
+T121	frequency 2256 2261	daily
+T122	duration 2262 2276	for seven days
+T123	drug 2300 2317	his metronidazole
+T124	drug 2452 2465	metronidazole
+T125	treatment 2520 2536	physical therapy
+T126	test 2540 2548	evaluate
+T127	problem 2645 2663	his eye discomfort
+T128	bodyloc 2649 2652	eye
+T129	problem 2668 2690	his left eye pterygium
+T130	bodyloc 2672 2680	left eye
+T131	test 2709 2713	exam
+T132	problem 2715 2730	minimal redness
+T133	course 2715 2722	minimal
+T134	bodyloc 2747 2775	conjunctiva on the left side
+T135	negation 2780 2782	no
+T136	problem 2783 2792	mattering
+T137	problem 2871 2902	clostridium difficile enteritis
+T138	problem 2904 2927	coronary artery disease
+T139	problem 2929 2946	urinary retention
+T140	problem 2948 2960	yeast thrush
+T141	problem 2962 2967	cough
+T142	problem 2969 2978	neck pain
+T143	bodyloc 2969 2973	neck
+T144	problem 2980 3004	several medical problems
+T145	problem 3006 3019	shoulder pain
+T146	bodyloc 3006 3014	shoulder
+T147	test 3021 3036	range of motion
+T148	drug 3044 3057	metronidazole
+R1	hasAttr Arg1:T2 Arg2:T3
+R2	hasAttr Arg1:T5 Arg2:T6
+R3	hasAttr Arg1:T7 Arg2:T8
+R4	hasAttr Arg1:T10 Arg2:T11
+R5	hasAttr Arg1:T12 Arg2:T13
+R6	hasAttr Arg1:T15 Arg2:T14
+R7	hasAttr Arg1:T16 Arg2:T14
+R8	hasAttr Arg1:T16 Arg2:T17
+R9	hasAttr Arg1:T19 Arg2:T18
+R10	hasAttr Arg1:T20 Arg2:T18
+R11	hasAttr Arg1:T22 Arg2:T21
+R12	hasAttr Arg1:T23 Arg2:T24
+R13	hasAttr Arg1:T25 Arg2:T26
+R14	hasAttr Arg1:T25 Arg2:T29
+R15	hasAttr Arg1:T27 Arg2:T28
+R16	hasAttr Arg1:T27 Arg2:T29
+R17	hasAttr Arg1:T31 Arg2:T30
+R18	hasAttr Arg1:T33 Arg2:T35
+R19	hasAttr Arg1:T33 Arg2:T34
+R20	hasAttr Arg1:T36 Arg2:T38
+R21	hasAttr Arg1:T36 Arg2:T37
+R22	hasAttr Arg1:T39 Arg2:T41
+R23	hasAttr Arg1:T39 Arg2:T40
+R24	hasAttr Arg1:T42 Arg2:T43
+R25	hasAttr Arg1:T42 Arg2:T44
+R26	hasAttr Arg1:T45 Arg2:T46
+R27	hasAttr Arg1:T45 Arg2:T47
+R28	hasAttr Arg1:T48 Arg2:T49
+R29	hasAttr Arg1:T48 Arg2:T50
+R30	hasAttr Arg1:T51 Arg2:T52
+R31	hasAttr Arg1:T51 Arg2:T53
+R32	hasAttr Arg1:T54 Arg2:T56
+R33	hasAttr Arg1:T54 Arg2:T55
+R34	hasAttr Arg1:T57 Arg2:T60
+R35	hasAttr Arg1:T57 Arg2:T59
+R36	hasAttr Arg1:T57 Arg2:T61
+R37	hasAttr Arg1:T57 Arg2:T58
+R38	hasAttr Arg1:T62 Arg2:T63
+R39	hasAttr Arg1:T62 Arg2:T64
+R40	hasAttr Arg1:T65 Arg2:T66
+R41	hasAttr Arg1:T74 Arg2:T73
+R42	hasAttr Arg1:T74 Arg2:T75
+R43	hasAttr Arg1:T76 Arg2:T77
+R44	hasAttr Arg1:T78 Arg2:T79
+R45	hasAttr Arg1:T80 Arg2:T81
+R46	hasAttr Arg1:T82 Arg2:T83
+R47	hasAttr Arg1:T85 Arg2:T86
+R48	hasAttr Arg1:T90 Arg2:T88
+R49	hasAttr Arg1:T89 Arg2:T88
+R50	hasAttr Arg1:T92 Arg2:T91
+R51	hasAttr Arg1:T93 Arg2:T91
+R52	hasAttr Arg1:T97 Arg2:T98
+R53	hasAttr Arg1:T99 Arg2:T100
+R54	hasAttr Arg1:T101 Arg2:T102
+R55	hasAttr Arg1:T105 Arg2:T103
+R56	hasAttr Arg1:T104 Arg2:T103
+R57	hasAttr Arg1:T107 Arg2:T106
+R58	hasAttr Arg1:T108 Arg2:T109
+R59	hasAttr Arg1:T110 Arg2:T111
+R60	hasAttr Arg1:T112 Arg2:T114
+R61	hasAttr Arg1:T112 Arg2:T113
+R62	hasAttr Arg1:T116 Arg2:T117
+R63	hasAttr Arg1:T119 Arg2:T121
+R64	hasAttr Arg1:T119 Arg2:T120
+R65	hasAttr Arg1:T119 Arg2:T122
+R66	hasAttr Arg1:T127 Arg2:T128
+R67	hasAttr Arg1:T129 Arg2:T130
+R68	hasAttr Arg1:T132 Arg2:T133
+R69	hasAttr Arg1:T132 Arg2:T134
+R70	hasAttr Arg1:T136 Arg2:T135
+R71	hasAttr Arg1:T142 Arg2:T143
+R72	hasAttr Arg1:T145 Arg2:T146

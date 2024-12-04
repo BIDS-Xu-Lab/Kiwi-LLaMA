@@ -1,0 +1,37 @@
+T1	problem 63 80	Airway Compromise
+T2	problem 83 95	Foreign Body
+T3	problem 197 209	foreign body
+T4	problem 214 231	airway compromise
+T5	bodyloc 214 220	airway
+T6	treatment 277 286	intubated
+T7	problem 444 456	foreign body
+T8	problem 461 478	airway compromise
+T9	treatment 524 533	intubated
+T10	problem 586 594	diabetes
+T11	problem 596 608	hypertension
+T12	problem 610 616	asthma
+T13	problem 618 633	cholecystectomy
+T14	problem 639 657	total hysterectomy
+T15	problem 662 670	cataract
+T16	problem 672 681	ALLERGIES
+T17	negation 683 685	No
+T18	problem 686 706	known drug allergies
+T19	drug 729 737	Prevacid
+T20	drug 739 746	Humulin
+T21	drug 748 756	Diprivan
+T22	drug 758 767	Proventil
+T23	drug 769 775	Unasyn
+T24	drug 781 792	Solu-Medrol
+T25	treatment 1350 1362	tracheostomy
+T26	route 1393 1395	IV
+T27	drug 1396 1407	antibiotics
+T28	treatment 1412 1431	ventilatory support
+T29	problem 1972 1980	diabetes
+T30	problem 1982 1994	hypertension
+T31	problem 1996 2002	asthma
+T32	problem 2004 2019	cholecystectomy
+T33	problem 2031 2043	foreign body
+T34	problem 2045 2062	airway compromise
+R1	hasAttr Arg1:T4 Arg2:T5
+R2	hasAttr Arg1:T18 Arg2:T17
+R3	hasAttr Arg1:T27 Arg2:T26

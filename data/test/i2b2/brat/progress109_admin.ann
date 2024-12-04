@@ -1,0 +1,100 @@
+T1	temporal 194 205	Jul 27 2007
+T2	temporal 232 241	Jul 28 07
+T3	temporal 281 290	Overnight
+T4	treatment 309 320	Medications
+T5	test 325 337	laboratories
+T6	treatment 404 446	Lumbar disk L4-L5 , lumbar microdiskectomy
+T7	problem 449 458	Wound CDI
+T8	severity 455 458	CDI
+T9	negation 461 463	No
+T10	problem 464 477	radiculopathy
+T11	problem 481 491	myelopathy
+T12	test 494 520	Bowel and bladder function
+T13	labvalue 521 527	stable
+T14	problem 533 545	Hypertension
+T15	test 548 562	Blood pressure
+T16	negation 576 578	No
+T17	problem 579 624	neurovascular / cardiovascular decompensation
+T18	bodyloc 579 592	neurovascular
+T19	bodyloc 595 609	cardiovascular
+T20	problem 630 653	Coronary artery disease
+T21	bodyloc 630 645	Coronary artery
+T22	treatment 656 660	CABG
+T23	labvalue 663 668	Sinus
+T24	test 669 675	rhythm
+T25	test 678 680	S1
+T26	test 683 685	S2
+T27	labvalue 686 692	normal
+T28	negation 695 697	No
+T29	problem 698 708	audible S3
+T30	problem 712 722	S4 gallops
+T31	problem 725 736	Flow murmur
+T32	course 740 746	stable
+T33	problem 749 758	MR murmur
+T34	course 762 768	stable
+T35	negation 771 773	No
+T36	problem 774 803	cardiovascular decompensation
+T37	bodyloc 774 788	cardiovascular
+T38	problem 809 829	Hypercholesterolemia
+T39	severity 832 844	asymptomatic
+T40	negation 847 849	No
+T41	problem 850 864	abdominal pain
+T42	bodyloc 850 859	abdominal
+T43	problem 867 879	pancreatitis
+T44	problem 882 890	myopathy
+T45	problem 896 905	hepatitis
+T46	problem 911 915	GERD
+T47	problem 918 930	Asymptomatic
+T48	negation 933 935	No
+T49	problem 936 942	nausea
+T50	problem 945 953	vomiting
+T51	problem 959 967	GI bleed
+T52	bodyloc 959 961	GI
+T53	problem 973 993	Diverticular disease
+T54	severity 996 1008	asymptomatic
+T55	problem 1046 1052	Goiter
+T56	problem 1055 1061	Nodule
+T57	problem 1064 1082	tracheal deviation
+T58	bodyloc 1064 1072	tracheal
+T59	negation 1105 1107	No
+T60	problem 1108 1128	respiratory distress
+T61	bodyloc 1108 1119	respiratory
+T62	temporal 1252 1263	Jul 28 2007
+T63	temporal 1265 1273	09:36:37
+T64	temporal 1285 1296	Jul 28 2007
+T65	temporal 1298 1306	23:51:45
+T66	temporal 1318 1329	Jul 28 2007
+T67	temporal 1331 1339	23:51:45
+T68	temporal 1464 1475	Aug 08 2007
+T69	temporal 1477 1488	08:18:04 PM
+R1	hasAttr Arg1:T7 Arg2:T8
+R2	hasAttr Arg1:T11 Arg2:T9
+R3	hasAttr Arg1:T10 Arg2:T9
+R4	hasAttr Arg1:T12 Arg2:T13
+R5	hasAttr Arg1:T17 Arg2:T16
+R6	hasAttr Arg1:T17 Arg2:T19
+R7	hasAttr Arg1:T17 Arg2:T18
+R8	hasAttr Arg1:T20 Arg2:T21
+R9	hasAttr Arg1:T24 Arg2:T23
+R10	hasAttr Arg1:T25 Arg2:T27
+R11	hasAttr Arg1:T26 Arg2:T27
+R12	hasAttr Arg1:T30 Arg2:T28
+R13	hasAttr Arg1:T29 Arg2:T28
+R14	hasAttr Arg1:T31 Arg2:T32
+R15	hasAttr Arg1:T33 Arg2:T34
+R16	hasAttr Arg1:T36 Arg2:T35
+R17	hasAttr Arg1:T36 Arg2:T37
+R18	hasAttr Arg1:T38 Arg2:T39
+R19	hasAttr Arg1:T44 Arg2:T40
+R20	hasAttr Arg1:T41 Arg2:T40
+R21	hasAttr Arg1:T43 Arg2:T40
+R22	hasAttr Arg1:T45 Arg2:T40
+R23	hasAttr Arg1:T41 Arg2:T42
+R24	hasAttr Arg1:T50 Arg2:T48
+R25	hasAttr Arg1:T51 Arg2:T48
+R26	hasAttr Arg1:T49 Arg2:T48
+R27	hasAttr Arg1:T51 Arg2:T52
+R28	hasAttr Arg1:T53 Arg2:T54
+R29	hasAttr Arg1:T57 Arg2:T58
+R30	hasAttr Arg1:T60 Arg2:T59
+R31	hasAttr Arg1:T60 Arg2:T61

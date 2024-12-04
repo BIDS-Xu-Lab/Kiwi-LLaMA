@@ -1,0 +1,179 @@
+T1	problem 63 74	Cut on Foot
+T2	bodyloc 70 74	Foot
+T3	problem 111 153	a piece of glass fall on to his right foot
+T4	bodyloc 143 153	right foot
+T5	problem 155 172	A 4-mm laceration
+T6	problem 174 189	Acute foot pain
+T7	course 174 179	Acute
+T8	course 195 203	resolved
+T9	treatment 253 263	wound care
+T10	problem 320 331	Cut on foot
+T11	bodyloc 327 331	foot
+T12	problem 396 438	a piece of glass fall on to his right foot
+T13	bodyloc 428 438	right foot
+T14	temporal 439 444	today
+T15	problem 483 505	the amount of bleeding
+T16	problem 529 541	The bleeding
+T17	negation 580 588	not have
+T18	problem 589 597	any pain
+T19	negation 648 650	no
+T20	problem 651 659	numbness
+T21	problem 663 671	weakness
+T22	negation 710 717	without
+T23	problem 718 732	any discomfort
+T24	negation 746 752	denies
+T25	problem 753 798	any injuries to any other portion of his body
+T26	bodyloc 794 798	body
+T27	negation 807 814	not had
+T28	problem 815 833	any recent illness
+T29	negation 851 853	no
+T30	problem 854 868	other problems
+T31	problem 872 882	complaints
+T32	problem 906 912	Asthma
+T33	drug 914 932	CURRENT MEDICATION
+T34	drug 934 943	Albuterol
+T35	problem 945 954	ALLERGIES
+T36	negation 956 958	NO
+T37	problem 959 979	KNOWN DRUG ALLERGIES
+T38	test 1044 1055	VITAL SIGNS
+T39	test 1057 1068	Temperature
+T40	labvalue 1069 1073	98.8
+T41	test 1080 1094	blood pressure
+T42	labvalue 1095 1101	132/86
+T43	test 1103 1108	pulse
+T44	labvalue 1112 1114	76
+T45	test 1120 1132	respirations
+T46	labvalue 1133 1135	16
+T47	test 1137 1154	Oxygen saturation
+T48	labvalue 1158 1162	100%
+T49	negation 1339 1341	no
+T50	problem 1342 1356	acute distress
+T51	course 1342 1347	acute
+T52	labvalue 1552 1556	full
+T53	test 1557 1572	range of motion
+T54	test 1590 1606	Peripheral pulse
+T55	labvalue 1610 1630	+2 to the right foot
+T56	test 1632 1649	Capillary refills
+T57	labvalue 1650 1671	less than two seconds
+T58	negation 1723 1725	No
+T59	problem 1726 1745	shortness of breath
+T60	problem 1780 1844	a 4-mm partial thickness laceration to the top of the right foot
+T61	bodyloc 1823 1844	top of the right foot
+T62	bodyloc 1849 1879	about the area of the mid foot
+T63	negation 1890 1892	no
+T64	problem 1893 1914	palpable foreign body
+T65	negation 1916 1918	no
+T66	problem 1919 1931	foreign body
+T67	negation 1956 1958	no
+T68	problem 1959 1974	active bleeding
+T69	negation 1985 1987	no
+T70	problem 1988 2010	exposed deeper tissues
+T71	bodyloc 1996 2010	deeper tissues
+T72	negation 2025 2027	no
+T73	problem 2028 2077	exposed tendons, bone, muscle, nerves, or vessels
+T74	bodyloc 2036 2043	tendons
+T75	bodyloc 2045 2049	bone
+T76	bodyloc 2051 2057	muscle
+T77	bodyloc 2059 2065	nerves
+T78	bodyloc 2070 2077	vessels
+T79	problem 2095 2109	the laceration
+T80	uncertain 2110 2118	may have
+T81	problem 2126 2147	a small varicose vein
+T82	bodyloc 2134 2147	varicose vein
+T83	problem 2180 2211	the heavier than usual bleeding
+T84	negation 2262 2270	not have
+T85	problem 2271 2297	any tenderness to the foot
+T86	bodyloc 2293 2297	foot
+T87	negation 2419 2426	without
+T88	problem 2427 2441	any difficulty
+T89	problem 2445 2455	discomfort
+T90	negation 2467 2469	no
+T91	problem 2470 2484	other injuries
+T92	problem 2522 2559	The 4-mm partial thickness laceration
+T93	bodyloc 2567 2577	right foot
+T94	negation 2603 2605	No
+T95	problem 2606 2620	other injuries
+T96	test 2644 2649	Motor
+T97	labvalue 2653 2656	5/5
+T98	test 2712 2719	Sensory
+T99	negation 2937 2939	No
+T100	problem 2940 2955	active bleeding
+T101	negation 2983 2997	No evidence of
+T102	problem 2998 3006	bruising
+T103	drug 3074 3093	antibiotic ointment
+T104	treatment 3098 3107	a bandage
+T105	problem 3143 3178	A 4-MM LACERATION TO THE RIGHT FOOT
+T106	bodyloc 3164 3178	THE RIGHT FOOT
+T107	problem 3183 3204	ACUTE RIGHT FOOT PAIN
+T108	course 3183 3188	ACUTE
+T109	bodyloc 3189 3199	RIGHT FOOT
+T110	course 3210 3218	RESOLVED
+T111	treatment 3326 3336	wound care
+T112	problem 3428 3437	infection
+T113	uncertain 3556 3567	possibility
+T114	problem 3571 3580	infection
+T115	problem 3662 3671	foot pain
+T116	problem 3673 3684	cut on foot
+T117	problem 3702 3714	foreign body
+T118	problem 3716 3731	active bleeding
+T119	problem 3739 3747	injuries
+T120	problem 3761 3771	laceration
+T121	problem 3773 3781	bleeding
+R1	hasAttr Arg1:T1 Arg2:T2
+R2	hasAttr Arg1:T6 Arg2:T7
+R3	hasAttr Arg1:T6 Arg2:T8
+R4	hasAttr Arg1:T10 Arg2:T11
+R5	hasAttr Arg1:T12 Arg2:T14
+R6	hasAttr Arg1:T18 Arg2:T17
+R7	hasAttr Arg1:T21 Arg2:T19
+R8	hasAttr Arg1:T20 Arg2:T19
+R9	hasAttr Arg1:T23 Arg2:T22
+R10	hasAttr Arg1:T25 Arg2:T24
+R11	hasAttr Arg1:T31 Arg2:T29
+R12	hasAttr Arg1:T30 Arg2:T29
+R13	hasAttr Arg1:T37 Arg2:T36
+R14	hasAttr Arg1:T39 Arg2:T40
+R15	hasAttr Arg1:T41 Arg2:T42
+R16	hasAttr Arg1:T43 Arg2:T44
+R17	hasAttr Arg1:T45 Arg2:T46
+R18	hasAttr Arg1:T47 Arg2:T48
+R19	hasAttr Arg1:T50 Arg2:T49
+R20	hasAttr Arg1:T50 Arg2:T51
+R21	hasAttr Arg1:T53 Arg2:T52
+R22	hasAttr Arg1:T54 Arg2:T55
+R23	hasAttr Arg1:T56 Arg2:T57
+R24	hasAttr Arg1:T59 Arg2:T58
+R25	hasAttr Arg1:T60 Arg2:T62
+R26	hasAttr Arg1:T64 Arg2:T63
+R27	hasAttr Arg1:T66 Arg2:T65
+R28	hasAttr Arg1:T68 Arg2:T67
+R29	hasAttr Arg1:T70 Arg2:T69
+R30	hasAttr Arg1:T70 Arg2:T71
+R31	hasAttr Arg1:T73 Arg2:T72
+R32	hasAttr Arg1:T73 Arg2:T76
+R33	hasAttr Arg1:T73 Arg2:T75
+R34	hasAttr Arg1:T73 Arg2:T78
+R35	hasAttr Arg1:T73 Arg2:T77
+R36	hasAttr Arg1:T73 Arg2:T74
+R37	hasAttr Arg1:T81 Arg2:T80
+R38	hasAttr Arg1:T81 Arg2:T82
+R39	hasAttr Arg1:T88 Arg2:T87
+R40	hasAttr Arg1:T89 Arg2:T87
+R41	hasAttr Arg1:T91 Arg2:T90
+R42	hasAttr Arg1:T95 Arg2:T94
+R43	hasAttr Arg1:T96 Arg2:T97
+R44	hasAttr Arg1:T100 Arg2:T99
+R45	hasAttr Arg1:T105 Arg2:T106
+R46	hasAttr Arg1:T107 Arg2:T110
+R47	hasAttr Arg1:T107 Arg2:T108
+R48	hasAttr Arg1:T107 Arg2:T109
+R49	hasAttr Arg1:T114 Arg2:T113
+R50	hasAttr Arg1:T3 Arg2:T4
+R51	hasAttr Arg1:T12 Arg2:T13
+R52	hasAttr Arg1:T25 Arg2:T26
+R53	hasAttr Arg1:T60 Arg2:T61
+R54	hasAttr Arg1:T85 Arg2:T86
+R55	hasAttr Arg1:T92 Arg2:T93
+R56	hasAttr Arg1:T28 Arg2:T27
+R57	hasAttr Arg1:T85 Arg2:T84
+R58	hasAttr Arg1:T102 Arg2:T101

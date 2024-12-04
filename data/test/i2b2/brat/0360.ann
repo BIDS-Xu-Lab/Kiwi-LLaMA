@@ -1,0 +1,61 @@
+T1	temporal 192 203	Nov 19 2007
+T2	temporal 230 239	Dec 27 07
+T3	problem 333 345	pancreatitis
+T4	problem 383 398	an SMA aneurysm
+T5	treatment 413 419	repair
+T6	problem 433 453	an infected phlegmon
+T7	treatment 468 479	debridement
+T8	problem 487 491	ARDS
+T9	problem 496 533	subsequent respiratory insufficiency.
+T10	treatment 554 564	management
+T11	problem 568 580	these issues
+T12	test 635 645	laboratory
+T13	test 648 660	radiographic
+T14	test 667 672	EMTEK
+T15	treatment 692 706	the management
+T16	problem 735 743	Problems
+T17	treatment 748 758	management
+T18	problem 779 798	Respiratory failure
+T19	test 801 812	Chest x-ray
+T20	temporal 813 818	today
+T21	problem 842 867	his bilateral infiltrates
+T22	treatment 897 902	BiPAP
+T23	treatment 946 955	the BiPAP
+T24	test 973 989	respiratory rate
+T25	labvalue 998 1026	18 and 24 breaths per minute
+T26	test 1029 1047	oxygen saturations
+T27	treatment 1068 1088	the 6 liter oximyzer
+T28	treatment 1131 1136	BiPAP
+T29	problem 1203 1216	the decubitus
+T30	problem 1298 1310	Pancreatitis
+T31	treatment 1352 1366	his tube feeds
+T32	test 1426 1452	His white blood cell count
+T33	labvalue 1456 1459	4.9
+T34	drug 1501 1510	Meropenem
+T35	drug 1522 1531	linezolid
+T36	problem 1549 1562	his infection
+T37	treatment 1568 1583	ICU prophylaxis
+T38	test 1626 1643	His albumin level
+T39	labvalue 1648 1651	2.1
+T40	test 1660 1670	prealbumin
+T41	drug 1740 1747	Heparin
+T42	treatment 1757 1771	his SMA repair
+T43	problem 1789 1802	some bleeding
+T44	problem 1828 1837	the wound
+T45	drug 1899 1910	the Heparin
+T46	problem 1935 1967	a little bit dry intervascularly
+T47	bodyloc 1952 1967	intervascularly
+T48	drug 1989 2003	his Lasix dose
+T49	temporal 2203 2214	Dec 27 2007
+T50	temporal 2216 2224	17:09:05
+T51	temporal 2236 2247	Dec 27 2007
+T52	temporal 2249 2257	20:29:40
+T53	temporal 2269 2280	Dec 27 2007
+T54	temporal 2282 2290	20:29:40
+T55	temporal 2417 2428	Jan 19 2008
+T56	temporal 2430 2441	02:55:22 PM
+R1	hasAttr Arg1:T19 Arg2:T20
+R2	hasAttr Arg1:T24 Arg2:T25
+R3	hasAttr Arg1:T32 Arg2:T33
+R4	hasAttr Arg1:T38 Arg2:T39
+R5	hasAttr Arg1:T46 Arg2:T47

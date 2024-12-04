@@ -1,0 +1,212 @@
+T1	problem 64 78	Leiomyosarcoma
+T2	problem 127 141	leiomyosarcoma
+T3	problem 157 175	pulmonary embolism
+T4	bodyloc 157 166	pulmonary
+T5	problem 177 194	subdural hematoma
+T6	bodyloc 177 185	subdural
+T7	problem 196 208	pancytopenia
+T8	problem 214 223	pneumonia
+T9	problem 291 305	Leiomyosarcoma
+T10	problem 322 340	pulmonary embolism
+T11	bodyloc 322 331	pulmonary
+T12	problem 357 374	subdural hematoma
+T13	bodyloc 357 365	subdural
+T14	problem 380 392	Pancytopenia
+T15	problem 409 418	pneumonia
+T16	drug 473 481	CIVI-CAD
+T17	drug 483 490	Cytoxan
+T18	drug 492 502	Adriamycin
+T19	drug 508 512	DTIC
+T20	temporal 519 529	07/22/2008
+T21	temporal 533 543	07/29/2008
+T22	test 549 552	CTA
+T23	test 554 562	chest PE
+T24	negation 577 588	no evidence
+T25	problem 593 611	pulmonary embolism
+T26	bodyloc 593 602	pulmonary
+T27	test 617 624	Head CT
+T28	negation 633 644	no evidence
+T29	problem 648 680	acute intracranial abnormalities
+T30	bodyloc 654 666	intracranial
+T31	test 686 694	Sinus CT
+T32	labvalue 696 702	normal
+T33	problem 837 869	a mass in the left posterior arm
+T34	bodyloc 851 869	left posterior arm
+T35	temporal 873 887	spring of 2007
+T36	problem 889 897	The mass
+T37	course 898 915	increased in size
+T38	test 999 1002	MRI
+T39	problem 1010 1022	inflammation
+T40	problem 1058 1078	rheumatoid arthritis
+T41	problem 1084 1088	mass
+T42	course 1089 1106	increased in size
+T43	treatment 1135 1152	partial resection
+T44	problem 1167 1200	pathologic grade 2 leiomyosarcoma
+T45	severity 1178 1185	grade 2
+T46	drug 1353 1365	chemotherapy
+T47	drug 1392 1400	CIVI-CAD
+T48	temporal 1404 1417	December 2007
+T49	problem 1449 1466	pulmonary embolus
+T50	bodyloc 1449 1458	pulmonary
+T51	problem 1468 1477	pneumonia
+T52	problem 1483 1500	subdural hematoma
+T53	bodyloc 1483 1491	subdural
+T54	treatment 1510 1525	anticoagulation
+T55	treatment 1552 1570	surgical resection
+T56	temporal 1574 1585	May 1, 2008
+T57	problem 1605 1621	residual disease
+T58	problem 1674 1688	Leiomyosarcoma
+T59	frequency 1778 1788	continuous
+T60	route 1789 1791	IV
+T61	drug 1801 1808	Cytoxan
+T62	drug 1810 1820	Adriamycin
+T63	drug 1826 1830	DTIC
+T64	problem 1873 1891	pulmonary embolism
+T65	bodyloc 1873 1882	pulmonary
+T66	problem 1965 1972	dyspnea
+T67	problem 1989 2009	some mild chest pain
+T68	severity 1994 1998	mild
+T69	bodyloc 1999 2004	chest
+T70	test 2027 2030	CTA
+T71	negation 2045 2056	no evidence
+T72	problem 2060 2078	pulmonary embolism
+T73	bodyloc 2060 2069	pulmonary
+T74	dosage 2110 2128	prophylactic doses
+T75	drug 2132 2139	Lovenox
+T76	strength 2143 2148	40 mg
+T77	frequency 2149 2154	a day
+T78	negation 2164 2166	no
+T79	problem 2226 2245	shortness of breath
+T80	problem 2249 2259	chest pain
+T81	bodyloc 2249 2254	chest
+T82	problem 2276 2293	subdural hematoma
+T83	problem 2336 2363	mild intermittent headaches
+T84	severity 2336 2340	mild
+T85	course 2374 2382	fleeting
+T86	problem 2445 2454	headaches
+T87	drug 2478 2493	pain medication
+T88	temporal 2504 2514	07/24/2008
+T89	test 2530 2537	head CT
+T90	negation 2550 2561	no evidence
+T91	problem 2565 2597	acute intracranial abnormalities
+T92	bodyloc 2571 2583	intracranial
+T93	problem 2633 2642	sinusitis
+T94	test 2652 2660	sinus CT
+T95	labvalue 2690 2696	normal
+T96	problem 2702 2714	Pancytopenia
+T97	test 2744 2761	white blood count
+T98	labvalue 2766 2769	3.4
+T99	test 2771 2781	hemoglobin
+T100	labvalue 2782 2786	11.3
+T101	test 2788 2802	platelet count
+T102	labvalue 2803 2805	82
+T103	test 2811 2814	ANC
+T104	labvalue 2818 2822	2400
+T105	negation 2889 2900	not require
+T106	treatment 2901 2944	transfusion of red blood cells or platelets
+T107	temporal 2958 2968	07/26/2008
+T108	test 2973 2976	ANC
+T109	labvalue 2988 2991	900
+T110	treatment 3014 3030	neutropenic diet
+T111	test 3049 3052	ANC
+T112	labvalue 3067 3071	1100
+T113	negation 3083 3092	taken off
+T114	treatment 3093 3109	neutropenic diet
+T115	test 3111 3137	Her white blood cell count
+T116	labvalue 3155 3158	1.4
+T117	test 3163 3177	her hemoglobin
+T118	labvalue 3182 3186	11.2
+T119	test 3192 3208	a platelet count
+T120	labvalue 3212 3219	140. 
+5
+T121	problem 3232 3241	pneumonia
+T122	negation 3277 3288	not exhibit
+T123	problem 3314 3323	pneumonia
+T124	test 3469 3477	lab work
+T125	temporal 3492 3502	08/05/2008
+T126	temporal 3552 3562	08/12/2008
+T127	temporal 3566 3576	10:20 a.m.
+T128	problem 3624 3630	fevers
+T129	problem 3774 3788	leiomyosarcoma
+T130	problem 3790 3798	embolism
+T131	problem 3800 3808	hematoma
+T132	problem 3810 3819	pneumonia
+T133	problem 3821 3853	acute intracranial abnormalities
+T134	bodyloc 3827 3839	intracranial
+T135	test 3855 3866	white blood
+T136	test 3868 3882	platelet count
+T137	test 3884 3895	blood cells
+T138	treatment 3897 3913	neutropenic diet
+T139	problem 3915 3932	subdural hematoma
+T140	bodyloc 3915 3923	subdural
+T141	problem 3934 3952	pulmonary embolism
+T142	bodyloc 3934 3943	pulmonary
+T143	problem 3968 3980	pancytopenia
+R1	hasAttr Arg1:T3 Arg2:T4
+R2	hasAttr Arg1:T5 Arg2:T6
+R3	hasAttr Arg1:T10 Arg2:T11
+R4	hasAttr Arg1:T12 Arg2:T13
+R5	hasAttr Arg1:T16 Arg2:T20
+R6	hasAttr Arg1:T16 Arg2:T21
+R7	hasAttr Arg1:T17 Arg2:T20
+R8	hasAttr Arg1:T17 Arg2:T21
+R9	hasAttr Arg1:T18 Arg2:T20
+R10	hasAttr Arg1:T18 Arg2:T21
+R11	hasAttr Arg1:T19 Arg2:T20
+R12	hasAttr Arg1:T19 Arg2:T21
+R13	hasAttr Arg1:T25 Arg2:T24
+R14	hasAttr Arg1:T25 Arg2:T26
+R15	hasAttr Arg1:T29 Arg2:T28
+R16	hasAttr Arg1:T29 Arg2:T30
+R17	hasAttr Arg1:T31 Arg2:T32
+R18	hasAttr Arg1:T33 Arg2:T35
+R19	hasAttr Arg1:T36 Arg2:T37
+R20	hasAttr Arg1:T41 Arg2:T42
+R21	hasAttr Arg1:T44 Arg2:T45
+R22	hasAttr Arg1:T47 Arg2:T48
+R23	hasAttr Arg1:T49 Arg2:T50
+R24	hasAttr Arg1:T52 Arg2:T53
+R25	hasAttr Arg1:T55 Arg2:T56
+R26	hasAttr Arg1:T63 Arg2:T59
+R27	hasAttr Arg1:T62 Arg2:T59
+R28	hasAttr Arg1:T61 Arg2:T59
+R29	hasAttr Arg1:T63 Arg2:T60
+R30	hasAttr Arg1:T62 Arg2:T60
+R31	hasAttr Arg1:T61 Arg2:T60
+R32	hasAttr Arg1:T67 Arg2:T68
+R33	hasAttr Arg1:T67 Arg2:T69
+R34	hasAttr Arg1:T72 Arg2:T71
+R35	hasAttr Arg1:T72 Arg2:T73
+R36	hasAttr Arg1:T75 Arg2:T74
+R37	hasAttr Arg1:T75 Arg2:T77
+R38	hasAttr Arg1:T75 Arg2:T76
+R39	hasAttr Arg1:T79 Arg2:T78
+R40	hasAttr Arg1:T80 Arg2:T78
+R41	hasAttr Arg1:T80 Arg2:T81
+R42	hasAttr Arg1:T83 Arg2:T85
+R43	hasAttr Arg1:T83 Arg2:T84
+R44	hasAttr Arg1:T89 Arg2:T88
+R45	hasAttr Arg1:T91 Arg2:T88
+R46	hasAttr Arg1:T91 Arg2:T90
+R47	hasAttr Arg1:T91 Arg2:T92
+R48	hasAttr Arg1:T94 Arg2:T95
+R49	hasAttr Arg1:T97 Arg2:T98
+R50	hasAttr Arg1:T99 Arg2:T100
+R51	hasAttr Arg1:T101 Arg2:T102
+R52	hasAttr Arg1:T103 Arg2:T104
+R53	hasAttr Arg1:T106 Arg2:T105
+R54	hasAttr Arg1:T108 Arg2:T107
+R55	hasAttr Arg1:T110 Arg2:T107
+R56	hasAttr Arg1:T108 Arg2:T109
+R57	hasAttr Arg1:T111 Arg2:T112
+R58	hasAttr Arg1:T114 Arg2:T113
+R59	hasAttr Arg1:T115 Arg2:T116
+R60	hasAttr Arg1:T117 Arg2:T118
+R61	hasAttr Arg1:T119 Arg2:T120
+R62	hasAttr Arg1:T123 Arg2:T122
+R63	hasAttr Arg1:T124 Arg2:T125
+R64	hasAttr Arg1:T133 Arg2:T134
+R65	hasAttr Arg1:T139 Arg2:T140
+R66	hasAttr Arg1:T141 Arg2:T142
+R67	hasAttr Arg1:T64 Arg2:T65
+R68	hasAttr Arg1:T33 Arg2:T34

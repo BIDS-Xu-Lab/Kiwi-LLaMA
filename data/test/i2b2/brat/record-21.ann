@@ -1,0 +1,394 @@
+T1	temporal 26 36	2010-06-28
+T2	temporal 54 64	2010-07-01
+T3	temporal 81 91	1990-02-01
+T4	temporal 312 322	2010-06-27
+T5	treatment 665 683	the C-spine collar
+T6	treatment 823 841	further management
+T7	test 867 878	Examination
+T8	test 942 953	Temperature
+T9	labvalue 954 966	35.4 Celsius
+T10	test 969 983	blood pressure
+T11	labvalue 984 990	116/63
+T12	test 993 998	pulse
+T13	labvalue 999 1002	105
+T14	test 1005 1021	respiratory rate
+T15	labvalue 1022 1024	18
+T16	test 1027 1044	oxygen saturation
+T17	labvalue 1045 1048	98%
+T18	negation 1113 1115	no
+T19	problem 1116 1133	apparent distress
+T20	test 1136 1153	Boston Coma Scale
+T21	labvalue 1157 1159	15
+T22	test 1325 1356	The patient 's lung examination
+T23	labvalue 1382 1387	clear
+T24	test 1391 1403	auscultation
+T25	negation 1418 1420	no
+T26	problem 1421 1429	crepitus
+T27	problem 1436 1463	a left clavicular deformity
+T28	bodyloc 1438 1453	left clavicular
+T29	test 1488 1499	examination
+T30	test 1512 1531	Cardiac examination
+T31	labvalue 1545 1552	regular
+T32	test 1553 1557	rate
+T33	test 1562 1568	rhythm
+T34	negation 1571 1573	no
+T35	problem 1574 1581	murmurs
+T36	problem 1584 1588	rubs
+T37	problem 1594 1601	gallops
+T38	test 1657 1668	Examination
+T39	test 1673 1679	guaiac
+T40	labvalue 1680 1688	negative
+T41	test 1749 1775	AP and lateral compression
+T42	problem 1778 1795	A 5 cm laceration
+T43	bodyloc 1826 1833	occiput
+T44	test 1837 1855	further inspection
+T45	negation 1861 1863	no
+T46	problem 1864 1887	exposed underlying bone
+T47	test 1890 1923	Right upper extremity examination
+T48	test 1986 2018	Left upper extremity examination
+T49	negation 2032 2034	no
+T50	problem 2035 2052	gross deformities
+T51	problem 2055 2065	tenderness
+T52	test 2069 2097	palpation in the mid forearm
+T53	labvalue 2100 2106	intact
+T54	test 2107 2121	motor function
+T55	labvalue 2179 2185	intact
+T56	test 2186 2195	sensation
+T57	test 2199 2210	light touch
+T58	problem 2258 2309	decreased sensation in the ulnar-nerve distribution
+T59	course 2258 2267	decreased
+T60	bodyloc 2281 2296	the ulnar-nerve
+T61	labvalue 2345 2347	2+
+T62	test 2348 2361	radial pulses
+T63	test 2364 2397	Right lower extremity examination
+T64	problem 2411 2424	mild swelling
+T65	course 2411 2415	mild
+T66	problem 2429 2468	ecchymosis of the right posterior thigh
+T67	bodyloc 2443 2468	the right posterior thigh
+T68	problem 2487 2521	a 3 cm laceration in the lower leg
+T69	bodyloc 2508 2521	the lower leg
+T70	negation 2585 2587	No
+T71	problem 2588 2605	gross deformities
+T72	test 2608 2651	Motor , sensory , and vascular examinations
+T73	labvalue 2657 2663	intact
+T74	test 2687 2719	Left lower extremity examination
+T75	negation 2733 2735	no
+T76	problem 2736 2753	gross deformities
+T77	labvalue 2758 2764	intact
+T78	test 2765 2808	motor , sensory , and vascular examinations
+T79	test 2832 2852	Radiographic studies
+T80	problem 2866 2915	an inferior displaced left midclavicular fracture
+T81	bodyloc 2888 2906	left midclavicular
+T82	problem 2933 2945	pneumothorax
+T83	test 2948 2961	Trauma series
+T84	negation 2975 2977	no
+T85	problem 2990 3007	a pelvic fracture
+T86	bodyloc 2990 2998	a pelvic
+T87	test 3010 3017	Head CT
+T88	negation 3031 3033	no
+T89	problem 3046 3067	intracranial bleeding
+T90	bodyloc 3046 3058	intracranial
+T91	test 3070 3079	Trauma CT
+T92	problem 3093 3118	mild pulmonary contusions
+T93	severity 3093 3097	mild
+T94	bodyloc 3098 3107	pulmonary
+T95	negation 3125 3127	no
+T96	problem 3128 3143	pelvic fracture
+T97	bodyloc 3128 3134	pelvic
+T98	test 3146 3168	Cervical spine imaging
+T99	negation 3182 3184	no
+T100	problem 3197 3218	cervical spine injury
+T101	bodyloc 3197 3211	cervical spine
+T102	test 3221 3253	Right tibial-fibular film series
+T103	negation 3267 3269	no
+T104	problem 3282 3303	fracture displacement
+T105	test 3306 3330	Left humerus film series
+T106	negation 3344 3346	no
+T107	problem 3359 3367	fracture
+T108	problem 3371 3383	displacement
+T109	test 3386 3413	Right foot and femur series
+T110	negation 3427 3429	no
+T111	problem 3442 3463	fracture displacement
+T112	test 3466 3495	Left forearm and wrist series
+T113	problem 3509 3545	transverse mid shaft radial fracture
+T114	bodyloc 3509 3536	transverse mid shaft radial
+T115	problem 3551 3569	ulnar displacement
+T116	bodyloc 3551 3556	ulnar
+T117	test 3572 3599	Diagnosis peritoneum lavage
+T118	negation 3614 3622	negative
+T119	problem 3640 3664	intra-abdominal bleeding
+T120	bodyloc 3640 3655	intra-abdominal
+T121	test 3731 3747	White blood cell
+T122	labvalue 3748 3752	12.9
+T123	test 3755 3765	hemoglobin
+T124	labvalue 3766 3770	11.5
+T125	test 3773 3783	hematocrit
+T126	labvalue 3784 3788	32.8
+T127	test 3791 3805	platelet count
+T128	labvalue 3806 3813	197,000
+T129	test 3816 3822	sodium
+T130	labvalue 3823 3826	141
+T131	test 3829 3838	potassium
+T132	labvalue 3839 3842	3.6
+T133	test 3845 3853	chloride
+T134	labvalue 3854 3857	110
+T135	test 3860 3871	bicarbonate
+T136	labvalue 3872 3874	21
+T137	test 3877 3880	BUN
+T138	labvalue 3881 3883	20
+T139	test 3886 3896	creatinine
+T140	labvalue 3897 3900	0.7
+T141	test 3903 3910	glucose
+T142	labvalue 3911 3914	189
+T143	test 3917 3919	PT
+T144	labvalue 3920 3924	13.3
+T145	test 3927 3930	INR
+T146	labvalue 3931 3934	1.2
+T147	test 3937 3940	PTT
+T148	labvalue 3941 3945	30.0
+T149	test 3948 3955	amylase
+T150	labvalue 3956 3958	57
+T151	test 3961 3979	arterial blood gas
+T152	labvalue 3980 3984	7.32
+T153	labvalue 3987 3989	35
+T154	labvalue 3992 3995	159
+T155	labvalue 3998 4000	19
+T156	labvalue 4003 4005	-7
+T157	test 4008 4018	Urinalysis
+T158	labvalue 4023 4043	within normal limits
+T159	labvalue 4049 4056	6 to 10
+T160	test 4057 4072	red blood cells
+T161	test 4075 4092	Toxicology screen
+T162	labvalue 4097 4105	negative
+T163	treatment 4229 4240	crystalloid
+T164	treatment 4245 4278	four units packed red blood cells
+T165	test 4355 4376	diagnostic procedures
+T166	problem 4398 4406	injuries
+T167	problem 4418 4446	a posterior scalp laceration
+T168	bodyloc 4418 4435	a posterior scalp
+T169	problem 4449 4472	left fractured clavicle
+T170	bodyloc 4464 4472	clavicle
+T171	problem 4475 4496	left fractured radius
+T172	bodyloc 4490 4496	radius
+T173	problem 4499 4519	right thigh hematoma
+T174	bodyloc 4499 4510	right thigh
+T175	problem 4526 4546	right leg laceration
+T176	bodyloc 4526 4535	right leg
+T177	temporal 4612 4622	2010-06-28
+T178	problem 4665 4700	the patient 's right thigh hematoma
+T179	test 4703 4751	a duplex evaluation of the right lower extremity
+T180	temporal 4769 4779	2010-06-28
+T181	negation 4797 4811	no evidence of
+T182	problem 4812 4843	major arterial or venous injury
+T183	bodyloc 4818 4826	arterial
+T184	bodyloc 4830 4836	venous
+T185	temporal 4891 4896	06-28
+T186	treatment 4932 4961	removal of her C-spine collar
+T187	temporal 5096 5106	2010-06-29
+T188	treatment 5168 5205	a left radial fracture open reduction
+T189	treatment 5210 5237	internal fixation procedure
+T190	treatment 5262 5275	the procedure
+T191	test 5298 5324	a postoperative hematocrit
+T192	labvalue 5328 5332	40.9
+T193	problem 5345 5386	the scalp and right lower leg lacerations
+T194	bodyloc 5345 5354	the scalp
+T195	bodyloc 5359 5374	right lower leg
+T196	treatment 5508 5530	Nonoperative treatment
+T197	problem 5547 5586	the patient 's left clavicular fracture
+T198	bodyloc 5562 5577	left clavicular
+T199	temporal 5606 5612	day #1
+T200	temporal 5615 5625	2010-06-30
+T201	treatment 5760 5776	a Foley catheter
+T202	problem 5779 5815	The patient 's head wound laceration
+T203	bodyloc 5794 5798	head
+T204	treatment 5851 5865	intact staples
+T205	negation 5878 5880	no
+T206	problem 5881 5889	erythema
+T207	problem 5893 5902	purulence
+T208	problem 5941 5961	continued ecchymosis
+T209	temporal 5977 5982	prior
+T210	test 5983 5994	examination
+T211	problem 6000 6015	a minor stepoff
+T212	problem 6020 6035	mild tenderness
+T213	severity 6020 6024	mild
+T214	test 6039 6048	palpation
+T215	temporal 6064 6069	prior
+T216	test 6070 6082	examinations
+T217	treatment 6085 6110	The left forearm dressing
+T218	negation 6168 6170	no
+T219	problem 6171 6181	saturation
+T220	problem 6306 6319	Mild swelling
+T221	severity 6306 6310	Mild
+T222	bodyloc 6333 6346	the left hand
+T223	test 6468 6484	capillary refill
+T224	problem 6507 6549	The patient 's right anterior tibial wound
+T225	bodyloc 6522 6543	right anterior tibial
+T226	treatment 6596 6603	sutures
+T227	negation 6615 6617	no
+T228	problem 6618 6626	erythema
+T229	problem 6630 6639	purulence
+T230	treatment 6724 6753	a left upper extremity splint
+T231	treatment 6790 6807	adaptive training
+T232	treatment 6812 6836	activities of daily life
+T233	treatment 6859 6869	wound care
+T234	treatment 6919 6954	a figure-of-eight clavicular splint
+T235	temporal 6993 7003	2010-07-01
+T236	problem 7232 7273	Left transverse mid shaft radial fracture
+T237	bodyloc 7232 7264	Left transverse mid shaft radial
+T238	problem 7279 7297	ulnar displacement
+T239	bodyloc 7279 7284	ulnar
+T240	treatment 7310 7336	left radial open reduction
+T241	treatment 7341 7358	internal fixation
+T242	problem 7364 7391	Left midclavicular fracture
+T243	bodyloc 7364 7382	Left midclavicular
+T244	problem 7420 7446	Occipital scalp laceration
+T245	bodyloc 7420 7435	Occipital scalp
+T246	problem 7452 7484	Right anterior tibial laceration
+T247	bodyloc 7452 7473	Right anterior tibial
+T248	drug 7511 7519	Percocet
+T249	dosage 7520 7530	one to two
+T250	form 7531 7538	tablets
+T251	route 7539 7541	PO
+T252	frequency 7542 7553	q.4h. to 6h
+T253	frequency 7554 7559	p.r.n
+T254	problem 7561 7565	pain
+T255	treatment 7704 7741	her figure-of-eight clavicular splint
+T256	treatment 7746 7775	left posterior forearm splint
+T257	temporal 7789 7802	fourteen days
+T258	problem 7825 7867	The left forearm and right lower leg wound
+T259	bodyloc 7825 7841	The left forearm
+T260	bodyloc 7846 7861	right lower leg
+T261	treatment 7902 7926	regular dressing changes
+T262	treatment 7932 7941	dry gauze
+T263	problem 7957 7973	Scalp laceration
+T264	bodyloc 7957 7962	Scalp
+T265	drug 8092 8100	Percocet
+T266	problem 8105 8109	pain
+T267	frequency 8110 8119	as needed
+T268	test 8240 8273	repeat x-rays of her left forearm
+T269	treatment 8297 8347	her left forearm scalp and right lower leg sutures
+T270	treatment 8352 8359	staples
+T271	temporal 8590 8600	2010-06-30
+T272	temporal 8601 8606	17:18
+T273	temporal 8611 8621	2010-06-30
+T274	temporal 8622 8627	17:39
+T275	temporal 8694 8704	2010-07-01
+T276	temporal 8705 8712	8:27 AM
+R1	hasAttr Arg1:T8 Arg2:T9
+R2	hasAttr Arg1:T10 Arg2:T11
+R3	hasAttr Arg1:T12 Arg2:T13
+R4	hasAttr Arg1:T14 Arg2:T15
+R5	hasAttr Arg1:T16 Arg2:T17
+R6	hasAttr Arg1:T19 Arg2:T18
+R7	hasAttr Arg1:T20 Arg2:T21
+R8	hasAttr Arg1:T24 Arg2:T23
+R9	hasAttr Arg1:T26 Arg2:T25
+R10	hasAttr Arg1:T27 Arg2:T28
+R11	hasAttr Arg1:T33 Arg2:T31
+R12	hasAttr Arg1:T32 Arg2:T31
+R13	hasAttr Arg1:T36 Arg2:T34
+R14	hasAttr Arg1:T35 Arg2:T34
+R15	hasAttr Arg1:T37 Arg2:T34
+R16	hasAttr Arg1:T39 Arg2:T40
+R17	hasAttr Arg1:T42 Arg2:T43
+R18	hasAttr Arg1:T46 Arg2:T45
+R19	hasAttr Arg1:T50 Arg2:T49
+R20	hasAttr Arg1:T51 Arg2:T49
+R21	hasAttr Arg1:T54 Arg2:T53
+R22	hasAttr Arg1:T56 Arg2:T55
+R23	hasAttr Arg1:T57 Arg2:T55
+R24	hasAttr Arg1:T58 Arg2:T59
+R25	hasAttr Arg1:T58 Arg2:T60
+R26	hasAttr Arg1:T62 Arg2:T61
+R27	hasAttr Arg1:T64 Arg2:T65
+R28	hasAttr Arg1:T66 Arg2:T67
+R29	hasAttr Arg1:T68 Arg2:T69
+R30	hasAttr Arg1:T71 Arg2:T70
+R31	hasAttr Arg1:T72 Arg2:T73
+R32	hasAttr Arg1:T76 Arg2:T75
+R33	hasAttr Arg1:T78 Arg2:T77
+R34	hasAttr Arg1:T80 Arg2:T81
+R35	hasAttr Arg1:T85 Arg2:T84
+R36	hasAttr Arg1:T85 Arg2:T86
+R37	hasAttr Arg1:T89 Arg2:T88
+R38	hasAttr Arg1:T89 Arg2:T90
+R39	hasAttr Arg1:T92 Arg2:T93
+R40	hasAttr Arg1:T92 Arg2:T94
+R41	hasAttr Arg1:T96 Arg2:T95
+R42	hasAttr Arg1:T96 Arg2:T97
+R43	hasAttr Arg1:T100 Arg2:T99
+R44	hasAttr Arg1:T100 Arg2:T101
+R45	hasAttr Arg1:T104 Arg2:T103
+R46	hasAttr Arg1:T107 Arg2:T106
+R47	hasAttr Arg1:T108 Arg2:T106
+R48	hasAttr Arg1:T111 Arg2:T110
+R49	hasAttr Arg1:T113 Arg2:T114
+R50	hasAttr Arg1:T115 Arg2:T116
+R51	hasAttr Arg1:T119 Arg2:T118
+R52	hasAttr Arg1:T119 Arg2:T120
+R53	hasAttr Arg1:T121 Arg2:T122
+R54	hasAttr Arg1:T123 Arg2:T124
+R55	hasAttr Arg1:T125 Arg2:T126
+R56	hasAttr Arg1:T127 Arg2:T128
+R57	hasAttr Arg1:T129 Arg2:T130
+R58	hasAttr Arg1:T131 Arg2:T132
+R59	hasAttr Arg1:T133 Arg2:T134
+R60	hasAttr Arg1:T135 Arg2:T136
+R61	hasAttr Arg1:T137 Arg2:T138
+R62	hasAttr Arg1:T139 Arg2:T140
+R63	hasAttr Arg1:T141 Arg2:T142
+R64	hasAttr Arg1:T143 Arg2:T144
+R65	hasAttr Arg1:T145 Arg2:T146
+R66	hasAttr Arg1:T147 Arg2:T148
+R67	hasAttr Arg1:T149 Arg2:T150
+R68	hasAttr Arg1:T151 Arg2:T152
+R69	hasAttr Arg1:T151 Arg2:T155
+R70	hasAttr Arg1:T151 Arg2:T153
+R71	hasAttr Arg1:T151 Arg2:T156
+R72	hasAttr Arg1:T151 Arg2:T154
+R73	hasAttr Arg1:T157 Arg2:T158
+R74	hasAttr Arg1:T160 Arg2:T159
+R75	hasAttr Arg1:T161 Arg2:T162
+R76	hasAttr Arg1:T167 Arg2:T168
+R77	hasAttr Arg1:T169 Arg2:T170
+R78	hasAttr Arg1:T171 Arg2:T172
+R79	hasAttr Arg1:T173 Arg2:T174
+R80	hasAttr Arg1:T175 Arg2:T176
+R81	hasAttr Arg1:T179 Arg2:T180
+R82	hasAttr Arg1:T182 Arg2:T181
+R83	hasAttr Arg1:T182 Arg2:T183
+R84	hasAttr Arg1:T182 Arg2:T184
+R85	hasAttr Arg1:T191 Arg2:T192
+R86	hasAttr Arg1:T193 Arg2:T194
+R87	hasAttr Arg1:T193 Arg2:T195
+R88	hasAttr Arg1:T197 Arg2:T198
+R89	hasAttr Arg1:T201 Arg2:T199
+R90	hasAttr Arg1:T201 Arg2:T200
+R91	hasAttr Arg1:T202 Arg2:T203
+R92	hasAttr Arg1:T206 Arg2:T205
+R93	hasAttr Arg1:T207 Arg2:T205
+R94	hasAttr Arg1:T210 Arg2:T209
+R95	hasAttr Arg1:T212 Arg2:T213
+R96	hasAttr Arg1:T216 Arg2:T215
+R97	hasAttr Arg1:T219 Arg2:T218
+R98	hasAttr Arg1:T220 Arg2:T221
+R99	hasAttr Arg1:T220 Arg2:T222
+R100	hasAttr Arg1:T224 Arg2:T225
+R101	hasAttr Arg1:T228 Arg2:T227
+R102	hasAttr Arg1:T229 Arg2:T227
+R103	hasAttr Arg1:T236 Arg2:T237
+R104	hasAttr Arg1:T238 Arg2:T239
+R105	hasAttr Arg1:T242 Arg2:T243
+R106	hasAttr Arg1:T244 Arg2:T245
+R107	hasAttr Arg1:T246 Arg2:T247
+R108	hasAttr Arg1:T248 Arg2:T250
+R109	hasAttr Arg1:T248 Arg2:T249
+R110	hasAttr Arg1:T248 Arg2:T251
+R111	hasAttr Arg1:T248 Arg2:T252
+R112	hasAttr Arg1:T248 Arg2:T253
+R113	hasAttr Arg1:T255 Arg2:T257
+R114	hasAttr Arg1:T256 Arg2:T257
+R115	hasAttr Arg1:T258 Arg2:T259
+R116	hasAttr Arg1:T258 Arg2:T260
+R117	hasAttr Arg1:T263 Arg2:T264
+R118	hasAttr Arg1:T265 Arg2:T267

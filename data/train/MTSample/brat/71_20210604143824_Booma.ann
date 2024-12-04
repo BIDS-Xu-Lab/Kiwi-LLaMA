@@ -1,0 +1,171 @@
+T1	problem 123 151	decrease in mental alertness
+T2	course 123 131	decrease
+T3	problem 207 221	Mental changes
+T4	temporal 222 227	today
+T5	problem 356 364	diabetes
+T6	drug 488 511	her diabetic medication
+T7	problem 550 578	decrease in mental alertness
+T8	course 550 558	decrease
+T9	negation 584 586	no
+T10	problem 587 604	other GI symptoms
+T11	bodyloc 593 595	GI
+T12	problem 606 619	Some sweating
+T13	problem 624 633	agitation
+T14	negation 639 641	no
+T15	problem 642 647	fever
+T16	problem 651 657	chills
+T17	negation 659 661	No
+T18	problem 662 672	other rash
+T19	test 780 787	glucose
+T20	labvalue 791 793	30
+T21	problem 805 817	hypertension
+T22	drug 869 894	blood pressure medication
+T23	drug 1015 1024	labetalol
+T24	route 1025 1027	IV
+T25	drug 1037 1044	Norvasc
+T26	problem 1045 1059	blood pressure
+T27	drug 1075 1094	glucose supplement.
+T28	test 1123 1130	glucose
+T29	labvalue 1142 1145	175
+T30	problem 1175 1183	Diabetes
+T31	problem 1185 1197	hypertension
+T32	negation 1269 1271	No
+T33	problem 1272 1292	known drug allergies
+T34	drug 1334 1357	the diabetic medication
+T35	drug 1368 1393	blood pressure medication
+T36	drug 1410 1417	aspirin
+T37	frequency 1418 1423	a day
+T38	negation 1565 1567	no
+T39	problem 1568 1582	acute distress
+T40	negation 1707 1709	No
+T41	problem 1710 1726	sinus tenderness
+T42	bodyloc 1710 1715	sinus
+T43	negation 1728 1730	No
+T44	problem 1731 1750	obvious head injury
+T45	bodyloc 1739 1743	head
+T46	problem 1754 1768	any laceration
+T47	test 1770 1791	Extraocular movements
+T48	labvalue 1796 1802	intact
+T49	problem 1804 1823	Dry mucosal linings
+T50	bodyloc 1808 1815	mucosal
+T51	labvalue 1832 1839	Regular
+T52	test 1840 1844	rate
+T53	test 1849 1855	rhythm
+T54	negation 1857 1864	without
+T55	problem 1865 1871	murmur
+T56	labvalue 1873 1879	Normal
+T57	test 1880 1882	S1
+T58	test 1884 1886	S2
+T59	negation 1902 1904	No
+T60	problem 1905 1910	rales
+T61	negation 1912 1914	No
+T62	problem 1915 1921	wheeze
+T63	negation 2000 2002	no
+T64	problem 2003 2015	organomegaly
+T65	negation 2030 2032	No
+T66	problem 2033 2038	edema
+T67	problem 2040 2048	clubbing
+T68	problem 2053 2061	cyanosis
+T69	negation 2063 2065	No
+T70	problem 2066 2070	rash
+T71	test 2107 2110	CPK
+T72	test 2112 2120	troponin
+T73	labvalue 2125 2133	negative
+T74	test 2135 2138	CMP
+T75	test 2157 2164	glucose
+T76	labvalue 2168 2170	33
+T77	test 2172 2175	BMP
+T78	test 2194 2197	BUN
+T79	labvalue 2201 2203	60
+T80	test 2205 2215	creatinine
+T81	labvalue 2219 2222	4.3
+T82	test 2224 2233	potassium
+T83	labvalue 2234 2237	4.7
+T84	test 2239 2249	Urinalysis
+T85	test 2256 2272	specific gravity
+T86	labvalue 2276 2281	10.30
+T87	test 2283 2298	CT of the brain
+T88	negation 2306 2308	no
+T89	problem 2309 2319	hemorrhage
+T90	test 2321 2332	Chest x-ray
+T91	negation 2340 2342	no
+T92	problem 2343 2361	acute cardiomegaly
+T93	course 2343 2348	acute
+T94	problem 2365 2380	any infiltrates
+T95	problem 2397 2409	Hypoglycemia
+T96	problem 2461 2473	Hypertension
+T97	problem 2478 2497	Renal insufficiency
+T98	bodyloc 2478 2483	Renal
+T99	uncertain 2499 2505	may be
+T100	problem 2506 2517	dehydration
+T101	problem 2522 2542	diabetic nephropathy
+T102	treatment 2589 2597	IV fluid
+T103	test 2599 2616	glucometer checks
+T104	drug 2633 2658	blood pressure medication
+T105	drug 2668 2688	diabetic medication.
+T106	drug 2717 2736	diabetic medication
+T107	problem 2738 2746	diabetes
+T108	problem 2748 2760	hypertension
+T109	problem 2762 2774	hypoglycemia
+T110	problem 2776 2795	renal insufficiency
+T111	bodyloc 2776 2781	renal
+T112	problem 2797 2817	diabetic nephropathy
+T113	problem 2819 2830	dehydration
+T114	treatment 2832 2840	iv fluid
+T115	test 2842 2859	glucometer checks
+T116	problem 2861 2889	decrease in mental alertness
+T117	course 2861 2869	decrease
+T118	drug 2891 2917	blood pressure medication,
+T119	test 2936 2950	blood pressure
+T120	problem 2952 2960	diabetic
+T121	test 2962 2969	glucose
+T122	test 2978 2986	pressure
+T123	drug 2988 2998	medication
+R1	hasAttr Arg1:T1 Arg2:T2
+R2	hasAttr Arg1:T3 Arg2:T4
+R3	hasAttr Arg1:T7 Arg2:T8
+R4	hasAttr Arg1:T10 Arg2:T9
+R5	hasAttr Arg1:T10 Arg2:T11
+R6	hasAttr Arg1:T16 Arg2:T14
+R7	hasAttr Arg1:T15 Arg2:T14
+R8	hasAttr Arg1:T18 Arg2:T17
+R9	hasAttr Arg1:T19 Arg2:T20
+R10	hasAttr Arg1:T23 Arg2:T24
+R11	hasAttr Arg1:T28 Arg2:T29
+R12	hasAttr Arg1:T33 Arg2:T32
+R13	hasAttr Arg1:T36 Arg2:T37
+R14	hasAttr Arg1:T39 Arg2:T38
+R15	hasAttr Arg1:T41 Arg2:T40
+R16	hasAttr Arg1:T41 Arg2:T42
+R17	hasAttr Arg1:T46 Arg2:T43
+R18	hasAttr Arg1:T44 Arg2:T43
+R19	hasAttr Arg1:T44 Arg2:T45
+R20	hasAttr Arg1:T47 Arg2:T48
+R21	hasAttr Arg1:T49 Arg2:T50
+R22	hasAttr Arg1:T52 Arg2:T51
+R23	hasAttr Arg1:T53 Arg2:T51
+R24	hasAttr Arg1:T55 Arg2:T54
+R25	hasAttr Arg1:T57 Arg2:T56
+R26	hasAttr Arg1:T58 Arg2:T56
+R27	hasAttr Arg1:T60 Arg2:T59
+R28	hasAttr Arg1:T62 Arg2:T61
+R29	hasAttr Arg1:T64 Arg2:T63
+R30	hasAttr Arg1:T67 Arg2:T65
+R31	hasAttr Arg1:T66 Arg2:T65
+R32	hasAttr Arg1:T68 Arg2:T65
+R33	hasAttr Arg1:T70 Arg2:T69
+R34	hasAttr Arg1:T71 Arg2:T73
+R35	hasAttr Arg1:T72 Arg2:T73
+R36	hasAttr Arg1:T75 Arg2:T76
+R37	hasAttr Arg1:T78 Arg2:T79
+R38	hasAttr Arg1:T80 Arg2:T81
+R39	hasAttr Arg1:T82 Arg2:T83
+R40	hasAttr Arg1:T85 Arg2:T86
+R41	hasAttr Arg1:T89 Arg2:T88
+R42	hasAttr Arg1:T94 Arg2:T91
+R43	hasAttr Arg1:T92 Arg2:T91
+R44	hasAttr Arg1:T92 Arg2:T93
+R45	hasAttr Arg1:T97 Arg2:T98
+R46	hasAttr Arg1:T100 Arg2:T99
+R47	hasAttr Arg1:T110 Arg2:T111
+R48	hasAttr Arg1:T116 Arg2:T117

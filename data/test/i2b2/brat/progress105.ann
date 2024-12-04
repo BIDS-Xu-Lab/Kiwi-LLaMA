@@ -1,0 +1,35 @@
+T1	temporal 144 155	Apr 17 1929
+T2	problem 246 249	sob
+T3	test 261 263	HR
+T4	labvalue 271 274	40s
+T5	test 277 281	B.p.
+T6	labvalue 282 287	90/47
+T7	test 290 292	RR
+T8	labvalue 295 297	20
+T9	drug 340 348	cardizem
+T10	drug 351 361	loressorxl
+T11	drug 364 374	lisinopril
+T12	temporal 375 380	today
+T13	problem 383 394	bradycardia
+T14	problem 402 413	hypotension
+T15	drug 436 440	meds
+T16	drug 446 456	NS - bolus
+T17	dosage 459 464	250ml
+T18	test 494 496	hr
+T19	test 499 501	bp
+T20	drug 526 538	metoprololxl
+T21	test 564 571	monitor
+T22	treatment 630 650	the above management
+T23	temporal 694 705	Oct 14 2007
+T24	temporal 707 712	20:15
+T25	temporal 753 764	Oct 14 2007
+T26	temporal 766 771	20:15
+T27	temporal 814 825	Oct 14 2007
+T28	temporal 827 832	20:15
+R1	hasAttr Arg1:T3 Arg2:T4
+R2	hasAttr Arg1:T5 Arg2:T6
+R3	hasAttr Arg1:T7 Arg2:T8
+R4	hasAttr Arg1:T9 Arg2:T12
+R5	hasAttr Arg1:T10 Arg2:T12
+R6	hasAttr Arg1:T11 Arg2:T12
+R7	hasAttr Arg1:T16 Arg2:T17

@@ -1,0 +1,311 @@
+T1	problem 73 79	Sepsis
+T2	problem 93 99	Sepsis
+T3	problem 110 113	SBP
+T4	problem 147 155	diabetes
+T5	problem 157 171	morbid obesity
+T6	problem 173 184	hepatitis C
+T7	problem 186 195	cirrhosis
+T8	problem 208 233	alcohol and cocaine abuse
+T9	problem 301 311	weak knees
+T10	bodyloc 306 311	knees
+T11	problem 330 349	bilateral knee pain
+T12	bodyloc 340 344	knee
+T13	problem 389 398	hematuria
+T14	problem 403 418	epigastric pain
+T15	problem 503 509	Sepsis
+T16	problem 520 523	SBP
+T17	problem 593 601	diabetes
+T18	problem 603 617	morbid obesity
+T19	problem 619 630	hepatitis C
+T20	problem 632 641	cirrhosis
+T21	problem 654 679	alcohol and cocaine abuse
+T22	temporal 720 728	01/07/09
+T23	problem 764 774	weak knees
+T24	bodyloc 769 774	knees
+T25	problem 793 812	bilateral knee pain
+T26	bodyloc 803 807	knee
+T27	problem 852 861	hematuria
+T28	problem 866 881	epigastric pain
+T29	drug 918 942	prescription medications
+T30	test 1026 1036	heart rate
+T31	labvalue 1040 1043	130
+T32	test 1045 1061	respiratory rate
+T33	labvalue 1065 1067	24
+T34	test 1069 1091	White blood cell count
+T35	labvalue 1112 1113	4
+T36	test 1118 1132	platelet count
+T37	labvalue 1142 1148	22,000
+T38	test 1150 1170	Abdominal ultrasound
+T39	problem 1178 1202	mild-to-moderate ascites
+T40	dosage 1217 1223	1 dose
+T41	drug 1227 1232	Zosyn
+T42	drug 1253 1265	levofloxacin
+T43	drug 1270 1276	Flagyl
+T44	problem 1332 1343	hypotension
+T45	test 1345 1348	SBP
+T46	labvalue 1356 1359	70s
+T47	drug 1377 1396	antibiotic regiment
+T48	drug 1400 1410	vancomycin
+T49	drug 1415 1424	doripenem
+T50	problem 1448 1459	Hepatitis C
+T51	problem 1461 1470	cirrhosis
+T52	problem 1472 1495	coronary artery disease
+T53	problem 1497 1511	hyperlipidemia
+T54	problem 1513 1534	chronic venous stasis
+T55	problem 1536 1567	gastroesophageal reflux disease
+T56	treatment 1580 1602	exploratory laparotomy
+T57	problem 1607 1618	stab wounds
+T58	problem 1620 1648	chronic recurrent leg wounds
+T59	problem 1654 1676	hepatic encephalopathy
+T60	temporal 1745 1749	2007
+T61	temporal 1799 1803	2005
+T62	drug 1920 1931	MEDICATIONS
+T63	drug 1933 1943	Vancomycin
+T64	drug 1945 1954	doripenem
+T65	drug 1956 1964	thiamine
+T66	drug 1966 1974	Protonix
+T67	drug 1976 1994	potassium chloride
+T68	frequency 1995 2001	p.r.n.
+T69	drug 2003 2012	magnesium
+T70	frequency 2013 2019	p.r.n.
+T71	drug 2021 2027	Zofran
+T72	frequency 2029 2035	p.r.n.
+T73	drug 2037 2051	norepinephrine
+T74	form 2052 2056	drip
+T75	drug 2062 2071	vitamin K
+T76	problem 2125 2131	drowsy
+T77	problem 2136 2144	confused
+T78	test 2196 2206	Heart rate
+T79	labvalue 2207 2210	101
+T80	test 2212 2228	respiratory rate
+T81	labvalue 2229 2231	17
+T82	test 2233 2247	blood pressure
+T83	labvalue 2248 2253	92/48
+T84	test 2255 2266	temperature
+T85	labvalue 2267 2271	97.5
+T86	test 2277 2294	oxygen saturation
+T87	labvalue 2295 2298	98%
+T88	treatment 2302 2319	2 L nasal cannula
+T89	problem 2356 2362	drowsy
+T90	problem 2364 2378	Morbidly obese
+T91	test 2380 2386	Height
+T92	labvalue 2387 2402	5 feet 8 inches
+T93	test 2404 2415	body weight
+T94	labvalue 2416 2425	182 kilos
+T95	problem 2433 2459	Slightly pale conjunctivae
+T96	problem 2461 2476	icteric sclerae
+T97	negation 2588 2590	No
+T98	problem 2591 2603	oral lesions
+T99	negation 2611 2613	No
+T100	problem 2614 2634	palpable neck masses
+T101	bodyloc 2636 2643	Thyroid
+T102	negation 2647 2650	not
+T103	problem 2651 2659	enlarged
+T104	test 2663 2673	inspection
+T105	negation 2716 2718	No
+T106	problem 2719 2727	crackles
+T107	problem 2731 2738	wheezes
+T108	labvalue 2756 2763	Regular
+T109	test 2764 2778	cardiac rhythm
+T110	negation 2780 2782	No
+T111	problem 2783 2788	rales
+T112	problem 2792 2796	rubs
+T113	problem 2798 2820	Positive bipedal edema
+T114	problem 2832 2837	worse
+T115	negation 2891 2893	No
+T116	problem 2894 2902	guarding
+T117	negation 2904 2906	no
+T118	problem 2907 2915	rigidity
+T119	problem 2917 2923	Tender
+T120	test 2927 2982	palpation of n right upper quadrant and epigastric area
+T121	problem 2984 2997	Mildly tender
+T122	test 3001 3054	palpation of right upper quadrant and epigastric area
+T123	negation 3067 3069	No
+T124	problem 3070 3094	cervical lymphadenopathy
+T125	problem 3111 3127	diffuse jaundice
+T126	negation 3129 3131	No
+T127	problem 3132 3161	palpable subcutaneous nodules
+T128	problem 3176 3201	Poor judgment and insight
+T129	test 3220 3242	White blood cell count
+T130	temporal 3248 3256	01/08/09
+T131	labvalue 3260 3261	9
+T132	labvalue 3267 3270	68%
+T133	test 3271 3282	neutrophils
+T134	labvalue 3284 3287	20%
+T135	test 3288 3293	bands
+T136	test 3295 3298	H&H
+T137	labvalue 3299 3307	9.7/28.2
+T138	test 3309 3323	platelet count
+T139	labvalue 3324 3330	24,000
+T140	test 3332 3335	INR
+T141	labvalue 3336 3340	3.84
+T142	test 3342 3345	PTT
+T143	labvalue 3356 3359	240
+T144	test 3361 3364	BUN
+T145	test 3369 3379	creatinine
+T146	labvalue 3380 3388	26.8/1.2
+T147	test 3390 3393	AST
+T148	labvalue 3394 3396	76
+T149	test 3398 3401	ALT
+T150	labvalue 3402 3404	27
+T151	test 3406 3426	alkaline phosphatase
+T152	labvalue 3427 3429	48
+T153	test 3431 3446	total bilirubin
+T154	labvalue 3447 3452	17.85
+T155	test 3454 3462	Total CK
+T156	labvalue 3463 3469	1198.6
+T157	test 3471 3474	LDH
+T158	labvalue 3475 3480	873.2
+T159	test 3482 3490	Troponin
+T160	labvalue 3491 3495	0.09
+T161	test 3497 3506	myoglobin
+T162	labvalue 3507 3511	2792
+T163	test 3513 3523	Urinalysis
+T164	temporal 3529 3537	01/07/09
+T165	problem 3544 3568	small leucocyte esterase
+T166	labvalue 3570 3578	positive
+T167	test 3579 3587	nitrites
+T168	labvalue 3589 3595	1 to 3
+T169	test 3596 3601	wbc's
+T170	labvalue 3603 3609	0 to 1
+T171	test 3610 3615	rbc's
+T172	problem 3617 3628	2+ bacteria
+T173	test 3642 3656	blood cultures
+T174	temporal 3662 3670	01/07/09
+T175	test 3697 3708	Chest x-ray
+T176	temporal 3714 3722	01/07/09
+T177	negation 3723 3735	did not show
+T178	problem 3736 3835	any pathologic abnormalities of the heart, mediastinum, lung fields, bony or soft tissue structures
+T179	bodyloc 3768 3777	the heart
+T180	bodyloc 3792 3803	lung fields
+T181	bodyloc 3805 3824	bony or soft tissue
+T182	test 3837 3853	Left knee x-rays
+T183	temporal 3857 3865	01/07/09
+T184	problem 3873 3896	advanced osteoarthritis
+T185	test 3898 3918	Abdominal ultrasound
+T186	temporal 3922 3930	01/07/09
+T187	problem 3938 3962	mild-to-moderate ascites
+T188	problem 3964 3998	mild prominence of the gallbladder
+T189	problem 4004 4044	thickened ball and pericholecystic fluid
+T190	test 4068 4091	CAT scan of the abdomen
+T191	problem 4121 4136	liver cirrhosis
+T192	bodyloc 4121 4126	liver
+T193	problem 4141 4160	portal hypertension
+T194	problem 4166 4178	mild ascites
+T195	problem 4180 4192	splenomegaly
+T196	problem 4198 4249	dilated portal/splenic and superior mesenteric vein
+T197	negation 4296 4310	no evidence of
+T198	problem 4311 4333	pericecal inflammation
+T199	problem 4350 4362	Septic shock
+T200	uncertain 4367 4375	Possible
+T201	problem 4376 4399	urinary tract infection
+T202	bodyloc 4376 4389	urinary tract
+T203	problem 4404 4411	Ascites
+T204	uncertain 4413 4421	rule out
+T205	problem 4422 4457	spontaneous bacterial peritenonitis
+T206	problem 4462 4480	Hyperbilirubinemia
+T207	uncertain 4482 4490	consider
+T208	problem 4491 4502	cholangitis
+T209	problem 4507 4530	Alcoholic liver disease
+T210	bodyloc 4517 4522	liver
+T211	problem 4535 4551	Thrombocytopenia
+T212	problem 4556 4567	Hepatitis C
+T213	problem 4572 4588	Cryoglobulinemia
+T214	drug 4624 4634	vancomycin
+T215	drug 4639 4648	doripenem
+T216	treatment 4678 4690	paracentesis
+T217	test 4718 4728	cell count
+T218	test 4730 4742	differential
+T219	test 4747 4755	cultures
+T220	test 4785 4799	blood cultures
+T221	test 4816 4829	urine culture
+T222	test 4835 4847	the specimen
+T223	treatment 4883 4906	hepatitis A vaccination
+T224	problem 4996 4999	sbp
+T225	problem 5001 5009	diabetes
+T226	problem 5011 5025	morbid obesity
+T227	problem 5027 5038	hepatitis c
+T228	problem 5040 5049	cirrhosis
+T229	problem 5051 5074	coronary artery disease
+T230	problem 5076 5090	hyperlipidemia
+T231	problem 5092 5113	chronic venous stasis
+T232	problem 5115 5146	gastroesophageal reflux disease
+T233	treatment 5148 5170	exploratory laparotomy
+T234	problem 5172 5194	hepatic encephalopathy
+T235	problem 5196 5208	septic shock
+T236	test 5210 5220	cell count
+T237	problem 5222 5231	hepatitis
+T238	problem 5233 5239	sepsis
+T239	problem 5241 5249	cultures
+T240	problem 5251 5258	ascites
+R1	hasAttr Arg1:T9 Arg2:T10
+R2	hasAttr Arg1:T11 Arg2:T12
+R3	hasAttr Arg1:T23 Arg2:T24
+R4	hasAttr Arg1:T25 Arg2:T26
+R5	hasAttr Arg1:T30 Arg2:T31
+R6	hasAttr Arg1:T32 Arg2:T33
+R7	hasAttr Arg1:T34 Arg2:T35
+R8	hasAttr Arg1:T36 Arg2:T37
+R9	hasAttr Arg1:T41 Arg2:T40
+R10	hasAttr Arg1:T45 Arg2:T46
+R11	hasAttr Arg1:T67 Arg2:T68
+R12	hasAttr Arg1:T69 Arg2:T70
+R13	hasAttr Arg1:T71 Arg2:T72
+R14	hasAttr Arg1:T73 Arg2:T74
+R15	hasAttr Arg1:T78 Arg2:T79
+R16	hasAttr Arg1:T80 Arg2:T81
+R17	hasAttr Arg1:T82 Arg2:T83
+R18	hasAttr Arg1:T84 Arg2:T85
+R19	hasAttr Arg1:T86 Arg2:T87
+R20	hasAttr Arg1:T91 Arg2:T92
+R21	hasAttr Arg1:T93 Arg2:T94
+R22	hasAttr Arg1:T98 Arg2:T97
+R23	hasAttr Arg1:T100 Arg2:T99
+R24	hasAttr Arg1:T103 Arg2:T101
+R25	hasAttr Arg1:T103 Arg2:T102
+R26	hasAttr Arg1:T106 Arg2:T105
+R27	hasAttr Arg1:T107 Arg2:T105
+R28	hasAttr Arg1:T109 Arg2:T108
+R29	hasAttr Arg1:T111 Arg2:T110
+R30	hasAttr Arg1:T112 Arg2:T110
+R31	hasAttr Arg1:T116 Arg2:T115
+R32	hasAttr Arg1:T118 Arg2:T117
+R33	hasAttr Arg1:T124 Arg2:T123
+R34	hasAttr Arg1:T127 Arg2:T126
+R35	hasAttr Arg1:T129 Arg2:T131
+R36	hasAttr Arg1:T129 Arg2:T130
+R37	hasAttr Arg1:T133 Arg2:T132
+R38	hasAttr Arg1:T135 Arg2:T134
+R39	hasAttr Arg1:T136 Arg2:T137
+R40	hasAttr Arg1:T138 Arg2:T139
+R41	hasAttr Arg1:T140 Arg2:T141
+R42	hasAttr Arg1:T142 Arg2:T143
+R43	hasAttr Arg1:T144 Arg2:T146
+R44	hasAttr Arg1:T145 Arg2:T146
+R45	hasAttr Arg1:T147 Arg2:T148
+R46	hasAttr Arg1:T149 Arg2:T150
+R47	hasAttr Arg1:T151 Arg2:T152
+R48	hasAttr Arg1:T153 Arg2:T154
+R49	hasAttr Arg1:T155 Arg2:T156
+R50	hasAttr Arg1:T157 Arg2:T158
+R51	hasAttr Arg1:T159 Arg2:T160
+R52	hasAttr Arg1:T161 Arg2:T162
+R53	hasAttr Arg1:T163 Arg2:T164
+R54	hasAttr Arg1:T167 Arg2:T166
+R55	hasAttr Arg1:T167 Arg2:T168
+R56	hasAttr Arg1:T169 Arg2:T170
+R57	hasAttr Arg1:T173 Arg2:T174
+R58	hasAttr Arg1:T175 Arg2:T176
+R59	hasAttr Arg1:T178 Arg2:T177
+R60	hasAttr Arg1:T178 Arg2:T179
+R61	hasAttr Arg1:T178 Arg2:T180
+R62	hasAttr Arg1:T178 Arg2:T181
+R63	hasAttr Arg1:T182 Arg2:T183
+R64	hasAttr Arg1:T185 Arg2:T186
+R65	hasAttr Arg1:T191 Arg2:T192
+R66	hasAttr Arg1:T198 Arg2:T197
+R67	hasAttr Arg1:T201 Arg2:T200
+R68	hasAttr Arg1:T201 Arg2:T202
+R69	hasAttr Arg1:T205 Arg2:T204
+R70	hasAttr Arg1:T208 Arg2:T207
+R71	hasAttr Arg1:T209 Arg2:T210

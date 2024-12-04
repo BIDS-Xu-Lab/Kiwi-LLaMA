@@ -1,0 +1,418 @@
+T1	temporal 17 27	2010-08-26
+T2	temporal 45 55	2010-09-02
+T3	temporal 72 82	1961-06-26
+T4	problem 201 218	diabetes mellitus
+T5	problem 241 262	peripheral neuropathy
+T6	bodyloc 241 251	peripheral
+T7	treatment 265 287	kidney transplantation
+T8	temporal 291 295	2003
+T9	problem 309 329	diabetic nephropathy
+T10	problem 343 356	throat cancer
+T11	bodyloc 343 349	throat
+T12	temporal 360 364	2004
+T13	treatment 378 393	local resection
+T14	treatment 398 433	radical neck dissection on the left
+T15	treatment 445 468	postoperative radiation
+T16	problem 491 509	signs and symptoms
+T17	problem 526 545	cervical myelopathy
+T18	bodyloc 526 534	cervical
+T19	test 548 567	a cervical MRI scan
+T20	problem 580 616	impressive disc herniations at C5-C6
+T21	bodyloc 608 616	at C5-C6
+T22	bodyloc 627 635	at C4-C5
+T23	problem 643 669	clear cut cord compression
+T24	bodyloc 653 657	cord
+T25	bodyloc 692 708	right side C5-C6
+T26	treatment 743 778	C4-C5 and C5-C6 anterior diskectomy
+T27	treatment 784 805	autologous bone graft
+T28	treatment 810 829	instrumented fusion
+T29	test 855 889	Postoperative physical examination
+T30	test 940 954	blood pressure
+T31	labvalue 955 961	145/80
+T32	test 964 969	pulse
+T33	labvalue 970 972	60
+T34	test 975 991	respiratory rate
+T35	labvalue 992 994	10
+T36	treatment 1005 1021	a non-rebreather
+T37	problem 1047 1060	uncomfortable
+T38	problem 1074 1095	incisional tenderness
+T39	problem 1099 1108	neck site
+T40	bodyloc 1099 1103	neck
+T41	problem 1120 1142	right iliac graft site
+T42	bodyloc 1120 1131	right iliac
+T43	problem 1145 1155	The wounds
+T44	problem 1284 1292	dyspneic
+T45	problem 1297 1307	tachypneic
+T46	test 1312 1320	his SAO2
+T47	labvalue 1332 1335	89%
+T48	test 1338 1358	His respiratory rate
+T49	labvalue 1363 1365	30
+T50	treatment 1369 1378	face mask
+T51	test 1460 1470	heart rate
+T52	drug 1492 1511	some neo-synephrine
+T53	drug 1547 1564	intravenous Lasix
+T54	labvalue 1570 1580	3.2 liters
+T55	test 1584 1596	urine output
+T56	problem 1655 1683	his congestive heart failure
+T57	bodyloc 1670 1675	heart
+T58	problem 1712 1733	diastolic dysfunction
+T59	problem 1739 1759	increased heart rate
+T60	bodyloc 1749 1754	heart
+T61	problem 1771 1784	excess volume
+T62	negation 1787 1789	No
+T63	problem 1812 1843	significant myocardial ischemia
+T64	bodyloc 1824 1834	myocardial
+T65	test 1855 1870	cardiac enzymes
+T66	problem 1902 1923	myocardial infarction
+T67	bodyloc 1902 1912	myocardial
+T68	drug 2058 2063	Lasix
+T69	problem 2087 2104	the excess volume
+T70	drug 2126 2135	Lopressor
+T71	strength 2136 2142	150 mg
+T72	frequency 2143 2154	twice a day
+T73	test 2191 2204	O2 saturation
+T74	problem 2248 2256	agitated
+T75	drug 2267 2271	tent
+T76	drug 2276 2290	Bi-PAP machine
+T77	temporal 2362 2373	the morning
+T78	temporal 2377 2387	2010-08-30
+T79	drug 2394 2422	continued medical management
+T80	problem 2491 2499	confused
+T81	problem 2505 2532	waxing and waning sensorium
+T82	test 2542 2560	a delirium work-up
+T83	test 2610 2627	his O2 saturation
+T84	test 2644 2662	his pulse oximetry
+T85	drug 2704 2733	His non-essential medications
+T86	problem 2769 2796	his change in mental status
+T87	drug 2832 2842	Temocillin
+T88	drug 2845 2858	Nortriptyline
+T89	drug 2861 2867	Haldol
+T90	drug 2870 2879	Lorazepam
+T91	drug 2882 2893	Venlafaxine
+T92	drug 2896 2905	Bupropion
+T93	drug 2912 2922	Gabapentin
+T94	test 2939 2961	his cyclosporin levels
+T95	problem 2980 3001	Hypo or hyperglycemia
+T96	treatment 3073 3088	glucose control
+T97	test 3091 3104	Finger sticks
+T98	problem 3128 3144	acutely agitated
+T99	test 3186 3200	glucose levels
+T100	problem 3224 3241	Infectious causes
+T101	problem 3266 3273	febrile
+T102	test 3321 3332	chest x-ray
+T103	test 3335 3349	blood cultures
+T104	test 3352 3362	urinalysis
+T105	test 3367 3381	urine cultures
+T106	labvalue 3391 3399	negative
+T107	treatment 3414 3431	A lumbar puncture
+T108	treatment 3541 3554	the procedure
+T109	problem 3560 3571	Mass effect
+T110	negation 3598 3600	no
+T111	problem 3601 3615	focal deficits
+T112	test 3635 3646	examination
+T113	problem 3658 3683	the fluctuating sensorium
+T114	negation 3719 3721	no
+T115	problem 3722 3762	severe underlying structural abnormality
+T116	severity 3722 3728	severe
+T117	test 3765 3803	A head and neck CT scan , non-contrast
+T118	negation 3859 3861	No
+T119	problem 3862 3892	acute intracranial hemorrhages
+T120	course 3862 3867	acute
+T121	bodyloc 3868 3880	intracranial
+T122	problem 3896 3910	midline shifts
+T123	problem 3933 3951	a soft tissue mass
+T124	bodyloc 3965 3980	the level of C2
+T125	problem 4062 4068	Trauma
+T126	negation 4128 4130	no
+T127	problem 4140 4151	head trauma
+T128	bodyloc 4140 4144	head
+T129	negation 4154 4156	no
+T130	problem 4157 4178	loss of consciousness
+T131	test 4203 4210	Chem-10
+T132	negation 4238 4240	no
+T133	problem 4241 4278	electrolytes or mineral abnormalities
+T134	problem 4298 4310	his delirium
+T135	test 4313 4333	Liver function tests
+T136	test 4354 4369	total bilirubin
+T137	labvalue 4374 4391	slightly elevated
+T138	labvalue 4395 4398	1.6
+T139	test 4401 4404	TSH
+T140	labvalue 4409 4429	within normal limits
+T141	test 4437 4440	B12
+T142	test 4445 4451	folate
+T143	test 4454 4468	RPR evaluating
+T144	problem 4482 4501	neurologic syphilis
+T145	test 4549 4555	An EEG
+T146	problem 4588 4621	non-convulsive status epilepticus
+T147	problem 4728 4744	acutely agitated
+T148	course 4728 4735	acutely
+T149	treatment 4975 4985	restraints
+T150	treatment 5055 5069	The restraints
+T151	problem 5115 5131	acutely agitated
+T152	course 5115 5122	acutely
+T153	temporal 5164 5169	08-31
+T154	temporal 5181 5192	the morning
+T155	temporal 5196 5201	08-31
+T156	treatment 5264 5278	the restraints
+T157	negation 5366 5369	not
+T158	treatment 5378 5388	restraints
+T159	route 5408 5421	Intramuscular
+T160	route 5433 5444	intravenous
+T161	drug 5445 5451	Haldol
+T162	frequency 5465 5471	p.r.n.
+T163	problem 5507 5523	acutely agitated
+T164	course 5507 5514	acutely
+T165	drug 5526 5532	haldol
+T166	treatment 5544 5558	the restraints
+T167	negation 5564 5576	not required
+T168	temporal 5583 5606	the morning of the 23rd
+T169	problem 5642 5650	delirium
+T170	temporal 5705 5710	09-01
+T171	problem 5733 5745	the delirium
+T172	treatment 5767 5774	surgery
+T173	drug 5819 5832	poly-pharmacy
+T174	test 5870 5889	his kidney function
+T175	treatment 5899 5919	his renal transplant
+T176	temporal 5923 5927	2003
+T177	drug 5930 5959	His immunosuppressive therapy
+T178	test 5996 6010	his creatinine
+T179	labvalue 6034 6044	2.3 to 2.4
+T180	problem 6054 6084	a baseline renal insufficiency
+T181	bodyloc 6065 6070	renal
+T182	test 6122 6131	a CT scan
+T183	treatment 6220 6230	restraints
+T184	treatment 6233 6249	gentle hydration
+T185	problem 6308 6329	his diabetes mellitus
+T186	problem 6443 6459	other complaints
+T187	problem 6499 6507	Soreness
+T188	problem 6511 6530	his operative sites
+T189	frequency 6556 6562	p.r.n.
+T190	drug 6563 6570	Tylenol
+T191	condition 6571 6575	once
+T192	problem 6576 6588	his delirium
+T193	course 6593 6601	resolved
+T194	problem 6640 6666	difficulty with swallowing
+T195	drug 6688 6708	soft and liquid diet
+T196	problem 6734 6756	postoperative swelling
+T197	drug 6774 6788	his diskectomy
+T198	temporal 6799 6809	2010-08-27
+T199	temporal 6856 6861	09-02
+T200	temporal 6923 6930	Tuesday
+T201	temporal 6933 6938	09-07
+T202	temporal 7005 7014	Wednesday
+T203	temporal 7017 7022	09-08
+T204	test 7092 7119	Physical Therapy evaluation
+T205	drug 7164 7178	Venlafaxine XR
+T206	strength 7179 7184	75 mg
+T207	frequency 7185 7192	q. a.m.
+T208	drug 7196 7206	Furosemide
+T209	strength 7207 7212	20 mg
+T210	frequency 7213 7219	q.o.d.
+T211	drug 7223 7233	Metoprolol
+T212	strength 7234 7240	100 mg
+T213	frequency 7241 7252	twice a day
+T214	drug 7258 7282	Nitroglycerin sublingual
+T215	strength 7283 7289	0.3 mg
+T216	frequency 7290 7296	p.r.n.
+T217	drug 7300 7325	Cyclosporin microemulsion
+T218	drug 7331 7337	Neoral
+T219	strength 7338 7344	100 mg
+T220	frequency 7345 7356	twice a day
+T221	drug 7362 7372	Zithropren
+T222	strength 7373 7378	50 mg
+T223	frequency 7379 7385	q. day
+T224	drug 7391 7401	Prednisone
+T225	strength 7402 7407	10 mg
+T226	frequency 7408 7414	q. day
+T227	drug 7420 7429	Minoxidil
+T228	strength 7430 7435	10 mg
+T229	frequency 7436 7447	twice a day
+T230	drug 7454 7462	Prilosec
+T231	strength 7463 7468	20 mg
+T232	frequency 7469 7475	q. day
+T233	drug 7482 7485	NPH
+T234	strength 7486 7494	30 units
+T235	frequency 7495 7502	q. a.m.
+T236	dosage 7505 7517	5 to 6 units
+T237	frequency 7518 7525	q. p.m.
+T238	drug 7530 7545	Regular insulin
+T239	strength 7546 7553	5 units
+T240	frequency 7554 7561	q. a.m.
+T241	dosage 7566 7578	3 to 5 units
+T242	frequency 7579 7586	q. p.m.
+T243	drug 7591 7601	Wellbutrin
+T244	strength 7602 7608	100 mg
+T245	frequency 7609 7617	q. day .
+T246	drug 7622 7627	Zocor
+T247	strength 7628 7633	60 mg
+T248	frequency 7634 7642	q. day .
+T249	drug 7647 7663	Nitroglycerin SR
+T250	strength 7664 7670	2.5 mg
+T251	frequency 7671 7682	twice a day
+T252	drug 7731 7742	medications
+T253	drug 7777 7790	Nortriptyline
+T254	strength 7791 7796	10 mg
+T255	frequency 7797 7804	q. h.s.
+T256	drug 7807 7813	Flomax
+T257	strength 7814 7820	0.4 mg
+T258	frequency 7821 7828	q. h.s.
+T259	drug 7831 7840	Neurontin
+T260	strength 7841 7847	600 mg
+T261	frequency 7848 7865	three times a day
+T262	treatment 7958 8009	C4-C5 , C5-C6 , anterior microdiscectomy and fusion
+T263	treatment 8015 8037	right iliac bone graft
+T264	problem 8109 8132	End-stage renal disease
+T265	bodyloc 8119 8124	renal
+T266	problem 8146 8170	type 1 diabetes mellitus
+T267	treatment 8185 8201	renal transplant
+T268	temporal 8205 8209	2003
+T269	problem 8226 8259	multiple urinary tract infections
+T270	bodyloc 8235 8248	urinary tract
+T271	problem 8265 8279	Pyelonephritis
+T272	test 8285 8295	Creatinine
+T273	labvalue 8296 8306	2.2 to 2.5
+T274	treatment 8312 8339	Right coronary artery stent
+T275	temporal 8343 8347	2008
+T276	test 8350 8367	ejection fraction
+T277	labvalue 8368 8377	60 to 65%
+T278	problem 8383 8407	Type 1 diabetes mellitus
+T279	problem 8413 8422	triopathy
+T280	problem 8425 8436	retinopathy
+T281	problem 8439 8449	neuropathy
+T282	problem 8452 8463	nephropathy
+T283	problem 8469 8497	Benign prostatic hypertrophy
+T284	severity 8469 8475	Benign
+T285	treatment 8510 8549	transurethral resection of the prostate
+T286	treatment 8552 8572	self catheterization
+T287	problem 8578 8590	Hypertension
+T288	problem 8596 8616	Hypercholesterolemia
+T289	problem 8623 8634	Hepatitis B
+T290	problem 8641 8654	Throat cancer
+T291	bodyloc 8641 8647	Throat
+T292	treatment 8667 8688	right neck dissection
+T293	treatment 8693 8696	XRT
+T294	temporal 8700 8704	2004
+T295	problem 8711 8728	Cerebral aneurysm
+T296	bodyloc 8711 8719	Cerebral
+T297	treatment 8735 8750	Left prosthetic
+T298	problem 8762 8771	ALLERGIES
+T299	drug 8774 8784	Gentamicin
+T300	drug 8791 8800	ibuprofen
+T301	temporal 8884 8894	2010-09-02
+T302	temporal 8895 8900	18:23
+T303	temporal 8905 8915	2010-09-07
+T304	temporal 8916 8921	16:04
+R1	hasAttr Arg1:T5 Arg2:T6
+R2	hasAttr Arg1:T7 Arg2:T8
+R3	hasAttr Arg1:T10 Arg2:T12
+R4	hasAttr Arg1:T10 Arg2:T11
+R5	hasAttr Arg1:T17 Arg2:T18
+R6	hasAttr Arg1:T20 Arg2:T22
+R7	hasAttr Arg1:T20 Arg2:T21
+R8	hasAttr Arg1:T23 Arg2:T25
+R9	hasAttr Arg1:T23 Arg2:T24
+R10	hasAttr Arg1:T30 Arg2:T31
+R11	hasAttr Arg1:T32 Arg2:T33
+R12	hasAttr Arg1:T34 Arg2:T35
+R13	hasAttr Arg1:T39 Arg2:T40
+R14	hasAttr Arg1:T41 Arg2:T42
+R15	hasAttr Arg1:T46 Arg2:T47
+R16	hasAttr Arg1:T48 Arg2:T49
+R17	hasAttr Arg1:T55 Arg2:T54
+R18	hasAttr Arg1:T56 Arg2:T57
+R19	hasAttr Arg1:T59 Arg2:T60
+R20	hasAttr Arg1:T63 Arg2:T62
+R21	hasAttr Arg1:T63 Arg2:T64
+R22	hasAttr Arg1:T66 Arg2:T67
+R23	hasAttr Arg1:T70 Arg2:T71
+R24	hasAttr Arg1:T70 Arg2:T72
+R25	hasAttr Arg1:T79 Arg2:T77
+R26	hasAttr Arg1:T79 Arg2:T78
+R27	hasAttr Arg1:T102 Arg2:T106
+R28	hasAttr Arg1:T103 Arg2:T106
+R29	hasAttr Arg1:T104 Arg2:T106
+R30	hasAttr Arg1:T105 Arg2:T106
+R31	hasAttr Arg1:T111 Arg2:T110
+R32	hasAttr Arg1:T115 Arg2:T114
+R33	hasAttr Arg1:T115 Arg2:T116
+R34	hasAttr Arg1:T122 Arg2:T118
+R35	hasAttr Arg1:T119 Arg2:T118
+R36	hasAttr Arg1:T119 Arg2:T120
+R37	hasAttr Arg1:T119 Arg2:T121
+R38	hasAttr Arg1:T123 Arg2:T124
+R39	hasAttr Arg1:T127 Arg2:T126
+R40	hasAttr Arg1:T127 Arg2:T128
+R41	hasAttr Arg1:T130 Arg2:T129
+R42	hasAttr Arg1:T133 Arg2:T132
+R43	hasAttr Arg1:T136 Arg2:T138
+R44	hasAttr Arg1:T136 Arg2:T137
+R45	hasAttr Arg1:T139 Arg2:T140
+R46	hasAttr Arg1:T141 Arg2:T140
+R47	hasAttr Arg1:T142 Arg2:T140
+R48	hasAttr Arg1:T147 Arg2:T148
+R49	hasAttr Arg1:T151 Arg2:T153
+R50	hasAttr Arg1:T156 Arg2:T154
+R51	hasAttr Arg1:T156 Arg2:T155
+R52	hasAttr Arg1:T158 Arg2:T157
+R53	hasAttr Arg1:T161 Arg2:T159
+R54	hasAttr Arg1:T161 Arg2:T160
+R55	hasAttr Arg1:T161 Arg2:T162
+R56	hasAttr Arg1:T163 Arg2:T164
+R57	hasAttr Arg1:T166 Arg2:T167
+R58	hasAttr Arg1:T166 Arg2:T168
+R59	hasAttr Arg1:T175 Arg2:T176
+R60	hasAttr Arg1:T178 Arg2:T179
+R61	hasAttr Arg1:T180 Arg2:T181
+R62	hasAttr Arg1:T190 Arg2:T189
+R63	hasAttr Arg1:T192 Arg2:T191
+R64	hasAttr Arg1:T192 Arg2:T193
+R65	hasAttr Arg1:T197 Arg2:T198
+R66	hasAttr Arg1:T205 Arg2:T206
+R67	hasAttr Arg1:T205 Arg2:T207
+R68	hasAttr Arg1:T208 Arg2:T209
+R69	hasAttr Arg1:T208 Arg2:T210
+R70	hasAttr Arg1:T211 Arg2:T213
+R71	hasAttr Arg1:T211 Arg2:T212
+R72	hasAttr Arg1:T214 Arg2:T216
+R73	hasAttr Arg1:T214 Arg2:T215
+R74	hasAttr Arg1:T218 Arg2:T220
+R75	hasAttr Arg1:T218 Arg2:T219
+R76	hasAttr Arg1:T221 Arg2:T222
+R77	hasAttr Arg1:T221 Arg2:T223
+R78	hasAttr Arg1:T224 Arg2:T226
+R79	hasAttr Arg1:T224 Arg2:T225
+R80	hasAttr Arg1:T227 Arg2:T228
+R81	hasAttr Arg1:T227 Arg2:T229
+R82	hasAttr Arg1:T230 Arg2:T231
+R83	hasAttr Arg1:T230 Arg2:T232
+R84	hasAttr Arg1:T233 Arg2:T236
+R85	hasAttr Arg1:T233 Arg2:T237
+R86	hasAttr Arg1:T233 Arg2:T234
+R87	hasAttr Arg1:T233 Arg2:T235
+R88	hasAttr Arg1:T238 Arg2:T241
+R89	hasAttr Arg1:T238 Arg2:T242
+R90	hasAttr Arg1:T238 Arg2:T240
+R91	hasAttr Arg1:T238 Arg2:T239
+R92	hasAttr Arg1:T243 Arg2:T245
+R93	hasAttr Arg1:T243 Arg2:T244
+R94	hasAttr Arg1:T246 Arg2:T248
+R95	hasAttr Arg1:T246 Arg2:T247
+R96	hasAttr Arg1:T249 Arg2:T251
+R97	hasAttr Arg1:T249 Arg2:T250
+R98	hasAttr Arg1:T253 Arg2:T254
+R99	hasAttr Arg1:T253 Arg2:T255
+R100	hasAttr Arg1:T256 Arg2:T258
+R101	hasAttr Arg1:T256 Arg2:T257
+R102	hasAttr Arg1:T259 Arg2:T260
+R103	hasAttr Arg1:T259 Arg2:T261
+R104	hasAttr Arg1:T264 Arg2:T265
+R105	hasAttr Arg1:T267 Arg2:T268
+R106	hasAttr Arg1:T269 Arg2:T270
+R107	hasAttr Arg1:T272 Arg2:T273
+R108	hasAttr Arg1:T274 Arg2:T275
+R109	hasAttr Arg1:T276 Arg2:T277
+R110	hasAttr Arg1:T283 Arg2:T284
+R111	hasAttr Arg1:T290 Arg2:T291
+R112	hasAttr Arg1:T292 Arg2:T294
+R113	hasAttr Arg1:T293 Arg2:T294
+R114	hasAttr Arg1:T295 Arg2:T296

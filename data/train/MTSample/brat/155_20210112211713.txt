@@ -1,0 +1,69 @@
+Sample Type / Medical Specialty: General Medicine
+Sample Name: Sepsis - Consult
+Description: Sepsis. The patient was found to have a CT scan with dilated bladder with thick wall suggesting an outlet obstruction as well as bilateral hydronephrosis and hydroureter.
+(Medical Transcription Sample Report)
+REASON FOR ADMISSION: Sepsis.
+HISTORY OF PRESENT ILLNESS: The patient is a pleasant but demented 80-year-old male, who lives in board and care, who presented with acute onset of abdominal pain. In the emergency room, the patient was found to have a CT scan with dilated bladder with thick wall suggesting an outlet obstruction as well as bilateral hydronephrosis and hydroureter. The patient is unable to provide further history. The patient's son is at the bedside and confirmed his history. The patient was given IV antibiotics in the emergency room. He was also given some hydration.
+PAST MEDICAL HISTORY:
+1. History of CAD.
+2. History of dementia.
+3. History of CVA.
+4. History of nephrolithiasis.
+ALLERGIES: NONE.
+MEDICATIONS:
+1. Ambien.
+2. Milk of magnesia.
+3. Tylenol.
+4. Tramadol.
+5. Soma.
+6. Coumadin.
+7. Zoloft.
+8. Allopurinol.
+9. Digoxin.
+10. Namenda.
+11. Zocor.
+12. BuSpar.
+13. Detrol.
+14. Coreg.
+15. Colace.
+16. Calcium.
+17. Zantac.
+18. Lasix.
+19. Seroquel.
+20. Aldactone.
+21. Amoxicillin.
+FAMILY HISTORY: Noncontributory.
+SOCIAL HISTORY: The patient lives in a board and care. No tobacco, alcohol or IV drug use.
+REVIEW OF SYSTEMS: As per the history of present illness, otherwise unremarkable.
+PHYSICAL EXAMINATION:
+VITAL SIGNS: The patient is currently afebrile. Pulse 52, respirations 20, blood pressure 104/41, and saturating 98% on room air.
+GENERAL: The patient is awake. Not oriented x3, in no acute distress.
+HEENT: Pupils are equal, round, and reactive to light and accommodation. Extraocular movements are intact. Mucous membranes are dry.
+NECK: Supple. No thyromegaly. No jugular venous distention.
+HEART: Irregularly irregular, brady.
+LUNGS: Clear to auscultation bilaterally anteriorly.
+ABDOMEN: Positive normoactive bowel sounds. Soft. Tenderness in the suprapubic region without rebound.
+EXTREMITIES: No clubbing, cyanosis or edema in upper and lower extremities.
+NEUROLOGIC: As mentioned above. No focality is noted.
+LABORATORY STUDIES: CT of the abdomen shows left inguinal hernia with greater than 10 cm of colon in sac, no SBO, dilated bladder with thick wall, possible outlet obstruction, bilateral hydronephrosis and hydroureter, and 2.7 cm right adrenal gland mass.
+White count 30.8, hemoglobin 10.9, and platelet count 413. UA shows greater than 100 WBCs, greater than 100 RBCs with 500 leukocyte esterase. Sodium 149, potassium 4.1, chloride 116, CO2 19, BUN 89, and creatinine 2.1.
+EKG shows atrial fibrillation at a very slow rate of 55.
+PROBLEM LIST:
+1. Urinary tract infection with sepsis.
+2. Obstructive uropathy.
+3. Dementia.
+4: Atrial fibrillation.
+5. Anemia.
+6. Adrenal gland mass.
+RECOMMENDATIONS:
+1. Obtain urology consult with Dr. X.
+2. Obtain renal consult Dr. Y.
+3. Place the patient on Levaquin renally dosed.
+4. Give one dose of gentamicin for synergy n the urine.
+5. IV fluids with hypertonic-hypotonic.
+6. Hold anticoagulation and put the patient on SCD and TED hose bilateral lower extremities.
+7. The patient is currently in slow atrial fibrillation. Hold all rate control medications and check digoxin level.
+8. Continue dementia medications.
+9. PPI for PUD prophylaxis.
+Keywords:
+general medicine, abdominal pain, hydronephrosis, hydroureter, urology, urinary tract infection with sepsis, ct scan, adrenal gland, dilated bladder, bilateral hydronephrosis, atrial fibrillation, sepsis,

@@ -1,0 +1,239 @@
+T1	temporal 143 154	Aug 23 1963
+T2	problem 266 278	Palpitations
+T3	problem 302 314	palpitations
+T4	problem 392 395	SVT
+T5	drug 423 432	Adenosine
+T6	labvalue 451 452	+
+T7	test 455 462	D-dimer
+T8	test 465 472	VQ scan
+T9	labvalue 475 476	-
+T10	problem 506 509	SOB
+T11	problem 512 521	orthopnia
+T12	negation 523 528	( - )
+T13	problem 529 531	CP
+T14	problem 557 561	COPD
+T15	problem 562 564	DM
+T16	uncertain 565 566	?
+T17	problem 567 576	Arthritis
+T18	problem 577 581	GERD
+T19	test 582 600	L knee arthroscopy
+T20	temporal 601 605	2005
+T21	test 638 642	labs
+T22	test 661 672	Vital signs
+T23	test 673 675	BP
+T24	test 678 686	systolic
+T25	labvalue 687 690	122
+T26	test 693 702	diastolic
+T27	labvalue 703 705	81
+T28	test 708 713	Pulse
+T29	labvalue 716 732	86 beats per min
+T30	test 735 739	Resp
+T31	labvalue 742 758	18 breaths / min
+T32	test 761 765	Temp
+T33	labvalue 768 788	36.7 degrees Celsius
+T34	negation 826 828	no
+T35	problem 829 837	distress
+T36	test 861 866	S1-S2
+T37	problem 934 939	obese
+T38	temporal 1026 1037	Feb 10 2007
+T39	temporal 1039 1046	4:00 AM
+T40	test 1047 1049	Na
+T41	labvalue 1050 1061	137 mEq / L
+T42	test 1062 1063	K
+T43	labvalue 1064 1075	4.4 mEq / L
+T44	test 1076 1078	Cl
+T45	labvalue 1079 1090	108 mEq / L
+T46	test 1091 1094	CO2
+T47	labvalue 1095 1105	23 mEq / L
+T48	test 1106 1115	Anion Gap
+T49	labvalue 1116 1119	6.0
+T50	labvalue 1120 1123	Low
+T51	test 1124 1127	BUN
+T52	labvalue 1128 1138	10 mg / dL
+T53	test 1139 1141	Cr
+T54	labvalue 1142 1153	0.6 mg / dL
+T55	test 1154 1161	Glucose
+T56	labvalue 1162 1172	90 mg / dL
+T57	test 1173 1175	Ca
+T58	labvalue 1176 1187	8.8 mg / dL
+T59	test 1188 1190	Mg
+T60	labvalue 1191 1202	1.6 mEq / L
+T61	test 1203 1207	Phos
+T62	labvalue 1208 1219	3.3 mg / dL
+T63	test 1220 1232	Bili , Total
+T64	labvalue 1233 1244	0.2 mg / dL
+T65	labvalue 1245 1248	Low
+T66	test 1249 1266	Bili , Conjugated
+T67	labvalue 1273 1284	0.1 mg / dL
+T68	test 1285 1297	Bili , Delta
+T69	labvalue 1304 1315	0.1 mg / dL
+T70	test 1316 1326	ALT / SGPT
+T71	labvalue 1327 1336	35 IU / L
+T72	test 1337 1347	AST / SGOT
+T73	labvalue 1348 1357	36 IU / L
+T74	test 1358 1366	Alk Phos
+T75	labvalue 1367 1377	137 IU / L
+T76	labvalue 1378 1382	High
+T77	test 1383 1387	gGTP
+T78	labvalue 1388 1397	47 IU / L
+T79	labvalue 1398 1402	High
+T80	test 1403 1417	Troponin I &lt
+T81	labvalue 1420 1432	0.10 ng / mL
+T82	test 1433 1436	WBC
+T83	labvalue 1437 1452	4.7 X10E+09 / L
+T84	test 1453 1456	RBC
+T85	labvalue 1457 1473	4.31 X10E+12 / L
+T86	test 1474 1477	Hgb
+T87	labvalue 1478 1490	10.6 gm / dL
+T88	labvalue 1491 1494	Low
+T89	test 1495 1498	Hct
+T90	labvalue 1499 1505	32.1 %
+T91	labvalue 1506 1509	Low
+T92	test 1510 1513	MCV
+T93	labvalue 1514 1521	74.6 fL
+T94	labvalue 1522 1525	Low
+T95	test 1526 1529	MCH
+T96	labvalue 1530 1537	24.6 pg
+T97	labvalue 1538 1541	Low
+T98	test 1542 1546	MCHC
+T99	labvalue 1547 1559	33.0 gm / dL
+T100	test 1560 1563	RDW
+T101	labvalue 1564 1570	16.9 %
+T102	labvalue 1571 1575	High
+T103	test 1576 1579	MPV
+T104	labvalue 1580 1586	6.5 fL
+T105	labvalue 1587 1590	Low
+T106	test 1591 1600	Platelets
+T107	labvalue 1601 1616	265 X10E+09 / L
+T108	test 1617 1628	Neutrophils
+T109	labvalue 1629 1633	52 %
+T110	test 1634 1640	Lymphs
+T111	labvalue 1641 1645	30 %
+T112	test 1646 1655	Monocytes
+T113	labvalue 1656 1660	11 %
+T114	test 1661 1672	Eosinophils
+T115	labvalue 1673 1676	6 %
+T116	test 1677 1686	Basophils
+T117	labvalue 1687 1690	1 %
+T118	test 1691 1706	ABS Neutrophils
+T119	labvalue 1707 1723	2.50 X10E+09 / L
+T120	test 1724 1734	ABS Lymphs
+T121	labvalue 1735 1751	1.40 X10E+09 / L
+T122	test 1752 1765	ABS Monocytes
+T123	labvalue 1766 1782	0.50 X10E+09 / L
+T124	test 1783 1798	ABS Eosinophils
+T125	labvalue 1799 1815	0.30 X10E+09 / L
+T126	test 1816 1829	ABS Basophils
+T127	labvalue 1830 1846	0.00 X10E+09 / L
+T128	test 1855 1867	Differential
+T129	test 1868 1890	Automated Differential
+T130	problem 1923 1926	SVT
+T131	test 1929 1944	serial tropnins
+T132	labvalue 1945 1948	neg
+T133	test 1951 1954	EKG
+T134	labvalue 1957 1958	-
+T135	test 1962 1982	Exercise stress test
+T136	labvalue 1985 1986	+
+T137	problem 1989 2006	pos wall function
+T138	problem 2023 2031	ischemia
+T139	problem 2034 2056	MIld lt atrial enlarge
+T140	course 2034 2038	MIld
+T141	bodyloc 2042 2048	atrial
+T142	problem 2085 2110	stress induced chest pain
+T143	bodyloc 2100 2105	chest
+T144	test 2113 2115	EF
+T145	labvalue 2116 2122	55-60%
+T146	test 2155 2159	cath
+T147	treatment 2168 2171	ASA
+T148	treatment 2176 2179	Ace
+T149	problem 2218 2224	Asthma
+T150	drug 2236 2252	pre - medication
+T151	problem 2320 2323	SVT
+T152	treatment 2345 2353	ablation
+T153	bodyloc 2391 2395	Pulm
+T154	problem 2398 2402	COPD
+T155	negation 2438 2440	NO
+T156	problem 2441 2447	wheeze
+T157	problem 2450 2467	sputum production
+T158	problem 2480 2482	DM
+T159	treatment 2485 2488	SSI
+T160	test 2493 2503	accuchecks
+T161	test 2506 2516	Accuchecks
+T162	labvalue 2525 2532	106-150
+T163	temporal 2742 2753	Feb 10 2007
+T164	temporal 2755 2760	16:25
+T165	temporal 2803 2814	Feb 10 2007
+T166	temporal 2816 2821	16:25
+T167	temporal 2866 2877	Feb 10 2007
+T168	temporal 2879 2884	16:25
+R1	hasAttr Arg1:T7 Arg2:T6
+R2	hasAttr Arg1:T8 Arg2:T9
+R3	hasAttr Arg1:T13 Arg2:T12
+R4	hasAttr Arg1:T17 Arg2:T16
+R5	hasAttr Arg1:T19 Arg2:T20
+R6	hasAttr Arg1:T24 Arg2:T25
+R7	hasAttr Arg1:T26 Arg2:T27
+R8	hasAttr Arg1:T28 Arg2:T29
+R9	hasAttr Arg1:T30 Arg2:T31
+R10	hasAttr Arg1:T32 Arg2:T33
+R11	hasAttr Arg1:T35 Arg2:T34
+R12	hasAttr Arg1:T40 Arg2:T41
+R13	hasAttr Arg1:T42 Arg2:T43
+R14	hasAttr Arg1:T44 Arg2:T45
+R15	hasAttr Arg1:T46 Arg2:T47
+R16	hasAttr Arg1:T48 Arg2:T50
+R17	hasAttr Arg1:T48 Arg2:T49
+R18	hasAttr Arg1:T51 Arg2:T52
+R19	hasAttr Arg1:T53 Arg2:T54
+R20	hasAttr Arg1:T55 Arg2:T56
+R21	hasAttr Arg1:T57 Arg2:T58
+R22	hasAttr Arg1:T59 Arg2:T60
+R23	hasAttr Arg1:T61 Arg2:T62
+R24	hasAttr Arg1:T63 Arg2:T65
+R25	hasAttr Arg1:T63 Arg2:T64
+R26	hasAttr Arg1:T66 Arg2:T67
+R27	hasAttr Arg1:T68 Arg2:T69
+R28	hasAttr Arg1:T70 Arg2:T71
+R29	hasAttr Arg1:T72 Arg2:T73
+R30	hasAttr Arg1:T74 Arg2:T76
+R31	hasAttr Arg1:T74 Arg2:T75
+R32	hasAttr Arg1:T77 Arg2:T78
+R33	hasAttr Arg1:T77 Arg2:T79
+R34	hasAttr Arg1:T80 Arg2:T81
+R35	hasAttr Arg1:T82 Arg2:T83
+R36	hasAttr Arg1:T84 Arg2:T85
+R37	hasAttr Arg1:T86 Arg2:T88
+R38	hasAttr Arg1:T86 Arg2:T87
+R39	hasAttr Arg1:T89 Arg2:T90
+R40	hasAttr Arg1:T89 Arg2:T91
+R41	hasAttr Arg1:T92 Arg2:T93
+R42	hasAttr Arg1:T92 Arg2:T94
+R43	hasAttr Arg1:T95 Arg2:T97
+R44	hasAttr Arg1:T95 Arg2:T96
+R45	hasAttr Arg1:T98 Arg2:T99
+R46	hasAttr Arg1:T100 Arg2:T101
+R47	hasAttr Arg1:T100 Arg2:T102
+R48	hasAttr Arg1:T103 Arg2:T104
+R49	hasAttr Arg1:T103 Arg2:T105
+R50	hasAttr Arg1:T106 Arg2:T107
+R51	hasAttr Arg1:T108 Arg2:T109
+R52	hasAttr Arg1:T110 Arg2:T111
+R53	hasAttr Arg1:T112 Arg2:T113
+R54	hasAttr Arg1:T114 Arg2:T115
+R55	hasAttr Arg1:T116 Arg2:T117
+R56	hasAttr Arg1:T118 Arg2:T119
+R57	hasAttr Arg1:T120 Arg2:T121
+R58	hasAttr Arg1:T122 Arg2:T123
+R59	hasAttr Arg1:T124 Arg2:T125
+R60	hasAttr Arg1:T126 Arg2:T127
+R61	hasAttr Arg1:T131 Arg2:T132
+R62	hasAttr Arg1:T133 Arg2:T134
+R63	hasAttr Arg1:T135 Arg2:T136
+R64	hasAttr Arg1:T139 Arg2:T140
+R65	hasAttr Arg1:T139 Arg2:T141
+R66	hasAttr Arg1:T142 Arg2:T143
+R67	hasAttr Arg1:T144 Arg2:T145
+R68	hasAttr Arg1:T154 Arg2:T153
+R69	hasAttr Arg1:T157 Arg2:T155
+R70	hasAttr Arg1:T156 Arg2:T155
+R71	hasAttr Arg1:T161 Arg2:T162

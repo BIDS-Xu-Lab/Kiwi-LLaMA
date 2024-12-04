@@ -1,0 +1,54 @@
+T1	temporal 192 203	Sep 07 2007
+T2	temporal 230 239	Sep 10 07
+T3	test 371 379	a biopsy
+T4	temporal 380 385	today
+T5	problem 444 473	mild proximal muscle weakness
+T6	severity 444 448	mild
+T7	bodyloc 449 464	proximal muscle
+T8	bodyloc 477 508	her upper and lower extremities
+T9	negation 525 527	no
+T10	problem 528 553	distal extremity weakness
+T11	bodyloc 528 544	distal extremity
+T12	problem 568 610	some mild numbness in her feet bilaterally
+T13	severity 573 577	mild
+T14	bodyloc 590 610	her feet bilaterally
+T15	test 656 667	light touch
+T16	problem 694 726	a few crackles at the right base
+T17	bodyloc 712 726	the right base
+T18	problem 775 803	Increased sedimentation rate
+T19	test 806 817	white count
+T20	test 824 827	CRP
+T21	test 871 895	rheumatologic evaluation
+T22	test 906 914	biopsies
+T23	test 972 978	an EMG
+T24	test 983 1005	nerve conduction study
+T25	test 1011 1031	her temporary biopsy
+T26	labvalue 1035 1043	negative
+T27	test 1048 1055	her EMG
+T28	labvalue 1059 1067	positive
+T29	test 1084 1090	biopsy
+T30	test 1141 1159	bone marrow biopsy
+T31	test 1165 1185	her temporary biopsy
+T32	labvalue 1189 1197	negative
+T33	test 1231 1249	further evaluation
+T34	test 1270 1300	her EMG nerve conduction tests
+T35	temporal 1554 1565	Sep 10 2007
+T36	temporal 1567 1575	20:09:51
+T37	temporal 1587 1598	Sep 11 2007
+T38	temporal 1600 1608	01:39:05
+T39	temporal 1620 1631	Sep 11 2007
+T40	temporal 1633 1641	01:39:05
+T41	temporal 1768 1779	Sep 21 2007
+T42	temporal 1781 1792	09:06:39 PM
+R1	hasAttr Arg1:T3 Arg2:T4
+R2	hasAttr Arg1:T5 Arg2:T6
+R3	hasAttr Arg1:T5 Arg2:T8
+R4	hasAttr Arg1:T5 Arg2:T7
+R5	hasAttr Arg1:T10 Arg2:T9
+R6	hasAttr Arg1:T10 Arg2:T11
+R7	hasAttr Arg1:T12 Arg2:T13
+R8	hasAttr Arg1:T12 Arg2:T14
+R9	hasAttr Arg1:T16 Arg2:T17
+R10	hasAttr Arg1:T25 Arg2:T26
+R11	hasAttr Arg1:T27 Arg2:T28
+R12	hasAttr Arg1:T31 Arg2:T32

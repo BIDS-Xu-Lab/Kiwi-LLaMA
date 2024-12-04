@@ -1,0 +1,170 @@
+T1	test 121 140	an extensive workup
+T2	problem 145 170	peritoneal carcinomatosis
+T3	bodyloc 145 155	peritoneal
+T4	problem 318 343	Peritoneal carcinomatosis
+T5	bodyloc 318 328	Peritoneal
+T6	problem 391 416	Peritoneal carcinomatosis
+T7	bodyloc 391 401	Peritoneal
+T8	problem 464 472	Diarrhea
+T9	test 641 651	Cystoscopy
+T10	test 653 686	bilaterally retrograde pyelograms
+T11	treatment 688 697	insertion
+T12	treatment 701 739	bilateral externalized ureteral stents
+T13	treatment 744 766	Exploratory laparotomy
+T14	treatment 768 787	right hemicolectomy
+T15	treatment 789 804	cholecystectomy
+T16	treatment 806 817	splenectomy
+T17	treatment 819 830	omentectomy
+T18	treatment 832 836	IPHC
+T19	drug 842 853	mitomycin-C
+T20	test 971 990	an extensive workup
+T21	problem 995 1020	peritoneal carcinomatosis
+T22	bodyloc 995 1005	peritoneal
+T23	test 1123 1156	a routine preoperative evaluation
+T24	test 1167 1180	baseline labs
+T25	treatment 1182 1192	bowel prep
+T26	treatment 1214 1238	ureteral stent placement
+T27	test 1333 1345	a cystoscopy
+T28	treatment 1351 1385	bilateral ureteral stent placement
+T29	treatment 1405 1430	an exploratory laparotomy
+T30	treatment 1432 1451	right hemicolectomy
+T31	treatment 1453 1468	cholecystectomy
+T32	treatment 1470 1481	splenectomy
+T33	treatment 1483 1494	omentectomy
+T34	treatment 1500 1504	IPHC
+T35	drug 1510 1521	mitomycin-C
+T36	negation 1541 1548	without
+T37	problem 1549 1562	complications
+T38	temporal 1612 1635	one day postoperatively
+T39	problem 1640 1662	persistent tachycardia
+T40	course 1640 1650	persistent
+T41	treatment 1669 1679	extubation
+T42	problem 1940 1948	His pain
+T43	treatment 2017 2027	a PCA pump
+T44	route 2087 2091	p.o.
+T45	drug 2092 2106	pain medicines
+T46	problem 2289 2307	some mild diarrhea
+T47	severity 2294 2298	mild
+T48	temporal 2311 2338	postoperative days #3 and 4
+T49	treatment 2375 2398	his right hemicolectomy
+T50	test 2400 2415	A C. diff toxin
+T51	labvalue 2439 2447	negative
+T52	drug 2470 2477	Imodium
+T53	problem 2488 2500	his diarrhea
+T54	drug 2502 2531	His post-splenectomy vaccines
+T55	drug 2542 2587	pneumococcal, HiB, and meningococcal vaccines
+T56	temporal 2606 2632	during his hospitalization
+T57	negation 2706 2713	without
+T58	problem 2714 2724	complaints
+T59	test 2782 2797	his vital signs
+T60	labvalue 2803 2809	stable
+T61	test 2811 2843	Pertinent physical exam findings
+T62	test 2911 2923	bowel sounds
+T63	labvalue 2924 2931	present
+T64	treatment 2944 2964	His midline incision
+T65	treatment 2995 3002	staples
+T66	treatment 3066 3077	his staples
+T67	drug 3249 3262	Multivitamins
+T68	frequency 3263 3268	daily
+T69	drug 3273 3280	Lovenox
+T70	strength 3281 3296	40 mg in 0.4 mL
+T71	form 3297 3305	solution
+T72	route 3313 3327	subcutaneously
+T73	frequency 3328 3338	once daily
+T74	duration 3343 3350	14 days
+T75	drug 3355 3362	Vicodin
+T76	strength 3363 3371	5/500 mg
+T77	dosage 3381 3384	one
+T78	form 3385 3391	tablet
+T79	route 3392 3400	by mouth
+T80	frequency 3401 3417	every four hours
+T81	frequency 3418 3427	as needed
+T82	problem 3432 3436	pain
+T83	drug 3441 3450	Phenergan
+T84	strength 3451 3458	12.5 mg
+T85	form 3459 3466	tablets
+T86	dosage 3473 3476	one
+T87	form 3477 3483	tablet
+T88	route 3484 3492	by mouth
+T89	frequency 3493 3508	every six hours
+T90	frequency 3509 3515	p.r.n.
+T91	problem 3520 3526	nausea
+T92	drug 3531 3542	Imodium A-D
+T93	form 3543 3550	tablets
+T94	dosage 3556 3559	one
+T95	form 3560 3566	tablet
+T96	route 3567 3575	by mouth
+T97	frequency 3576 3582	b.i.d.
+T98	frequency 3583 3592	as needed
+T99	problem 3597 3605	diarrhea
+T100	condition 3765 3767	if
+T101	problem 3782 3807	fevers greater than 101.4
+T102	problem 3809 3815	chills
+T103	problem 3817 3823	nausea
+T104	problem 3827 3836	vomitting
+T105	problem 3838 3857	continuing diarrhea
+T106	problem 3859 3866	redness
+T107	problem 3868 3876	drainage
+T108	problem 3881 3887	warmth
+T109	treatment 3895 3912	his incision site
+T110	treatment 3979 3990	his staples
+T111	negation 3999 4006	removed
+T112	problem 4138 4152	carcinomatosis
+T113	treatment 4196 4211	stent placement
+T114	treatment 4232 4247	ureteral stents
+T115	problem 4249 4274	peritoneal carcinomatosis
+T116	bodyloc 4249 4259	peritoneal
+T117	treatment 4318 4327	insertion
+T118	treatment 4329 4342	hemicolectomy
+T119	treatment 4344 4355	splenectomy
+T120	problem 4399 4413	carcinomatosis
+R1	hasAttr Arg1:T2 Arg2:T3
+R2	hasAttr Arg1:T4 Arg2:T5
+R3	hasAttr Arg1:T6 Arg2:T7
+R4	hasAttr Arg1:T21 Arg2:T22
+R5	hasAttr Arg1:T37 Arg2:T36
+R6	hasAttr Arg1:T39 Arg2:T38
+R7	hasAttr Arg1:T39 Arg2:T40
+R8	hasAttr Arg1:T45 Arg2:T44
+R9	hasAttr Arg1:T46 Arg2:T47
+R10	hasAttr Arg1:T46 Arg2:T48
+R11	hasAttr Arg1:T50 Arg2:T51
+R12	hasAttr Arg1:T55 Arg2:T56
+R13	hasAttr Arg1:T58 Arg2:T57
+R14	hasAttr Arg1:T59 Arg2:T60
+R15	hasAttr Arg1:T62 Arg2:T63
+R16	hasAttr Arg1:T67 Arg2:T68
+R17	hasAttr Arg1:T69 Arg2:T73
+R18	hasAttr Arg1:T69 Arg2:T72
+R19	hasAttr Arg1:T69 Arg2:T71
+R20	hasAttr Arg1:T69 Arg2:T74
+R21	hasAttr Arg1:T69 Arg2:T70
+R22	hasAttr Arg1:T75 Arg2:T81
+R23	hasAttr Arg1:T75 Arg2:T77
+R24	hasAttr Arg1:T75 Arg2:T78
+R25	hasAttr Arg1:T75 Arg2:T79
+R26	hasAttr Arg1:T75 Arg2:T76
+R27	hasAttr Arg1:T75 Arg2:T80
+R28	hasAttr Arg1:T83 Arg2:T88
+R29	hasAttr Arg1:T83 Arg2:T84
+R30	hasAttr Arg1:T83 Arg2:T89
+R31	hasAttr Arg1:T83 Arg2:T85
+R32	hasAttr Arg1:T83 Arg2:T90
+R33	hasAttr Arg1:T83 Arg2:T86
+R34	hasAttr Arg1:T83 Arg2:T87
+R35	hasAttr Arg1:T92 Arg2:T98
+R36	hasAttr Arg1:T92 Arg2:T94
+R37	hasAttr Arg1:T92 Arg2:T97
+R38	hasAttr Arg1:T92 Arg2:T93
+R39	hasAttr Arg1:T92 Arg2:T96
+R40	hasAttr Arg1:T92 Arg2:T95
+R41	hasAttr Arg1:T102 Arg2:T100
+R42	hasAttr Arg1:T107 Arg2:T100
+R43	hasAttr Arg1:T105 Arg2:T100
+R44	hasAttr Arg1:T108 Arg2:T100
+R45	hasAttr Arg1:T106 Arg2:T100
+R46	hasAttr Arg1:T103 Arg2:T100
+R47	hasAttr Arg1:T101 Arg2:T100
+R48	hasAttr Arg1:T104 Arg2:T100
+R49	hasAttr Arg1:T110 Arg2:T111
+R50	hasAttr Arg1:T115 Arg2:T116

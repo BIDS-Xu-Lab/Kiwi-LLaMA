@@ -1,0 +1,73 @@
+T1	problem 64 70	Nausea
+T2	problem 73 81	Vomiting
+T3	problem 179 197	intractable nausea
+T4	problem 202 210	vomiting
+T5	problem 216 234	blood-tinged vomit
+T6	problem 244 263	approximately worse
+T7	problem 520 538	intractable nausea
+T8	problem 543 551	vomiting
+T9	problem 557 575	blood-tinged vomit
+T10	problem 585 604	approximately worse
+T11	problem 1009 1026	slight low sodium
+T12	test 1029 1038	potassium
+T13	test 1061 1068	her ALT
+T14	labvalue 1072 1074	93
+T15	test 1077 1080	AST
+T16	labvalue 1084 1086	35
+T17	test 1089 1104	total bilirubin
+T18	labvalue 1108 1111	1.2
+T19	labvalue 1128 1130	3+
+T20	test 1131 1138	ketones
+T21	labvalue 1141 1143	2+
+T22	test 1144 1151	protein
+T23	labvalue 1158 1160	1+
+T24	test 1161 1169	esterase
+T25	test 1176 1179	rbc
+T26	problem 1226 1234	bacteria
+T27	test 1237 1244	H and H
+T28	labvalue 1255 1259	14.1
+T29	labvalue 1264 1268	48.7
+T30	drug 1311 1320	Phenergan
+T31	drug 1325 1331	Zofran
+T32	form 1332 1334	IV
+T33	drug 1362 1371	hydration
+T34	drug 1399 1407	Rocephin
+T35	problem 1417 1434	bladder infection
+T36	bodyloc 1417 1424	bladder
+T37	problem 1466 1472	nausea
+T38	problem 1477 1485	vomiting
+T39	problem 1498 1526	only one episode of vomiting
+T40	drug 1543 1549	Maalox
+T41	treatment 1562 1568	fluids
+T42	test 1593 1611	Followup chemistry
+T43	test 1629 1632	AST
+T44	test 1635 1638	ALT
+T45	test 1673 1686	lab variables
+T46	problem 1799 1825	one hyperemesis gravidarum
+T47	form 1836 1838	IV
+T48	drug 1839 1848	hydration
+T49	problem 1869 1890	Slightly elevated ALT
+T50	severity 1869 1877	Slightly
+T51	course 1878 1886	elevated
+T52	problem 1926 1932	nausea
+T53	problem 1937 1945	vomiting
+T54	form 2010 2012	iv
+T55	drug 2013 2022	hydration
+T56	problem 2025 2037	elevated alt
+T57	problem 2052 2058	nausea
+T58	problem 2061 2069	vomiting
+R1	hasAttr Arg1:T13 Arg2:T14
+R2	hasAttr Arg1:T15 Arg2:T16
+R3	hasAttr Arg1:T17 Arg2:T18
+R4	hasAttr Arg1:T20 Arg2:T19
+R5	hasAttr Arg1:T22 Arg2:T21
+R6	hasAttr Arg1:T24 Arg2:T23
+R7	hasAttr Arg1:T27 Arg2:T28
+R8	hasAttr Arg1:T27 Arg2:T29
+R9	hasAttr Arg1:T30 Arg2:T32
+R10	hasAttr Arg1:T31 Arg2:T32
+R11	hasAttr Arg1:T35 Arg2:T36
+R12	hasAttr Arg1:T48 Arg2:T47
+R13	hasAttr Arg1:T49 Arg2:T50
+R14	hasAttr Arg1:T49 Arg2:T51
+R15	hasAttr Arg1:T55 Arg2:T54

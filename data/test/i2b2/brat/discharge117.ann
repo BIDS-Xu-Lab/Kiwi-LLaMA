@@ -1,0 +1,72 @@
+T1	temporal 108 119	Mar 18 2007
+T2	temporal 141 152	Mar 20 2007
+T3	problem 228 259	Gastroesophageal reflux disease
+T4	bodyloc 228 244	Gastroesophageal
+T5	treatment 303 324	Nissen fundoplication
+T6	problem 455 461	asthma
+T7	problem 464 472	migraine
+T8	problem 475 487	fibromyalgia
+T9	problem 490 503	panic attacks
+T10	problem 506 518	hypertension
+T11	problem 521 535	hypothyroidism
+T12	problem 538 553	eating disorder
+T13	treatment 556 568	appendectomy
+T14	treatment 571 586	cholecystectomy
+T15	treatment 589 602	tonsillectomy
+T16	problem 609 622	kidney stones
+T17	bodyloc 609 615	kidney
+T18	temporal 687 698	Mar 18 2007
+T19	treatment 729 750	Nissen fundoplication
+T20	problem 788 798	her reflux
+T21	treatment 801 824	a Nissen fundoplication
+T22	treatment 830 848	gastroduodenoscopy
+T23	negation 876 878	no
+T24	problem 879 892	complications
+T25	treatment 909 922	the procedure
+T26	treatment 931 943	this surgery
+T27	temporal 1010 1015	Today
+T28	test 1021 1025	exam
+T29	test 1035 1067	awake , alert , and oriented x 3
+T30	negation 1130 1132	no
+T31	problem 1145 1167	any cranial neuropathy
+T32	test 1170 1181	Temperature
+T33	labvalue 1185 1189	37.0
+T34	test 1192 1202	heart rate
+T35	labvalue 1206 1208	80
+T36	test 1211 1227	respiratory rate
+T37	labvalue 1231 1233	20
+T38	test 1243 1253	saturating
+T39	labvalue 1254 1257	96%
+T40	test 1276 1290	blood pressure
+T41	labvalue 1294 1300	129/78
+T42	problem 1427 1462	mild pain in the right costal angle
+T43	severity 1427 1431	mild
+T44	bodyloc 1444 1462	right costal angle
+T45	problem 1526 1552	a normal postsurgical pain
+T46	test 1555 1569	Barium swallow
+T47	test 1575 1589	a reflux study
+T48	temporal 1614 1625	Mar 19 2007
+T49	negation 1733 1735	no
+T50	problem 1748 1754	reflux
+T51	drug 1914 1936	pain control medicines
+T52	temporal 2038 2049	Mar 20 2007
+T53	temporal 2051 2056	14:55
+T54	temporal 2068 2079	Mar 22 2007
+T55	temporal 2081 2086	04:16
+R1	hasAttr Arg1:T3 Arg2:T4
+R2	hasAttr Arg1:T16 Arg2:T17
+R3	hasAttr Arg1:T19 Arg2:T18
+R4	hasAttr Arg1:T24 Arg2:T23
+R5	hasAttr Arg1:T28 Arg2:T27
+R6	hasAttr Arg1:T29 Arg2:T27
+R7	hasAttr Arg1:T31 Arg2:T30
+R8	hasAttr Arg1:T32 Arg2:T33
+R9	hasAttr Arg1:T34 Arg2:T35
+R10	hasAttr Arg1:T36 Arg2:T37
+R11	hasAttr Arg1:T38 Arg2:T39
+R12	hasAttr Arg1:T40 Arg2:T41
+R13	hasAttr Arg1:T42 Arg2:T44
+R14	hasAttr Arg1:T42 Arg2:T43
+R15	hasAttr Arg1:T46 Arg2:T48
+R16	hasAttr Arg1:T47 Arg2:T48
+R17	hasAttr Arg1:T50 Arg2:T49

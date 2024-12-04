@@ -1,0 +1,8 @@
+Sample Type / Medical Specialty: General Medicine
+Sample Name: Normal ROS Template - 1
+Description: There was no weight loss, fevers, chills, sweats. There is no blurring of the vision, itching, throat or neck pain, or neck fullness. There is no vertigo or hoarseness or painful swallowing.
+(Medical Transcription Sample Report)
+REVIEW OF SYSTEMS
+There was no weight loss, fevers, chills, sweats. There is no blurring of the vision, itching, throat or neck pain, or neck fullness. There is no vertigo or hoarseness or painful swallowing. There is no chest pain, shortness of breath, paroxysmal nocturnal dyspnea, or chest pain with exertion. There is no shortness of breath and no cough or hemoptysis. No melena, nausea, vomiting, dysphagia, abdominal pain, diarrhea, constipation or blood in the stools. No dysuria, hematuria or excessive urination. No muscle weakness or tenderness. No new numbness or tingling. No arthralgias or arthritis. There are no rashes. No excessive fatigability, loss of motor skills or sensation. No changes in hair texture, change in skin color, excessive or decreased appetite. No swollen lymph nodes or night sweats. No headaches. The rest of the review of systems is negative.
+Keywords:
+general medicine, weight loss, fevers, chills, sweats, melena, nausea, vomiting, dysphagia, abdominal pain, diarrhea, constipation, itching throat, neck fullness, painful swallowing, breath, loss, neck,

@@ -1,0 +1,40 @@
+T1	temporal 172 183	Oct 19 2007
+T2	temporal 209 220	Oct 26 2007
+T3	treatment 298 306	LP shunt
+T4	temporal 350 358	Jul 2007
+T5	problem 384 393	headaches
+T6	uncertain 398 406	possible
+T7	problem 407 420	shunt failure
+T8	problem 503 514	papilledema
+T9	test 517 529	Shunt series
+T10	labvalue 547 553	intact
+T11	problem 579 592	hydrocephalus
+T12	test 631 642	LP cultures
+T13	treatment 652 667	repeat VP shunt
+T14	temporal 709 728	postoperative day 1
+T15	treatment 729 743	shunt revision
+T16	negation 750 756	denied
+T17	problem 757 765	headache
+T18	problem 825 842	a slight headache
+T19	severity 827 833	slight
+T20	route 876 880	oral
+T21	drug 881 896	pain medication
+T22	drug 899 906	Vicodin
+T23	problem 1056 1062	fevers
+T24	problem 1065 1074	headaches
+T25	problem 1077 1091	vision changes
+T26	problem 1097 1111	other problems
+T27	temporal 1222 1233	Nov 10 2007
+T28	temporal 1235 1243	12:46:32
+T29	temporal 1255 1266	Nov 11 2007
+T30	temporal 1268 1276	01:33:01
+T31	temporal 1288 1299	Nov 11 2007
+T32	temporal 1301 1309	01:33:01
+T33	temporal 1433 1444	Nov 19 2007
+T34	temporal 1446 1457	07:41:18 AM
+R1	hasAttr Arg1:T7 Arg2:T6
+R2	hasAttr Arg1:T9 Arg2:T10
+R3	hasTemporal Arg1:T15 Arg2:T14
+R4	hasAttr Arg1:T17 Arg2:T16
+R5	hasAttr Arg1:T18 Arg2:T19
+R6	hasAttr Arg1:T21 Arg2:T20

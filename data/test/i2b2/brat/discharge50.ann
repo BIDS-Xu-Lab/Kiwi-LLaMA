@@ -1,0 +1,74 @@
+T1	temporal 177 188	Dec 05 2007
+T2	temporal 212 221	Dec 06 07
+T3	problem 253 278	acute right heart failure
+T4	course 253 258	acute
+T5	bodyloc 265 270	heart
+T6	problem 286 304	pulmonary embolism
+T7	bodyloc 286 295	pulmonary
+T8	problem 438 460	pulmonary hypertension
+T9	bodyloc 438 447	pulmonary
+T10	problem 465 484	right heart failure
+T11	bodyloc 465 476	right heart
+T12	problem 507 511	gout
+T13	problem 609 613	pain
+T14	treatment 630 646	his home regimen
+T15	drug 650 659	methadone
+T16	drug 664 672	Dilaudid
+T17	temporal 712 723	the evening
+T18	temporal 734 744	Dec 5 2007
+T19	dosage 767 768	3
+T20	strength 778 782	8 mg
+T21	drug 786 794	Dilaudid
+T22	problem 820 828	his pain
+T23	test 843 855	a blood work
+T24	test 871 881	hemoglobin
+T25	labvalue 885 888	6.6
+T26	test 894 907	a white count
+T27	labvalue 911 915	11.5
+T28	test 918 932	His hemoglobin
+T29	treatment 987 1006	respiratory support
+T30	problem 1059 1086	right lower lobe infiltrate
+T31	bodyloc 1059 1075	right lower lobe
+T32	test 1091 1102	chest x-ray
+T33	temporal 1148 1165	the early morning
+T34	temporal 1176 1186	Dec 6 2007
+T35	problem 1203 1215	unresponsive
+T36	test 1237 1252	his vital signs
+T37	problem 1293 1318	acute shortness of breath
+T38	course 1293 1298	acute
+T39	problem 1323 1342	inability to breath
+T40	treatment 1371 1390	supplemental oxygen
+T41	problem 1496 1514	bradycardia rhythm
+T42	problem 1536 1555	agonal respirations
+T43	treatment 1574 1584	intubation
+T44	problem 1633 1666	massive secretions in his pharynx
+T45	bodyloc 1655 1666	his pharynx
+T46	treatment 1720 1746	full cardiac resuscitation
+T47	problem 1819 1840	an agonal respiration
+T48	problem 1858 1862	dead
+T49	temporal 1899 1910	the morning
+T50	temporal 1921 1931	Dec 6 2007
+T51	negation 1935 1937	No
+T52	test 1938 1945	autopsy
+T53	temporal 2064 2075	Dec 15 2007
+T54	temporal 2077 2085	15:40:01
+T55	temporal 2097 2108	Dec 15 2007
+T56	temporal 2110 2118	17:20:05
+T57	temporal 2130 2141	Dec 15 2007
+T58	temporal 2143 2151	17:20:05
+T59	temporal 2277 2288	Dec 17 2007
+T60	temporal 2290 2301	09:06:21 AM
+R1	hasAttr Arg1:T3 Arg2:T4
+R2	hasAttr Arg1:T6 Arg2:T7
+R3	hasAttr Arg1:T8 Arg2:T9
+R4	hasAttr Arg1:T10 Arg2:T11
+R5	hasAttr Arg1:T21 Arg2:T19
+R6	hasAttr Arg1:T21 Arg2:T20
+R7	hasAttr Arg1:T24 Arg2:T25
+R8	hasAttr Arg1:T26 Arg2:T27
+R9	hasAttr Arg1:T30 Arg2:T31
+R10	hasAttr Arg1:T35 Arg2:T33
+R11	hasAttr Arg1:T35 Arg2:T34
+R12	hasAttr Arg1:T37 Arg2:T38
+R13	hasAttr Arg1:T44 Arg2:T45
+R14	hasAttr Arg1:T52 Arg2:T51

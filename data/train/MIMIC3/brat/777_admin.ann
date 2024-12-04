@@ -1,0 +1,408 @@
+T1	temporal 19 29	2162-12-21
+T2	temporal 52 60	2163-1-3
+T3	problem 88 97	Allergies
+T4	drug 99 110	Penicillins
+T5	drug 113 121	Percocet
+T6	problem 207 210	DOE
+T7	temporal 215 228	the past year
+T8	treatment 268 292	Aortic valve replacement
+T9	temporal 315 325	2162-12-21
+T10	problem 395 398	DOE
+T11	temporal 403 409	1 year
+T12	test 411 418	An echo
+T13	temporal 425 430	3-11*
+T14	treatment 490 502	cardiac cath
+T15	temporal 509 519	2162-11-15
+T16	test 539 555	AV peak gradient
+T17	labvalue 559 565	64mmHg
+T18	labvalue 604 607	30%
+T19	test 608 612	LMCA
+T20	problem 614 627	40% D1 lesion
+T21	problem 629 645	50% RCA stenosis
+T22	problem 651 664	pulmonary HTN
+T23	treatment 690 702	elective AVR
+T24	problem 726 729	HTN
+T25	test 731 737	Lipids
+T26	treatment 745 749	PTCA
+T27	problem 753 755	D1
+T28	temporal 759 763	9/95
+T29	treatment 768 784	cataract removal
+T30	treatment 983 986	N/C
+T31	test 993 997	EOMI
+T32	test 999 1004	PERLA
+T33	negation 1044 1046	no
+T34	problem 1047 1062	lymphadenopathy
+T35	problem 1066 1077	thyromegaly
+T36	problem 1079 1087	carotids
+T37	problem 1088 1113	2+ w/ + radiating murmurs
+T38	labvalue 1122 1127	Clear
+T39	test 1131 1134	A+P
+T40	bodyloc 1135 1137	CV
+T41	problem 1146 1156	III/VI SEM
+T42	negation 1186 1193	without
+T43	problem 1194 1200	masses
+T44	problem 1204 1222	hepatosplenomegaly
+T45	negation 1229 1234	w/out
+T46	problem 1235 1243	clubbing
+T47	problem 1247 1255	cyanosis
+T48	problem 1257 1277	1+ pedal edema bilat
+T49	test 1280 1286	pulses
+T50	test 1314 1318	R PT
+T51	labvalue 1323 1325	1+
+T52	test 1374 1394	COMPLETE BLOOD COUNT
+T53	test 1395 1398	WBC
+T54	test 1399 1402	RBC
+T55	test 1403 1406	Hgb
+T56	test 1407 1410	Hct
+T57	test 1411 1414	MCV
+T58	test 1415 1418	MCH
+T59	test 1419 1423	MCHC
+T60	test 1424 1427	RDW
+T61	test 1428 1434	Plt Ct
+T62	temporal 1439 1447	2163-1-3
+T63	temporal 1451 1458	09:43AM
+T64	labvalue 1459 1462	9.1
+T65	labvalue 1463 1467	3.61
+T66	labvalue 1469 1473	11.1
+T67	labvalue 1475 1479	34.2
+T68	labvalue 1481 1483	95
+T69	labvalue 1484 1488	30.6
+T70	labvalue 1489 1493	32.3
+T71	labvalue 1494 1498	14.0
+T72	labvalue 1499 1502	430
+T73	test 1503 1520	BASIC COAGULATION
+T74	test 1522 1524	PT
+T75	test 1526 1529	PTT
+T76	test 1531 1534	PLT
+T77	test 1536 1539	INR
+T78	test 1541 1543	PT
+T79	test 1544 1547	PTT
+T80	test 1548 1554	Plt Ct
+T81	test 1555 1562	INR(PT)
+T82	temporal 1567 1575	2163-1-3
+T83	temporal 1579 1586	09:43AM
+T84	test 1591 1600	Chemistry
+T85	test 1601 1616	RENAL & GLUCOSE
+T86	test 1617 1624	Glucose
+T87	test 1625 1630	UreaN
+T88	test 1631 1636	Creat
+T89	test 1637 1639	Na
+T90	test 1640 1641	K
+T91	test 1642 1644	Cl
+T92	test 1645 1649	HCO3
+T93	test 1650 1655	AnGap
+T94	temporal 1660 1668	2163-1-3
+T95	temporal 1672 1679	09:43AM
+T96	labvalue 1680 1683	171
+T97	labvalue 1685 1687	19
+T98	labvalue 1688 1691	1.1
+T99	labvalue 1692 1695	138
+T100	labvalue 1696 1699	4.2
+T101	labvalue 1700 1702	98
+T102	labvalue 1703 1705	32
+T103	labvalue 1707 1709	12
+T104	test 1710 1712	PT
+T105	labvalue 1714 1718	43.9
+T106	test 1719 1722	INR
+T107	labvalue 1724 1727	1.6
+T108	temporal 1757 1767	2162-12-21
+T109	treatment 1800 1812	elective AVR
+T110	treatment 1828 1831	AVR
+T111	treatment 1839 1894	21mm CE Perimount Magna Pericardial Bioprosthetic valve
+T112	test 1896 1912	Cross clamp time
+T113	labvalue 1917 1925	68 mons.
+T114	test 1927 1944	total bypass time
+T115	labvalue 1949 1957	101 mins
+T116	drug 2014 2017	Neo
+T117	drug 2022 2030	Propofol
+T118	treatment 2117 2140	epicardial pacing wires
+T119	drug 2220 2224	Amio
+T120	drug 2226 2234	coumadin
+T121	drug 2240 2247	heparin
+T122	drug 2413 2417	HCTZ
+T123	strength 2418 2425	12.5 mg
+T124	route 2426 2428	PO
+T125	frequency 2429 2434	daily
+T126	drug 2436 2446	Lisinopril
+T127	strength 2447 2452	20 mg
+T128	route 2453 2455	PO
+T129	frequency 2456 2461	daily
+T130	drug 2463 2470	Lipitor
+T131	strength 2471 2476	20 mg
+T132	route 2478 2480	PO
+T133	frequency 2481 2486	daily
+T134	drug 2488 2491	ASA
+T135	strength 2492 2497	81 mg
+T136	route 2498 2500	PO
+T137	frequency 2501 2506	daily
+T138	drug 2508 2513	Vit E
+T139	strength 2514 2520	400 mg
+T140	route 2521 2523	PO
+T141	frequency 2524 2529	daily
+T142	drug 2531 2540	Lopressor
+T143	strength 2541 2543	25
+T144	drug 2609 2624	Docusate Sodium
+T145	strength 2625 2631	100 mg
+T146	form 2632 2639	Capsule
+T147	dosage 2645 2652	One (1)
+T148	form 2653 2660	Capsule
+T149	route 2661 2663	PO
+T150	frequency 2664 2683	BID (2 times a day)
+T151	drug 2688 2695	Aspirin
+T152	strength 2696 2701	81 mg
+T153	form 2702 2725	Tablet, Delayed Release
+T154	dosage 2738 2745	One (1)
+T155	form 2746 2769	Tablet, Delayed Release
+T156	route 2777 2779	PO
+T157	frequency 2780 2793	DAILY (Daily)
+T158	drug 2798 2815	Hydromorphone HCl
+T159	strength 2816 2820	2 mg
+T160	form 2821 2827	Tablet
+T161	dosage 2833 2836	1-2
+T162	form 2837 2844	Tablets
+T163	route 2845 2847	PO
+T164	frequency 2848 2856	Q3-4H ()
+T165	frequency 2857 2866	as needed
+T166	drug 2871 2891	Atorvastatin Calcium
+T167	strength 2892 2897	20 mg
+T168	form 2898 2904	Tablet
+T169	dosage 2910 2917	One (1)
+T170	form 2918 2924	Tablet
+T171	route 2925 2927	PO
+T172	frequency 2928 2941	DAILY (Daily)
+T173	drug 2946 2960	Amiodarone HCl
+T174	strength 2961 2967	200 mg
+T175	form 2968 2974	Tablet
+T176	dosage 2980 2987	One (1)
+T177	form 2988 2994	Tablet
+T178	route 2995 2997	PO
+T179	frequency 2998 3017	BID (2 times a day)
+T180	duration 3022 3028	7 days
+T181	strength 3052 3058	200 mg
+T182	route 3059 3061	PO
+T183	frequency 3062 3067	daily
+T184	drug 3072 3080	Atenolol
+T185	strength 3081 3086	25 mg
+T186	form 3087 3093	Tablet
+T187	dosage 3099 3106	One (1)
+T188	form 3107 3113	Tablet
+T189	route 3114 3116	PO
+T190	frequency 3117 3127	once a day
+T191	drug 3132 3137	Lasix
+T192	strength 3138 3143	40 mg
+T193	form 3144 3150	Tablet
+T194	dosage 3156 3163	One (1)
+T195	form 3164 3170	Tablet
+T196	route 3171 3173	PO
+T197	frequency 3174 3185	twice a day
+T198	duration 3190 3197	10 days
+T199	drug 3202 3220	Potassium Chloride
+T200	strength 3221 3227	10 mEq
+T201	form 3228 3254	Capsule, Sustained Release
+T202	dosage 3260 3267	Two (2)
+T203	form 3268 3294	Capsule, Sustained Release
+T204	route 3295 3297	PO
+T205	frequency 3298 3319	Q12H (every 12 hours)
+T206	duration 3324 3331	10 days
+T207	drug 3336 3343	Lipitor
+T208	strength 3344 3349	20 mg
+T209	form 3350 3356	Tablet
+T210	dosage 3362 3369	One (1)
+T211	form 3370 3376	Tablet
+T212	route 3377 3379	PO
+T213	frequency 3380 3390	once a day
+T214	drug 3396 3404	Coumadin
+T215	strength 3405 3409	5 mg
+T216	form 3410 3416	Tablet
+T217	dosage 3422 3429	One (1)
+T218	form 3430 3436	Tablet
+T219	route 3437 3439	PO
+T220	frequency 3440 3450	at bedtime
+T221	duration 3455 3461	2 days
+T222	test 3484 3490	an INR
+T223	problem 3631 3646	Aortic Stenosis
+T224	bodyloc 3631 3637	Aortic
+T225	drug 3705 3716	medications
+T226	problem 3863 3869	wounds
+T227	temporal 4074 4082	2163-1-3
+R1	hasAttr Arg1:T6 Arg2:T7
+R2	hasAttr Arg1:T8 Arg2:T9
+R3	hasAttr Arg1:T10 Arg2:T11
+R4	hasAttr Arg1:T12 Arg2:T13
+R5	hasAttr Arg1:T14 Arg2:T15
+R6	hasAttr Arg1:T16 Arg2:T17
+R7	hasAttr Arg1:T19 Arg2:T18
+R8	hasAttr Arg1:T26 Arg2:T28
+R9	hasAttr Arg1:T27 Arg2:T28
+R10	hasAttr Arg1:T36 Arg2:T33
+R11	hasAttr Arg1:T34 Arg2:T33
+R12	hasAttr Arg1:T35 Arg2:T33
+R13	hasAttr Arg1:T37 Arg2:T33
+R14	hasAttr Arg1:T39 Arg2:T38
+R15	hasAttr Arg1:T41 Arg2:T40
+R16	hasAttr Arg1:T43 Arg2:T42
+R17	hasAttr Arg1:T44 Arg2:T42
+R18	hasAttr Arg1:T46 Arg2:T45
+R19	hasAttr Arg1:T47 Arg2:T45
+R20	hasAttr Arg1:T50 Arg2:T51
+R21	hasAttr Arg1:T52 Arg2:T62
+R22	hasAttr Arg1:T52 Arg2:T63
+R23	hasAttr Arg1:T53 Arg2:T64
+R24	hasAttr Arg1:T53 Arg2:T62
+R25	hasAttr Arg1:T53 Arg2:T63
+R26	hasAttr Arg1:T54 Arg2:T65
+R27	hasAttr Arg1:T54 Arg2:T62
+R28	hasAttr Arg1:T54 Arg2:T63
+R29	hasAttr Arg1:T55 Arg2:T66
+R30	hasAttr Arg1:T55 Arg2:T62
+R31	hasAttr Arg1:T55 Arg2:T63
+R32	hasAttr Arg1:T56 Arg2:T67
+R33	hasAttr Arg1:T56 Arg2:T62
+R34	hasAttr Arg1:T56 Arg2:T63
+R35	hasAttr Arg1:T57 Arg2:T68
+R36	hasAttr Arg1:T57 Arg2:T62
+R37	hasAttr Arg1:T57 Arg2:T63
+R38	hasAttr Arg1:T58 Arg2:T69
+R39	hasAttr Arg1:T58 Arg2:T62
+R40	hasAttr Arg1:T58 Arg2:T63
+R41	hasAttr Arg1:T59 Arg2:T70
+R42	hasAttr Arg1:T59 Arg2:T62
+R43	hasAttr Arg1:T59 Arg2:T63
+R44	hasAttr Arg1:T60 Arg2:T71
+R45	hasAttr Arg1:T60 Arg2:T62
+R46	hasAttr Arg1:T60 Arg2:T63
+R47	hasAttr Arg1:T61 Arg2:T72
+R48	hasAttr Arg1:T61 Arg2:T62
+R49	hasAttr Arg1:T61 Arg2:T63
+R50	hasAttr Arg1:T73 Arg2:T83
+R51	hasAttr Arg1:T73 Arg2:T82
+R52	hasAttr Arg1:T74 Arg2:T83
+R53	hasAttr Arg1:T74 Arg2:T82
+R54	hasAttr Arg1:T75 Arg2:T82
+R55	hasAttr Arg1:T75 Arg2:T83
+R56	hasAttr Arg1:T76 Arg2:T82
+R57	hasAttr Arg1:T76 Arg2:T83
+R58	hasAttr Arg1:T77 Arg2:T82
+R59	hasAttr Arg1:T77 Arg2:T83
+R60	hasAttr Arg1:T78 Arg2:T82
+R61	hasAttr Arg1:T78 Arg2:T83
+R62	hasAttr Arg1:T79 Arg2:T82
+R63	hasAttr Arg1:T79 Arg2:T83
+R64	hasAttr Arg1:T80 Arg2:T82
+R65	hasAttr Arg1:T80 Arg2:T83
+R66	hasAttr Arg1:T81 Arg2:T82
+R67	hasAttr Arg1:T81 Arg2:T83
+R68	hasAttr Arg1:T86 Arg2:T96
+R69	hasAttr Arg1:T86 Arg2:T94
+R70	hasAttr Arg1:T86 Arg2:T95
+R71	hasAttr Arg1:T87 Arg2:T97
+R72	hasAttr Arg1:T87 Arg2:T94
+R73	hasAttr Arg1:T87 Arg2:T95
+R74	hasAttr Arg1:T88 Arg2:T98
+R75	hasAttr Arg1:T88 Arg2:T94
+R76	hasAttr Arg1:T88 Arg2:T95
+R77	hasAttr Arg1:T89 Arg2:T99
+R78	hasAttr Arg1:T89 Arg2:T94
+R79	hasAttr Arg1:T89 Arg2:T95
+R80	hasAttr Arg1:T90 Arg2:T100
+R81	hasAttr Arg1:T90 Arg2:T94
+R82	hasAttr Arg1:T90 Arg2:T95
+R83	hasAttr Arg1:T91 Arg2:T101
+R84	hasAttr Arg1:T91 Arg2:T94
+R85	hasAttr Arg1:T91 Arg2:T95
+R86	hasAttr Arg1:T92 Arg2:T102
+R87	hasAttr Arg1:T92 Arg2:T94
+R88	hasAttr Arg1:T92 Arg2:T95
+R89	hasAttr Arg1:T93 Arg2:T103
+R90	hasAttr Arg1:T93 Arg2:T94
+R91	hasAttr Arg1:T93 Arg2:T95
+R92	hasAttr Arg1:T104 Arg2:T105
+R93	hasAttr Arg1:T106 Arg2:T107
+R94	hasAttr Arg1:T109 Arg2:T108
+R95	hasAttr Arg1:T112 Arg2:T113
+R96	hasAttr Arg1:T114 Arg2:T115
+R97	hasAttr Arg1:T122 Arg2:T125
+R98	hasAttr Arg1:T122 Arg2:T124
+R99	hasAttr Arg1:T122 Arg2:T123
+R100	hasAttr Arg1:T126 Arg2:T127
+R101	hasAttr Arg1:T126 Arg2:T128
+R102	hasAttr Arg1:T126 Arg2:T129
+R103	hasAttr Arg1:T130 Arg2:T133
+R104	hasAttr Arg1:T130 Arg2:T131
+R105	hasAttr Arg1:T130 Arg2:T132
+R106	hasAttr Arg1:T134 Arg2:T137
+R107	hasAttr Arg1:T134 Arg2:T135
+R108	hasAttr Arg1:T134 Arg2:T136
+R109	hasAttr Arg1:T138 Arg2:T139
+R110	hasAttr Arg1:T138 Arg2:T141
+R111	hasAttr Arg1:T138 Arg2:T140
+R112	hasAttr Arg1:T142 Arg2:T143
+R113	hasAttr Arg1:T144 Arg2:T147
+R114	hasAttr Arg1:T144 Arg2:T150
+R115	hasAttr Arg1:T144 Arg2:T145
+R116	hasAttr Arg1:T144 Arg2:T148
+R117	hasAttr Arg1:T144 Arg2:T146
+R118	hasAttr Arg1:T144 Arg2:T149
+R119	hasAttr Arg1:T151 Arg2:T157
+R120	hasAttr Arg1:T151 Arg2:T156
+R121	hasAttr Arg1:T151 Arg2:T153
+R122	hasAttr Arg1:T151 Arg2:T152
+R123	hasAttr Arg1:T151 Arg2:T155
+R124	hasAttr Arg1:T151 Arg2:T154
+R125	hasAttr Arg1:T158 Arg2:T159
+R126	hasAttr Arg1:T158 Arg2:T164
+R127	hasAttr Arg1:T158 Arg2:T162
+R128	hasAttr Arg1:T158 Arg2:T163
+R129	hasAttr Arg1:T158 Arg2:T160
+R130	hasAttr Arg1:T158 Arg2:T161
+R131	hasAttr Arg1:T158 Arg2:T165
+R132	hasAttr Arg1:T166 Arg2:T171
+R133	hasAttr Arg1:T166 Arg2:T169
+R134	hasAttr Arg1:T166 Arg2:T170
+R135	hasAttr Arg1:T166 Arg2:T167
+R136	hasAttr Arg1:T166 Arg2:T168
+R137	hasAttr Arg1:T166 Arg2:T172
+R138	hasAttr Arg1:T173 Arg2:T179
+R139	hasAttr Arg1:T173 Arg2:T178
+R140	hasAttr Arg1:T173 Arg2:T174
+R141	hasAttr Arg1:T173 Arg2:T177
+R142	hasAttr Arg1:T173 Arg2:T183
+R143	hasAttr Arg1:T173 Arg2:T176
+R144	hasAttr Arg1:T173 Arg2:T175
+R145	hasAttr Arg1:T173 Arg2:T182
+R146	hasAttr Arg1:T173 Arg2:T181
+R147	hasAttr Arg1:T173 Arg2:T180
+R148	hasAttr Arg1:T184 Arg2:T189
+R149	hasAttr Arg1:T184 Arg2:T188
+R150	hasAttr Arg1:T184 Arg2:T190
+R151	hasAttr Arg1:T184 Arg2:T185
+R152	hasAttr Arg1:T184 Arg2:T187
+R153	hasAttr Arg1:T184 Arg2:T186
+R154	hasAttr Arg1:T191 Arg2:T193
+R155	hasAttr Arg1:T191 Arg2:T192
+R156	hasAttr Arg1:T191 Arg2:T194
+R157	hasAttr Arg1:T191 Arg2:T196
+R158	hasAttr Arg1:T191 Arg2:T195
+R159	hasAttr Arg1:T191 Arg2:T198
+R160	hasAttr Arg1:T191 Arg2:T197
+R161	hasAttr Arg1:T199 Arg2:T205
+R162	hasAttr Arg1:T199 Arg2:T204
+R163	hasAttr Arg1:T199 Arg2:T201
+R164	hasAttr Arg1:T199 Arg2:T200
+R165	hasAttr Arg1:T199 Arg2:T206
+R166	hasAttr Arg1:T199 Arg2:T202
+R167	hasAttr Arg1:T199 Arg2:T203
+R168	hasAttr Arg1:T207 Arg2:T210
+R169	hasAttr Arg1:T207 Arg2:T213
+R170	hasAttr Arg1:T207 Arg2:T209
+R171	hasAttr Arg1:T207 Arg2:T212
+R172	hasAttr Arg1:T207 Arg2:T208
+R173	hasAttr Arg1:T207 Arg2:T211
+R174	hasAttr Arg1:T214 Arg2:T216
+R175	hasAttr Arg1:T214 Arg2:T217
+R176	hasAttr Arg1:T214 Arg2:T221
+R177	hasAttr Arg1:T214 Arg2:T218
+R178	hasAttr Arg1:T214 Arg2:T215
+R179	hasAttr Arg1:T214 Arg2:T219
+R180	hasAttr Arg1:T214 Arg2:T220
+R181	hasAttr Arg1:T223 Arg2:T224

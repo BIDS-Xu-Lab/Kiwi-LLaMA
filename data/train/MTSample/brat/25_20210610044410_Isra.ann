@@ -1,0 +1,149 @@
+T1	test 132 167	a routine normal male physical exam
+T2	test 210 221	VITAL SIGNS
+T3	test 224 238	Blood pressure
+T4	test 243 248	pulse
+T5	test 253 265	respirations
+T6	test 270 281	temperature
+T7	negation 321 323	no
+T8	problem 324 341	apparent distress
+T9	negation 438 440	No
+T10	problem 441 488	lesions lids , lashes , brows , or conjunctivae
+T11	bodyloc 449 453	lids
+T12	bodyloc 456 462	lashes
+T13	bodyloc 465 470	brows
+T14	bodyloc 476 488	conjunctivae
+T15	test 497 520	Funduscopic examination
+T16	negation 536 538	No
+T17	problem 539 550	papilledema
+T18	problem 553 561	glaucoma
+T19	problem 567 576	cataracts
+T20	labvalue 612 618	normal
+T21	test 619 626	hearing
+T22	negation 777 784	without
+T23	problem 785 798	carotid bruit
+T24	problem 801 804	JVD
+T25	problem 810 841	significant cervical adenopathy
+T26	negation 863 870	without
+T27	problem 871 878	stridor
+T28	problem 892 914	subcutaneous emphysema
+T29	negation 951 954	not
+T30	problem 955 963	enlarged
+T31	negation 970 977	free of
+T32	problem 978 988	nodularity
+T33	labvalue 1018 1023	clear
+T34	test 1027 1039	auscultation
+T35	test 1044 1054	percussion
+T36	test 1066 1068	S1
+T37	test 1073 1075	S2
+T38	labvalue 1078 1085	Regular
+T39	test 1086 1090	rate
+T40	test 1095 1101	rhythm
+T41	negation 1102 1109	without
+T42	problem 1110 1116	murmur
+T43	problem 1119 1124	heave
+T44	problem 1127 1132	click
+T45	problem 1135 1139	lift
+T46	problem 1142 1148	thrill
+T47	problem 1151 1154	rub
+T48	problem 1160 1166	gallop
+T49	test 1221 1231	inspection
+T50	test 1236 1245	palpation
+T51	negation 1248 1250	No
+T52	problem 1251 1289	axillary or supraclavicular adenopathy
+T53	negation 1351 1353	No
+T54	problem 1354 1372	hepatosplenomegaly
+T55	problem 1375 1379	mass
+T56	problem 1382 1392	tenderness
+T57	problem 1395 1402	rebound
+T58	problem 1405 1413	rigidity
+T59	problem 1419 1427	guarding
+T60	negation 1430 1432	No
+T61	problem 1433 1463	widening of the aortic impulse
+T62	problem 1468 1488	intraabdominal bruit
+T63	test 1492 1504	auscultation
+T64	negation 1645 1664	without evidence of
+T65	problem 1665 1671	hernia
+T66	problem 1675 1684	hydrocele
+T67	test 1717 1741	gloved digital palpation
+T68	negation 1806 1813	free of
+T69	problem 1814 1824	nodularity
+T70	problem 1828 1838	tenderness
+T71	negation 1841 1843	No
+T72	problem 1844 1857	rectal masses
+T73	labvalue 1883 1887	Good
+T74	test 1888 1900	distal pulse
+T75	negation 1915 1934	without evidence of
+T76	problem 1935 1940	edema
+T77	problem 1943 1951	cyanosis
+T78	problem 1954 1962	clubbing
+T79	problem 1968 1990	deep venous thrombosis
+T80	labvalue 2147 2153	Normal
+T81	test 2157 2167	inspection
+T82	test 2172 2182	percussion
+T83	negation 2185 2193	Negative
+T84	problem 2198 2224	spinous process tenderness
+T85	problem 2228 2242	CVA tenderness
+T86	labvalue 2245 2253	Negative
+T87	test 2254 2274	straight-leg raising
+T88	test 2277 2283	Kernig
+T89	test 2290 2306	Brudzinski signs
+T90	negation 2557 2569	Unremarkable
+T91	problem 2578 2613	premalignant or malignant condition
+T92	test 2675 2692	digital palpation
+T93	test 2726 2735	palpation
+T94	problem 2755 2765	tenderness
+R1	hasAttr Arg1:T8 Arg2:T7
+R2	hasAttr Arg1:T18 Arg2:T16
+R3	hasAttr Arg1:T17 Arg2:T16
+R4	hasAttr Arg1:T19 Arg2:T16
+R5	hasAttr Arg1:T24 Arg2:T22
+R6	hasAttr Arg1:T25 Arg2:T22
+R7	hasAttr Arg1:T23 Arg2:T22
+R8	hasAttr Arg1:T27 Arg2:T26
+R9	hasAttr Arg1:T28 Arg2:T26
+R10	hasAttr Arg1:T30 Arg2:T29
+R11	hasAttr Arg1:T32 Arg2:T31
+R12	hasAttr Arg1:T35 Arg2:T33
+R13	hasAttr Arg1:T34 Arg2:T33
+R14	hasAttr Arg1:T39 Arg2:T38
+R15	hasAttr Arg1:T40 Arg2:T38
+R16	hasAttr Arg1:T47 Arg2:T41
+R17	hasAttr Arg1:T45 Arg2:T41
+R18	hasAttr Arg1:T43 Arg2:T41
+R19	hasAttr Arg1:T48 Arg2:T41
+R20	hasAttr Arg1:T46 Arg2:T41
+R21	hasAttr Arg1:T44 Arg2:T41
+R22	hasAttr Arg1:T42 Arg2:T41
+R23	hasAttr Arg1:T52 Arg2:T51
+R24	hasAttr Arg1:T58 Arg2:T53
+R25	hasAttr Arg1:T54 Arg2:T53
+R26	hasAttr Arg1:T56 Arg2:T53
+R27	hasAttr Arg1:T59 Arg2:T53
+R28	hasAttr Arg1:T55 Arg2:T53
+R29	hasAttr Arg1:T57 Arg2:T53
+R30	hasAttr Arg1:T62 Arg2:T60
+R31	hasAttr Arg1:T61 Arg2:T60
+R32	hasAttr Arg1:T69 Arg2:T68
+R33	hasAttr Arg1:T70 Arg2:T68
+R34	hasAttr Arg1:T72 Arg2:T71
+R35	hasAttr Arg1:T81 Arg2:T80
+R36	hasAttr Arg1:T82 Arg2:T80
+R37	hasAttr Arg1:T87 Arg2:T86
+R38	hasAttr Arg1:T10 Arg2:T11
+R39	hasAttr Arg1:T10 Arg2:T12
+R40	hasAttr Arg1:T10 Arg2:T13
+R41	hasAttr Arg1:T10 Arg2:T14
+R42	hasAttr Arg1:T10 Arg2:T9
+R43	hasAttr Arg1:T21 Arg2:T20
+R44	hasAttr Arg1:T65 Arg2:T64
+R45	hasAttr Arg1:T66 Arg2:T64
+R46	hasAttr Arg1:T76 Arg2:T75
+R47	hasAttr Arg1:T77 Arg2:T75
+R48	hasAttr Arg1:T78 Arg2:T75
+R49	hasAttr Arg1:T79 Arg2:T75
+R50	hasAttr Arg1:T74 Arg2:T73
+R51	hasAttr Arg1:T84 Arg2:T83
+R52	hasAttr Arg1:T85 Arg2:T83
+R53	hasAttr Arg1:T89 Arg2:T86
+R54	hasAttr Arg1:T88 Arg2:T86
+R55	hasAttr Arg1:T91 Arg2:T90

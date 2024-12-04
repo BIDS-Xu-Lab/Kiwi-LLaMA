@@ -1,0 +1,25 @@
+T1	problem 64 95	Cognitive Linguistic Impairment
+T2	problem 121 152	Cognitive linguistic impairment
+T3	problem 166 172	stroke
+T4	treatment 260 282	skilled speech therapy
+T5	problem 296 325	cognitive linguistic deficits
+T6	problem 376 407	Cognitive linguistic impairment
+T7	problem 421 427	stroke
+T8	treatment 592 614	skilled speech therapy
+T9	problem 628 657	cognitive linguistic deficits
+T10	test 668 690	the initial evaluation
+T11	temporal 701 709	12/29/08
+T12	problem 727 742	mild difficulty
+T13	severity 727 731	mild
+T14	treatment 819 841	skilled speech therapy
+T15	negation 1762 1779	no longer in need
+T16	treatment 1783 1805	skilled speech therapy
+T17	treatment 1864 1871	therapy
+T18	problem 1938 1944	stroke
+T19	problem 1946 1965	linguistic deficits
+T20	treatment 1967 1981	speech therapy
+T21	treatment 1983 2005	skilled speech therapy
+T22	problem 2007 2028	linguistic impairment
+R1	hasAttr Arg1:T10 Arg2:T11
+R2	hasAttr Arg1:T12 Arg2:T13
+R3	hasAttr Arg1:T16 Arg2:T15

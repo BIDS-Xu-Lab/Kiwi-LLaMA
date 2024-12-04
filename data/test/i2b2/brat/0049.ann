@@ -1,0 +1,35 @@
+T1	temporal 17 27	2011-03-06
+T2	temporal 45 55	2011-03-21
+T3	temporal 72 82	1945-09-15
+T4	temporal 185 195	2011-03-21
+T5	treatment 232 246	rehabilitation
+T6	drug 516 527	medications
+T7	drug 571 594	captopril ACE inhibitor
+T8	test 601 630	the patient 's blood pressure
+T9	labvalue 634 640	stable
+T10	negation 660 662	no
+T11	problem 663 673	new events
+T12	problem 788 825	his scrotal and lower extremity edema
+T13	bodyloc 788 799	his scrotal
+T14	bodyloc 804 819	lower extremity
+T15	negation 844 846	no
+T16	problem 847 869	lower extremity ulcers
+T17	bodyloc 847 862	lower extremity
+T18	problem 876 903	all former leg excoriations
+T19	bodyloc 887 890	leg
+T20	treatment 1007 1015	a walker
+T21	treatment 1039 1053	rehabilitation
+T22	problem 1083 1099	his fluid status
+T23	temporal 1189 1199	2011-03-21
+T24	temporal 1200 1205	14:42
+T25	temporal 1210 1220	2011-03-23
+T26	temporal 1221 1226	13:01
+T27	temporal 1302 1312	2011-03-24
+T28	temporal 1313 1320	7:54 AM
+R1	hasAttr Arg1:T8 Arg2:T9
+R2	hasAttr Arg1:T11 Arg2:T10
+R3	hasAttr Arg1:T12 Arg2:T13
+R4	hasAttr Arg1:T12 Arg2:T14
+R5	hasAttr Arg1:T16 Arg2:T15
+R6	hasAttr Arg1:T16 Arg2:T17
+R7	hasAttr Arg1:T18 Arg2:T19

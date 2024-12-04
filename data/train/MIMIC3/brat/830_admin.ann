@@ -1,0 +1,554 @@
+T1	temporal 19 29	2145-12-12
+T2	temporal 52 62	2145-12-17
+T3	temporal 84 93	2075-9-16
+T4	problem 209 261	recurrent transitional cell carcinoma of the bladder
+T5	course 209 218	recurrent
+T6	bodyloc 254 261	bladder
+T7	problem 263 269	anemia
+T8	uncertain 274 286	questionable
+T9	problem 287 299	celiac sprue
+T10	bodyloc 287 293	celiac
+T11	problem 319 327	weakness
+T12	problem 332 338	pallor
+T13	temporal 345 349	1-31
+T14	problem 381 401	decreased hematocrit
+T15	problem 406 419	increased INR
+T16	temporal 439 448	2145-8-30
+T17	treatment 468 503	a high retrograde urethral catheter
+T18	treatment 515 518	BCG
+T19	problem 523 586	recurrent transitional cell carcinoma in his right renal pelvis
+T20	course 523 532	recurrent
+T21	bodyloc 564 586	his right renal pelvis
+T22	treatment 597 619	right nephrostomy tube
+T23	temporal 633 637	9-30
+T24	treatment 669 687	his last treatment
+T25	temporal 706 717	2 weeks ago
+T26	treatment 733 747	each treatment
+T27	problem 769 787	rust colored urine
+T28	problem 792 816	frank blood in his urine
+T29	temporal 846 884	Three to four weeks prior to admission
+T30	problem 906 938	progressively worsening weakness
+T31	course 920 929	worsening
+T32	problem 943 949	pallor
+T33	problem 981 1010	repeated episodes of diarrhea
+T34	problem 1015 1040	lost approximately 16 lbs
+T35	temporal 1044 1053	two weeks
+T36	negation 1062 1065	not
+T37	problem 1077 1095	any abdominal pain
+T38	bodyloc 1081 1090	abdominal
+T39	problem 1097 1103	nausea
+T40	problem 1105 1113	vomiting
+T41	problem 1129 1141	his diarrhea
+T42	problem 1145 1157	celiac sprue
+T43	bodyloc 1145 1151	celiac
+T44	course 1158 1168	aggravated
+T45	temporal 1210 1219	two weeks
+T46	problem 1221 1233	the diarrhea
+T47	course 1234 1242	resolved
+T48	problem 1335 1347	constipation
+T49	negation 1391 1397	denies
+T50	problem 1398 1414	any hematochezia
+T51	problem 1416 1430	abdominal pain
+T52	bodyloc 1416 1425	abdominal
+T53	problem 1432 1438	nausea
+T54	problem 1440 1448	vomiting
+T55	route 1480 1484	oral
+T56	drug 1485 1497	iron therapy
+T57	problem 1520 1541	this blackened stools
+T58	route 1609 1613	oral
+T59	drug 1614 1618	iron
+T60	problem 1648 1682	his chronic iron deficiency anemia
+T61	course 1652 1659	chronic
+T62	problem 1684 1705	The patient's fatigue
+T63	course 1720 1728	worsened
+T64	temporal 1746 1773	the week prior to admission
+T65	problem 1827 1837	exhaustion
+T66	problem 1842 1862	difficulty breathing
+T67	problem 1864 1883	Associated symptoms
+T68	problem 1893 1916	dizziness upon standing
+T69	problem 1918 1955	increased bruising of his extremities
+T70	course 1918 1927	increased
+T71	bodyloc 1940 1955	his extremities
+T72	problem 1961 1995	pallor of his face and extremities
+T73	bodyloc 1975 1979	face
+T74	bodyloc 1984 1995	extremities
+T75	subject 2038 2044	family
+T76	problem 2056 2076	a bleeding diathesis
+T77	problem 2152 2162	exhaustion
+T78	problem 2167 2182	lightheadedness
+T79	problem 2188 2201	facial pallor
+T80	bodyloc 2188 2194	facial
+T81	test 2241 2256	his vital signs
+T82	test 2262 2276	blood pressure
+T83	labvalue 2277 2282	80/33
+T84	test 2284 2294	heart rate
+T85	labvalue 2295 2298	120
+T86	test 2300 2316	respiratory rate
+T87	labvalue 2317 2319	14
+T88	treatment 2333 2369	four units of packed red blood cells
+T89	test 2386 2400	his hematocrit
+T90	labvalue 2417 2419	10
+T91	test 2421 2424	ABG
+T92	test 2432 2434	PH
+T93	labvalue 2435 2439	7.52
+T94	test 2441 2444	PO2
+T95	labvalue 2445 2448	106
+T96	test 2450 2454	PCO2
+T97	labvalue 2455 2457	28
+T98	test 2459 2483	The ABGs draw site blood
+T99	labvalue 2488 2498	15 minutes
+T100	test 2517 2526	his coags
+T101	test 2532 2535	PTT
+T102	labvalue 2536 2539	150
+T103	test 2541 2543	PT
+T104	labvalue 2544 2547	100
+T105	test 2549 2552	INR
+T106	labvalue 2553 2555	69
+T107	test 2557 2581	Lower extremity dopplers
+T108	negation 2582 2589	did not
+T109	problem 2595 2610	evidence of DVT
+T110	problem 2614 2645	evidence of intravascular bleed
+T111	treatment 2705 2738	7 units of packed red blood cells
+T112	drug 2740 2749	Vitamin K
+T113	strength 2750 2755	10 mg
+T114	route 2756 2758	IV
+T115	dosage 2763 2771	one unit
+T116	drug 2775 2778	FFP
+T117	drug 2790 2796	Keflex
+T118	test 2798 2821	Abdominal and pelvis CT
+T119	negation 2829 2831	no
+T120	problem 2832 2865	evidence of retroperitoneal bleed
+T121	bodyloc 2844 2859	retroperitoneal
+T122	negation 2867 2869	no
+T123	problem 2870 2896	evidence of hydronephrosis
+T124	problem 2900 2917	perinephric fluid
+T125	problem 2959 2976	left leg soreness
+T126	bodyloc 2959 2967	left leg
+T127	problem 2981 3001	progressive weakness
+T128	course 2981 2992	progressive
+T129	treatment 3008 3030	his catheter placement
+T130	temporal 3037 3046	2145-8-30
+T131	problem 3051 3059	The pain
+T132	bodyloc 3095 3131	lateral aspect of his left lower leg
+T133	bodyloc 3142 3150	his knee
+T134	problem 3152 3160	the pain
+T135	course 3164 3186	aggravated by movement
+T136	problem 3191 3203	the weakness
+T137	negation 3248 3251	not
+T138	problem 3261 3269	numbness
+T139	problem 3273 3297	paresthesias in his legs
+T140	bodyloc 3289 3297	his legs
+T141	temporal 3302 3329	the week prior to admission
+T142	problem 3344 3371	swelling distal to his knee
+T143	bodyloc 3353 3371	distal to his knee
+T144	problem 3426 3468	Transitional cell carcinoma of the bladder
+T145	bodyloc 3461 3468	bladder
+T146	temporal 3485 3489	2136
+T147	test 3507 3517	cystoscopy
+T148	treatment 3522 3537	tumor resection
+T149	temporal 3544 3548	2136
+T150	drug 3553 3556	BCG
+T151	temporal 3563 3567	2137
+T152	drug 3590 3600	Interferon
+T153	temporal 3607 3611	2137
+T154	drug 3616 3625	Mutamycin
+T155	temporal 3629 3633	2139
+T156	temporal 3644 3648	2140
+T157	problem 3653 3680	transitional cell carcinoma
+T158	bodyloc 3690 3708	right renal pelvis
+T159	drug 3735 3751	alpha Interferon
+T160	drug 3756 3759	BCG
+T161	problem 3765 3791	Disseminated BCG infection
+T162	temporal 3798 3802	2140
+T163	drug 3819 3827	Rifampin
+T164	drug 3832 3845	Ciprofloxacin
+T165	test 3850 3894	Celiac sprue, anti-endomesial antibody titer
+T166	labvalue 3899 3902	1:8
+T167	temporal 3909 3919	2142-12-31
+T168	problem 3928 3934	Anemia
+T169	problem 3957 3972	iron deficiency
+T170	negation 3994 3996	no
+T171	test 3997 4008	colonoscopy
+T172	temporal 4016 4029	last 10 years
+T173	problem 4031 4040	ALLERGIES
+T174	negation 4043 4045	No
+T175	problem 4046 4066	known drug allergies
+T176	drug 4068 4079	MEDICATIONS
+T177	drug 4109 4121	Iron Sulfate
+T178	strength 4122 4128	325 mg
+T179	route 4129 4131	po
+T180	frequency 4132 4135	tid
+T181	drug 4137 4143	Valium
+T182	strength 4144 4148	5 mg
+T183	route 4149 4151	po
+T184	frequency 4152 4162	q h.s. prn
+T185	drug 4164 4173	Lopressor
+T186	strength 4174 4181	12.5 mg
+T187	route 4182 4184	po
+T188	frequency 4185 4188	bid
+T189	drug 4190 4198	Protonix
+T190	strength 4199 4204	40 mg
+T191	route 4205 4207	po
+T192	frequency 4208 4213	q day
+T193	drug 4215 4223	Nystatin
+T194	form 4224 4230	powder
+T195	frequency 4273 4276	tid
+T196	drug 4284 4288	phos
+T197	drug 4290 4296	Folate
+T198	strength 4297 4301	1 mg
+T199	route 4302 4304	po
+T200	frequency 4305 4310	q day
+T201	drug 4312 4324	Multivitamin
+T202	dosage 4325 4328	one
+T203	form 4329 4335	tablet
+T204	route 4336 4338	po
+T205	frequency 4339 4344	q day
+T206	drug 4346 4353	Tylenol
+T207	strength 4354 4360	650 mg
+T208	route 4361 4363	po
+T209	frequency 4364 4373	q 6 hours
+T210	frequency 4374 4377	prn
+T211	problem 4541 4548	fatigue
+T212	problem 4550 4559	dizziness
+T213	temporal 4561 4567	recent
+T214	problem 4568 4579	weight loss
+T215	negation 4581 4593	negative for
+T216	problem 4594 4602	nitrites
+T217	problem 4606 4614	diplopia
+T218	test 4652 4663	temperature
+T219	labvalue 4664 4668	99.2
+T220	test 4670 4684	blood pressure
+T221	labvalue 4685 4691	100/58
+T222	test 4693 4698	pulse
+T223	labvalue 4699 4701	72
+T224	test 4703 4715	respirations
+T225	labvalue 4716 4718	18
+T226	test 4720 4724	sats
+T227	labvalue 4725 4728	90%
+T228	negation 4774 4776	no
+T229	problem 4777 4794	apparent distress
+T230	bodyloc 4796 4800	Skin
+T231	problem 4802 4858	multiple ecchymoses on left lower extremity and left arm
+T232	bodyloc 4825 4845	left lower extremity
+T233	bodyloc 4850 4858	left arm
+T234	problem 4867 4883	Anicteric sclera
+T235	negation 4898 4900	no
+T236	problem 4901 4916	lymphadenopathy
+T237	test 4951 4972	Extraocular movements
+T238	labvalue 4973 4979	intact
+T239	test 4981 4983	OP
+T240	labvalue 4984 4989	clear
+T241	negation 5014 5016	No
+T242	problem 5017 5020	LAD
+T243	test 5039 5041	S1
+T244	test 5046 5048	S2
+T245	labvalue 5050 5057	regular
+T246	test 5058 5062	rate
+T247	test 5067 5073	rhythm
+T248	negation 5075 5077	no
+T249	problem 5078 5085	murmurs
+T250	problem 5087 5091	rubs
+T251	problem 5095 5102	gallops
+T252	labvalue 5115 5120	clear
+T253	test 5124 5136	auscultation
+T254	bodyloc 5151 5158	Abdomen
+T255	negation 5176 5179	non
+T256	problem 5180 5189	distended
+T257	labvalue 5191 5199	positive
+T258	test 5200 5212	bowel sounds
+T259	bodyloc 5215 5226	Extremities
+T260	problem 5228 5241	pitting edema
+T261	bodyloc 5249 5257	left leg
+T262	negation 5259 5261	no
+T263	problem 5262 5270	erythema
+T264	problem 5274 5316	significantly increased warmth in left leg
+T265	bodyloc 5308 5316	left leg
+T266	problem 5318 5327	mild pain
+T267	severity 5318 5322	mild
+T268	test 5331 5365	deep palpation of left lateral leg
+T269	bodyloc 5367 5388	right lower extremity
+T270	negation 5389 5396	without
+T271	problem 5397 5406	any edema
+T272	negation 5408 5410	No
+T273	problem 5411 5426	calf tenderness
+T274	test 5486 5494	Strength
+T275	temporal 5499 5502	4-3
+T276	test 5538 5546	Reflexes
+T277	labvalue 5547 5561	2+ bilaterally
+T278	test 5563 5572	Sensation
+T279	labvalue 5573 5591	intact bilaterally
+T280	test 5611 5633	White blood cell count
+T281	labvalue 5634 5637	8.4
+T282	test 5639 5649	hematocrit
+T283	labvalue 5650 5654	29.8
+T284	test 5656 5659	MCV
+T285	labvalue 5660 5662	86
+T286	test 5664 5682	reticulocyte count
+T287	labvalue 5683 5686	2.1
+T288	test 5688 5702	platelet count
+T289	labvalue 5703 5710	175,000
+T290	test 5752 5755	EGD
+T291	test 5760 5771	colonoscopy
+T292	negation 5784 5786	no
+T293	problem 5797 5802	bleed
+T294	negation 5836 5848	did not show
+T295	problem 5863 5878	active bleeding
+T296	problem 5904 5912	atrophic
+T297	problem 5926 5931	villi
+T298	problem 5933 5942	edematous
+T299	test 5974 5993	Cold forceps biopsy
+T300	test 6012 6021	histology
+T301	problem 6034 6075	grade 2 internal hemorrhoids in the colon
+T302	bodyloc 6066 6075	the colon
+T303	problem 6080 6109	polyp in the transverse colon
+T304	bodyloc 6093 6109	transverse colon
+T305	bodyloc 6129 6140	Small bowel
+T306	problem 6176 6190	celiac disease
+T307	treatment 6263 6278	supplementation
+T308	drug 6282 6286	iron
+T309	drug 6288 6301	Multivitamins
+T310	drug 6306 6316	Folic Acid
+T311	test 6343 6371	MRI of his lower extremities
+T312	problem 6385 6434	chronic/subacute DVT in the right lower extremity
+T313	course 6385 6401	chronic/subacute
+T314	bodyloc 6413 6434	right lower extremity
+T315	course 6444 6465	partially recanalized
+T316	treatment 6525 6539	anticoagulated
+T317	problem 6586 6593	his DVT
+T318	problem 6660 6674	a coagulopathy
+T319	test 6706 6713	his INR
+T320	drug 6736 6739	FFP
+T321	problem 6762 6778	his elevated INR
+T322	problem 6803 6823	Vitamin K deficiency
+T323	problem 6851 6865	celiac disease
+T324	problem 6867 6903	The patient's iron deficiency anemia
+T325	problem 6932 6950	his celiac disease
+T326	test 6952 6976	Anti parietal antibodies
+T327	uncertain 6991 7001	ruling out
+T328	problem 7002 7019	pernicious anemia
+T329	test 7035 7046	Vitamin B12
+T330	test 7051 7064	Folate levels
+T331	problem 7138 7190	persistent left lower extremity edema and tenderness
+T332	course 7138 7148	persistent
+T333	bodyloc 7149 7175	left lower extremity edema
+T334	problem 7213 7229	neuropathic vein
+T335	problem 7259 7308	prolonged positioning of his left lower extremity
+T336	course 7259 7268	prolonged
+T337	bodyloc 7288 7308	left lower extremity
+T338	treatment 7329 7349	his nephrostomy tube
+T339	test 7351 7370	Doppler examination
+T340	test 7375 7406	MRI of the left lower extremity
+T341	negation 7414 7416	no
+T342	problem 7417 7429	signs of DVT
+T343	treatment 7441 7471	The patient's nephrostomy tube
+T344	problem 7664 7695	his transitional cell carcinoma
+T345	bodyloc 7681 7685	cell
+T346	problem 7721 7733	Celiac sprue
+T347	problem 7738 7744	Anemia
+T348	problem 7766 7781	iron deficiency
+T349	drug 7807 7811	TUMS
+T350	strength 7812 7818	500 mg
+T351	route 7819 7821	po
+T352	frequency 7822 7825	tid
+T353	drug 7844 7853	Vitamin D
+T354	drug 7872 7878	Folate
+T355	strength 7879 7883	1 mg
+T356	route 7884 7886	po
+T357	frequency 7887 7890	tid
+T358	drug 7892 7904	Multivitamin
+T359	dosage 7905 7908	one
+T360	route 7909 7911	po
+T361	frequency 7912 7917	q day
+T362	drug 7919 7932	Ciprofloxacin
+T363	strength 7933 7939	500 mg
+T364	route 7940 7942	po
+T365	frequency 7943 7946	bid
+T366	duration 7953 7961	two days
+T367	treatment 7978 7989	prophylaxis
+T368	treatment 7994 8018	nephrostomy tube removal
+T369	temporal 8412 8422	2145-12-17
+T370	temporal 8426 8431	16:57
+T371	temporal 8438 8448	2145-12-20
+T372	temporal 8452 8457	14:01
+R1	hasAttr Arg1:T4 Arg2:T5
+R2	hasAttr Arg1:T4 Arg2:T6
+R3	hasAttr Arg1:T9 Arg2:T8
+R4	hasAttr Arg1:T9 Arg2:T10
+R5	hasAttr Arg1:T11 Arg2:T13
+R6	hasAttr Arg1:T12 Arg2:T13
+R7	hasAttr Arg1:T17 Arg2:T16
+R8	hasAttr Arg1:T19 Arg2:T20
+R9	hasAttr Arg1:T19 Arg2:T21
+R10	hasAttr Arg1:T22 Arg2:T23
+R11	hasAttr Arg1:T24 Arg2:T25
+R12	hasAttr Arg1:T30 Arg2:T29
+R13	hasAttr Arg1:T32 Arg2:T29
+R14	hasAttr Arg1:T30 Arg2:T31
+R15	hasAttr Arg1:T33 Arg2:T35
+R16	hasAttr Arg1:T34 Arg2:T35
+R17	hasAttr Arg1:T37 Arg2:T36
+R18	hasAttr Arg1:T39 Arg2:T36
+R19	hasAttr Arg1:T40 Arg2:T36
+R20	hasAttr Arg1:T37 Arg2:T38
+R21	hasAttr Arg1:T42 Arg2:T44
+R22	hasAttr Arg1:T42 Arg2:T43
+R23	hasAttr Arg1:T46 Arg2:T45
+R24	hasAttr Arg1:T46 Arg2:T47
+R25	hasAttr Arg1:T54 Arg2:T49
+R26	hasAttr Arg1:T53 Arg2:T49
+R27	hasAttr Arg1:T50 Arg2:T49
+R28	hasAttr Arg1:T51 Arg2:T49
+R29	hasAttr Arg1:T51 Arg2:T52
+R30	hasAttr Arg1:T56 Arg2:T55
+R31	hasAttr Arg1:T59 Arg2:T58
+R32	hasAttr Arg1:T60 Arg2:T61
+R33	hasAttr Arg1:T62 Arg2:T63
+R34	hasAttr Arg1:T62 Arg2:T64
+R35	hasAttr Arg1:T69 Arg2:T71
+R36	hasAttr Arg1:T69 Arg2:T70
+R37	hasAttr Arg1:T72 Arg2:T73
+R38	hasAttr Arg1:T72 Arg2:T74
+R39	hasAttr Arg1:T76 Arg2:T75
+R40	hasAttr Arg1:T79 Arg2:T80
+R41	hasAttr Arg1:T82 Arg2:T83
+R42	hasAttr Arg1:T84 Arg2:T85
+R43	hasAttr Arg1:T86 Arg2:T87
+R44	hasAttr Arg1:T89 Arg2:T90
+R45	hasAttr Arg1:T92 Arg2:T93
+R46	hasAttr Arg1:T94 Arg2:T95
+R47	hasAttr Arg1:T96 Arg2:T97
+R48	hasAttr Arg1:T98 Arg2:T99
+R49	hasAttr Arg1:T101 Arg2:T102
+R50	hasAttr Arg1:T103 Arg2:T104
+R51	hasAttr Arg1:T105 Arg2:T106
+R52	hasAttr Arg1:T109 Arg2:T108
+R53	hasAttr Arg1:T110 Arg2:T108
+R54	hasAttr Arg1:T112 Arg2:T114
+R55	hasAttr Arg1:T112 Arg2:T113
+R56	hasAttr Arg1:T116 Arg2:T115
+R57	hasAttr Arg1:T120 Arg2:T119
+R58	hasAttr Arg1:T120 Arg2:T121
+R59	hasAttr Arg1:T123 Arg2:T122
+R60	hasAttr Arg1:T124 Arg2:T122
+R61	hasAttr Arg1:T125 Arg2:T126
+R62	hasAttr Arg1:T127 Arg2:T128
+R63	hasAttr Arg1:T129 Arg2:T130
+R64	hasAttr Arg1:T131 Arg2:T132
+R65	hasAttr Arg1:T131 Arg2:T133
+R66	hasAttr Arg1:T134 Arg2:T135
+R67	hasAttr Arg1:T138 Arg2:T137
+R68	hasAttr Arg1:T139 Arg2:T137
+R69	hasAttr Arg1:T139 Arg2:T140
+R70	hasAttr Arg1:T142 Arg2:T141
+R71	hasAttr Arg1:T142 Arg2:T143
+R72	hasAttr Arg1:T144 Arg2:T145
+R73	hasAttr Arg1:T144 Arg2:T146
+R74	hasAttr Arg1:T147 Arg2:T149
+R75	hasAttr Arg1:T148 Arg2:T149
+R76	hasAttr Arg1:T150 Arg2:T151
+R77	hasAttr Arg1:T152 Arg2:T153
+R78	hasAttr Arg1:T154 Arg2:T155
+R79	hasAttr Arg1:T157 Arg2:T156
+R80	hasAttr Arg1:T157 Arg2:T158
+R81	hasAttr Arg1:T161 Arg2:T162
+R82	hasAttr Arg1:T165 Arg2:T166
+R83	hasAttr Arg1:T165 Arg2:T167
+R84	hasAttr Arg1:T171 Arg2:T170
+R85	hasAttr Arg1:T171 Arg2:T172
+R86	hasAttr Arg1:T175 Arg2:T174
+R87	hasAttr Arg1:T177 Arg2:T178
+R88	hasAttr Arg1:T177 Arg2:T179
+R89	hasAttr Arg1:T177 Arg2:T180
+R90	hasAttr Arg1:T181 Arg2:T182
+R91	hasAttr Arg1:T181 Arg2:T183
+R92	hasAttr Arg1:T181 Arg2:T184
+R93	hasAttr Arg1:T185 Arg2:T187
+R94	hasAttr Arg1:T185 Arg2:T186
+R95	hasAttr Arg1:T185 Arg2:T188
+R96	hasAttr Arg1:T189 Arg2:T190
+R97	hasAttr Arg1:T189 Arg2:T191
+R98	hasAttr Arg1:T189 Arg2:T192
+R99	hasAttr Arg1:T193 Arg2:T195
+R100	hasAttr Arg1:T193 Arg2:T194
+R101	hasAttr Arg1:T196 Arg2:T200
+R102	hasAttr Arg1:T196 Arg2:T199
+R103	hasAttr Arg1:T197 Arg2:T200
+R104	hasAttr Arg1:T197 Arg2:T198
+R105	hasAttr Arg1:T197 Arg2:T199
+R106	hasAttr Arg1:T201 Arg2:T203
+R107	hasAttr Arg1:T201 Arg2:T202
+R108	hasAttr Arg1:T201 Arg2:T205
+R109	hasAttr Arg1:T201 Arg2:T204
+R110	hasAttr Arg1:T206 Arg2:T208
+R111	hasAttr Arg1:T206 Arg2:T207
+R112	hasAttr Arg1:T206 Arg2:T209
+R113	hasAttr Arg1:T206 Arg2:T210
+R114	hasAttr Arg1:T214 Arg2:T213
+R115	hasAttr Arg1:T217 Arg2:T215
+R116	hasAttr Arg1:T216 Arg2:T215
+R117	hasAttr Arg1:T218 Arg2:T219
+R118	hasAttr Arg1:T220 Arg2:T221
+R119	hasAttr Arg1:T222 Arg2:T223
+R120	hasAttr Arg1:T224 Arg2:T225
+R121	hasAttr Arg1:T226 Arg2:T227
+R122	hasAttr Arg1:T229 Arg2:T228
+R123	hasAttr Arg1:T231 Arg2:T230
+R124	hasAttr Arg1:T231 Arg2:T232
+R125	hasAttr Arg1:T231 Arg2:T233
+R126	hasAttr Arg1:T236 Arg2:T235
+R127	hasAttr Arg1:T237 Arg2:T238
+R128	hasAttr Arg1:T239 Arg2:T240
+R129	hasAttr Arg1:T242 Arg2:T241
+R130	hasAttr Arg1:T247 Arg2:T245
+R131	hasAttr Arg1:T246 Arg2:T245
+R132	hasAttr Arg1:T251 Arg2:T248
+R133	hasAttr Arg1:T250 Arg2:T248
+R134	hasAttr Arg1:T249 Arg2:T248
+R135	hasAttr Arg1:T253 Arg2:T252
+R136	hasAttr Arg1:T256 Arg2:T255
+R137	hasAttr Arg1:T258 Arg2:T257
+R138	hasAttr Arg1:T260 Arg2:T259
+R139	hasAttr Arg1:T260 Arg2:T261
+R140	hasAttr Arg1:T263 Arg2:T262
+R141	hasAttr Arg1:T264 Arg2:T262
+R142	hasAttr Arg1:T264 Arg2:T265
+R143	hasAttr Arg1:T266 Arg2:T267
+R144	hasAttr Arg1:T271 Arg2:T269
+R145	hasAttr Arg1:T271 Arg2:T270
+R146	hasAttr Arg1:T273 Arg2:T272
+R147	hasAttr Arg1:T274 Arg2:T275
+R148	hasAttr Arg1:T276 Arg2:T277
+R149	hasAttr Arg1:T278 Arg2:T279
+R150	hasAttr Arg1:T280 Arg2:T281
+R151	hasAttr Arg1:T282 Arg2:T283
+R152	hasAttr Arg1:T284 Arg2:T285
+R153	hasAttr Arg1:T286 Arg2:T287
+R154	hasAttr Arg1:T288 Arg2:T289
+R155	hasAttr Arg1:T293 Arg2:T292
+R156	hasAttr Arg1:T295 Arg2:T294
+R157	hasAttr Arg1:T301 Arg2:T302
+R158	hasAttr Arg1:T303 Arg2:T304
+R159	hasAttr Arg1:T306 Arg2:T305
+R160	hasAttr Arg1:T312 Arg2:T313
+R161	hasAttr Arg1:T312 Arg2:T314
+R162	hasAttr Arg1:T312 Arg2:T315
+R163	hasAttr Arg1:T328 Arg2:T327
+R164	hasAttr Arg1:T331 Arg2:T332
+R165	hasAttr Arg1:T331 Arg2:T333
+R166	hasAttr Arg1:T335 Arg2:T336
+R167	hasAttr Arg1:T335 Arg2:T337
+R168	hasAttr Arg1:T342 Arg2:T341
+R169	hasAttr Arg1:T344 Arg2:T345
+R170	hasAttr Arg1:T349 Arg2:T350
+R171	hasAttr Arg1:T349 Arg2:T351
+R172	hasAttr Arg1:T349 Arg2:T352
+R173	hasAttr Arg1:T354 Arg2:T356
+R174	hasAttr Arg1:T354 Arg2:T357
+R175	hasAttr Arg1:T354 Arg2:T355
+R176	hasAttr Arg1:T358 Arg2:T359
+R177	hasAttr Arg1:T358 Arg2:T361
+R178	hasAttr Arg1:T358 Arg2:T360
+R179	hasAttr Arg1:T362 Arg2:T364
+R180	hasAttr Arg1:T362 Arg2:T365
+R181	hasAttr Arg1:T362 Arg2:T366
+R182	hasAttr Arg1:T362 Arg2:T363

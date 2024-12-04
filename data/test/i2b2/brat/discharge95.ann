@@ -1,0 +1,279 @@
+T1	temporal 108 119	Sep 26 2007
+T2	temporal 141 152	Sep 29 2007
+T3	problem 231 271	Exacerbation of congestive heart failure
+T4	bodyloc 258 263	heart
+T5	problem 277 330	Exacerbation of chronic obstructive pulmonary disease
+T6	severity 293 300	chronic
+T7	bodyloc 313 322	pulmonary
+T8	problem 358 370	Hypertension
+T9	problem 388 409	myocardial infarction
+T10	problem 427 452	transient ischemic attack
+T11	problem 470 492	deep venous thrombosis
+T12	bodyloc 475 481	venous
+T13	problem 509 536	peripheral vascular disease
+T14	bodyloc 520 528	vascular
+T15	problem 542 551	Arthritis
+T16	problem 568 588	renal cell carcinoma
+T17	bodyloc 568 573	renal
+T18	treatment 601 617	left nephrectomy
+T19	problem 623 650	chronic renal insufficiency
+T20	course 623 630	chronic
+T21	bodyloc 631 636	renal
+T22	problem 656 669	Cholecystitis
+T23	treatment 687 709	carotid endarterectomy
+T24	treatment 728 754	fem-pop bypass bilaterally
+T25	treatment 777 809	abdominal aortic aneurysm repair
+T26	drug 847 857	Prednisone
+T27	strength 858 863	10 mg
+T28	dosage 864 865	1
+T29	form 866 872	tablet
+T30	route 873 877	p.o.
+T31	frequency 878 884	b.i.d.
+T32	duration 887 893	3 days
+T33	dosage 894 895	1
+T34	form 896 902	tablet
+T35	route 903 907	p.o.
+T36	frequency 908 913	daily
+T37	duration 914 920	3 days
+T38	drug 926 934	Coumadin
+T39	strength 935 939	2 mg
+T40	dosage 940 941	1
+T41	form 942 948	tablet
+T42	route 949 953	p.o.
+T43	frequency 954 968	daily at night
+T44	drug 974 981	Spiriva
+T45	dosage 982 983	1
+T46	form 984 988	puff
+T47	frequency 989 994	daily
+T48	drug 1000 1009	Labetalol
+T49	strength 1010 1016	300 mg
+T50	dosage 1017 1018	1
+T51	form 1019 1025	tablet
+T52	route 1026 1030	p.o.
+T53	frequency 1031 1037	b.i.d.
+T54	drug 1041 1066	Isosorbide mononitrate TR
+T55	strength 1067 1072	30 mg
+T56	dosage 1073 1074	1
+T57	form 1075 1081	tablet
+T58	route 1082 1086	p.o.
+T59	frequency 1087 1092	daily
+T60	drug 1098 1103	Lasix
+T61	strength 1104 1109	40 mg
+T62	dosage 1110 1111	1
+T63	form 1112 1118	tablet
+T64	route 1119 1123	p.o.
+T65	frequency 1124 1129	daily
+T66	drug 1135 1148	Advair Diskus
+T67	strength 1149 1155	250/50
+T68	dosage 1156 1157	1
+T69	form 1158 1162	puff
+T70	frequency 1163 1169	b.i.d.
+T71	drug 1173 1184	Doxycycline
+T72	strength 1185 1191	100 mg
+T73	dosage 1192 1193	1
+T74	form 1194 1200	tablet
+T75	route 1201 1205	p.o.
+T76	frequency 1206 1212	b.i.d.
+T77	duration 1215 1221	7 days
+T78	drug 1227 1249	Enteric coated aspirin
+T79	strength 1250 1255	81 mg
+T80	dosage 1256 1257	1
+T81	form 1258 1264	tablet
+T82	route 1265 1269	p.o.
+T83	frequency 1270 1275	daily
+T84	drug 1282 1289	Norvasc
+T85	strength 1290 1295	10 mg
+T86	dosage 1296 1297	1
+T87	form 1298 1304	tablet
+T88	frequency 1305 1310	daily
+T89	test 1317 1320	INR
+T90	test 1323 1325	PT
+T91	test 1328 1331	BMP
+T92	treatment 1355 1361	oxygen
+T93	test 1410 1434	Lower extremity Dopplers
+T94	labvalue 1435 1443	negative
+T95	problem 1448 1496	deep venous thrombosis in either leg bilaterally
+T96	bodyloc 1481 1484	leg
+T97	problem 1681 1705	congestive heart failure
+T98	bodyloc 1692 1697	heart
+T99	problem 1708 1712	COPD
+T100	problem 1730 1733	DVT
+T101	problem 1755 1774	right calf swelling
+T102	bodyloc 1761 1765	calf
+T103	problem 1779 1808	increased shortness of breath
+T104	course 1779 1788	increased
+T105	temporal 1811 1817	3 days
+T106	problem 1823 1842	Shortness of breath
+T107	problem 1858 1892	the patient 's shortness of breath
+T108	problem 1918 1921	CHF
+T109	problem 1931 1948	COPD exacerbation
+T110	problem 1951 1957	Her PE
+T111	drug 2006 2014	Coumadin
+T112	test 2175 2186	a spiral CT
+T113	test 2270 2277	Her BNP
+T114	labvalue 2306 2309	347
+T115	route 2341 2345	p.o.
+T116	drug 2346 2351	Lasix
+T117	drug 2392 2418	her outpatient medications
+T118	drug 2419 2426	Spiriva
+T119	drug 2431 2437	Advair
+T120	drug 2455 2461	DuoNeb
+T121	frequency 2462 2471	as needed
+T122	problem 2476 2499	any shortness of breath
+T123	problem 2553 2574	her COPD exacerbation
+T124	duration 2594 2602	10 - day
+T125	drug 2613 2624	doxycycline
+T126	route 2647 2651	oral
+T127	drug 2652 2662	prednisone
+T128	problem 2738 2772	the patient 's shortness of breath
+T129	negation 2825 2827	no
+T130	problem 2849 2856	any CHF
+T131	test 2860 2880	physical examination
+T132	test 2884 2889	x-ray
+T133	drug 2942 2947	Lasix
+T134	drug 2950 2960	prednisone
+T135	drug 2972 2983	doxycycline
+T136	temporal 3015 3022	current
+T137	treatment 3023 3032	treatment
+T138	problem 3052 3086	the patient 's mildly elevated BMP
+T139	problem 3104 3126	pulmonary hypertension
+T140	bodyloc 3104 3113	pulmonary
+T141	test 3135 3169	the patient 's last echocardiogram
+T142	treatment 3196 3205	treatment
+T143	problem 3210 3213	CHF
+T144	problem 3218 3235	COPD exacerbation
+T145	problem 3238 3272	the patient 's shortness of breath
+T146	course 3273 3281	improved
+T147	problem 3295 3327	her baseline shortness of breath
+T148	drug 3383 3426	her outpatient antihypertensive medications
+T149	test 3460 3489	The patient 's blood pressure
+T150	problem 3600 3619	renal insufficiency
+T151	bodyloc 3600 3605	renal
+T152	treatment 3632 3648	left nephrectomy
+T153	problem 3656 3676	renal cell carcinoma
+T154	bodyloc 3656 3661	renal
+T155	problem 3748 3771	her renal insufficiency
+T156	bodyloc 3752 3757	renal
+T157	test 3778 3792	her creatinine
+T158	temporal 3816 3820	2006
+T159	labvalue 3826 3829	1.5
+T160	treatment 3835 3846	Prophylaxis
+T161	drug 3878 3884	Pepcid
+T162	drug 3889 3896	heparin
+T163	treatment 3901 3924	GIT and DVT prophylaxis
+T164	test 3995 4010	Her vital signs
+T165	labvalue 4016 4022	stable
+T166	negation 4033 4035	no
+T167	problem 4036 4058	significant complaints
+T168	problem 4142 4161	shortness of breath
+T169	drug 4262 4277	the medications
+T170	test 4447 4449	PT
+T171	test 4452 4455	INR
+T172	test 4458 4468	BMP checks
+T173	treatment 4528 4543	home O2 therapy
+T174	test 4600 4615	Her vital signs
+T175	labvalue 4621 4627	stable
+T176	negation 4642 4644	no
+T177	problem 4645 4667	significant complaints
+T178	problem 4902 4914	any symptoms
+T179	problem 4944 4959	prolonged fever
+T180	problem 4962 4968	nausea
+T181	problem 4971 4979	vomiting
+T182	problem 4982 4988	chills
+T183	problem 4991 5003	night sweats
+T184	problem 5006 5016	chest pain
+T185	bodyloc 5006 5011	chest
+T186	problem 5019 5038	shortness of breath
+T187	problem 5041 5053	palpitations
+T188	problem 5057 5085	any other serious complaints
+T189	temporal 5193 5204	Sep 29 2007
+T190	temporal 5206 5211	09:22
+T191	temporal 5223 5234	Sep 30 2007
+T192	temporal 5236 5241	11:26
+R1	hasAttr Arg1:T3 Arg2:T4
+R2	hasAttr Arg1:T5 Arg2:T7
+R3	hasAttr Arg1:T5 Arg2:T6
+R4	hasAttr Arg1:T11 Arg2:T12
+R5	hasAttr Arg1:T13 Arg2:T14
+R6	hasAttr Arg1:T16 Arg2:T17
+R7	hasAttr Arg1:T19 Arg2:T20
+R8	hasAttr Arg1:T19 Arg2:T21
+R9	hasAttr Arg1:T26 Arg2:T35
+R10	hasAttr Arg1:T26 Arg2:T28
+R11	hasAttr Arg1:T26 Arg2:T31
+R12	hasAttr Arg1:T26 Arg2:T34
+R13	hasAttr Arg1:T26 Arg2:T37
+R14	hasAttr Arg1:T26 Arg2:T27
+R15	hasAttr Arg1:T26 Arg2:T30
+R16	hasAttr Arg1:T26 Arg2:T36
+R17	hasAttr Arg1:T26 Arg2:T33
+R18	hasAttr Arg1:T26 Arg2:T29
+R19	hasAttr Arg1:T26 Arg2:T32
+R20	hasAttr Arg1:T38 Arg2:T42
+R21	hasAttr Arg1:T38 Arg2:T43
+R22	hasAttr Arg1:T38 Arg2:T39
+R23	hasAttr Arg1:T38 Arg2:T40
+R24	hasAttr Arg1:T38 Arg2:T41
+R25	hasAttr Arg1:T44 Arg2:T46
+R26	hasAttr Arg1:T44 Arg2:T45
+R27	hasAttr Arg1:T44 Arg2:T47
+R28	hasAttr Arg1:T48 Arg2:T50
+R29	hasAttr Arg1:T48 Arg2:T51
+R30	hasAttr Arg1:T48 Arg2:T52
+R31	hasAttr Arg1:T48 Arg2:T53
+R32	hasAttr Arg1:T48 Arg2:T49
+R33	hasAttr Arg1:T54 Arg2:T58
+R34	hasAttr Arg1:T54 Arg2:T57
+R35	hasAttr Arg1:T54 Arg2:T56
+R36	hasAttr Arg1:T54 Arg2:T59
+R37	hasAttr Arg1:T54 Arg2:T55
+R38	hasAttr Arg1:T60 Arg2:T63
+R39	hasAttr Arg1:T60 Arg2:T65
+R40	hasAttr Arg1:T60 Arg2:T62
+R41	hasAttr Arg1:T60 Arg2:T64
+R42	hasAttr Arg1:T60 Arg2:T61
+R43	hasAttr Arg1:T66 Arg2:T70
+R44	hasAttr Arg1:T66 Arg2:T67
+R45	hasAttr Arg1:T66 Arg2:T68
+R46	hasAttr Arg1:T66 Arg2:T69
+R47	hasAttr Arg1:T71 Arg2:T72
+R48	hasAttr Arg1:T71 Arg2:T75
+R49	hasAttr Arg1:T71 Arg2:T73
+R50	hasAttr Arg1:T71 Arg2:T76
+R51	hasAttr Arg1:T71 Arg2:T77
+R52	hasAttr Arg1:T71 Arg2:T74
+R53	hasAttr Arg1:T78 Arg2:T81
+R54	hasAttr Arg1:T78 Arg2:T83
+R55	hasAttr Arg1:T78 Arg2:T80
+R56	hasAttr Arg1:T78 Arg2:T82
+R57	hasAttr Arg1:T78 Arg2:T79
+R58	hasAttr Arg1:T84 Arg2:T88
+R59	hasAttr Arg1:T84 Arg2:T86
+R60	hasAttr Arg1:T84 Arg2:T85
+R61	hasAttr Arg1:T84 Arg2:T87
+R62	hasAttr Arg1:T93 Arg2:T94
+R63	hasAttr Arg1:T95 Arg2:T96
+R64	hasAttr Arg1:T97 Arg2:T98
+R65	hasAttr Arg1:T101 Arg2:T105
+R66	hasAttr Arg1:T101 Arg2:T102
+R67	hasAttr Arg1:T103 Arg2:T104
+R68	hasAttr Arg1:T103 Arg2:T105
+R69	hasAttr Arg1:T113 Arg2:T114
+R70	hasAttr Arg1:T116 Arg2:T115
+R71	hasAttr Arg1:T120 Arg2:T121
+R72	hasAttr Arg1:T125 Arg2:T124
+R73	hasAttr Arg1:T127 Arg2:T126
+R74	hasAttr Arg1:T130 Arg2:T129
+R75	hasAttr Arg1:T137 Arg2:T136
+R76	hasAttr Arg1:T139 Arg2:T140
+R77	hasAttr Arg1:T145 Arg2:T146
+R78	hasAttr Arg1:T150 Arg2:T151
+R79	hasAttr Arg1:T153 Arg2:T154
+R80	hasAttr Arg1:T155 Arg2:T156
+R81	hasAttr Arg1:T157 Arg2:T159
+R82	hasAttr Arg1:T157 Arg2:T158
+R83	hasAttr Arg1:T164 Arg2:T165
+R84	hasAttr Arg1:T167 Arg2:T166
+R85	hasAttr Arg1:T174 Arg2:T175
+R86	hasAttr Arg1:T177 Arg2:T176
+R87	hasAttr Arg1:T184 Arg2:T185

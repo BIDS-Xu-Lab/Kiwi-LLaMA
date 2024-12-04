@@ -1,0 +1,50 @@
+T1	temporal 178 189	Aug 18 2007
+T2	temporal 214 223	Aug 27 07
+T3	problem 247 270	Coronary artery disease
+T4	bodyloc 247 262	Coronary artery
+T5	problem 302 325	Coronary artery disease
+T6	bodyloc 302 317	Coronary artery
+T7	treatment 349 380	Coronary artery bypass grafting
+T8	temporal 411 422	Aug 23 2007
+T9	problem 536 560	increased blood pressure
+T10	course 536 545	increased
+T11	problem 563 585	increased hypertension
+T12	course 563 572	increased
+T13	problem 603 624	associated chest pain
+T14	bodyloc 614 619	chest
+T15	test 683 689	workup
+T16	test 738 763	a cardiac catheterization
+T17	problem 792 824	a severe coronary artery disease
+T18	course 794 800	severe
+T19	bodyloc 801 816	coronary artery
+T20	treatment 899 929	a coronary artery bypass graft
+T21	treatment 932 936	CABG
+T22	temporal 964 975	Aug 23 2007
+T23	temporal 1116 1127	Aug 24 2007
+T24	problem 1147 1170	hemodynamic instability
+T25	problem 1370 1391	anoxic encephalopathy
+T26	test 1394 1400	An EEG
+T27	problem 1433 1459	periodic epileptic strokes
+T28	problem 1487 1515	severe anoxic encephalopathy
+T29	course 1487 1493	severe
+T30	temporal 1562 1573	Aug 26 2007
+T31	treatment 1632 1636	care
+T32	temporal 1677 1688	Aug 27 2007
+T33	treatment 1717 1737	this patient 's care
+T34	temporal 2026 2037	Sep 08 2007
+T35	temporal 2039 2047	15:06:01
+T36	temporal 2058 2069	Sep 08 2007
+T37	temporal 2071 2079	22:36:23
+T38	temporal 2090 2101	Sep 08 2007
+T39	temporal 2103 2115	22:36:23/rec
+T40	temporal 2235 2246	Sep 12 2007
+T41	temporal 2248 2259	08:02:32 AM
+R1	hasAttr Arg1:T3 Arg2:T4
+R2	hasAttr Arg1:T5 Arg2:T6
+R3	hasAttr Arg1:T9 Arg2:T10
+R4	hasAttr Arg1:T11 Arg2:T12
+R5	hasAttr Arg1:T13 Arg2:T14
+R6	hasAttr Arg1:T17 Arg2:T19
+R7	hasAttr Arg1:T17 Arg2:T18
+R8	hasAttr Arg1:T21 Arg2:T22
+R9	hasAttr Arg1:T28 Arg2:T29

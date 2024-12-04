@@ -1,0 +1,51 @@
+T1	temporal 19 28	2103-10-7
+T2	temporal 51 61	2103-10-11
+T3	temporal 83 92	2054-1-14
+T4	temporal 220 228	4:45 p.m
+T5	problem 269 288	left-sided numbness
+T6	bodyloc 269 279	left-sided
+T7	problem 293 301	tingling
+T8	temporal 306 314	5:15 p.m
+T9	problem 326 355	right upper quadrant numbness
+T10	bodyloc 326 346	right upper quadrant
+T11	problem 473 491	difficulty walking
+T12	test 605 627	a head CT of the brain
+T13	problem 650 666	right-sided mass
+T14	bodyloc 650 661	right-sided
+T15	problem 672 701	hyperintense ring enhancement
+T16	problem 706 716	mild edema
+T17	severity 706 710	mild
+T18	treatment 771 787	Cesarean section
+T19	temporal 788 800	14 years ago
+T20	treatment 805 828	varicose vein stripping
+T21	problem 830 839	ALLERGIES
+T22	drug 841 846	SULFA
+T23	problem 865 871	a rash
+T24	negation 899 901	No
+T25	drug 902 913	medications
+T26	test 971 985	blood pressure
+T27	labvalue 989 995	131/69
+T28	test 997 1008	temperature
+T29	labvalue 1009 1013	98.4
+T30	test 1015 1025	heart rate
+T31	labvalue 1026 1028	91
+T32	test 1030 1046	respiratory rate
+T33	labvalue 1047 1055	11 to 18
+T34	test 1057 1067	saturation
+T35	labvalue 1068 1078	97% to 98%
+T36	temporal 1259 1269	2103-10-11
+T37	temporal 1273 1278	15:20
+T38	temporal 1285 1295	2103-10-11
+T39	temporal 1299 1304	14:26
+R1	hasAttr Arg1:T5 Arg2:T6
+R2	hasAttr Arg1:T9 Arg2:T8
+R3	hasAttr Arg1:T9 Arg2:T10
+R4	hasAttr Arg1:T13 Arg2:T14
+R5	hasAttr Arg1:T16 Arg2:T17
+R6	hasAttr Arg1:T18 Arg2:T19
+R7	hasAttr Arg1:T25 Arg2:T24
+R8	hasAttr Arg1:T26 Arg2:T27
+R9	hasAttr Arg1:T28 Arg2:T29
+R10	hasAttr Arg1:T30 Arg2:T31
+R11	hasAttr Arg1:T32 Arg2:T33
+R12	hasAttr Arg1:T34 Arg2:T35

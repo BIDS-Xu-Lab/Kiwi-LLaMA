@@ -1,0 +1,7 @@
+Sample Type / Medical Specialty: General Medicine
+Sample Name: Normal ENT Exam
+Description: Sample normal ear, nose, mouth, and throat exam.
+(Medical Transcription Sample Report)
+EARS, NOSE, MOUTH AND THROAT: The nose is without any evidence of any deformity. The ears are with normal-appearing pinna. Examination of the canals is normal appearing bilaterally. There is no drainage or erythema noted. The tympanic membranes are normal appearing with pearly color, normal-appearing landmarks and normal light reflex. Hearing is grossly intact to finger rubbing and whisper. The nasal mucosa is moist. The septum is midline. There is no evidence of septal hematoma. The turbinates are without abnormality. No obvious abnormalities to the lips. The teeth are unremarkable. The gingivae are without any obvious evidence of infection. The oral mucosa is moist and pink. There are no obvious masses to the hard or soft palate. The uvula is midline. The salivary glands appear unremarkable. The tongue is midline. The posterior pharynx is without erythema or exudate. The tonsils are normal appearing.
+Keywords:
+general medicine, erythema, tympanic, mouth, throat, ears, mucosa, nose,

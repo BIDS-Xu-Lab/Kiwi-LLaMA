@@ -1,0 +1,137 @@
+T1	course 149 164	decreased level
+T2	problem 168 181	consciousness
+T3	course 332 347	decreased level
+T4	problem 351 364	consciousness
+T5	course 433 442	decreased
+T6	problem 443 449	status
+T7	problem 547 567	injuries of the face
+T8	bodyloc 563 567	face
+T9	uncertain 576 584	possible
+T10	problem 585 598	elderly abuse
+T11	course 699 708	decreased
+T12	problem 709 722	consciousness
+T13	problem 814 837	lacerations on the face
+T14	bodyloc 833 837	face
+T15	strength 894 906	an entire mg
+T16	drug 910 915	Xanax
+T17	strength 928 936	0.125 mg
+T18	drug 940 945	Xanax
+T19	course 974 983	decreased
+T20	problem 984 997	mental status
+T21	negation 1076 1079	not
+T22	drug 1093 1100	Sinemet
+T23	treatment 1105 1131	his other home medications
+T24	treatment 1174 1191	Parkinson disease
+T25	drug 1193 1204	MEDICATIONS
+T26	drug 1206 1212	Requip
+T27	drug 1214 1223	Neurontin
+T28	drug 1225 1232	Sinemet
+T29	drug 1234 1240	Ambien
+T30	drug 1246 1251	Xanax
+T31	problem 1253 1262	ALLERGIES
+T32	negation 1264 1266	No
+T33	problem 1273 1287	drug allergies
+T34	problem 1384 1393	cachectic
+T35	problem 1398 1408	dehydrated
+T36	problem 1425 1434	lethargic
+T37	problem 1559 1582	lacerations on the face
+T38	bodyloc 1578 1582	face
+T39	problem 1673 1706	a lip laceration on his upper lip
+T40	bodyloc 1675 1678	lip
+T41	bodyloc 1697 1706	upper lip
+T42	bodyloc 1772 1788	Mucous membranes
+T43	problem 1793 1796	dry
+T44	negation 1812 1814	No
+T45	problem 1815 1826	thyromegaly
+T46	negation 1828 1830	No
+T47	problem 1831 1846	lymphadenopathy
+T48	test 1855 1857	S1
+T49	test 1859 1861	S2
+T50	negation 1869 1871	No
+T51	problem 1872 1879	murmurs
+T52	negation 1985 1987	No
+T53	problem 1988 1993	edema
+T54	test 2057 2063	An EKG
+T55	labvalue 2073 2092	normal sinus rhythm
+T56	labvalue 2106 2125	77 beats per minute
+T57	labvalue 2140 2148	negative
+T58	test 2153 2166	a drug screen
+T59	test 2168 2174	His UA
+T60	labvalue 2182 2184	8+
+T61	test 2185 2189	WBCs
+T62	test 2194 2203	some RBCs
+T63	test 2205 2221	Specific gravity
+T64	labvalue 2249 2253	1.03
+T65	test 2255 2276	A comprehensive panel
+T66	labvalue 2281 2289	negative
+T67	test 2301 2312	a potassium
+T68	labvalue 2316 2319	3.4
+T69	test 2321 2326	A CBC
+T70	labvalue 2331 2337	normal
+T71	test 2362 2377	the white count
+T72	labvalue 2381 2385	12.2
+T73	test 2390 2401	neutrophils
+T74	labvalue 2402 2405	89%
+T75	temporal 2422 2428	Recent
+T76	problem 2429 2433	fall
+T77	course 2438 2445	Altered
+T78	problem 2446 2459	mental status
+T79	uncertain 2461 2469	possible
+T80	course 2470 2482	exacerbation
+T81	problem 2486 2495	Parkinson
+T82	problem 2500 2511	Dehydration
+T83	problem 2513 2529	poor p.o. intake
+T84	severity 2513 2517	poor
+T85	uncertain 2534 2541	Suspect
+T86	problem 2542 2555	elderly abuse
+T87	treatment 2636 2645	IV fluids
+T88	drug 2667 2674	Sinemet
+T89	test 2704 2726	level of consciousness
+T90	problem 2728 2745	parkinson disease
+T91	course 2747 2754	altered
+T92	problem 2755 2768	mental status
+T93	problem 2770 2781	dehydration
+T94	problem 2783 2796	elderly abuse
+T95	course 2798 2813	decreased level
+T96	problem 2817 2830	consciousness
+T97	problem 2837 2846	parkinson
+T98	drug 2863 2868	xanax
+T99	drug 2870 2877	sinemet
+R1	hasAttr Arg1:T2 Arg2:T1
+R2	hasAttr Arg1:T4 Arg2:T3
+R3	hasAttr Arg1:T6 Arg2:T5
+R4	hasAttr Arg1:T10 Arg2:T9
+R5	hasAttr Arg1:T12 Arg2:T11
+R6	hasAttr Arg1:T16 Arg2:T15
+R7	hasAttr Arg1:T18 Arg2:T17
+R8	hasAttr Arg1:T20 Arg2:T19
+R9	hasAttr Arg1:T22 Arg2:T21
+R10	hasAttr Arg1:T33 Arg2:T32
+R11	hasAttr Arg1:T39 Arg2:T40
+R12	hasAttr Arg1:T39 Arg2:T41
+R13	hasAttr Arg1:T43 Arg2:T42
+R14	hasAttr Arg1:T45 Arg2:T44
+R15	hasAttr Arg1:T47 Arg2:T46
+R16	hasAttr Arg1:T51 Arg2:T50
+R17	hasAttr Arg1:T53 Arg2:T52
+R18	hasAttr Arg1:T54 Arg2:T55
+R19	hasAttr Arg1:T54 Arg2:T56
+R20	hasAttr Arg1:T58 Arg2:T57
+R21	hasAttr Arg1:T61 Arg2:T60
+R22	hasAttr Arg1:T63 Arg2:T64
+R23	hasAttr Arg1:T65 Arg2:T66
+R24	hasAttr Arg1:T67 Arg2:T68
+R25	hasAttr Arg1:T69 Arg2:T70
+R26	hasAttr Arg1:T71 Arg2:T72
+R27	hasAttr Arg1:T73 Arg2:T74
+R28	hasAttr Arg1:T76 Arg2:T75
+R29	hasAttr Arg1:T78 Arg2:T77
+R30	hasAttr Arg1:T81 Arg2:T79
+R31	hasAttr Arg1:T81 Arg2:T80
+R32	hasAttr Arg1:T83 Arg2:T84
+R33	hasAttr Arg1:T86 Arg2:T85
+R34	hasAttr Arg1:T92 Arg2:T91
+R35	hasAttr Arg1:T96 Arg2:T95
+R36	hasAttr Arg1:T7 Arg2:T8
+R37	hasAttr Arg1:T13 Arg2:T14
+R38	hasAttr Arg1:T37 Arg2:T38

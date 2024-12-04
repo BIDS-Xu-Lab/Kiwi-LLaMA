@@ -1,0 +1,25 @@
+T1	treatment 587 599	Hemodialysis
+T2	temporal 610 621	Oct 19 2007
+T3	temporal 662 679	3 to 4 days worth
+T4	problem 683 691	diarrhea
+T5	treatment 799 817	dialysis dependent
+T6	temporal 821 828	Mondays
+T7	temporal 831 841	Wednesdays
+T8	temporal 844 851	Fridays
+T9	temporal 858 867	Saturdays
+T10	temporal 890 904	3 - to 4 - day
+T11	problem 916 924	diarrhea
+T12	treatment 2328 2336	dialysis
+T13	temporal 2353 2364	Oct 19 2007
+T14	treatment 2585 2597	hemodialysis
+T15	temporal 2598 2606	tomorrow
+R1	hasAttr Arg1:T1 Arg2:T2
+R2	hasAttr Arg1:T4 Arg2:T3
+R3	hasAttr Arg1:T5 Arg2:T6
+R4	hasAttr Arg1:T5 Arg2:T7
+R5	hasAttr Arg1:T5 Arg2:T8
+R6	hasAttr Arg1:T5 Arg2:T9
+R7	hasAttr Arg1:T5 Arg2:T10
+R8	hasAttr Arg1:T11 Arg2:T10
+R9	hasAttr Arg1:T12 Arg2:T13
+R10	hasAttr Arg1:T14 Arg2:T15

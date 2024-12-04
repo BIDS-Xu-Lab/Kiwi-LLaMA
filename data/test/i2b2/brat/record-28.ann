@@ -1,0 +1,583 @@
+T1	temporal 17 27	2012-06-07
+T2	temporal 45 55	2012-06-09
+T3	temporal 72 82	1963-12-03
+T4	problem 110 119	Allergies
+T5	negation 149 151	No
+T6	problem 152 176	Known Allergies to Drugs
+T7	problem 235 243	Overdose
+T8	treatment 283 290	NG tube
+T9	problem 371 382	hepatitis C
+T10	problem 385 401	bipolar disorder
+T11	temporal 467 471	4/05
+T12	temporal 506 520	one hour after
+T13	drug 553 558	pills
+T14	drug 602 609	Inderal
+T15	drug 614 622	Klonopin
+T16	drug 675 681	geodon
+T17	drug 684 694	gabapentin
+T18	drug 697 703	Lescol
+T19	drug 708 718	paroxitine
+T20	problem 781 793	unresponsive
+T21	drug 871 889	activated charcoal
+T22	test 892 906	His initial BP
+T23	labvalue 911 915	60/P
+T24	test 921 928	a pulse
+T25	labvalue 936 941	60 s.
+T26	drug 965 982	calcium gluconate
+T27	drug 1000 1013	a Calcium gtt
+T28	strength 1034 1037	5mg
+T29	drug 1041 1049	glucagon
+T30	drug 1065 1080	a glucagon drip
+T31	test 1102 1111	His urine
+T32	test 1116 1133	serum tox screens
+T33	drug 1156 1162	benzos
+T34	treatment 1303 1320	airway protection
+T35	drug 1341 1350	a calcium
+T36	drug 1355 1363	glucagon
+T37	route 1364 1368	drip
+T38	problem 1402 1422	aspiration pneumonia
+T39	test 1426 1429	CXR
+T40	problem 1609 1614	Hep C
+T41	problem 1615 1626	Bipolar D/O
+T42	problem 1655 1663	overdose
+T43	temporal 1664 1681	several years ago
+T44	problem 1682 1693	Agoraphobia
+T45	problem 1694 1708	Panic disorder
+T46	problem 1709 1719	Narcissism
+T47	negation 1720 1722	No
+T48	problem 1734 1745	head trauma
+T49	bodyloc 1734 1738	head
+T50	problem 1749 1765	seizure disorder
+T51	problem 2097 2104	anxiety
+T52	test 2293 2299	Vitals
+T53	labvalue 2302 2306	99.3
+T54	labvalue 2307 2309	67
+T55	labvalue 2320 2325	99/53
+T56	labvalue 2338 2341	96%
+T57	test 2406 2410	NCAT
+T58	test 2413 2418	PERRL
+T59	test 2421 2425	EOMI
+T60	negation 2428 2430	no
+T61	problem 2431 2438	icterus
+T62	test 2441 2443	OP
+T63	negation 2458 2460	no
+T64	problem 2461 2482	tongue fasciculations
+T65	bodyloc 2461 2467	tongue
+T66	negation 2499 2501	no
+T67	problem 2502 2505	LAD
+T68	negation 2508 2510	no
+T69	problem 2511 2514	JVD
+T70	test 2520 2523	RRR
+T71	labvalue 2526 2528	nl
+T72	test 2529 2531	s1
+T73	test 2532 2534	s2
+T74	negation 2537 2539	no
+T75	problem 2540 2545	m/g/r
+T76	uncertain 2554 2555	?
+T77	problem 2556 2590	decreased BS over left middle lung
+T78	course 2556 2565	decreased
+T79	bodyloc 2574 2590	left middle lung
+T80	test 2603 2606	CTA
+T81	labvalue 2613 2619	normal
+T82	test 2620 2624	size
+T83	negation 2632 2634	no
+T84	problem 2635 2640	scars
+T85	labvalue 2643 2645	nl
+T86	test 2646 2648	bs
+T87	problem 2658 2660	nt
+T88	negation 2680 2682	no
+T89	problem 2683 2688	c/c/e
+T90	negation 2691 2693	no
+T91	problem 2694 2699	edema
+T92	negation 2708 2710	no
+T93	problem 2711 2720	asterixis
+T94	test 2781 2783	LT
+T95	test 2825 2830	A+Ox3
+T96	problem 2865 2882	speech stuttering
+T97	negation 2897 2899	no
+T98	problem 2900 2902	SI
+T99	problem 2906 2908	HI
+T100	test 2929 2933	Labs
+T101	temporal 2945 2955	2012-06-07
+T102	temporal 2956 2964	09:55 PM
+T103	test 2965 2970	BLOOD
+T104	test 2971 2974	WBC
+T105	labvalue 2977 2980	8.9
+T106	test 2981 2984	RBC
+T107	labvalue 2987 2991	4.94
+T108	test 2992 2995	Hgb
+T109	labvalue 2998 3002	15.8
+T110	test 3003 3006	Hct
+T111	labvalue 3009 3013	45.3
+T112	test 3014 3017	MCV
+T113	labvalue 3020 3022	92
+T114	test 3023 3026	MCH
+T115	labvalue 3029 3033	31.9
+T116	test 3034 3038	MCHC
+T117	labvalue 3041 3045	34.8
+T118	test 3046 3049	RDW
+T119	labvalue 3052 3056	12.4
+T120	test 3057 3063	Plt Ct
+T121	labvalue 3066 3069	175
+T122	temporal 3070 3080	2012-06-07
+T123	temporal 3081 3089	09:55 PM
+T124	test 3090 3095	BLOOD
+T125	test 3096 3101	Neuts
+T126	labvalue 3104 3108	49.9
+T127	test 3111 3117	Lymphs
+T128	labvalue 3120 3124	42.4
+T129	test 3127 3132	Monos
+T130	labvalue 3135 3138	5.5
+T131	test 3139 3142	Eos
+T132	labvalue 3145 3148	1.6
+T133	test 3149 3153	Baso
+T134	labvalue 3156 3159	0.6
+T135	temporal 3160 3170	2012-06-07
+T136	temporal 3171 3179	09:55 PM
+T137	test 3180 3185	BLOOD
+T138	test 3186 3192	Plt Ct
+T139	labvalue 3195 3198	175
+T140	temporal 3199 3209	2012-06-07
+T141	temporal 3210 3218	09:55 PM
+T142	test 3219 3224	BLOOD
+T143	test 3225 3227	PT
+T144	labvalue 3230 3234	12.8
+T145	test 3235 3238	PTT
+T146	labvalue 3241 3245	25.7
+T147	test 3246 3253	INR(PT)
+T148	labvalue 3256 3259	1.0
+T149	temporal 3260 3270	2012-06-07
+T150	temporal 3271 3279	09:55 PM
+T151	test 3280 3285	BLOOD
+T152	test 3286 3293	Glucose
+T153	labvalue 3296 3299	108
+T154	test 3302 3307	UreaN
+T155	labvalue 3310 3312	13
+T156	test 3313 3318	Creat
+T157	labvalue 3321 3324	0.7
+T158	test 3325 3327	Na
+T159	labvalue 3330 3333	146
+T160	test 3336 3337	K
+T161	labvalue 3340 3343	3.7
+T162	test 3344 3346	Cl
+T163	labvalue 3349 3352	109
+T164	test 3355 3359	HCO3
+T165	labvalue 3362 3364	30
+T166	test 3367 3372	AnGap
+T167	labvalue 3375 3377	11
+T168	temporal 3378 3388	2012-06-07
+T169	temporal 3389 3397	09:55 PM
+T170	test 3398 3403	BLOOD
+T171	test 3404 3411	Albumin
+T172	labvalue 3414 3417	3.9
+T173	test 3418 3425	Calcium
+T174	labvalue 3428 3431	8.5
+T175	test 3432 3436	Phos
+T176	labvalue 3439 3442	4.2
+T177	test 3443 3445	Mg
+T178	labvalue 3448 3451	2.0
+T179	temporal 3452 3462	2012-06-07
+T180	temporal 3463 3471	09:55 PM
+T181	test 3472 3477	BLOOD
+T182	test 3478 3481	ALT
+T183	labvalue 3484 3486	44
+T184	test 3489 3492	AST
+T185	labvalue 3495 3497	31
+T186	test 3498 3505	AlkPhos
+T187	labvalue 3508 3510	36
+T188	test 3513 3520	TotBili
+T189	labvalue 3523 3526	0.2
+T190	temporal 3527 3537	2012-06-07
+T191	temporal 3538 3546	09:55 PM
+T192	test 3547 3552	BLOOD
+T193	test 3553 3556	ASA
+T194	labvalue 3559 3562	NEG
+T195	test 3563 3570	Ethanol
+T196	labvalue 3573 3576	NEG
+T197	test 3577 3584	Acetmnp
+T198	labvalue 3587 3590	NEG
+T199	test 3591 3598	Bnzodzp
+T200	labvalue 3601 3604	NEG
+T201	test 3605 3612	Barbitr
+T202	labvalue 3615 3618	NEG
+T203	test 3619 3626	Tricycl
+T204	labvalue 3629 3632	NEG
+T205	test 3633 3637	Labs
+T206	temporal 3638 3643	today
+T207	temporal 3646 3656	2012-06-08
+T208	temporal 3657 3665	09:30 AM
+T209	test 3666 3671	BLOOD
+T210	test 3672 3675	WBC
+T211	labvalue 3678 3682	10.1
+T212	test 3683 3686	RBC
+T213	labvalue 3689 3693	4.35
+T214	test 3696 3699	Hgb
+T215	labvalue 3702 3706	14.2
+T216	test 3707 3710	Hct
+T217	labvalue 3713 3717	39.9
+T218	test 3720 3723	MCV
+T219	labvalue 3726 3728	92
+T220	test 3729 3732	MCH
+T221	labvalue 3735 3739	32.6
+T222	test 3742 3746	MCHC
+T223	labvalue 3749 3753	35.6
+T224	test 3756 3759	RDW
+T225	labvalue 3762 3766	12.4
+T226	test 3767 3773	Plt Ct
+T227	labvalue 3776 3779	151
+T228	temporal 3780 3790	2012-06-08
+T229	temporal 3791 3799	09:30 AM
+T230	test 3800 3805	BLOOD
+T231	test 3806 3813	Glucose
+T232	labvalue 3816 3819	115
+T233	test 3822 3827	UreaN
+T234	labvalue 3830 3832	14
+T235	test 3833 3838	Creat
+T236	labvalue 3841 3844	0.8
+T237	test 3845 3847	Na
+T238	labvalue 3850 3853	142
+T239	test 3854 3855	K
+T240	labvalue 3858 3861	4.1
+T241	test 3862 3864	Cl
+T242	labvalue 3867 3870	112
+T243	test 3873 3877	HCO3
+T244	labvalue 3880 3882	26
+T245	test 3883 3888	AnGap
+T246	labvalue 3891 3892	8
+T247	temporal 3893 3903	2012-06-08
+T248	temporal 3904 3912	09:30 AM
+T249	test 3913 3918	BLOOD
+T250	test 3919 3926	Calcium
+T251	labvalue 3929 3933	10.4
+T252	test 3936 3940	Phos
+T253	labvalue 3943 3946	2.8
+T254	test 3947 3949	Mg
+T255	labvalue 3952 3955	1.8
+T256	temporal 3956 3966	2012-06-08
+T257	test 3967 3970	CXR
+T258	drug 3973 3993	An endotracheal tube
+T259	drug 4075 4095	The nasogastric tube
+T260	problem 4197 4231	a patchy area of increased opacity
+T261	course 4214 4223	increased
+T262	bodyloc 4239 4263	left retrocardiac region
+T263	negation 4421 4423	no
+T264	problem 4436 4458	right pleural effusion
+T265	problem 4462 4480	right pneumothorax
+T266	treatment 4499 4516	Endotracheal tube
+T267	problem 4627 4659	Patchy left retrocardiac opacity
+T268	bodyloc 4627 4651	Patchy left retrocardiac
+T269	problem 4680 4698	patchy atelectasis
+T270	problem 4701 4711	aspiration
+T271	problem 4717 4732	early pneumonia
+T272	test 4735 4754	Followup radiograph
+T273	problem 4813 4816	HCV
+T274	problem 4819 4829	bipolar DO
+T275	problem 4859 4867	overdose
+T276	drug 4871 4878	Inderal
+T277	drug 4881 4889	Klonopin
+T278	drug 4892 4898	Geodon
+T279	treatment 4923 4933	intubation
+T280	treatment 4938 4955	airway protection
+T281	problem 4975 5000	L retrocardiac infiltrate
+T282	bodyloc 4975 4989	L retrocardiac
+T283	problem 5020 5028	Overdose
+T284	test 5064 5066	HR
+T285	drug 5083 5095	glucagon gtt
+T286	problem 5108 5122	BZD withdrawal
+T287	problem 5125 5134	agitation
+T288	problem 5135 5151	Bipolar disorder
+T289	treatment 5248 5267	suicide precautions
+T290	route 5318 5320	SC
+T291	drug 5321 5328	heparin
+T292	treatment 5331 5344	bowel regimen
+T293	drug 5347 5355	nicotine
+T294	form 5356 5361	patch
+T295	drug 5452 5461	Neurontin
+T296	strength 5462 5468	800 mg
+T297	frequency 5469 5472	tid
+T298	drug 5473 5484	Ziprasidone
+T299	frequency 5485 5488	bid
+T300	drug 5489 5499	Propanolol
+T301	strength 5500 5505	20 mg
+T302	frequency 5506 5509	tid
+T303	drug 5510 5518	Klonopin
+T304	strength 5519 5523	2 mg
+T305	frequency 5524 5527	tid
+T306	drug 5528 5533	Paxil
+T307	strength 5534 5539	30 mg
+T308	frequency 5540 5542	qd
+T309	drug 5543 5551	Protonix
+T310	strength 5552 5557	40 mg
+T311	frequency 5558 5560	qd
+T312	drug 5561 5567	Folate
+T313	strength 5568 5572	1 mg
+T314	frequency 5573 5575	qd
+T315	drug 5576 5582	Lescol
+T316	strength 5583 5585	40
+T317	frequency 5586 5588	qd
+T318	problem 5640 5650	Depression
+T319	problem 5673 5682	Depressed
+T320	temporal 5870 5880	2012-06-09
+T321	temporal 5941 5951	2012-06-15
+T322	temporal 5952 5959	4:29 PM
+R1	hasAttr Arg1:T6 Arg2:T5
+R2	hasAttr Arg1:T13 Arg2:T11
+R3	hasAttr Arg1:T13 Arg2:T12
+R4	hasAttr Arg1:T22 Arg2:T23
+R5	hasAttr Arg1:T24 Arg2:T25
+R6	hasAttr Arg1:T29 Arg2:T28
+R7	hasAttr Arg1:T35 Arg2:T37
+R8	hasAttr Arg1:T36 Arg2:T37
+R9	hasAttr Arg1:T42 Arg2:T43
+R10	hasAttr Arg1:T50 Arg2:T47
+R11	hasAttr Arg1:T48 Arg2:T47
+R12	hasAttr Arg1:T48 Arg2:T49
+R13	hasAttr Arg1:T52 Arg2:T53
+R14	hasAttr Arg1:T52 Arg2:T54
+R15	hasAttr Arg1:T52 Arg2:T55
+R16	hasAttr Arg1:T52 Arg2:T56
+R17	hasAttr Arg1:T61 Arg2:T60
+R18	hasAttr Arg1:T64 Arg2:T63
+R19	hasAttr Arg1:T64 Arg2:T65
+R20	hasAttr Arg1:T67 Arg2:T66
+R21	hasAttr Arg1:T69 Arg2:T68
+R22	hasAttr Arg1:T73 Arg2:T71
+R23	hasAttr Arg1:T72 Arg2:T71
+R24	hasAttr Arg1:T75 Arg2:T74
+R25	hasAttr Arg1:T77 Arg2:T76
+R26	hasAttr Arg1:T77 Arg2:T79
+R27	hasAttr Arg1:T77 Arg2:T78
+R28	hasAttr Arg1:T82 Arg2:T81
+R29	hasAttr Arg1:T84 Arg2:T83
+R30	hasAttr Arg1:T86 Arg2:T85
+R31	hasAttr Arg1:T89 Arg2:T88
+R32	hasAttr Arg1:T91 Arg2:T90
+R33	hasAttr Arg1:T93 Arg2:T92
+R34	hasAttr Arg1:T98 Arg2:T97
+R35	hasAttr Arg1:T99 Arg2:T97
+R36	hasAttr Arg1:T114 Arg2:T101
+R37	hasAttr Arg1:T106 Arg2:T101
+R38	hasAttr Arg1:T112 Arg2:T101
+R39	hasAttr Arg1:T118 Arg2:T101
+R40	hasAttr Arg1:T104 Arg2:T101
+R41	hasAttr Arg1:T120 Arg2:T101
+R42	hasAttr Arg1:T110 Arg2:T101
+R43	hasAttr Arg1:T103 Arg2:T101
+R44	hasAttr Arg1:T116 Arg2:T101
+R45	hasAttr Arg1:T108 Arg2:T101
+R46	hasAttr Arg1:T112 Arg2:T102
+R47	hasAttr Arg1:T114 Arg2:T102
+R48	hasAttr Arg1:T104 Arg2:T102
+R49	hasAttr Arg1:T118 Arg2:T102
+R50	hasAttr Arg1:T120 Arg2:T102
+R51	hasAttr Arg1:T116 Arg2:T102
+R52	hasAttr Arg1:T103 Arg2:T102
+R53	hasAttr Arg1:T106 Arg2:T102
+R54	hasAttr Arg1:T108 Arg2:T102
+R55	hasAttr Arg1:T110 Arg2:T102
+R56	hasAttr Arg1:T104 Arg2:T105
+R57	hasAttr Arg1:T106 Arg2:T107
+R58	hasAttr Arg1:T108 Arg2:T109
+R59	hasAttr Arg1:T110 Arg2:T111
+R60	hasAttr Arg1:T112 Arg2:T113
+R61	hasAttr Arg1:T114 Arg2:T115
+R62	hasAttr Arg1:T116 Arg2:T117
+R63	hasAttr Arg1:T118 Arg2:T119
+R64	hasAttr Arg1:T120 Arg2:T121
+R65	hasAttr Arg1:T127 Arg2:T122
+R66	hasAttr Arg1:T131 Arg2:T122
+R67	hasAttr Arg1:T133 Arg2:T122
+R68	hasAttr Arg1:T129 Arg2:T122
+R69	hasAttr Arg1:T125 Arg2:T122
+R70	hasAttr Arg1:T124 Arg2:T122
+R71	hasAttr Arg1:T133 Arg2:T123
+R72	hasAttr Arg1:T129 Arg2:T123
+R73	hasAttr Arg1:T124 Arg2:T123
+R74	hasAttr Arg1:T131 Arg2:T123
+R75	hasAttr Arg1:T127 Arg2:T123
+R76	hasAttr Arg1:T125 Arg2:T123
+R77	hasAttr Arg1:T125 Arg2:T126
+R78	hasAttr Arg1:T127 Arg2:T128
+R79	hasAttr Arg1:T129 Arg2:T130
+R80	hasAttr Arg1:T131 Arg2:T132
+R81	hasAttr Arg1:T133 Arg2:T134
+R82	hasAttr Arg1:T138 Arg2:T135
+R83	hasAttr Arg1:T137 Arg2:T135
+R84	hasAttr Arg1:T138 Arg2:T136
+R85	hasAttr Arg1:T137 Arg2:T136
+R86	hasAttr Arg1:T138 Arg2:T139
+R87	hasAttr Arg1:T147 Arg2:T140
+R88	hasAttr Arg1:T142 Arg2:T140
+R89	hasAttr Arg1:T143 Arg2:T140
+R90	hasAttr Arg1:T145 Arg2:T140
+R91	hasAttr Arg1:T147 Arg2:T141
+R92	hasAttr Arg1:T142 Arg2:T141
+R93	hasAttr Arg1:T143 Arg2:T141
+R94	hasAttr Arg1:T145 Arg2:T141
+R95	hasAttr Arg1:T143 Arg2:T144
+R96	hasAttr Arg1:T145 Arg2:T146
+R97	hasAttr Arg1:T147 Arg2:T148
+R98	hasAttr Arg1:T152 Arg2:T149
+R99	hasAttr Arg1:T160 Arg2:T149
+R100	hasAttr Arg1:T158 Arg2:T149
+R101	hasAttr Arg1:T151 Arg2:T149
+R102	hasAttr Arg1:T156 Arg2:T149
+R103	hasAttr Arg1:T162 Arg2:T149
+R104	hasAttr Arg1:T164 Arg2:T149
+R105	hasAttr Arg1:T166 Arg2:T149
+R106	hasAttr Arg1:T154 Arg2:T149
+R107	hasAttr Arg1:T160 Arg2:T150
+R108	hasAttr Arg1:T151 Arg2:T150
+R109	hasAttr Arg1:T158 Arg2:T150
+R110	hasAttr Arg1:T156 Arg2:T150
+R111	hasAttr Arg1:T164 Arg2:T150
+R112	hasAttr Arg1:T162 Arg2:T150
+R113	hasAttr Arg1:T154 Arg2:T150
+R114	hasAttr Arg1:T166 Arg2:T150
+R115	hasAttr Arg1:T152 Arg2:T150
+R116	hasAttr Arg1:T152 Arg2:T153
+R117	hasAttr Arg1:T154 Arg2:T155
+R118	hasAttr Arg1:T156 Arg2:T157
+R119	hasAttr Arg1:T158 Arg2:T159
+R120	hasAttr Arg1:T160 Arg2:T161
+R121	hasAttr Arg1:T162 Arg2:T163
+R122	hasAttr Arg1:T164 Arg2:T165
+R123	hasAttr Arg1:T166 Arg2:T167
+R124	hasAttr Arg1:T177 Arg2:T168
+R125	hasAttr Arg1:T170 Arg2:T168
+R126	hasAttr Arg1:T175 Arg2:T168
+R127	hasAttr Arg1:T171 Arg2:T168
+R128	hasAttr Arg1:T173 Arg2:T168
+R129	hasAttr Arg1:T173 Arg2:T169
+R130	hasAttr Arg1:T177 Arg2:T169
+R131	hasAttr Arg1:T171 Arg2:T169
+R132	hasAttr Arg1:T175 Arg2:T169
+R133	hasAttr Arg1:T170 Arg2:T169
+R134	hasAttr Arg1:T171 Arg2:T172
+R135	hasAttr Arg1:T173 Arg2:T174
+R136	hasAttr Arg1:T175 Arg2:T176
+R137	hasAttr Arg1:T177 Arg2:T178
+R138	hasAttr Arg1:T188 Arg2:T179
+R139	hasAttr Arg1:T181 Arg2:T179
+R140	hasAttr Arg1:T182 Arg2:T179
+R141	hasAttr Arg1:T186 Arg2:T179
+R142	hasAttr Arg1:T184 Arg2:T179
+R143	hasAttr Arg1:T188 Arg2:T180
+R144	hasAttr Arg1:T182 Arg2:T180
+R145	hasAttr Arg1:T181 Arg2:T180
+R146	hasAttr Arg1:T184 Arg2:T180
+R147	hasAttr Arg1:T186 Arg2:T180
+R148	hasAttr Arg1:T182 Arg2:T183
+R149	hasAttr Arg1:T184 Arg2:T185
+R150	hasAttr Arg1:T186 Arg2:T187
+R151	hasAttr Arg1:T188 Arg2:T189
+R152	hasAttr Arg1:T193 Arg2:T190
+R153	hasAttr Arg1:T192 Arg2:T190
+R154	hasAttr Arg1:T203 Arg2:T190
+R155	hasAttr Arg1:T201 Arg2:T190
+R156	hasAttr Arg1:T197 Arg2:T190
+R157	hasAttr Arg1:T195 Arg2:T190
+R158	hasAttr Arg1:T199 Arg2:T190
+R159	hasAttr Arg1:T195 Arg2:T191
+R160	hasAttr Arg1:T201 Arg2:T191
+R161	hasAttr Arg1:T203 Arg2:T191
+R162	hasAttr Arg1:T192 Arg2:T191
+R163	hasAttr Arg1:T197 Arg2:T191
+R164	hasAttr Arg1:T199 Arg2:T191
+R165	hasAttr Arg1:T193 Arg2:T194
+R166	hasAttr Arg1:T195 Arg2:T196
+R167	hasAttr Arg1:T197 Arg2:T198
+R168	hasAttr Arg1:T199 Arg2:T200
+R169	hasAttr Arg1:T201 Arg2:T202
+R170	hasAttr Arg1:T203 Arg2:T204
+R171	hasAttr Arg1:T205 Arg2:T206
+R172	hasAttr Arg1:T216 Arg2:T207
+R173	hasAttr Arg1:T210 Arg2:T207
+R174	hasAttr Arg1:T226 Arg2:T207
+R175	hasAttr Arg1:T214 Arg2:T207
+R176	hasAttr Arg1:T220 Arg2:T207
+R177	hasAttr Arg1:T212 Arg2:T207
+R178	hasAttr Arg1:T218 Arg2:T207
+R179	hasAttr Arg1:T222 Arg2:T207
+R180	hasAttr Arg1:T224 Arg2:T207
+R181	hasAttr Arg1:T209 Arg2:T207
+R182	hasAttr Arg1:T216 Arg2:T208
+R183	hasAttr Arg1:T212 Arg2:T208
+R184	hasAttr Arg1:T218 Arg2:T208
+R185	hasAttr Arg1:T210 Arg2:T208
+R186	hasAttr Arg1:T214 Arg2:T208
+R187	hasAttr Arg1:T209 Arg2:T208
+R188	hasAttr Arg1:T220 Arg2:T208
+R189	hasAttr Arg1:T226 Arg2:T208
+R190	hasAttr Arg1:T222 Arg2:T208
+R191	hasAttr Arg1:T224 Arg2:T208
+R192	hasAttr Arg1:T210 Arg2:T211
+R193	hasAttr Arg1:T212 Arg2:T213
+R194	hasAttr Arg1:T214 Arg2:T215
+R195	hasAttr Arg1:T216 Arg2:T217
+R196	hasAttr Arg1:T218 Arg2:T219
+R197	hasAttr Arg1:T220 Arg2:T221
+R198	hasAttr Arg1:T222 Arg2:T223
+R199	hasAttr Arg1:T224 Arg2:T225
+R200	hasAttr Arg1:T226 Arg2:T227
+R201	hasAttr Arg1:T237 Arg2:T228
+R202	hasAttr Arg1:T245 Arg2:T228
+R203	hasAttr Arg1:T233 Arg2:T228
+R204	hasAttr Arg1:T231 Arg2:T228
+R205	hasAttr Arg1:T243 Arg2:T228
+R206	hasAttr Arg1:T241 Arg2:T228
+R207	hasAttr Arg1:T235 Arg2:T228
+R208	hasAttr Arg1:T239 Arg2:T228
+R209	hasAttr Arg1:T230 Arg2:T228
+R210	hasAttr Arg1:T245 Arg2:T229
+R211	hasAttr Arg1:T233 Arg2:T229
+R212	hasAttr Arg1:T231 Arg2:T229
+R213	hasAttr Arg1:T243 Arg2:T229
+R214	hasAttr Arg1:T241 Arg2:T229
+R215	hasAttr Arg1:T235 Arg2:T229
+R216	hasAttr Arg1:T230 Arg2:T229
+R217	hasAttr Arg1:T237 Arg2:T229
+R218	hasAttr Arg1:T239 Arg2:T229
+R219	hasAttr Arg1:T231 Arg2:T232
+R220	hasAttr Arg1:T233 Arg2:T234
+R221	hasAttr Arg1:T235 Arg2:T236
+R222	hasAttr Arg1:T237 Arg2:T238
+R223	hasAttr Arg1:T239 Arg2:T240
+R224	hasAttr Arg1:T241 Arg2:T242
+R225	hasAttr Arg1:T243 Arg2:T244
+R226	hasAttr Arg1:T245 Arg2:T246
+R227	hasAttr Arg1:T252 Arg2:T247
+R228	hasAttr Arg1:T249 Arg2:T247
+R229	hasAttr Arg1:T254 Arg2:T247
+R230	hasAttr Arg1:T250 Arg2:T247
+R231	hasAttr Arg1:T252 Arg2:T248
+R232	hasAttr Arg1:T249 Arg2:T248
+R233	hasAttr Arg1:T254 Arg2:T248
+R234	hasAttr Arg1:T250 Arg2:T248
+R235	hasAttr Arg1:T250 Arg2:T251
+R236	hasAttr Arg1:T252 Arg2:T253
+R237	hasAttr Arg1:T254 Arg2:T255
+R238	hasAttr Arg1:T257 Arg2:T256
+R239	hasAttr Arg1:T260 Arg2:T261
+R240	hasAttr Arg1:T260 Arg2:T262
+R241	hasAttr Arg1:T264 Arg2:T263
+R242	hasAttr Arg1:T265 Arg2:T263
+R243	hasAttr Arg1:T267 Arg2:T268
+R244	hasAttr Arg1:T281 Arg2:T282
+R245	hasAttr Arg1:T291 Arg2:T290
+R246	hasAttr Arg1:T293 Arg2:T294
+R247	hasAttr Arg1:T295 Arg2:T296
+R248	hasAttr Arg1:T295 Arg2:T297
+R249	hasAttr Arg1:T298 Arg2:T299
+R250	hasAttr Arg1:T300 Arg2:T302
+R251	hasAttr Arg1:T300 Arg2:T301
+R252	hasAttr Arg1:T303 Arg2:T304
+R253	hasAttr Arg1:T303 Arg2:T305
+R254	hasAttr Arg1:T306 Arg2:T307
+R255	hasAttr Arg1:T306 Arg2:T308
+R256	hasAttr Arg1:T309 Arg2:T310
+R257	hasAttr Arg1:T309 Arg2:T311
+R258	hasAttr Arg1:T312 Arg2:T314
+R259	hasAttr Arg1:T312 Arg2:T313
+R260	hasAttr Arg1:T315 Arg2:T317
+R261	hasAttr Arg1:T315 Arg2:T316

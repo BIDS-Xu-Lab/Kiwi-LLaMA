@@ -1,0 +1,201 @@
+T1	problem 71 83	Preeclampsia
+T2	problem 98 110	Preeclampsia
+T3	treatment 124 132	delivery
+T4	treatment 138 154	Cesarean section
+T5	problem 160 187	uncontrolled blood pressure
+T6	course 160 172	uncontrolled
+T7	bodyloc 173 178	blood
+T8	treatment 245 255	a delivery
+T9	treatment 274 292	a cesarean section
+T10	test 339 357	her blood pressure
+T11	problem 418 445	uncontrolled blood pressure
+T12	course 418 430	uncontrolled
+T13	bodyloc 431 436	blood
+T14	test 525 539	blood pressure
+T15	treatment 625 635	a delivery
+T16	treatment 654 672	a cesarean section
+T17	test 719 737	her blood pressure
+T18	problem 798 825	uncontrolled blood pressure
+T19	course 798 810	uncontrolled
+T20	bodyloc 811 816	blood
+T21	treatment 838 858	multiple medications
+T22	test 878 896	the blood pressure
+T23	negation 936 942	denies
+T24	problem 959 969	chest pain
+T25	bodyloc 959 964	chest
+T26	problem 974 993	shortness of breath
+T27	problem 1013 1020	fatigue
+T28	problem 1025 1034	tiredness
+T29	subject 1041 1046	child
+T30	problem 1051 1074	some congenital anomaly
+T31	subject 1115 1120	child
+T32	treatment 1129 1136	surgery
+T33	problem 1213 1225	hypertension
+T34	problem 1238 1267	gestational diabetes mellitus
+T35	test 1284 1295	cholesterol
+T36	labvalue 1299 1305	normal
+T37	negation 1308 1321	No history of
+T38	problem 1322 1357	established coronary artery disease
+T39	bodyloc 1334 1349	coronary artery
+T40	subject 1362 1368	family
+T41	problem 1397 1413	coronary disease
+T42	bodyloc 1397 1405	coronary
+T43	negation 1467 1469	No
+T44	treatment 1470 1483	major surgery
+T45	treatment 1495 1504	C-section
+T46	drug 1533 1541	Cardizem
+T47	drug 1546 1556	metoprolol
+T48	drug 1588 1599	hydralazine
+T49	strength 1600 1605	50 mg
+T50	frequency 1606 1612	t.i.d.
+T51	drug 1618 1627	labetalol
+T52	strength 1628 1634	200 mg
+T53	frequency 1635 1640	b.i.d
+T54	drug 1643 1662	hydrochlorothiazide
+T55	drug 1668 1691	insulin supplementation
+T56	problem 1829 1841	Hypertension
+T57	problem 1843 1872	gestational diabetes mellitus
+T58	problem 1874 1887	pre-eclampsia
+T59	problem 1922 1933	miscarriage
+T60	negation 1971 1984	No history of
+T61	problem 1985 1990	fever
+T62	problem 1992 1998	rigors
+T63	problem 2003 2009	chills
+T64	negation 2019 2032	No history of
+T65	problem 2033 2041	cataract
+T66	problem 2043 2056	blurry vision
+T67	problem 2061 2069	glaucoma
+T68	negation 2088 2090	No
+T69	problem 2091 2107	congestive heart
+T70	bodyloc 2102 2107	heart
+T71	negation 2110 2112	No
+T72	problem 2113 2123	arrhythmia
+T73	negation 2139 2152	No history of
+T74	problem 2153 2162	pneumonia
+T75	problem 2166 2178	valley fever
+T76	negation 2199 2201	No
+T77	problem 2202 2223	epigastric discomfort
+T78	bodyloc 2202 2212	epigastric
+T79	problem 2225 2236	hematemesis
+T80	problem 2241 2247	melena
+T81	negation 2260 2262	No
+T82	problem 2263 2272	frequency
+T83	problem 2276 2283	urgency
+T84	negation 2303 2305	No
+T85	problem 2306 2315	arthritis
+T86	problem 2319 2334	muscle weakness
+T87	bodyloc 2319 2325	muscle
+T88	negation 2374 2376	No
+T89	problem 2377 2380	TIA
+T90	negation 2383 2385	No
+T91	problem 2386 2389	CVA
+T92	negation 2392 2394	No
+T93	problem 2395 2411	seizure disorder
+T94	test 2449 2454	Pulse
+T95	labvalue 2458 2460	86
+T96	test 2462 2476	blood pressure
+T97	labvalue 2477 2483	175/86
+T98	test 2499 2515	respiratory rate
+T99	labvalue 2516 2529	16 per minute
+T100	test 2620 2622	S1
+T101	test 2627 2629	S2
+T102	labvalue 2630 2637	regular
+T103	negation 2683 2685	No
+T104	problem 2686 2691	edema
+T105	test 2694 2700	Pulses
+T106	test 2729 2732	EKG
+T107	problem 2739 2756	sinus tachycardia
+T108	bodyloc 2739 2744	sinus
+T109	problem 2762 2786	nonspecific ST-T changes
+T110	test 2789 2793	Labs
+T111	test 2807 2810	BUN
+T112	test 2815 2825	creatinine
+T113	labvalue 2826 2846	within normal limits
+T114	problem 2864 2876	Preeclampsia
+T115	treatment 2890 2898	delivery
+T116	treatment 2904 2920	Cesarean section
+T117	problem 2926 2953	uncontrolled blood pressure
+T118	course 2926 2938	uncontrolled
+T119	bodyloc 2939 2944	blood
+T120	negation 2959 2978	No prior history of
+T121	problem 2979 2994	cardiac disease
+T122	bodyloc 2979 2986	cardiac
+T123	problem 3006 3046	borderline gestational diabetes mellitus
+T124	test 3081 3098	an echocardiogram
+T125	test 3103 3139	assessment left ventricular function
+T126	drug 3171 3180	labetalol
+T127	drug 3185 3196	hydralazine
+T128	drug 3244 3254	medication
+T129	drug 3461 3469	cardizem
+T130	drug 3471 3481	metoprolol
+T131	problem 3483 3495	hypertension
+T132	problem 3497 3526	gestational diabetes mellitus
+T133	problem 3528 3541	pre-eclampsia
+T134	test 3543 3557	blood pressure
+T135	problem 3559 3586	uncontrolled blood pressure
+T136	course 3559 3571	uncontrolled
+T137	bodyloc 3572 3577	blood
+T138	problem 3588 3608	gestational diabetes
+T139	treatment 3610 3626	cesarean section
+T140	problem 3659 3671	preeclampsia
+T141	treatment 3673 3681	cesarean
+T142	treatment 3683 3690	section
+T143	treatment 3692 3700	delivery
+R1	hasAttr Arg1:T51 Arg2:T53
+R2	hasAttr Arg1:T51 Arg2:T52
+R3	hasAttr Arg1:T48 Arg2:T50
+R4	hasAttr Arg1:T48 Arg2:T49
+R5	hasAttr Arg1:T38 Arg2:T39
+R6	hasAttr Arg1:T41 Arg2:T42
+R7	hasAttr Arg1:T61 Arg2:T60
+R8	hasAttr Arg1:T74 Arg2:T73
+R9	hasAttr Arg1:T104 Arg2:T103
+R10	hasAttr Arg1:T82 Arg2:T81
+R11	hasAttr Arg1:T5 Arg2:T7
+R12	hasAttr Arg1:T135 Arg2:T137
+R13	hasAttr Arg1:T121 Arg2:T122
+R14	hasAttr Arg1:T117 Arg2:T119
+R15	hasAttr Arg1:T91 Arg2:T90
+R16	hasAttr Arg1:T75 Arg2:T73
+R17	hasAttr Arg1:T93 Arg2:T92
+R18	hasAttr Arg1:T72 Arg2:T71
+R19	hasAttr Arg1:T79 Arg2:T76
+R20	hasAttr Arg1:T83 Arg2:T81
+R21	hasAttr Arg1:T107 Arg2:T108
+R22	hasAttr Arg1:T65 Arg2:T64
+R23	hasAttr Arg1:T89 Arg2:T88
+R24	hasAttr Arg1:T11 Arg2:T13
+R25	hasAttr Arg1:T26 Arg2:T23
+R26	hasAttr Arg1:T86 Arg2:T84
+R27	hasAttr Arg1:T38 Arg2:T37
+R28	hasAttr Arg1:T69 Arg2:T70
+R29	hasAttr Arg1:T62 Arg2:T60
+R30	hasAttr Arg1:T77 Arg2:T76
+R31	hasAttr Arg1:T18 Arg2:T20
+R32	hasAttr Arg1:T66 Arg2:T64
+R33	hasAttr Arg1:T86 Arg2:T87
+R34	hasAttr Arg1:T67 Arg2:T64
+R35	hasAttr Arg1:T77 Arg2:T78
+R36	hasAttr Arg1:T24 Arg2:T23
+R37	hasAttr Arg1:T69 Arg2:T68
+R38	hasAttr Arg1:T85 Arg2:T84
+R39	hasAttr Arg1:T24 Arg2:T25
+R40	hasAttr Arg1:T80 Arg2:T76
+R41	hasAttr Arg1:T63 Arg2:T60
+R42	hasAttr Arg1:T30 Arg2:T29
+R44	hasAttr Arg1:T94 Arg2:T95
+R45	hasAttr Arg1:T96 Arg2:T97
+R46	hasAttr Arg1:T35 Arg2:T36
+R47	hasAttr Arg1:T5 Arg2:T6
+R48	hasAttr Arg1:T11 Arg2:T12
+R49	hasAttr Arg1:T41 Arg2:T40
+R50	hasAttr Arg1:T44 Arg2:T43
+R51	hasAttr Arg1:T101 Arg2:T102
+R52	hasAttr Arg1:T100 Arg2:T102
+R53	hasAttr Arg1:T98 Arg2:T99
+R54	hasAttr Arg1:T112 Arg2:T113
+R55	hasAttr Arg1:T111 Arg2:T113
+R56	hasAttr Arg1:T117 Arg2:T118
+R57	hasAttr Arg1:T18 Arg2:T19
+R58	hasAttr Arg1:T121 Arg2:T120
+R59	hasAttr Arg1:T135 Arg2:T136

@@ -1,0 +1,328 @@
+T1	problem 123 130	Seizure
+T2	problem 132 144	hypoglycemia
+T3	problem 146 152	anemia
+T4	problem 154 161	dyspnea
+T5	problem 163 168	edema
+T6	problem 170 182	colon cancer
+T7	bodyloc 170 175	colon
+T8	treatment 190 214	post right hemicolectomy
+T9	problem 216 243	hospital-acquired pneumonia
+T10	problem 249 273	congestive heart failure
+T11	bodyloc 260 265	heart
+T12	problem 337 344	Seizure
+T13	problem 349 361	Hypoglycemia
+T14	problem 366 372	Anemia
+T15	problem 377 388	Hypotension
+T16	problem 393 400	Dyspnea
+T17	problem 405 410	Edema
+T18	problem 436 448	Colon cancer
+T19	bodyloc 436 441	Colon
+T20	treatment 457 481	post right hemicolectomy
+T21	problem 486 492	Anemia
+T22	problem 497 524	Hospital-acquired pneumonia
+T23	problem 529 541	Hypertension
+T24	problem 546 570	Congestive heart failure
+T25	bodyloc 557 562	heart
+T26	problem 575 591	Seizure disorder
+T27	test 618 629	Colonoscopy
+T28	treatment 634 653	Right hemicolectomy
+T29	problem 713 738	multiple medical problems
+T30	problem 749 766	diabetes mellitus
+T31	drug 777 784	insulin
+T32	frequency 785 797	for 26 years
+T33	problem 799 810	previous MI
+T34	problem 815 838	coronary artery disease
+T35	bodyloc 824 830	artery
+T36	problem 851 867	seizure disorder
+T37	problem 869 873	GERD
+T38	problem 875 891	bipolar disorder
+T39	problem 897 903	anemia
+T40	problem 929 938	a seizure
+T41	problem 943 952	myoclonic
+T42	problem 970 982	hypoglycemia
+T43	problem 987 993	anemia
+T44	problem 1009 1025	seizure disorder
+T45	test 1052 1078	Noncontrast CT of the head
+T46	labvalue 1083 1091	negative
+T47	drug 1179 1191	her Lamictal
+T48	strength 1195 1201	150 mg
+T49	frequency 1202 1216	in the morning
+T50	strength 1221 1227	100 mg
+T51	frequency 1228 1242	in the evening
+T52	strength 1296 1302	200 mg
+T53	frequency 1303 1308	b.i.d
+T54	problem 1320 1336	the hypoglycemia
+T55	problem 1354 1376	diabetic gastroparesis
+T56	treatment 1398 1426	J-tube intermittent feedings
+T57	test 1451 1459	the rate
+T58	labvalue 1463 1466	120
+T59	drug 1476 1492	Her insulin pump
+T60	treatment 1543 1555	the feedings
+T61	drug 1580 1596	the insulin pump
+T62	dosage 1621 1624	1.5
+T63	drug 1699 1710	the insulin
+T64	problem 1769 1799	a few episodes of hypoglycemia
+T65	problem 1811 1824	hyperglycemia
+T66	treatment 1918 1931	tube feedings
+T67	drug 2038 2049	her insulin
+T68	strength 2063 2070	3 units
+T69	frequency 2071 2079	per hour
+T70	temporal 2085 2105	midnight till 6 a.m.
+T71	strength 2112 2121	0.8 units
+T72	frequency 2122 2130	per hour
+T73	temporal 2136 2155	6 a.m. until 8 a.m.
+T74	strength 2169 2178	0.2 units
+T75	frequency 2179 2187	per hour
+T76	temporal 2193 2211	8 a.m. until 6 p.m
+T77	drug 2213 2224	The insulin
+T78	drug 2235 2242	NovoLog
+T79	problem 2254 2264	the anemia
+T80	problem 2315 2344	her positive Hemoccult stools
+T81	test 2346 2359	A colonoscopy
+T82	problem 2387 2422	a mass at the right hepatic flexure
+T83	treatment 2463 2484	a right hemicolectomy
+T84	treatment 2537 2550	the procedure
+T85	treatment 2560 2570	tube feeds
+T86	treatment 2603 2616	the procedure
+T87	problem 2704 2714	the cancer
+T88	problem 2777 2783	cancer
+T89	test 2785 2813	CT of the abdomen and pelvis
+T90	negation 2823 2825	no
+T91	problem 2826 2836	metastasis
+T92	test 2838 2855	a CT of the chest
+T93	problem 2874 2889	lung metastasis
+T94	problem 2939 2960	a septic-like picture
+T95	problem 2981 3008	hospital-acquired pneumonia
+T96	drug 3031 3036	Zosyn
+T97	drug 3038 3046	Levaquin
+T98	drug 3052 3062	vancomycin
+T99	drug 3078 3093	the medications
+T100	problem 3100 3112	Her symptoms
+T101	test 3127 3146	serial chest x-rays
+T102	problem 3194 3205	the illness
+T103	drug 3312 3322	vancomycin
+T104	problem 3332 3345	MRSA bacteria
+T105	treatment 3366 3381	the J-tube site
+T106	drug 3449 3457	Levaquin
+T107	strength 3458 3464	750 mg
+T108	drug 3501 3511	Bactrim DS
+T109	frequency 3512 3526	every 12 hours
+T110	drug 3528 3539	The Bactrim
+T111	problem 3558 3566	the MRSA
+T112	treatment 3570 3585	the J-tube site
+T113	problem 3605 3609	MRSA
+T114	drug 3627 3634	Bactrim
+T115	drug 3701 3706	Coreg
+T116	strength 3707 3714	12.5 mg
+T117	frequency 3715 3720	daily
+T118	drug 3725 3730	Lasix
+T119	strength 3731 3736	40 mg
+T120	frequency 3737 3748	twice a day
+T121	problem 3753 3781	her congestive heart failure
+T122	bodyloc 3768 3773	heart
+T123	drug 3823 3830	Lipitor
+T124	problem 3835 3855	her high cholesterol
+T125	problem 3857 3877	Her seizure disorder
+T126	treatment 4197 4219	isotonic fiber feeding
+T127	treatment 4228 4238	the J-tube
+T128	drug 4287 4312	The discharge medications
+T129	drug 4333 4338	Coreg
+T130	strength 4339 4346	12.5 mg
+T131	route 4347 4351	p.o.
+T132	frequency 4352 4358	b.i.d.
+T133	drug 4362 4369	Lipitor
+T134	strength 4370 4375	10 mg
+T135	route 4376 4380	p.o.
+T136	frequency 4381 4391	at bedtime
+T137	drug 4396 4405	Nitro-Dur
+T138	form 4406 4411	patch
+T139	strength 4412 4427	0.3 mg per hour
+T140	dosage 4428 4431	one
+T141	form 4432 4437	patch
+T142	frequency 4438 4443	daily
+T143	drug 4448 4457	Phenergan
+T144	form 4458 4463	syrup
+T145	strength 4464 4471	6.25 mg
+T146	route 4472 4476	p.o.
+T147	frequency 4477 4482	q.4h.
+T148	frequency 4483 4489	p.r.n.
+T149	drug 4493 4502	Synthroid
+T150	strength 4503 4511	0.175 mg
+T151	route 4512 4516	p.o.
+T152	frequency 4517 4522	daily
+T153	drug 4527 4533	Zyrtec
+T154	strength 4534 4539	10 mg
+T155	route 4540 4544	p.o.
+T156	frequency 4545 4550	daily
+T157	drug 4555 4563	Lamictal
+T158	strength 4564 4570	100 mg
+T159	route 4571 4575	p.o.
+T160	frequency 4576 4581	daily
+T161	drug 4586 4594	Lamictal
+T162	strength 4595 4601	150 mg
+T163	route 4602 4606	p.o.
+T164	frequency 4607 4617	at bedtime
+T165	drug 4622 4637	Ferrous sulfate
+T166	form 4638 4643	drops
+T167	strength 4644 4650	325 mg
+T168	treatment 4652 4660	PEG tube
+T169	frequency 4661 4666	b.i.d
+T170	drug 4672 4678	Nexium
+T171	strength 4679 4684	40 mg
+T172	route 4685 4689	p.o.
+T173	frequency 4690 4702	at breakfast
+T174	drug 4708 4717	Neurontin
+T175	strength 4718 4724	400 mg
+T176	route 4725 4729	p.o.
+T177	frequency 4730 4736	t.i.d.
+T178	drug 4741 4746	Lasix
+T179	strength 4747 4752	40 mg
+T180	route 4753 4757	p.o.
+T181	frequency 4758 4764	b.i.d.
+T182	drug 4769 4777	Fentanyl
+T183	strength 4778 4784	50 mcg
+T184	form 4785 4790	patch
+T185	route 4791 4802	transdermal
+T186	frequency 4803 4809	q.72h.
+T187	drug 4814 4847	Calcium and vitamin D combination
+T188	drug 4849 4866	calcium carbonate
+T189	strength 4867 4873	500 mg
+T190	drug 4874 4883	vitamin D
+T191	strength 4884 4893	200 units
+T192	dosage 4894 4897	one
+T193	form 4898 4901	tab
+T194	route 4902 4906	p.o.
+T195	frequency 4907 4913	t.i.d.
+T196	drug 4918 4928	Bactrim DS
+T197	strength 4929 4941	800mg/160 mg
+T198	form 4942 4948	tablet
+T199	dosage 4949 4952	one
+T200	form 4953 4959	tablet
+T201	frequency 4960 4966	q.12h.
+T202	duration 4967 4974	x3 days
+T203	drug 4980 4988	Levaquin
+T204	strength 4989 4995	750 mg
+T205	dosage 4996 4999	one
+T206	form 5000 5006	tablet
+T207	route 5007 5011	p.o.
+T208	duration 5012 5019	x3 days
+T209	drug 5021 5036	The medications
+T210	treatment 5097 5107	the J-tube
+T211	test 5230 5245	a CBC with diff
+T212	test 5257 5262	a CMP
+T213	problem 5389 5405	her colon cancer
+T214	bodyloc 5393 5398	colon
+T215	problem 5477 5501	the positive lymph nodes
+T216	bodyloc 5490 5501	lymph nodes
+T217	drug 5721 5737	any insulin pump
+T218	problem 5859 5869	any issues
+T219	treatment 5875 5885	her J-tube
+T220	problem 5948 5955	seizure
+T221	problem 5957 5969	hypoglycemia
+T222	problem 5971 5977	anemia
+T223	problem 5979 5986	dyspnea
+T224	problem 5988 5993	edema
+T225	problem 5995 6007	colon cancer
+T226	treatment 6015 6039	post right hemicolectomy
+T227	problem 6059 6068	pneumonia
+T228	problem 6088 6097	pneumonia
+T229	problem 6099 6123	congestive heart failure
+T230	problem 6125 6141	seizure disorder
+T231	drug 6143 6155	insulin pump
+T232	treatment 6157 6170	hemicolectomy
+T233	problem 6183 6191	disorder
+R1	hasAttr Arg1:T6 Arg2:T7
+R2	hasAttr Arg1:T10 Arg2:T11
+R3	hasAttr Arg1:T18 Arg2:T19
+R4	hasAttr Arg1:T24 Arg2:T25
+R5	hasAttr Arg1:T31 Arg2:T32
+R6	hasAttr Arg1:T34 Arg2:T35
+R7	hasAttr Arg1:T45 Arg2:T46
+R8	hasAttr Arg1:T47 Arg2:T52
+R9	hasAttr Arg1:T47 Arg2:T48
+R10	hasAttr Arg1:T47 Arg2:T49
+R11	hasAttr Arg1:T47 Arg2:T50
+R12	hasAttr Arg1:T47 Arg2:T53
+R13	hasAttr Arg1:T47 Arg2:T51
+R14	hasAttr Arg1:T57 Arg2:T58
+R15	hasAttr Arg1:T61 Arg2:T62
+R16	hasAttr Arg1:T67 Arg2:T71
+R17	hasAttr Arg1:T67 Arg2:T74
+R18	hasAttr Arg1:T67 Arg2:T68
+R19	hasAttr Arg1:T67 Arg2:T72
+R20	hasAttr Arg1:T67 Arg2:T75
+R21	hasAttr Arg1:T67 Arg2:T69
+R22	hasAttr Arg1:T67 Arg2:T76
+R23	hasAttr Arg1:T67 Arg2:T70
+R24	hasAttr Arg1:T67 Arg2:T73
+R25	hasAttr Arg1:T91 Arg2:T90
+R26	hasAttr Arg1:T106 Arg2:T107
+R27	hasAttr Arg1:T108 Arg2:T109
+R28	hasAttr Arg1:T115 Arg2:T116
+R29	hasAttr Arg1:T115 Arg2:T117
+R30	hasAttr Arg1:T118 Arg2:T120
+R31	hasAttr Arg1:T118 Arg2:T119
+R32	hasAttr Arg1:T121 Arg2:T122
+R33	hasAttr Arg1:T129 Arg2:T131
+R34	hasAttr Arg1:T129 Arg2:T130
+R35	hasAttr Arg1:T129 Arg2:T132
+R36	hasAttr Arg1:T133 Arg2:T135
+R37	hasAttr Arg1:T133 Arg2:T136
+R38	hasAttr Arg1:T133 Arg2:T134
+R39	hasAttr Arg1:T137 Arg2:T140
+R40	hasAttr Arg1:T137 Arg2:T141
+R41	hasAttr Arg1:T137 Arg2:T138
+R42	hasAttr Arg1:T137 Arg2:T142
+R43	hasAttr Arg1:T137 Arg2:T139
+R44	hasAttr Arg1:T143 Arg2:T147
+R45	hasAttr Arg1:T143 Arg2:T144
+R46	hasAttr Arg1:T143 Arg2:T145
+R47	hasAttr Arg1:T143 Arg2:T146
+R48	hasAttr Arg1:T143 Arg2:T148
+R49	hasAttr Arg1:T149 Arg2:T150
+R50	hasAttr Arg1:T149 Arg2:T151
+R51	hasAttr Arg1:T149 Arg2:T152
+R52	hasAttr Arg1:T153 Arg2:T155
+R53	hasAttr Arg1:T153 Arg2:T156
+R54	hasAttr Arg1:T153 Arg2:T154
+R55	hasAttr Arg1:T157 Arg2:T158
+R56	hasAttr Arg1:T157 Arg2:T159
+R57	hasAttr Arg1:T157 Arg2:T160
+R58	hasAttr Arg1:T161 Arg2:T163
+R59	hasAttr Arg1:T161 Arg2:T162
+R60	hasAttr Arg1:T161 Arg2:T164
+R61	hasAttr Arg1:T165 Arg2:T167
+R62	hasAttr Arg1:T165 Arg2:T166
+R63	hasAttr Arg1:T165 Arg2:T169
+R64	hasAttr Arg1:T170 Arg2:T173
+R65	hasAttr Arg1:T170 Arg2:T171
+R66	hasAttr Arg1:T170 Arg2:T172
+R67	hasAttr Arg1:T174 Arg2:T175
+R68	hasAttr Arg1:T174 Arg2:T176
+R69	hasAttr Arg1:T174 Arg2:T177
+R70	hasAttr Arg1:T178 Arg2:T180
+R71	hasAttr Arg1:T178 Arg2:T179
+R72	hasAttr Arg1:T178 Arg2:T181
+R73	hasAttr Arg1:T182 Arg2:T183
+R74	hasAttr Arg1:T182 Arg2:T184
+R75	hasAttr Arg1:T182 Arg2:T185
+R76	hasAttr Arg1:T182 Arg2:T186
+R77	hasAttr Arg1:T188 Arg2:T189
+R78	hasAttr Arg1:T190 Arg2:T194
+R79	hasAttr Arg1:T190 Arg2:T191
+R80	hasAttr Arg1:T190 Arg2:T192
+R81	hasAttr Arg1:T190 Arg2:T193
+R82	hasAttr Arg1:T190 Arg2:T195
+R83	hasAttr Arg1:T196 Arg2:T199
+R84	hasAttr Arg1:T196 Arg2:T198
+R85	hasAttr Arg1:T196 Arg2:T202
+R86	hasAttr Arg1:T196 Arg2:T201
+R87	hasAttr Arg1:T196 Arg2:T197
+R88	hasAttr Arg1:T196 Arg2:T200
+R89	hasAttr Arg1:T203 Arg2:T205
+R90	hasAttr Arg1:T203 Arg2:T208
+R91	hasAttr Arg1:T203 Arg2:T204
+R92	hasAttr Arg1:T203 Arg2:T207
+R93	hasAttr Arg1:T203 Arg2:T206
+R94	hasAttr Arg1:T213 Arg2:T214
+R95	hasAttr Arg1:T215 Arg2:T216

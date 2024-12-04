@@ -1,0 +1,231 @@
+T1	temporal 148 159	Aug 16 1930
+T2	problem 363 373	elbow pain
+T3	bodyloc 363 368	elbow
+T4	course 381 387	better
+T5	problem 422 430	confused
+T6	test 481 494	physical exam
+T7	test 542 562	Physical Examination
+T8	test 563 575	General Exam
+T9	test 576 587	Vital signs
+T10	test 601 603	BP
+T11	labvalue 604 610	stable
+T12	negation 716 718	No
+T13	problem 719 726	redness
+T14	problem 733 742	discharge
+T15	test 768 770	S1
+T16	labvalue 773 779	normal
+T17	test 782 784	S2
+T18	labvalue 787 793	normal
+T19	negation 816 818	no
+T20	problem 819 827	crackles
+T21	negation 838 840	no
+T22	problem 841 848	wheezes
+T23	test 869 881	bowel sounds
+T24	labvalue 884 890	normal
+T25	problem 922 953	UTI [ Urinary tract infection ]
+T26	bodyloc 928 941	Urinary tract
+T27	problem 996 1002	Afever
+T28	drug 1008 1015	bactrim
+T29	frequency 1016 1019	BID
+T30	temporal 1020 1025	Day 4
+T31	drug 1039 1049	Bactrim DS
+T32	frequency 1050 1053	BID
+T33	problem 1094 1122	CONJUNCTIVITIS , UNSPECIFIED
+T34	problem 1176 1195	MRSA conjunctivitis
+T35	problem 1223 1239	chronic dry eyes
+T36	course 1223 1230	chronic
+T37	bodyloc 1235 1239	eyes
+T38	problem 1242 1257	eyelid problems
+T39	bodyloc 1242 1248	eyelid
+T40	problem 1262 1279	tear duct problem
+T41	bodyloc 1262 1271	tear duct
+T42	drug 1317 1327	Gentamicin
+T43	form 1328 1335	oniment
+T44	frequency 1336 1338	q8
+T45	problem 1442 1463	ALTERED MENTAL STATUS
+T46	problem 1511 1519	Delirium
+T47	problem 1531 1543	Delirium NOS
+T48	problem 1580 1588	Dementia
+T49	test 1685 1701	Ct scan the head
+T50	problem 1706 1709	ICH
+T51	problem 1728 1731	UTI
+T52	problem 1736 1750	conjunctivitis
+T53	problem 1753 1766	The infection
+T54	course 1796 1805	improving
+T55	problem 1871 1878	Hypoxia
+T56	test 1881 1885	SaO2
+T57	labvalue 1910 1914	96 %
+T58	test 1923 1926	hgb
+T59	problem 1949 1960	sleep apnea
+T60	drug 1966 1976	Medication
+T61	drug 2008 2021	her home meds
+T62	drug 2091 2096	cipro
+T63	drug 2101 2107	Pepcid
+T64	drug 2135 2142	Ambienm
+T65	temporal 2143 2148	today
+T66	test 2164 2169	LFT s
+T67	labvalue 2170 2176	Normal
+T68	test 2208 2211	TSH
+T69	labvalue 2212 2215	wnl
+T70	test 2222 2225	B12
+T71	test 2230 2235	Folic
+T72	problem 2261 2287	Stenosis of thoracic aorta
+T73	bodyloc 2282 2287	aorta
+T74	test 2342 2346	Echo
+T75	bodyloc 2369 2383	LEFT VENTRICLE
+T76	problem 2387 2394	DILATED
+T77	problem 2400 2418	GLOBAL HYPOKINESIS
+T78	test 2424 2452	A RESIDUAL EJECTION FRACTION
+T79	labvalue 2456 2462	25-30%
+T80	bodyloc 2530 2542	AORTIC VALVE
+T81	problem 2551 2567	MILDLY SCLEROTIC
+T82	test 2578 2600	THE DOPPLER ASSESSMENT
+T83	problem 2614 2629	AORTIC STENOSIS
+T84	bodyloc 2614 2620	AORTIC
+T85	test 2713 2726	A PRIOR STUDY
+T86	test 2762 2783	THE AORTIC VALVE AREA
+T87	labvalue 2788 2802	1.4 CM SQUARED
+T88	problem 2845 2885	A FURTHER REDUCTION IN SYSTOLIC FUNCTION
+T89	treatment 2921 2928	Surgery
+T90	problem 2931 2950	ATRIAL FIBRILLATION
+T91	bodyloc 2931 2937	ATRIAL
+T92	drug 2997 3005	coumadin
+T93	drug 3064 3072	Coumadin
+T94	drug 3094 3102	Coumadin
+T95	drug 3127 3137	heparin SQ
+T96	test 3138 3141	INR
+T97	labvalue 3142 3145	3.3
+T98	temporal 3146 3151	today
+T99	drug 3169 3177	coumadin
+T100	temporal 3178 3181	now
+T101	test 3190 3193	INR
+T102	problem 3202 3231	BENIGN ESSENTIAL HYPERTENSION
+T103	severity 3202 3208	BENIGN
+T104	test 3281 3283	BP
+T105	test 3312 3314	HR
+T106	labvalue 3323 3325	60
+T107	test 3336 3338	VS
+T108	drug 3366 3375	Lopressor
+T109	drug 3380 3390	Lisinopril
+T110	drug 3404 3413	lopressor
+T111	drug 3425 3435	lisinopril
+T112	problem 3443 3468	renal fuction getting bad
+T113	bodyloc 3443 3448	renal
+T114	problem 3471 3504	DM II [Diabetes mellitus type II]
+T115	test 3548 3550	BS
+T116	drug 3583 3589	Lantus
+T117	dosage 3590 3598	22 units
+T118	frequency 3599 3604	daily
+T119	treatment 3640 3643	ISS
+T120	test 3655 3667	her BS level
+T121	treatment 3755 3765	her lantus
+T122	treatment 3770 3779	SSI cover
+T123	drug 3787 3796	Metformin
+T124	problem 3804 3815	MS unstable
+T125	test 3857 3860	A1c
+T126	labvalue 3863 3866	6.3
+T127	temporal 3877 3886	Sep 15 07
+T128	test 3896 3908	microalbumin
+T129	problem 3943 3953	heels sore
+T130	bodyloc 3943 3948	heels
+T131	problem 3956 3971	GI bleeding NOS
+T132	problem 4025 4036	GI bleeding
+T133	test 4039 4042	Hgb
+T134	labvalue 4043 4049	stable
+T135	test 4052 4054	BP
+T136	labvalue 4055 4061	stable
+T137	drug 4064 4072	Protonix
+T138	strength 4073 4078	40 mg
+T139	frequency 4079 4084	daily
+T140	test 4093 4105	Stool occult
+T141	labvalue 4108 4111	neg
+T142	temporal 4115 4119	1/19
+T143	problem 4122 4135	PAIN IN JOINT
+T144	bodyloc 4130 4135	JOINT
+T145	bodyloc 4146 4154	SHOULDER
+T146	problem 4198 4217	Calcified tendoniti
+T147	uncertain 4218 4219	?
+T148	problem 4280 4297	R wrist synovitis
+T149	bodyloc 4280 4287	R wrist
+T150	problem 4300 4310	psudo gout
+T151	test 4313 4328	xray of R wrist
+T152	drug 4372 4380	celebrex
+T153	strength 4381 4387	200 mg
+T154	frequency 4388 4393	daily
+T155	treatment 4400 4415	Cockup splitper
+T156	drug 4428 4436	Celebrex
+T157	temporal 4437 4442	today
+T158	test 4452 4455	Cr.
+T159	labvalue 4462 4465	2.1
+T160	problem 4466 4498	Renal insufficiency syndrome NOS
+T161	bodyloc 4466 4471	Renal
+T162	problem 4548 4563	celebrex insult
+T163	drug 4568 4580	the celebrex
+T164	treatment 4646 4648	PT
+T165	treatment 4651 4653	OP
+T166	treatment 4810 4826	short term rehab
+T167	treatment 4981 4997	physical therapy
+T168	temporal 5044 5055	Sep 22 2007
+T169	temporal 5057 5062	09:00
+T170	temporal 5103 5114	Sep 22 2007
+T171	temporal 5116 5121	09:00
+T172	temporal 5164 5175	Sep 22 2007
+T173	temporal 5177 5182	09:00
+R1	hasAttr Arg1:T2 Arg2:T4
+R2	hasAttr Arg1:T2 Arg2:T3
+R3	hasAttr Arg1:T10 Arg2:T11
+R4	hasAttr Arg1:T13 Arg2:T12
+R5	hasAttr Arg1:T14 Arg2:T12
+R6	hasAttr Arg1:T15 Arg2:T16
+R7	hasAttr Arg1:T17 Arg2:T18
+R8	hasAttr Arg1:T20 Arg2:T19
+R9	hasAttr Arg1:T22 Arg2:T21
+R10	hasAttr Arg1:T23 Arg2:T24
+R11	hasAttr Arg1:T25 Arg2:T26
+R12	hasAttr Arg1:T28 Arg2:T30
+R13	hasAttr Arg1:T28 Arg2:T29
+R14	hasAttr Arg1:T31 Arg2:T32
+R15	hasAttr Arg1:T35 Arg2:T36
+R16	hasAttr Arg1:T35 Arg2:T37
+R17	hasAttr Arg1:T38 Arg2:T39
+R18	hasAttr Arg1:T40 Arg2:T41
+R19	hasAttr Arg1:T42 Arg2:T44
+R20	hasAttr Arg1:T42 Arg2:T43
+R21	hasAttr Arg1:T53 Arg2:T54
+R22	hasAttr Arg1:T56 Arg2:T57
+R23	hasAttr Arg1:T64 Arg2:T65
+R24	hasAttr Arg1:T66 Arg2:T67
+R25	hasAttr Arg1:T68 Arg2:T69
+R26	hasAttr Arg1:T72 Arg2:T73
+R27	hasAttr Arg1:T76 Arg2:T75
+R28	hasAttr Arg1:T78 Arg2:T79
+R29	hasAttr Arg1:T81 Arg2:T80
+R30	hasAttr Arg1:T83 Arg2:T84
+R31	hasAttr Arg1:T86 Arg2:T87
+R32	hasAttr Arg1:T90 Arg2:T91
+R33	hasAttr Arg1:T96 Arg2:T97
+R34	hasAttr Arg1:T96 Arg2:T98
+R35	hasAttr Arg1:T99 Arg2:T100
+R36	hasAttr Arg1:T102 Arg2:T103
+R37	hasAttr Arg1:T105 Arg2:T106
+R38	hasAttr Arg1:T112 Arg2:T113
+R39	hasAttr Arg1:T116 Arg2:T118
+R40	hasAttr Arg1:T116 Arg2:T117
+R41	hasAttr Arg1:T125 Arg2:T126
+R42	hasAttr Arg1:T125 Arg2:T127
+R43	hasAttr Arg1:T129 Arg2:T130
+R44	hasAttr Arg1:T133 Arg2:T134
+R45	hasAttr Arg1:T135 Arg2:T136
+R46	hasAttr Arg1:T137 Arg2:T139
+R47	hasAttr Arg1:T137 Arg2:T138
+R48	hasAttr Arg1:T140 Arg2:T142
+R49	hasAttr Arg1:T140 Arg2:T141
+R50	hasAttr Arg1:T143 Arg2:T144
+R51	hasAttr Arg1:T143 Arg2:T145
+R52	hasAttr Arg1:T146 Arg2:T147
+R53	hasAttr Arg1:T148 Arg2:T149
+R54	hasAttr Arg1:T152 Arg2:T153
+R55	hasAttr Arg1:T152 Arg2:T154
+R56	hasAttr Arg1:T156 Arg2:T157
+R57	hasAttr Arg1:T158 Arg2:T159
+R58	hasAttr Arg1:T160 Arg2:T161

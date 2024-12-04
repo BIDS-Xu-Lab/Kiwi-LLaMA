@@ -1,0 +1,219 @@
+T1	temporal 31 39	2/3/1992
+T2	temporal 40 51	12:00:00 AM
+T3	temporal 98 108	02/03/1992
+T4	temporal 149 159	02/07/1992
+T5	problem 182 205	STERNAL WOUND INFECTION
+T6	treatment 242 271	ORTHOTOPIC CARDIAC TRANSPLANT
+T7	problem 274 309	INSULIN DEPENDENT DIABETES MELLITUS
+T8	problem 312 334	DILATED CARDIOMYOPATHY
+T9	treatment 432 461	orthotopic cardiac transplant
+T10	problem 485 508	sternal wound infection
+T11	bodyloc 485 492	sternal
+T12	problem 518 553	insulin dependent diabetes mellitus
+T13	problem 571 595	a dilated cardiomyopathy
+T14	problem 629 653	congestive heart failure
+T15	bodyloc 640 645	heart
+T16	test 667 681	his evaluation
+T17	treatment 685 707	his cardiac transplant
+T18	temporal 711 724	March of 1991
+T19	problem 751 784	a severely dilated left ventricle
+T20	bodyloc 770 784	left ventricle
+T21	problem 790 818	markedly diminished function
+T22	problem 877 890	hyperglycemia
+T23	problem 895 902	seizure
+T24	test 1023 1044	a predischarge biopsy
+T25	negation 1068 1075	without
+T26	problem 1076 1082	fevers
+T27	problem 1085 1091	chills
+T28	problem 1095 1101	rigors
+T29	negation 1115 1117	no
+T30	problem 1118 1124	rashes
+T31	negation 1134 1136	no
+T32	problem 1137 1147	chest pain
+T33	bodyloc 1137 1142	chest
+T34	problem 1151 1170	shortness of breath
+T35	temporal 1193 1196	2/3
+T36	problem 1224 1236	his incision
+T37	problem 1253 1270	more erythematous
+T38	problem 1318 1327	the wound
+T39	route 1372 1383	intravenous
+T40	drug 1384 1395	antibiotics
+T41	negation 1464 1466	no
+T42	problem 1467 1475	distress
+T43	test 1478 1492	Blood pressure
+T44	labvalue 1497 1503	152/88
+T45	test 1506 1516	Heart rate
+T46	labvalue 1517 1519	90
+T47	test 1522 1538	Respiratory rate
+T48	labvalue 1539 1541	14
+T49	test 1544 1554	HEENT exam
+T50	labvalue 1559 1579	within normal limits
+T51	problem 1599 1605	bruits
+T52	test 1639 1651	Cardiac exam
+T53	labvalue 1661 1667	normal
+T54	test 1668 1671	PMI
+T55	labvalue 1674 1681	regular
+T56	test 1682 1686	rate
+T57	test 1691 1697	rhythm
+T58	labvalue 1700 1706	normal
+T59	test 1707 1709	S1
+T60	problem 1712 1736	physiologically split S2
+T61	problem 1749 1754	an S4
+T62	negation 1768 1770	no
+T63	problem 1771 1778	murmurs
+T64	problem 1782 1786	rubs
+T65	problem 1827 1841	2+ pedal edema
+T66	bodyloc 1830 1835	pedal
+T67	bodyloc 1845 1854	the knees
+T68	test 1857 1868	Examination
+T69	problem 1872 1889	the sternal wound
+T70	bodyloc 1876 1883	sternal
+T71	problem 1933 1942	the wound
+T72	problem 1948 1972	serosanguineous drainage
+T73	problem 1977 2013	a scant amount of thick , yellow pus
+T74	negation 2026 2028	no
+T75	problem 2029 2039	induration
+T76	test 2082 2106	a white blood cell count
+T77	labvalue 2110 2114	9.46
+T78	labvalue 2120 2123	89%
+T79	test 2124 2129	polys
+T80	labvalue 2132 2134	2%
+T81	test 2135 2140	bands
+T82	labvalue 2143 2145	7%
+T83	test 2146 2157	lymphocytes
+T84	labvalue 2160 2162	2%
+T85	test 2163 2172	monocytes
+T86	test 2175 2194	Cyclosporin A level
+T87	labvalue 2212 2215	179
+T88	test 2218 2234	Microscopic exam
+T89	problem 2242 2250	4+ Staph
+T90	drug 2334 2344	vancomycin
+T91	drug 2349 2360	ceftazidime
+T92	test 2376 2390	wound cultures
+T93	treatment 2400 2416	dressing changes
+T94	test 2494 2512	Cyclosporin levels
+T95	test 2531 2541	his sugars
+T96	negation 2695 2697	no
+T97	drug 2698 2725	additional insulin coverage
+T98	route 2764 2775	intravenous
+T99	drug 2776 2787	antibiotics
+T100	drug 2826 2838	tetracycline
+T101	drug 2945 2957	tetracycline
+T102	strength 2960 2966	250 mg
+T103	route 2967 2969	po
+T104	frequency 2970 2976	q.i.d.
+T105	drug 2979 2990	cyclosporin
+T106	strength 2993 2999	325 mg
+T107	route 3000 3002	po
+T108	frequency 3003 3009	b.i.d.
+T109	drug 3012 3022	prednisone
+T110	strength 3025 3030	30 mg
+T111	route 3031 3033	po
+T112	frequency 3034 3039	q day
+T113	drug 3042 3052	Bactrim DS
+T114	dosage 3055 3058	one
+T115	route 3059 3061	po
+T116	frequency 3062 3068	q.o.d.
+T117	drug 3071 3080	diltiazem
+T118	strength 3083 3088	30 mg
+T119	route 3089 3091	po
+T120	frequency 3092 3098	q.i.d.
+T121	drug 3101 3111	Mycostatin
+T122	dosage 3114 3119	15 cc
+T123	route 3120 3137	swish and swallow
+T124	frequency 3138 3144	q.i.d.
+T125	drug 3147 3152	Lasix
+T126	strength 3155 3160	40 mg
+T127	route 3161 3163	po
+T128	frequency 3164 3169	q day
+T129	drug 3172 3178	Colace
+T130	strength 3181 3187	100 mg
+T131	route 3188 3190	po
+T132	frequency 3191 3197	q.i.d.
+T133	drug 3200 3208	Carafate
+T134	strength 3211 3217	1 gram
+T135	route 3218 3220	po
+T136	frequency 3221 3227	q.i.d.
+T137	drug 3230 3236	Imuran
+T138	strength 3239 3244	50 mg
+T139	route 3245 3247	po
+T140	frequency 3248 3254	t.i.d.
+T141	drug 3257 3268	NPH insulin
+T142	dosage 3271 3292	44 units and 10 units
+T143	frequency 3304 3310	q a.m.
+T144	drug 3313 3316	NPH
+T145	dosage 3319 3339	22 units and 8 units
+T146	frequency 3351 3357	q p.m.
+T147	temporal 3392 3400	02/26/92
+T148	temporal 3436 3444	02/27/92
+R1	hasAttr Arg1:T10 Arg2:T11
+R2	hasAttr Arg1:T14 Arg2:T15
+R3	hasAttr Arg1:T17 Arg2:T18
+R4	hasAttr Arg1:T19 Arg2:T20
+R5	hasAttr Arg1:T27 Arg2:T25
+R6	hasAttr Arg1:T26 Arg2:T25
+R7	hasAttr Arg1:T28 Arg2:T25
+R8	hasAttr Arg1:T30 Arg2:T29
+R9	hasAttr Arg1:T34 Arg2:T31
+R10	hasAttr Arg1:T32 Arg2:T31
+R11	hasAttr Arg1:T32 Arg2:T33
+R12	hasAttr Arg1:T37 Arg2:T35
+R13	hasAttr Arg1:T36 Arg2:T35
+R14	hasAttr Arg1:T40 Arg2:T39
+R15	hasAttr Arg1:T42 Arg2:T41
+R16	hasAttr Arg1:T43 Arg2:T44
+R17	hasAttr Arg1:T45 Arg2:T46
+R18	hasAttr Arg1:T47 Arg2:T48
+R19	hasAttr Arg1:T49 Arg2:T50
+R20	hasAttr Arg1:T54 Arg2:T53
+R21	hasAttr Arg1:T57 Arg2:T55
+R22	hasAttr Arg1:T56 Arg2:T55
+R23	hasAttr Arg1:T59 Arg2:T58
+R24	hasAttr Arg1:T63 Arg2:T62
+R25	hasAttr Arg1:T64 Arg2:T62
+R26	hasAttr Arg1:T65 Arg2:T66
+R27	hasAttr Arg1:T65 Arg2:T67
+R28	hasAttr Arg1:T69 Arg2:T70
+R29	hasAttr Arg1:T75 Arg2:T74
+R30	hasAttr Arg1:T76 Arg2:T77
+R31	hasAttr Arg1:T79 Arg2:T78
+R32	hasAttr Arg1:T81 Arg2:T80
+R33	hasAttr Arg1:T83 Arg2:T82
+R34	hasAttr Arg1:T85 Arg2:T84
+R35	hasAttr Arg1:T86 Arg2:T87
+R36	hasAttr Arg1:T97 Arg2:T96
+R37	hasAttr Arg1:T99 Arg2:T98
+R38	hasAttr Arg1:T101 Arg2:T103
+R39	hasAttr Arg1:T101 Arg2:T104
+R40	hasAttr Arg1:T101 Arg2:T102
+R41	hasAttr Arg1:T105 Arg2:T106
+R42	hasAttr Arg1:T105 Arg2:T107
+R43	hasAttr Arg1:T105 Arg2:T108
+R44	hasAttr Arg1:T109 Arg2:T110
+R45	hasAttr Arg1:T109 Arg2:T111
+R46	hasAttr Arg1:T109 Arg2:T112
+R47	hasAttr Arg1:T113 Arg2:T114
+R48	hasAttr Arg1:T113 Arg2:T116
+R49	hasAttr Arg1:T113 Arg2:T115
+R50	hasAttr Arg1:T117 Arg2:T120
+R51	hasAttr Arg1:T117 Arg2:T118
+R52	hasAttr Arg1:T117 Arg2:T119
+R53	hasAttr Arg1:T121 Arg2:T123
+R54	hasAttr Arg1:T121 Arg2:T124
+R55	hasAttr Arg1:T121 Arg2:T122
+R56	hasAttr Arg1:T125 Arg2:T127
+R57	hasAttr Arg1:T125 Arg2:T128
+R58	hasAttr Arg1:T125 Arg2:T126
+R59	hasAttr Arg1:T129 Arg2:T131
+R60	hasAttr Arg1:T129 Arg2:T130
+R61	hasAttr Arg1:T129 Arg2:T132
+R62	hasAttr Arg1:T133 Arg2:T135
+R63	hasAttr Arg1:T133 Arg2:T134
+R64	hasAttr Arg1:T133 Arg2:T136
+R65	hasAttr Arg1:T137 Arg2:T140
+R66	hasAttr Arg1:T137 Arg2:T139
+R67	hasAttr Arg1:T137 Arg2:T138
+R68	hasAttr Arg1:T141 Arg2:T142
+R69	hasAttr Arg1:T141 Arg2:T143
+R70	hasAttr Arg1:T144 Arg2:T146
+R71	hasAttr Arg1:T144 Arg2:T145

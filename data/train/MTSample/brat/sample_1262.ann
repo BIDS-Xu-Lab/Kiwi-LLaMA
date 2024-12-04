@@ -1,0 +1,266 @@
+T1	problem 84 96	Mesothelioma
+T2	problem 114 126	Mesothelioma
+T3	problem 128 144	pleural effusion
+T4	problem 146 165	atrial fibrillation
+T5	problem 167 173	anemia
+T6	problem 175 182	ascites
+T7	problem 184 201	esophageal reflux
+T8	problem 218 240	deep venous thrombosis
+T9	problem 301 313	Mesothelioma
+T10	problem 336 352	Pleural effusion
+T11	problem 354 373	atrial fibrillation
+T12	problem 375 381	anemia
+T13	problem 383 390	ascites
+T14	problem 392 409	esophageal reflux
+T15	problem 426 448	deep venous thrombosis
+T16	temporal 467 482	August 24, 2007
+T17	treatment 484 509	decortication of the lung
+T18	test 515 529	pleural biopsy
+T19	test 534 558	transpleural fluoroscopy
+T20	temporal 566 581	August 20, 2007
+T21	treatment 583 596	thoracentesis
+T22	temporal 604 619	August 31, 2007
+T23	treatment 621 642	Port-A-Cath placement
+T24	problem 718 739	a nonproductive cough
+T25	problem 776 798	right-sided chest pain
+T26	bodyloc 788 793	chest
+T27	problem 826 831	fever
+T28	problem 873 885	pericarditis
+T29	treatment 890 904	pericardectomy
+T30	temporal 908 916	May 2006
+T31	problem 931 936	cough
+T32	problem 942 964	right-sided chest pain
+T33	bodyloc 954 959	chest
+T34	test 1001 1012	Chest x-ray
+T35	problem 1022 1050	right-sided pleural effusion
+T36	treatment 1076 1090	Pericardectomy
+T37	problem 1095 1107	Pericarditis
+T38	problem 1112 1131	Atrial fibrillation
+T39	treatment 1136 1140	RNCA
+T40	treatment 1146 1181	intracranial thrombolytic treatment
+T41	problem 1185 1188	PTA
+T42	problem 1192 1195	MCA
+T43	problem 1200 1228	Mesenteric venous thrombosis
+T44	bodyloc 1211 1217	venous
+T45	treatment 1233 1251	Pericardial window
+T46	treatment 1256 1271	Cholecystectomy
+T47	treatment 1276 1294	Left thoracentesis
+T48	negation 1312 1314	No
+T49	subject 1315 1321	family
+T50	problem 1333 1356	coronary artery disease
+T51	bodyloc 1342 1348	artery
+T52	problem 1358 1361	CVA
+T53	problem 1363 1371	diabetes
+T54	problem 1373 1376	CHF
+T55	problem 1380 1382	MI
+T56	problem 1445 1451	cancer
+T57	drug 1605 1613	Coumadin
+T58	strength 1614 1618	1 mg
+T59	frequency 1619 1624	daily
+T60	test 1626 1634	Last INR
+T61	temporal 1642 1649	Tuesday
+T62	temporal 1651 1666	August 14, 2007
+T63	test 1672 1679	her INR
+T64	labvalue 1684 1688	2.3.
+T65	drug 1692 1702	Amiodarone
+T66	strength 1703 1709	100 mg
+T67	route 1710 1714	p.o.
+T68	frequency 1715 1720	daily
+T69	problem 1841 1860	occasional numbness
+T70	problem 1865 1889	tingling of her left arm
+T71	bodyloc 1881 1889	left arm
+T72	test 1925 1939	Blood pressure
+T73	labvalue 1940 1946	123/95
+T74	test 1948 1958	heart rate
+T75	labvalue 1959 1962	83,
+T76	test 1963 1975	respirations
+T77	labvalue 1976 1978	20
+T78	test 1980 1991	temperature
+T79	labvalue 1992 1994	97
+T80	test 2000 2017	oxygen saturation
+T81	labvalue 2018 2021	97%
+T82	problem 2041 2060	nonproductive cough
+T83	problem 2065 2069	pain
+T84	problem 2075 2083	coughing
+T85	negation 2194 2196	No
+T86	problem 2197 2212	lymphadenopathy
+T87	negation 2214 2216	No
+T88	problem 2217 2223	masses
+T89	problem 2238 2258	Pleural friction rub
+T90	labvalue 2308 2316	Positive
+T91	test 2317 2329	bowel sounds
+T92	negation 2331 2333	No
+T93	problem 2334 2346	organomegaly
+T94	negation 2361 2363	No
+T95	problem 2364 2369	edema
+T96	negation 2371 2373	no
+T97	problem 2374 2382	clubbing
+T98	negation 2384 2386	no
+T99	problem 2387 2395	cyanosis
+T100	negation 2397 2399	no
+T101	problem 2400 2410	tenderness
+T102	negation 2474 2476	No
+T103	problem 2477 2486	breakdown
+T104	problem 2490 2497	lesions
+T105	negation 2499 2501	No
+T106	problem 2502 2508	ulcers
+T107	negation 2538 2540	No
+T108	problem 2541 2555	focal deficits
+T109	test 2629 2633	Labs
+T110	labvalue 2638 2645	pending
+T111	problem 2693 2723	a right-sided pleural effusion
+T112	treatment 2728 2741	thoracentesis
+T113	temporal 2745 2751	Monday
+T114	drug 2762 2774	Her Coumadin
+T115	test 2795 2818	A repeat echocardiogram
+T116	treatment 2851 2862	prophylaxis
+T117	problem 2867 2870	DVT
+T118	drug 2876 2883	Lovenox
+T119	strength 2884 2889	40 mg
+T120	route 2890 2904	subcutaneously
+T121	temporal 2938 2942	2005
+T122	problem 2999 3011	pericarditis
+T123	treatment 3036 3054	pericardial window
+T124	problem 3119 3134	mesenteric pain
+T125	bodyloc 3119 3129	mesenteric
+T126	problem 3139 3149	thrombosis
+T127	treatment 3158 3172	anticoagulated
+T128	problem 3174 3195	Her pericardial fluid
+T129	bodyloc 3178 3189	pericardial
+T130	treatment 3277 3291	pericardectomy
+T131	test 3333 3344	her CT scan
+T132	temporal 3356 3360	2006
+T133	treatment 3370 3388	her pericardectomy
+T134	problem 3404 3430	bilateral plural effusions
+T135	treatment 3470 3488	the pericardectomy
+T136	problem 3508 3520	her symptoms
+T137	problem 3572 3582	chest pain
+T138	bodyloc 3572 3577	chest
+T139	problem 3601 3627	bilateral pleural effusion
+T140	test 3662 3677	CT of the chest
+T141	problem 3692 3722	a large mediastinal lymph node
+T142	test 3736 3749	the pathology
+T143	treatment 3764 3782	the pericardectomy
+T144	temporal 3792 3796	2006
+T145	problem 3822 3834	mesothelioma
+T146	treatment 3850 3870	chest tube placement
+T147	problem 3875 3896	drainage of the fluid
+T148	treatment 3910 3922	thoracoscopy
+T149	test 3928 3942	fluid biopsies
+T150	problem 3981 4015	epithelioid malignant mesothelioma
+T151	test 4051 4059	a PET CT
+T152	problem 4074 4103	extensive uptake in the chest
+T153	bodyloc 4098 4103	chest
+T154	problem 4105 4144	bilateral pleural pericardial effusions
+T155	bodyloc 4123 4134	pericardial
+T156	problem 4150 4165	lymphadenopathy
+T157	problem 4180 4192	acidic fluid
+T158	problem 4194 4231	pectoral and intramammary lymph nodes
+T159	bodyloc 4220 4231	lymph nodes
+T160	test 4254 4257	SUV
+T161	problem 4289 4306	stage III disease
+T162	test 4308 4333	Her repeat echocardiogram
+T163	test 4341 4361	an ejection fraction
+T164	labvalue 4365 4375	45% to 49%
+T165	treatment 4432 4444	chemotherapy
+T166	temporal 4448 4465	September 1, 2007
+T167	drug 4471 4480	cisplatin
+T168	strength 4481 4497	75 mg/centimeter
+T169	strength 4515 4521	109 mg
+T170	route 4522 4524	IV
+T171	temporal 4551 4568	September 1, 2007
+T172	drug 4570 4576	Alimta
+T173	strength 4577 4595	500 mg/ centimeter
+T174	strength 4613 4619	730 mg
+T175	route 4620 4622	IV
+T176	treatment 4679 4692	a Port-A-Cath
+T177	treatment 4705 4721	The chemotherapy
+T178	treatment 4810 4818	IV fluid
+T179	treatment 4827 4842	Her Port-A-Cath
+T180	drug 4859 4866	heparin
+T181	drug 4913 4919	Zofran
+T182	drug 4921 4930	Phenergan
+T183	drug 4932 4940	Coumadin
+T184	drug 4946 4953	Lovenox
+T185	drug 4959 4966	Vicodin
+T186	test 5058 5065	her INR
+T187	temporal 5069 5076	Tuesday
+T188	problem 5193 5205	mesothelioma
+T189	problem 5207 5223	pleural effusion
+T190	problem 5225 5244	atrial fibrillation
+T191	problem 5246 5252	anemia
+T192	problem 5254 5261	ascites
+T193	problem 5263 5280	esophageal reflux
+T194	problem 5282 5304	deep venous thrombosis
+T195	treatment 5306 5327	port-a-cath placement
+T196	problem 5356 5373	venous thrombosis
+T197	problem 5383 5393	thrombosis
+T198	problem 5408 5423	lymphadenopathy
+T199	treatment 5432 5446	pericardectomy
+R1	hasAttr Arg1:T17 Arg2:T16
+R2	hasAttr Arg1:T21 Arg2:T20
+R3	hasAttr Arg1:T23 Arg2:T22
+R4	hasAttr Arg1:T25 Arg2:T26
+R5	hasAttr Arg1:T29 Arg2:T30
+R6	hasAttr Arg1:T32 Arg2:T33
+R7	hasAttr Arg1:T43 Arg2:T44
+R8	hasAttr Arg1:T53 Arg2:T48
+R9	hasAttr Arg1:T52 Arg2:T48
+R10	hasAttr Arg1:T55 Arg2:T48
+R11	hasAttr Arg1:T54 Arg2:T48
+R12	hasAttr Arg1:T50 Arg2:T48
+R13	hasAttr Arg1:T50 Arg2:T49
+R14	hasAttr Arg1:T52 Arg2:T49
+R15	hasAttr Arg1:T53 Arg2:T49
+R16	hasAttr Arg1:T54 Arg2:T49
+R17	hasAttr Arg1:T55 Arg2:T49
+R18	hasAttr Arg1:T50 Arg2:T51
+R19	hasAttr Arg1:T57 Arg2:T58
+R20	hasAttr Arg1:T57 Arg2:T59
+R21	hasAttr Arg1:T60 Arg2:T61
+R22	hasAttr Arg1:T60 Arg2:T62
+R23	hasAttr Arg1:T63 Arg2:T64
+R24	hasAttr Arg1:T65 Arg2:T66
+R25	hasAttr Arg1:T65 Arg2:T67
+R26	hasAttr Arg1:T65 Arg2:T68
+R27	hasAttr Arg1:T70 Arg2:T71
+R28	hasAttr Arg1:T72 Arg2:T73
+R29	hasAttr Arg1:T74 Arg2:T75
+R30	hasAttr Arg1:T76 Arg2:T77
+R31	hasAttr Arg1:T78 Arg2:T79
+R32	hasAttr Arg1:T80 Arg2:T81
+R33	hasAttr Arg1:T86 Arg2:T85
+R34	hasAttr Arg1:T88 Arg2:T87
+R35	hasAttr Arg1:T91 Arg2:T90
+R36	hasAttr Arg1:T93 Arg2:T92
+R37	hasAttr Arg1:T95 Arg2:T94
+R38	hasAttr Arg1:T97 Arg2:T96
+R39	hasAttr Arg1:T99 Arg2:T98
+R40	hasAttr Arg1:T101 Arg2:T100
+R41	hasAttr Arg1:T103 Arg2:T102
+R42	hasAttr Arg1:T104 Arg2:T102
+R43	hasAttr Arg1:T106 Arg2:T105
+R44	hasAttr Arg1:T108 Arg2:T107
+R45	hasAttr Arg1:T109 Arg2:T110
+R46	hasAttr Arg1:T112 Arg2:T113
+R47	hasAttr Arg1:T118 Arg2:T119
+R48	hasAttr Arg1:T118 Arg2:T120
+R49	hasAttr Arg1:T122 Arg2:T121
+R50	hasAttr Arg1:T124 Arg2:T125
+R51	hasAttr Arg1:T128 Arg2:T129
+R52	hasAttr Arg1:T131 Arg2:T132
+R53	hasAttr Arg1:T137 Arg2:T138
+R54	hasAttr Arg1:T143 Arg2:T144
+R55	hasAttr Arg1:T154 Arg2:T155
+R56	hasAttr Arg1:T158 Arg2:T159
+R57	hasAttr Arg1:T163 Arg2:T164
+R58	hasAttr Arg1:T165 Arg2:T166
+R59	hasAttr Arg1:T167 Arg2:T168
+R60	hasAttr Arg1:T167 Arg2:T171
+R61	hasAttr Arg1:T167 Arg2:T170
+R62	hasAttr Arg1:T167 Arg2:T169
+R63	hasAttr Arg1:T172 Arg2:T175
+R64	hasAttr Arg1:T172 Arg2:T174
+R65	hasAttr Arg1:T172 Arg2:T173
+R66	hasAttr Arg1:T186 Arg2:T187
+R67	hasAttr Arg1:T152 Arg2:T153

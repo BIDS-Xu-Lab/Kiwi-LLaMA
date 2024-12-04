@@ -1,0 +1,254 @@
+T1	temporal 166 177	Apr 19 2007
+T2	temporal 206 217	Apr 25 2007
+T3	problem 248 269	Acute pulmonary edema
+T4	course 248 253	Acute
+T5	problem 275 300	acute respiratory failure
+T6	course 275 280	acute
+T7	problem 306 328	Acute tubular necrosis
+T8	course 306 311	Acute
+T9	problem 350 363	Renal failure
+T10	bodyloc 350 355	Renal
+T11	problem 385 405	Acute rhabdomyolysis
+T12	course 385 390	Acute
+T13	problem 427 440	Drug overdose
+T14	problem 445 455	immobility
+T15	problem 461 478	Right hemiparesis
+T16	bodyloc 461 466	Right
+T17	problem 483 494	paraparesis
+T18	problem 500 524	Polysubstance drug abuse
+T19	problem 530 538	Anasarca
+T20	problem 542 562	Lower extremity pain
+T21	bodyloc 542 557	Lower extremity
+T22	problem 568 589	inability to ambulate
+T23	problem 596 615	Labile hypertension
+T24	treatment 661 681	One dialysis session
+T25	problem 694 714	fluid from her lungs
+T26	bodyloc 709 714	lungs
+T27	treatment 720 749	Left lumbar sympathetic block
+T28	temporal 757 768	Apr 25 2007
+T29	drug 1136 1145	Clonidine
+T30	strength 1146 1152	0.1 mg
+T31	frequency 1153 1162	q 2 hours
+T32	frequency 1163 1169	p.r.n.
+T33	test 1174 1197	systolic blood pressure
+T34	labvalue 1211 1214	160
+T35	drug 1220 1227	Heparin
+T36	strength 1228 1239	5,000 units
+T37	route 1240 1245	subcu
+T38	frequency 1246 1256	q 12 hours
+T39	drug 1260 1268	Dilaudid
+T40	strength 1269 1273	1 mg
+T41	route 1274 1285	intravenous
+T42	frequency 1286 1295	q 4 hours
+T43	frequency 1296 1302	p.r.n.
+T44	problem 1307 1311	pain
+T45	drug 1317 1325	Lidoderm
+T46	form 1326 1331	patch
+T47	strength 1332 1334	5%
+T48	route 1335 1344	topically
+T49	dosage 1345 1348	one
+T50	form 1349 1354	patch
+T51	frequency 1355 1360	daily
+T52	drug 1364 1370	Ativan
+T53	strength 1371 1377	0.5 mg
+T54	frequency 1378 1384	t.i.d.
+T55	frequency 1385 1391	p.r.n.
+T56	problem 1396 1403	anxiety
+T57	drug 1409 1417	Protonix
+T58	strength 1418 1423	40 mg
+T59	frequency 1424 1429	daily
+T60	drug 1433 1439	Lyrica
+T61	strength 1440 1445	25 mg
+T62	frequency 1446 1451	daily
+T63	drug 1455 1461	Ultram
+T64	strength 1462 1467	50 mg
+T65	frequency 1468 1478	q 12 hours
+T66	frequency 1479 1485	p.r.n.
+T67	problem 1490 1494	pain
+T68	drug 1498 1504	Ambien
+T69	strength 1505 1510	10 mg
+T70	frequency 1511 1517	q.h.s.
+T71	frequency 1518 1524	p.r.n.
+T72	problem 1529 1537	insomnia
+T73	problem 1688 1700	unresponsive
+T74	problem 1803 1824	severe rhabdomyolysis
+T75	severity 1803 1809	severe
+T76	problem 1838 1860	acute tubular necrosis
+T77	course 1838 1843	acute
+T78	problem 1865 1878	renal failure
+T79	bodyloc 1865 1870	renal
+T80	treatment 1901 1926	several dialysis sessions
+T81	problem 1929 1946	Her renal failure
+T82	bodyloc 1933 1938	renal
+T83	treatment 1968 1993	her last dialysis session
+T84	problem 2092 2112	right sided weakness
+T85	bodyloc 2092 2103	right sided
+T86	problem 2117 2151	bilateral lower extremity weakness
+T87	bodyloc 2117 2142	bilateral lower extremity
+T88	temporal 2243 2254	Apr 16 2007
+T89	test 2261 2264	BUN
+T90	test 2269 2279	creatinine
+T91	labvalue 2301 2303	35
+T92	labvalue 2308 2311	5.6
+T93	drug 2336 2341	Bumex
+T94	problem 2358 2377	shortness of breath
+T95	temporal 2441 2452	the morning
+T96	temporal 2463 2474	Apr 19 2007
+T97	drug 2520 2525	Lasix
+T98	test 2577 2586	Potassium
+T99	labvalue 2616 2619	low
+T100	treatment 2637 2667	vigorous potassium replacement
+T101	treatment 2717 2727	acute care
+T102	bodyloc 2825 2834	pulmonary
+T103	problem 2849 2874	substantial deterioration
+T104	problem 2963 2971	anasarca
+T105	treatment 3010 3026	diuretic therapy
+T106	treatment 3062 3087	one more dialysis session
+T107	problem 3107 3127	fluid from the lungs
+T108	bodyloc 3122 3127	lungs
+T109	test 3284 3291	Her BNP
+T110	labvalue 3296 3304	elevated
+T111	labvalue 3308 3311	920
+T112	test 3314 3324	Creatinine
+T113	test 3425 3432	her BUN
+T114	test 3437 3447	creatinine
+T115	test 3480 3485	a BUN
+T116	labvalue 3489 3491	25
+T117	test 3496 3508	a creatinine
+T118	labvalue 3512 3515	1.3
+T119	problem 3627 3650	intrinsic heart disease
+T120	bodyloc 3637 3642	heart
+T121	problem 3659 3675	the elevated BNP
+T122	bodyloc 3659 3671	the elevated
+T123	test 3700 3717	an echocardiogram
+T124	test 3778 3785	an LVEF
+T125	labvalue 3789 3792	25%
+T126	problem 3805 3845	slightly thickened mitral valve leaflets
+T127	bodyloc 3824 3836	mitral valve
+T128	problem 3850 3868	mild regurgitation
+T129	severity 3850 3854	mild
+T130	negation 3942 3944	no
+T131	problem 3945 3965	pericardial effusion
+T132	test 3968 3990	Venous Doppler studies
+T133	labvalue 3996 4004	negative
+T134	problem 4033 4078	deep vein thrombosis of the lower extremities
+T135	bodyloc 4057 4078	the lower extremities
+T136	problem 4135 4154	labile hypertension
+T137	problem 4193 4200	anxiety
+T138	treatment 4220 4230	procedures
+T139	treatment 4280 4320	successful left lumbar sympathetic block
+T140	test 4327 4338	fluoroscopy
+T141	test 4405 4423	her blood pressure
+T142	labvalue 4428 4436	elevated
+T143	labvalue 4440 4447	154/118
+T144	drug 4486 4495	Clonidine
+T145	strength 4496 4502	0.5 mg
+T146	frequency 4503 4509	b.i.d.
+T147	strength 4514 4520	0.1 mg
+T148	frequency 4521 4530	q 2 hours
+T149	frequency 4531 4537	p.r.n.
+T150	test 4595 4613	her blood pressure
+T151	labvalue 4625 4631	104/80
+T152	problem 4642 4658	her hypertension
+T153	problem 4674 4681	anxiety
+T154	drug 4754 4781	antihypertensive medication
+T155	temporal 4785 4794	this time
+T156	test 4820 4845	the patient 's creatinine
+T157	labvalue 4895 4898	1.3
+T158	problem 4914 4922	anasarca
+T159	drug 4965 4970	Lasix
+T160	treatment 4975 5002	the single dialysis session
+T161	problem 5061 5071	that fluid
+T162	treatment 5216 5237	her dialysis catheter
+T163	treatment 5329 5350	Her dialysis catheter
+T164	treatment 5382 5427	a procedure for left lumbar sympathetic block
+T165	test 5434 5445	fluoroscopy
+T166	test 5448 5462	Blood pressure
+T167	problem 5641 5670	therapeutically non-compliant
+T168	treatment 5953 5976	rehabilitation training
+T169	problem 5983 6011	her lower extremity weakness
+T170	bodyloc 5983 6002	her lower extremity
+T171	problem 6016 6020	pain
+T172	temporal 6080 6091	Apr 25 2007
+T173	temporal 6093 6101	16:46:42
+T174	temporal 6116 6127	Apr 25 2007
+T175	temporal 6129 6137	17:02:27
+T176	temporal 6180 6191	Apr 25 2007
+T177	temporal 6193 6201	17:02:27
+R1	hasAttr Arg1:T3 Arg2:T4
+R2	hasAttr Arg1:T5 Arg2:T6
+R3	hasAttr Arg1:T7 Arg2:T8
+R4	hasAttr Arg1:T9 Arg2:T10
+R5	hasAttr Arg1:T11 Arg2:T12
+R6	hasAttr Arg1:T15 Arg2:T16
+R7	hasAttr Arg1:T20 Arg2:T21
+R8	hasAttr Arg1:T25 Arg2:T26
+R9	hasAttr Arg1:T27 Arg2:T28
+R10	hasAttr Arg1:T29 Arg2:T30
+R11	hasAttr Arg1:T29 Arg2:T31
+R12	hasAttr Arg1:T29 Arg2:T32
+R13	hasAttr Arg1:T33 Arg2:T34
+R14	hasAttr Arg1:T35 Arg2:T36
+R15	hasAttr Arg1:T35 Arg2:T38
+R16	hasAttr Arg1:T35 Arg2:T37
+R17	hasAttr Arg1:T39 Arg2:T41
+R18	hasAttr Arg1:T39 Arg2:T42
+R19	hasAttr Arg1:T39 Arg2:T43
+R20	hasAttr Arg1:T39 Arg2:T40
+R21	hasAttr Arg1:T45 Arg2:T49
+R22	hasAttr Arg1:T45 Arg2:T50
+R23	hasAttr Arg1:T45 Arg2:T46
+R24	hasAttr Arg1:T45 Arg2:T47
+R25	hasAttr Arg1:T45 Arg2:T48
+R26	hasAttr Arg1:T45 Arg2:T51
+R27	hasAttr Arg1:T52 Arg2:T55
+R28	hasAttr Arg1:T52 Arg2:T53
+R29	hasAttr Arg1:T52 Arg2:T54
+R30	hasAttr Arg1:T57 Arg2:T59
+R31	hasAttr Arg1:T57 Arg2:T58
+R32	hasAttr Arg1:T60 Arg2:T62
+R33	hasAttr Arg1:T60 Arg2:T61
+R34	hasAttr Arg1:T63 Arg2:T66
+R35	hasAttr Arg1:T63 Arg2:T64
+R36	hasAttr Arg1:T63 Arg2:T65
+R37	hasAttr Arg1:T68 Arg2:T71
+R38	hasAttr Arg1:T68 Arg2:T69
+R39	hasAttr Arg1:T68 Arg2:T70
+R40	hasAttr Arg1:T74 Arg2:T75
+R41	hasAttr Arg1:T76 Arg2:T77
+R42	hasAttr Arg1:T78 Arg2:T79
+R43	hasAttr Arg1:T81 Arg2:T82
+R44	hasAttr Arg1:T84 Arg2:T85
+R45	hasAttr Arg1:T86 Arg2:T87
+R46	hasAttr Arg1:T90 Arg2:T88
+R47	hasAttr Arg1:T89 Arg2:T88
+R48	hasAttr Arg1:T89 Arg2:T91
+R49	hasAttr Arg1:T90 Arg2:T92
+R50	hasAttr Arg1:T94 Arg2:T95
+R51	hasAttr Arg1:T94 Arg2:T96
+R52	hasAttr Arg1:T98 Arg2:T99
+R53	hasAttr Arg1:T103 Arg2:T102
+R54	hasAttr Arg1:T107 Arg2:T108
+R55	hasAttr Arg1:T109 Arg2:T110
+R56	hasAttr Arg1:T109 Arg2:T111
+R57	hasAttr Arg1:T115 Arg2:T116
+R58	hasAttr Arg1:T117 Arg2:T118
+R59	hasAttr Arg1:T119 Arg2:T120
+R60	hasAttr Arg1:T121 Arg2:T122
+R61	hasAttr Arg1:T124 Arg2:T125
+R62	hasAttr Arg1:T126 Arg2:T127
+R63	hasAttr Arg1:T128 Arg2:T129
+R64	hasAttr Arg1:T131 Arg2:T130
+R65	hasAttr Arg1:T132 Arg2:T133
+R66	hasAttr Arg1:T134 Arg2:T135
+R67	hasAttr Arg1:T141 Arg2:T142
+R68	hasAttr Arg1:T141 Arg2:T143
+R69	hasAttr Arg1:T144 Arg2:T149
+R70	hasAttr Arg1:T144 Arg2:T145
+R71	hasAttr Arg1:T144 Arg2:T148
+R72	hasAttr Arg1:T144 Arg2:T147
+R73	hasAttr Arg1:T144 Arg2:T146
+R74	hasAttr Arg1:T150 Arg2:T151
+R75	hasAttr Arg1:T154 Arg2:T155
+R76	hasAttr Arg1:T156 Arg2:T157
+R77	hasAttr Arg1:T169 Arg2:T170

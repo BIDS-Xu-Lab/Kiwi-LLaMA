@@ -1,0 +1,293 @@
+T1	problem 73 85	Stasis Ulcer
+T2	problem 99 134	Nonhealing right ankle stasis ulcer
+T3	bodyloc 110 121	right ankle
+T4	problem 182 194	hypertension
+T5	problem 196 230	chronic intermittent bipedal edema
+T6	course 196 203	chronic
+T7	problem 236 263	recurrent leg venous ulcers
+T8	course 236 245	recurrent
+T9	bodyloc 246 256	leg venous
+T10	treatment 281 307	scheduled vascular surgery
+T11	problem 371 406	Nonhealing right ankle stasis ulcer
+T12	bodyloc 382 393	right ankle
+T13	problem 490 502	hypertension
+T14	problem 504 538	chronic intermittent bipedal edema
+T15	course 504 511	chronic
+T16	problem 544 571	recurrent leg venous ulcers
+T17	course 544 553	recurrent
+T18	bodyloc 554 564	leg venous
+T19	temporal 593 601	01/27/09
+T20	treatment 606 632	scheduled vascular surgery
+T21	problem 664 699	nonhealing right ankle stasis ulcer
+T22	course 664 674	nonhealing
+T23	bodyloc 675 686	right ankle
+T24	problem 741 767	a low-grade fever of 100.2
+T25	severity 743 752	low-grade
+T26	problem 847 856	the fever
+T27	problem 871 886	some ankle pain
+T28	bodyloc 876 881	ankle
+T29	problem 888 893	worse
+T30	problem 994 1008	leg cellulitis
+T31	bodyloc 994 997	leg
+T32	test 1010 1033	Multiple wound cultures
+T33	problem 1056 1067	Pseudomonas
+T34	problem 1069 1081	Enterococcus
+T35	problem 1087 1103	Stenotrophomonas
+T36	problem 1117 1127	Klebsiella
+T37	problem 1132 1144	Enterobacter
+T38	test 1164 1186	the few wound cultures
+T39	negation 1370 1372	No
+T40	problem 1373 1380	malaise
+T41	temporal 1391 1397	recent
+T42	problem 1398 1414	low-grade fevers
+T43	negation 1416 1418	No
+T44	problem 1419 1425	chills
+T45	negation 1434 1436	No
+T46	problem 1437 1466	acute change in visual acuity
+T47	course 1437 1442	acute
+T48	negation 1468 1470	no
+T49	problem 1471 1479	diplopia
+T50	negation 1481 1483	no
+T51	problem 1484 1510	acute hearing disturbances
+T52	course 1484 1489	acute
+T53	negation 1516 1518	no
+T54	problem 1519 1535	sinus congestion
+T55	negation 1537 1539	No
+T56	problem 1540 1551	sore throat
+T57	bodyloc 1545 1551	throat
+T58	negation 1562 1564	No
+T59	problem 1565 1575	chest pain
+T60	bodyloc 1565 1570	chest
+T61	problem 1579 1584	cough
+T62	negation 1604 1606	No
+T63	problem 1607 1613	nausea
+T64	problem 1615 1623	vomiting
+T65	problem 1627 1635	diarrhea
+T66	problem 1710 1722	Hypertension
+T67	treatment 1724 1746	exploratory laparotomy
+T68	temporal 1750 1754	2004
+T69	problem 1759 1780	abdominal obstruction
+T70	treatment 1782 1797	cholecystectomy
+T71	temporal 1801 1805	2005
+T72	problem 1807 1841	chronic intermittent bipedal edema
+T73	problem 1843 1863	venous insufficiency
+T74	problem 1865 1896	chronic recurrent stasis ulcers
+T75	drug 2102 2110	Primaxin
+T76	drug 2112 2122	daptomycin
+T77	drug 2124 2133	clonidine
+T78	drug 2135 2145	furosemide
+T79	drug 2147 2165	potassium chloride
+T80	drug 2167 2177	lisinopril
+T81	drug 2179 2189	metoprolol
+T82	drug 2191 2201	ranitidine
+T83	drug 2203 2209	Colace
+T84	drug 2211 2221	amlodipine
+T85	drug 2223 2235	zinc sulfate
+T86	drug 2237 2243	Lortab
+T87	frequency 2244 2250	p.r.n.
+T88	drug 2252 2265	multivitamins
+T89	drug 2271 2280	minerals.
+T90	test 2331 2341	Heart rate
+T91	labvalue 2342 2344	73
+T92	test 2346 2362	respiratory rate
+T93	labvalue 2363 2365	20
+T94	test 2367 2381	blood pressure
+T95	labvalue 2382 2388	104/67
+T96	test 2390 2401	temperature
+T97	labvalue 2402 2406	98.3
+T98	test 2412 2429	oxygen saturation
+T99	labvalue 2430 2433	92%
+T100	negation 2500 2506	not in
+T101	problem 2507 2533	cardiorespiratory distress
+T102	test 2535 2541	Height
+T103	labvalue 2542 2559	6 feet 1.5 inches
+T104	test 2561 2572	body weight
+T105	labvalue 2573 2585	125.26 kilos
+T106	problem 2645 2668	brisk reaction to light
+T107	negation 2741 2743	No
+T108	problem 2744 2756	oral lesions
+T109	negation 2764 2766	No
+T110	problem 2767 2787	palpable neck masses
+T111	bodyloc 2789 2796	Thyroid
+T112	negation 2797 2803	is not
+T113	problem 2804 2812	enlarged
+T114	test 2816 2826	inspection
+T115	negation 2869 2871	No
+T116	problem 2872 2880	crackles
+T117	problem 2884 2891	wheezes
+T118	labvalue 2909 2916	Regular
+T119	test 2917 2931	cardiac rhythm
+T120	negation 2933 2935	No
+T121	problem 2936 2943	thrills
+T122	problem 2947 2951	rubs
+T123	negation 3003 3005	No
+T124	problem 3006 3014	guarding
+T125	problem 3018 3026	rigidity
+T126	negation 3039 3041	No
+T127	problem 3042 3066	cervical lymphadenopathy
+T128	problem 3153 3170	hyperpigmentation
+T129	bodyloc 3185 3209	distal calf of both legs
+T130	problem 3220 3233	an open wound
+T131	problem 3292 3315	minimal serous drainage
+T132	problem 3330 3344	hyperpigmented
+T133	problem 3350 3368	a hint of erythema
+T134	problem 3470 3488	minimal tenderness
+T135	test 3492 3514	palpation of this area
+T136	problem 3530 3573	a wound on the right lateral malleolar area
+T137	bodyloc 3545 3573	right lateral malleolar area
+T138	problem 3594 3646	another open wound on the left medial malleolar area
+T139	bodyloc 3620 3646	left medial malleolar area
+T140	labvalue 3712 3723	Appropriate
+T141	test 3724 3752	mood and affect, oriented x3
+T142	test 3801 3823	White blood cell count
+T143	temporal 3829 3837	01/28/09
+T144	labvalue 3841 3844	5.8
+T145	labvalue 3850 3853	64%
+T146	test 3854 3865	neutrophils
+T147	test 3867 3870	H&H
+T148	labvalue 3871 3880	11.3/33.8
+T149	test 3886 3900	platelet count
+T150	labvalue 3901 3908	176,000
+T151	test 3910 3913	BUN
+T152	test 3918 3928	creatinine
+T153	labvalue 3929 3937	9.2/0.52
+T154	test 3939 3946	Albumin
+T155	labvalue 3947 3950	3.6
+T156	test 3952 3955	AST
+T157	labvalue 3956 3958	25
+T158	test 3960 3963	ALT
+T159	labvalue 3964 3965	9
+T160	test 3967 3975	alk phos
+T161	labvalue 3976 3978	87
+T162	test 3984 3999	total bilirubin
+T163	labvalue 4000 4003	0.6
+T164	test 4005 4022	One wound culture
+T165	test 4028 4051	right leg wound culture
+T166	temporal 4057 4065	01/27/09
+T167	problem 4077 4089	young growth
+T168	test 4091 4113	Left leg wound culture
+T169	temporal 4119 4127	01/27/09
+T170	problem 4138 4150	young growth
+T171	test 4163 4174	Chest x-ray
+T172	temporal 4183 4191	01/28/09
+T173	problem 4199 4241	chronic bibasilar subsegmental atelectasis
+T174	course 4199 4206	chronic
+T175	problem 4260 4282	elevated hemidiaphragm
+T176	course 4260 4268	elevated
+T177	problem 4296 4309	chronic ileus
+T178	course 4296 4303	chronic
+T179	problem 4348 4354	Fevers
+T180	problem 4359 4385	Right leg/ankle cellulitis
+T181	bodyloc 4365 4368	leg
+T182	bodyloc 4369 4374	ankle
+T183	problem 4390 4437	Chronic recurrent bilateral ankle venous ulcers
+T184	course 4390 4407	Chronic recurrent
+T185	bodyloc 4418 4423	ankle
+T186	test 4442 4474	Multiple previous wound cultures
+T187	problem 4488 4499	Pseudomonas
+T188	problem 4501 4513	Enterococcus
+T189	problem 4519 4535	Stenotrophomonas
+T190	problem 4540 4552	Hypertension
+T191	test 4600 4614	blood cultures
+T192	drug 4630 4640	daptomycin
+T193	drug 4645 4653	Primaxin
+T194	route 4654 4656	IV
+T195	test 4681 4695	wound cultures
+T196	test 4713 4738	an MRI of the right ankle
+T197	problem 4752 4776	underlying osteomyelitis
+T198	problem 4866 4872	fevers
+T199	problem 4874 4884	cellulitis
+T200	problem 4886 4899	venous ulcers
+T201	problem 4901 4914	bipedal edema
+T202	problem 4916 4928	stasis ulcer
+T203	test 4930 4944	wound cultures
+T204	problem 4946 4951	wound
+T205	problem 4960 4965	ulcer
+T206	problem 4967 4979	hypertension
+T207	problem 4981 4987	ulcers
+T208	problem 4989 4995	stasis
+R1	hasAttr Arg1:T2 Arg2:T3
+R2	hasAttr Arg1:T5 Arg2:T6
+R3	hasAttr Arg1:T7 Arg2:T8
+R4	hasAttr Arg1:T7 Arg2:T9
+R5	hasAttr Arg1:T11 Arg2:T12
+R6	hasAttr Arg1:T14 Arg2:T15
+R7	hasAttr Arg1:T16 Arg2:T18
+R8	hasAttr Arg1:T16 Arg2:T17
+R9	hasAttr Arg1:T20 Arg2:T19
+R10	hasAttr Arg1:T21 Arg2:T23
+R11	hasAttr Arg1:T21 Arg2:T22
+R12	hasAttr Arg1:T24 Arg2:T25
+R13	hasAttr Arg1:T27 Arg2:T28
+R14	hasAttr Arg1:T30 Arg2:T31
+R15	hasAttr Arg1:T40 Arg2:T39
+R16	hasAttr Arg1:T42 Arg2:T41
+R17	hasAttr Arg1:T44 Arg2:T43
+R18	hasAttr Arg1:T46 Arg2:T45
+R19	hasAttr Arg1:T46 Arg2:T47
+R20	hasAttr Arg1:T49 Arg2:T48
+R21	hasAttr Arg1:T51 Arg2:T50
+R22	hasAttr Arg1:T51 Arg2:T52
+R23	hasAttr Arg1:T54 Arg2:T53
+R24	hasAttr Arg1:T56 Arg2:T55
+R25	hasAttr Arg1:T56 Arg2:T57
+R26	hasAttr Arg1:T61 Arg2:T58
+R27	hasAttr Arg1:T59 Arg2:T58
+R28	hasAttr Arg1:T59 Arg2:T60
+R29	hasAttr Arg1:T64 Arg2:T62
+R30	hasAttr Arg1:T63 Arg2:T62
+R31	hasAttr Arg1:T65 Arg2:T62
+R32	hasAttr Arg1:T66 Arg2:T68
+R33	hasAttr Arg1:T67 Arg2:T68
+R34	hasAttr Arg1:T69 Arg2:T71
+R35	hasAttr Arg1:T70 Arg2:T71
+R36	hasAttr Arg1:T86 Arg2:T87
+R37	hasAttr Arg1:T90 Arg2:T91
+R38	hasAttr Arg1:T92 Arg2:T93
+R39	hasAttr Arg1:T94 Arg2:T95
+R40	hasAttr Arg1:T96 Arg2:T97
+R41	hasAttr Arg1:T98 Arg2:T99
+R42	hasAttr Arg1:T101 Arg2:T100
+R43	hasAttr Arg1:T102 Arg2:T103
+R44	hasAttr Arg1:T104 Arg2:T105
+R45	hasAttr Arg1:T108 Arg2:T107
+R46	hasAttr Arg1:T110 Arg2:T109
+R47	hasAttr Arg1:T113 Arg2:T111
+R48	hasAttr Arg1:T113 Arg2:T112
+R49	hasAttr Arg1:T116 Arg2:T115
+R50	hasAttr Arg1:T117 Arg2:T115
+R51	hasAttr Arg1:T119 Arg2:T118
+R52	hasAttr Arg1:T121 Arg2:T120
+R53	hasAttr Arg1:T122 Arg2:T120
+R54	hasAttr Arg1:T125 Arg2:T123
+R55	hasAttr Arg1:T124 Arg2:T123
+R56	hasAttr Arg1:T127 Arg2:T126
+R57	hasAttr Arg1:T128 Arg2:T129
+R58	hasAttr Arg1:T136 Arg2:T137
+R59	hasAttr Arg1:T138 Arg2:T139
+R60	hasAttr Arg1:T141 Arg2:T140
+R61	hasAttr Arg1:T142 Arg2:T144
+R62	hasAttr Arg1:T142 Arg2:T143
+R63	hasAttr Arg1:T146 Arg2:T145
+R64	hasAttr Arg1:T147 Arg2:T148
+R65	hasAttr Arg1:T149 Arg2:T150
+R66	hasAttr Arg1:T151 Arg2:T153
+R67	hasAttr Arg1:T152 Arg2:T153
+R68	hasAttr Arg1:T154 Arg2:T155
+R69	hasAttr Arg1:T156 Arg2:T157
+R70	hasAttr Arg1:T158 Arg2:T159
+R71	hasAttr Arg1:T160 Arg2:T161
+R72	hasAttr Arg1:T162 Arg2:T163
+R73	hasAttr Arg1:T164 Arg2:T166
+R74	hasAttr Arg1:T165 Arg2:T166
+R75	hasAttr Arg1:T168 Arg2:T169
+R76	hasAttr Arg1:T171 Arg2:T172
+R77	hasAttr Arg1:T173 Arg2:T174
+R78	hasAttr Arg1:T175 Arg2:T176
+R79	hasAttr Arg1:T177 Arg2:T178
+R80	hasAttr Arg1:T180 Arg2:T182
+R81	hasAttr Arg1:T180 Arg2:T181
+R82	hasAttr Arg1:T183 Arg2:T184
+R83	hasAttr Arg1:T183 Arg2:T185
+R84	hasAttr Arg1:T192 Arg2:T194
+R85	hasAttr Arg1:T193 Arg2:T194

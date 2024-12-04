@@ -1,0 +1,531 @@
+T1	temporal 19 28	2112-5-23
+T2	temporal 51 60	2112-5-27
+T3	problem 140 165	multiple medical problems
+T4	problem 176 199	end-stage renal disease
+T5	course 176 185	end-stage
+T6	bodyloc 186 191	renal
+T7	treatment 203 215	hemodialysis
+T8	temporal 250 254	5-23
+T9	treatment 261 273	Hemodialysis
+T10	problem 279 300	decreased p.o. intake
+T11	temporal 305 313	one week
+T12	problem 317 322	cough
+T13	problem 337 349	clear sputum
+T14	treatment 354 366	Hemodialysis
+T15	test 425 439	blood cultures
+T16	problem 528 548	generalized weakness
+T17	test 624 643	initial vital signs
+T18	test 651 662	temperature
+T19	labvalue 666 674	103.0 F.
+T20	test 676 686	heart rate
+T21	labvalue 687 689	88
+T22	test 691 705	blood pressure
+T23	labvalue 706 711	94/68
+T24	test 713 729	respiratory rate
+T25	labvalue 730 732	20
+T26	test 734 748	pulse oximetry
+T27	labvalue 749 752	96%
+T28	problem 804 823	a slight left shift
+T29	bodyloc 813 817	left
+T30	negation 824 831	without
+T31	problem 832 863	elevated white blood cell count
+T32	bodyloc 841 857	white blood cell
+T33	problem 868 896	a left lower lobe infiltrate
+T34	bodyloc 870 885	left lower lobe
+T35	test 900 911	chest x-ray
+T36	drug 970 980	Vancomycin
+T37	strength 981 987	1 gram
+T38	drug 992 1002	Gentamicin
+T39	strength 1003 1009	100 mg
+T40	problem 1037 1092	Methicillin sensitive Staphylococcus aureus line sepsis
+T41	problem 1132 1143	hypotension
+T42	dosage 1249 1258	one liter
+T43	drug 1269 1275	saline
+T44	test 1280 1303	systolic blood pressure
+T45	labvalue 1331 1334	107
+T46	test 1353 1380	his baseline blood pressure
+T47	labvalue 1384 1402	90 to 100 systolic
+T48	labvalue 1418 1420	85
+T49	test 1421 1429	systolic
+T50	treatment 1440 1452	hemodialysis
+T51	problem 1548 1568	relative hypotension
+T52	uncertain 1573 1580	concern
+T53	problem 1585 1591	sepsis
+T54	test 1640 1651	temperature
+T55	labvalue 1656 1663	99.2 F.
+T56	test 1665 1675	heart rate
+T57	labvalue 1676 1678	66
+T58	test 1680 1694	blood pressure
+T59	labvalue 1695 1700	94/36
+T60	test 1702 1714	respirations
+T61	labvalue 1715 1717	15
+T62	test 1719 1733	pulse oximetry
+T63	labvalue 1734 1737	95%
+T64	drug 1855 1867	Levofloxacin
+T65	drug 1885 1903	antibiotic regimen
+T66	problem 1908 1934	atypical organism coverage
+T67	problem 1953 1981	community acquired pneumonia
+T68	negation 1995 2010	did not receive
+T69	drug 2032 2042	Vancomycin
+T70	drug 2046 2056	Gentamicin
+T71	drug 2099 2111	Levofloxacin
+T72	frequency 2122 2127	q.o.d
+T73	problem 2139 2162	patient's renal failure
+T74	bodyloc 2149 2154	renal
+T75	test 2249 2256	culture
+T76	treatment 2267 2279	hemodialysis
+T77	temporal 2286 2290	5-23
+T78	negation 2301 2303	no
+T79	problem 2304 2310	growth
+T80	test 2316 2330	blood cultures
+T81	test 2332 2356	Admission blood cultures
+T82	negation 2390 2392	no
+T83	problem 2393 2399	growth
+T84	negation 2488 2495	without
+T85	problem 2496 2524	further hypotensive episodes
+T86	drug 2546 2556	amiodarone
+T87	problem 2561 2584	his atrial fibrillation
+T88	bodyloc 2565 2571	atrial
+T89	drug 2589 2597	Coumadin
+T90	treatment 2602 2618	anti-coagulation
+T91	problem 2637 2656	atrial fibrillation
+T92	bodyloc 2637 2643	atrial
+T93	test 2658 2665	His INR
+T94	problem 2682 2696	subtherapeutic
+T95	labvalue 2700 2703	1.5
+T96	test 2718 2738	A Renal consultation
+T97	test 2937 2954	review of systems
+T98	problem 2976 3002	minimally productive cough
+T99	severity 2976 2985	minimally
+T100	negation 3037 3039	No
+T101	problem 3040 3059	shortness of breath
+T102	problem 3061 3071	chest pain
+T103	bodyloc 3061 3066	chest
+T104	problem 3073 3082	back pain
+T105	bodyloc 3073 3077	back
+T106	problem 3084 3090	fevers
+T107	problem 3092 3098	chills
+T108	problem 3100 3106	nausea
+T109	problem 3108 3116	vomiting
+T110	problem 3117 3125	diarrhea
+T111	problem 3127 3149	black or bloody stools
+T112	problem 3151 3158	dysuria
+T113	problem 3160 3168	headache
+T114	problem 3266 3289	End-stage renal disease
+T115	course 3266 3275	End-stage
+T116	bodyloc 3276 3281	renal
+T117	treatment 3293 3305	hemodialysis
+T118	problem 3310 3329	Atrial fibrillation
+T119	bodyloc 3310 3316	Atrial
+T120	problem 3334 3354	Peptic ulcer disease
+T121	problem 3359 3371	Hypertension
+T122	problem 3376 3385	Back pain
+T123	bodyloc 3376 3380	Back
+T124	problem 3390 3418	Supraventricular tachycardia
+T125	bodyloc 3390 3406	Supraventricular
+T126	problem 3423 3448	Abdominal aortic aneurysm
+T127	bodyloc 3423 3439	Abdominal aortic
+T128	problem 3485 3513	Benign prostatic hypertrophy
+T129	severity 3485 3491	Benign
+T130	bodyloc 3492 3501	prostatic
+T131	problem 3529 3553	cerebrovascular accident
+T132	bodyloc 3529 3544	cerebrovascular
+T133	problem 3559 3586	Peripheral vascular disease
+T134	bodyloc 3559 3578	Peripheral vascular
+T135	problem 3592 3613	left leg claudication
+T136	bodyloc 3592 3600	left leg
+T137	treatment 3619 3650	Left transmetatarsal amputation
+T138	problem 3656 3665	Gastritis
+T139	problem 3670 3681	esophagitis
+T140	problem 3687 3708	Right inguinal hernia
+T141	bodyloc 3687 3701	Right inguinal
+T142	problem 3725 3747	gastrointestinal bleed
+T143	bodyloc 3725 3741	gastrointestinal
+T144	temporal 3754 3762	2111-6-5
+T145	problem 3782 3846	Methicillin sensitive Staphylococcus aureus arterial line sepsis
+T146	bodyloc 3826 3839	arterial line
+T147	problem 3852 3861	Pneumonia
+T148	problem 3863 3872	ALLERGIES
+T149	negation 3874 3876	No
+T150	problem 3877 3897	known drug allergies
+T151	drug 3928 3936	Coumadin
+T152	strength 3937 3941	1 mg
+T153	route 3942 3945	p.o
+T154	frequency 3947 3953	q. day
+T155	drug 3958 3968	Nephrocaps
+T156	dosage 3969 3972	one
+T157	route 3973 3976	p.o
+T158	frequency 3978 3984	q. day
+T159	drug 3989 3999	Amiodarone
+T160	strength 4000 4006	200 mg
+T161	route 4007 4010	p.o
+T162	frequency 4012 4018	q. day
+T163	drug 4023 4030	Remegel
+T164	strength 4031 4037	800 mg
+T165	route 4038 4041	p.o
+T166	frequency 4043 4060	three times a day
+T167	drug 4065 4073	Protonix
+T168	strength 4074 4079	40 mg
+T169	route 4080 4083	p.o
+T170	frequency 4085 4091	q. day
+T171	drug 4096 4103	Tylenol
+T172	strength 4104 4110	650 mg
+T173	route 4111 4115	p.o.
+T174	frequency 4116 4121	p.r.n
+T175	test 4167 4178	temperature
+T176	labvalue 4179 4185	99.2 F
+T177	test 4188 4198	heart rate
+T178	labvalue 4199 4201	66
+T179	test 4203 4217	blood pressure
+T180	labvalue 4218 4223	94/36
+T181	test 4225 4237	respirations
+T182	labvalue 4238 4240	15
+T183	negation 4320 4322	no
+T184	problem 4323 4337	acute distress
+T185	course 4323 4328	acute
+T186	bodyloc 4459 4463	Neck
+T187	negation 4473 4475	no
+T188	problem 4476 4491	lymphadenopathy
+T189	negation 4493 4495	no
+T190	problem 4496 4530	elevated jugular venous distention
+T191	bodyloc 4505 4512	jugular
+T192	problem 4539 4563	Rhonchi at the left base
+T193	bodyloc 4554 4563	left base
+T194	test 4584 4596	auscultation
+T195	problem 4626 4646	Distant heart sounds
+T196	labvalue 4657 4664	regular
+T197	test 4665 4669	rate
+T198	test 4674 4680	rhythm
+T199	negation 4681 4688	without
+T200	problem 4689 4695	murmur
+T201	test 4739 4751	Bowel sounds
+T202	labvalue 4752 4759	present
+T203	negation 4761 4763	No
+T204	problem 4764 4782	hepatosplenomegaly
+T205	bodyloc 4784 4795	Extremities
+T206	negation 4801 4803	no
+T207	problem 4804 4812	cyanosis
+T208	problem 4814 4822	clubbing
+T209	problem 4826 4831	edema
+T210	treatment 4855 4881	transmetatarsal amputation
+T211	bodyloc 4883 4893	Right foot
+T212	problem 4906 4924	toenail thickening
+T213	bodyloc 4906 4913	toenail
+T214	problem 4929 4940	heavy scale
+T215	bodyloc 4948 4959	distal foot
+T216	test 4988 5010	White blood cell count
+T217	labvalue 5011 5014	7.2
+T218	test 5016 5026	hematocrit
+T219	labvalue 5027 5031	41.3
+T220	test 5033 5042	platelets
+T221	labvalue 5043 5046	167
+T222	labvalue 5048 5051	83%
+T223	test 5052 5063	neutrophils
+T224	labvalue 5065 5068	10%
+T225	test 5069 5080	lymphocytes
+T226	labvalue 5082 5084	5%
+T227	test 5085 5094	monocytes
+T228	test 5096 5098	PT
+T229	labvalue 5099 5103	14.6
+T230	test 5105 5108	INR
+T231	labvalue 5109 5112	1.5
+T232	test 5114 5117	PTT
+T233	labvalue 5118 5122	42.2
+T234	test 5124 5130	Sodium
+T235	labvalue 5131 5134	146
+T236	test 5136 5145	potassium
+T237	labvalue 5146 5149	4.6
+T238	test 5151 5159	chloride
+T239	labvalue 5160 5162	98
+T240	test 5164 5175	bicarbonate
+T241	labvalue 5176 5178	33
+T242	test 5180 5190	creatinine
+T243	labvalue 5191 5194	6.0
+T244	test 5196 5199	BUN
+T245	labvalue 5200 5202	24
+T246	test 5204 5211	glucose
+T247	labvalue 5212 5214	98
+T248	test 5216 5219	EKG
+T249	labvalue 5220 5226	normal
+T250	test 5227 5239	sinus rhythm
+T251	labvalue 5243 5245	83
+T252	problem 5247 5266	Left axis deviation
+T253	problem 5274 5294	Q waves in III and F
+T254	negation 5302 5304	No
+T255	problem 5305 5325	ST or T wave changes
+T256	test 5327 5338	Chest x-ray
+T257	problem 5340 5365	Left lower lobe pneumonia
+T258	bodyloc 5340 5355	Left lower lobe
+T259	temporal 5517 5521	5-25
+T260	test 5542 5561	a temperature spike
+T261	temporal 5568 5572	5-25
+T262	labvalue 5579 5587	101.5 F.
+T263	test 5603 5617	blood cultures
+T264	test 5638 5652	blood cultures
+T265	negation 5664 5666	no
+T266	problem 5667 5673	growth
+T267	drug 5675 5687	Levofloxacin
+T268	problem 5706 5734	community acquired pneumonia
+T269	treatment 5830 5847	in-house dialysis
+T270	drug 6034 6046	Levofloxacin
+T271	strength 6047 6053	250 mg
+T272	route 6054 6057	p.o
+T273	temporal 6076 6084	2112-6-2
+T274	problem 6093 6121	community acquired pneumonia
+T275	treatment 6150 6173	outpatient hemodialysis
+T276	drug 6214 6222	Coumadin
+T277	strength 6223 6227	1 mg
+T278	route 6228 6231	p.o
+T279	frequency 6233 6239	q. day
+T280	treatment 6246 6258	hemodialysis
+T281	temporal 6265 6269	5-30
+T282	test 6288 6300	a repeat INR
+T283	test 6338 6350	a blood draw
+T284	test 6380 6383	INR
+T285	drug 6405 6417	Levofloxacin
+T286	temporal 6467 6474	current
+T287	drug 6475 6483	Coumadin
+T288	test 6495 6502	the INR
+T289	problem 6536 6559	End-stage renal disease
+T290	course 6536 6545	End-stage
+T291	bodyloc 6546 6551	renal
+T292	treatment 6563 6575	hemodialysis
+T293	problem 6580 6599	Atrial fibrillation
+T294	bodyloc 6580 6586	Atrial
+T295	problem 6604 6624	Peptic ulcer disease
+T296	bodyloc 6604 6616	Peptic ulcer
+T297	problem 6629 6641	Hypertension
+T298	problem 6646 6655	Back pain
+T299	bodyloc 6646 6650	Back
+T300	problem 6660 6688	Supraventricular tachycardia
+T301	bodyloc 6660 6676	Supraventricular
+T302	problem 6693 6718	Abdominal aortic aneurysm
+T303	bodyloc 6693 6709	Abdominal aortic
+T304	problem 6755 6783	Benign prostatic hypertrophy
+T305	severity 6755 6761	Benign
+T306	bodyloc 6762 6771	prostatic
+T307	problem 6799 6823	cerebrovascular accident
+T308	bodyloc 6799 6814	cerebrovascular
+T309	problem 6829 6856	Peripheral vascular disease
+T310	bodyloc 6829 6848	Peripheral vascular
+T311	problem 6862 6883	left leg claudication
+T312	bodyloc 6862 6870	left leg
+T313	treatment 6889 6920	Left transmetatarsal amputation
+T314	problem 6926 6935	Gastritis
+T315	problem 6940 6951	esophagitis
+T316	problem 6957 6978	Right inguinal hernia
+T317	bodyloc 6957 6971	Right inguinal
+T318	problem 6995 7017	gastrointestinal bleed
+T319	bodyloc 6995 7011	gastrointestinal
+T320	temporal 7024 7032	2111-6-5
+T321	problem 7052 7116	Methicillin sensitive Staphylococcus aureus arterial line sepsis
+T322	bodyloc 7096 7104	arterial
+T323	problem 7122 7147	Left lower lobe pneumonia
+T324	bodyloc 7122 7137	Left lower lobe
+T325	drug 7159 7170	MEDICATIONS
+T326	drug 7175 7185	Amiodarone
+T327	strength 7186 7192	200 mg
+T328	route 7193 7196	p.o
+T329	frequency 7198 7204	q. day
+T330	drug 7209 7219	Nephrocaps
+T331	dosage 7220 7223	one
+T332	route 7224 7227	p.o
+T333	frequency 7229 7235	q. day
+T334	drug 7240 7248	Protonix
+T335	strength 7249 7254	40 mg
+T336	route 7255 7258	p.o
+T337	frequency 7260 7266	q. day
+T338	drug 7271 7278	Remegel
+T339	strength 7279 7285	800 mg
+T340	route 7286 7289	p.o
+T341	frequency 7291 7308	three times a day
+T342	drug 7313 7321	Coumadin
+T343	strength 7322 7326	1 mg
+T344	route 7327 7330	p.o
+T345	frequency 7332 7353	q. day or as directed
+T346	drug 7358 7370	Levofloxacin
+T347	strength 7371 7377	250 mg
+T348	route 7378 7382	p.o.
+T349	frequency 7383 7388	q.o.d
+T350	temporal 7400 7408	2112-6-2
+T351	drug 7416 7423	Tylenol
+T352	frequency 7424 7433	as needed
+T353	temporal 7739 7748	2112-5-27
+T354	temporal 7752 7757	14:30
+T355	temporal 7764 7773	2112-5-30
+T356	temporal 7777 7782	17:02
+R1	hasAttr Arg1:T4 Arg2:T5
+R2	hasAttr Arg1:T4 Arg2:T6
+R3	hasAttr Arg1:T9 Arg2:T8
+R4	hasAttr Arg1:T12 Arg2:T11
+R5	hasAttr Arg1:T18 Arg2:T19
+R6	hasAttr Arg1:T20 Arg2:T21
+R7	hasAttr Arg1:T22 Arg2:T23
+R8	hasAttr Arg1:T24 Arg2:T25
+R9	hasAttr Arg1:T26 Arg2:T27
+R10	hasAttr Arg1:T28 Arg2:T29
+R11	hasAttr Arg1:T31 Arg2:T30
+R12	hasAttr Arg1:T31 Arg2:T32
+R13	hasAttr Arg1:T33 Arg2:T34
+R14	hasAttr Arg1:T36 Arg2:T37
+R15	hasAttr Arg1:T38 Arg2:T39
+R16	hasAttr Arg1:T43 Arg2:T42
+R17	hasAttr Arg1:T44 Arg2:T45
+R18	hasAttr Arg1:T46 Arg2:T47
+R19	hasAttr Arg1:T49 Arg2:T48
+R20	hasAttr Arg1:T53 Arg2:T52
+R21	hasAttr Arg1:T54 Arg2:T55
+R22	hasAttr Arg1:T56 Arg2:T57
+R23	hasAttr Arg1:T58 Arg2:T59
+R24	hasAttr Arg1:T60 Arg2:T61
+R25	hasAttr Arg1:T62 Arg2:T63
+R26	hasAttr Arg1:T69 Arg2:T68
+R27	hasAttr Arg1:T70 Arg2:T68
+R28	hasAttr Arg1:T71 Arg2:T72
+R29	hasAttr Arg1:T73 Arg2:T74
+R30	hasAttr Arg1:T76 Arg2:T77
+R31	hasAttr Arg1:T79 Arg2:T78
+R32	hasAttr Arg1:T83 Arg2:T82
+R33	hasAttr Arg1:T85 Arg2:T84
+R34	hasAttr Arg1:T87 Arg2:T88
+R35	hasAttr Arg1:T91 Arg2:T92
+R36	hasAttr Arg1:T93 Arg2:T95
+R37	hasAttr Arg1:T98 Arg2:T99
+R38	hasAttr Arg1:T108 Arg2:T100
+R39	hasAttr Arg1:T112 Arg2:T100
+R40	hasAttr Arg1:T109 Arg2:T100
+R41	hasAttr Arg1:T104 Arg2:T100
+R42	hasAttr Arg1:T101 Arg2:T100
+R43	hasAttr Arg1:T106 Arg2:T100
+R44	hasAttr Arg1:T102 Arg2:T100
+R45	hasAttr Arg1:T113 Arg2:T100
+R46	hasAttr Arg1:T107 Arg2:T100
+R47	hasAttr Arg1:T111 Arg2:T100
+R48	hasAttr Arg1:T110 Arg2:T100
+R49	hasAttr Arg1:T102 Arg2:T103
+R50	hasAttr Arg1:T104 Arg2:T105
+R51	hasAttr Arg1:T114 Arg2:T116
+R52	hasAttr Arg1:T114 Arg2:T115
+R53	hasAttr Arg1:T118 Arg2:T119
+R54	hasAttr Arg1:T122 Arg2:T123
+R55	hasAttr Arg1:T124 Arg2:T125
+R56	hasAttr Arg1:T126 Arg2:T127
+R57	hasAttr Arg1:T128 Arg2:T130
+R58	hasAttr Arg1:T128 Arg2:T129
+R59	hasAttr Arg1:T131 Arg2:T132
+R60	hasAttr Arg1:T133 Arg2:T134
+R61	hasAttr Arg1:T135 Arg2:T136
+R62	hasAttr Arg1:T140 Arg2:T141
+R63	hasAttr Arg1:T142 Arg2:T144
+R64	hasAttr Arg1:T142 Arg2:T143
+R65	hasAttr Arg1:T145 Arg2:T146
+R66	hasAttr Arg1:T150 Arg2:T149
+R67	hasAttr Arg1:T151 Arg2:T152
+R68	hasAttr Arg1:T151 Arg2:T153
+R69	hasAttr Arg1:T151 Arg2:T154
+R70	hasAttr Arg1:T155 Arg2:T157
+R71	hasAttr Arg1:T155 Arg2:T156
+R72	hasAttr Arg1:T155 Arg2:T158
+R73	hasAttr Arg1:T159 Arg2:T162
+R74	hasAttr Arg1:T159 Arg2:T161
+R75	hasAttr Arg1:T159 Arg2:T160
+R76	hasAttr Arg1:T163 Arg2:T166
+R77	hasAttr Arg1:T163 Arg2:T165
+R78	hasAttr Arg1:T163 Arg2:T164
+R79	hasAttr Arg1:T167 Arg2:T169
+R80	hasAttr Arg1:T167 Arg2:T168
+R81	hasAttr Arg1:T167 Arg2:T170
+R82	hasAttr Arg1:T171 Arg2:T173
+R83	hasAttr Arg1:T171 Arg2:T172
+R84	hasAttr Arg1:T171 Arg2:T174
+R85	hasAttr Arg1:T175 Arg2:T176
+R86	hasAttr Arg1:T177 Arg2:T178
+R87	hasAttr Arg1:T179 Arg2:T180
+R88	hasAttr Arg1:T181 Arg2:T182
+R89	hasAttr Arg1:T184 Arg2:T183
+R90	hasAttr Arg1:T184 Arg2:T185
+R91	hasAttr Arg1:T188 Arg2:T186
+R92	hasAttr Arg1:T188 Arg2:T187
+R93	hasAttr Arg1:T190 Arg2:T189
+R94	hasAttr Arg1:T192 Arg2:T193
+R95	hasAttr Arg1:T198 Arg2:T196
+R96	hasAttr Arg1:T197 Arg2:T196
+R97	hasAttr Arg1:T200 Arg2:T199
+R98	hasAttr Arg1:T201 Arg2:T202
+R99	hasAttr Arg1:T204 Arg2:T203
+R100	hasAttr Arg1:T209 Arg2:T205
+R101	hasAttr Arg1:T208 Arg2:T205
+R102	hasAttr Arg1:T207 Arg2:T205
+R103	hasAttr Arg1:T207 Arg2:T206
+R104	hasAttr Arg1:T212 Arg2:T211
+R105	hasAttr Arg1:T212 Arg2:T213
+R106	hasAttr Arg1:T214 Arg2:T215
+R107	hasAttr Arg1:T216 Arg2:T217
+R108	hasAttr Arg1:T218 Arg2:T219
+R109	hasAttr Arg1:T220 Arg2:T221
+R110	hasAttr Arg1:T223 Arg2:T222
+R111	hasAttr Arg1:T223 Arg2:T224
+R112	hasAttr Arg1:T227 Arg2:T226
+R113	hasAttr Arg1:T228 Arg2:T229
+R114	hasAttr Arg1:T230 Arg2:T231
+R115	hasAttr Arg1:T232 Arg2:T233
+R116	hasAttr Arg1:T234 Arg2:T235
+R117	hasAttr Arg1:T236 Arg2:T237
+R118	hasAttr Arg1:T238 Arg2:T239
+R119	hasAttr Arg1:T240 Arg2:T241
+R120	hasAttr Arg1:T242 Arg2:T243
+R121	hasAttr Arg1:T244 Arg2:T245
+R122	hasAttr Arg1:T246 Arg2:T247
+R123	hasAttr Arg1:T248 Arg2:T249
+R124	hasAttr Arg1:T250 Arg2:T251
+R125	hasAttr Arg1:T255 Arg2:T254
+R126	hasAttr Arg1:T257 Arg2:T258
+R127	hasAttr Arg1:T260 Arg2:T261
+R128	hasAttr Arg1:T260 Arg2:T262
+R129	hasAttr Arg1:T263 Arg2:T261
+R130	hasAttr Arg1:T266 Arg2:T265
+R131	hasAttr Arg1:T270 Arg2:T272
+R132	hasAttr Arg1:T270 Arg2:T271
+R133	hasAttr Arg1:T276 Arg2:T277
+R134	hasAttr Arg1:T276 Arg2:T279
+R135	hasAttr Arg1:T276 Arg2:T278
+R136	hasAttr Arg1:T280 Arg2:T281
+R137	hasAttr Arg1:T282 Arg2:T281
+R138	hasAttr Arg1:T287 Arg2:T286
+R139	hasAttr Arg1:T289 Arg2:T291
+R140	hasAttr Arg1:T289 Arg2:T290
+R141	hasAttr Arg1:T293 Arg2:T294
+R142	hasAttr Arg1:T295 Arg2:T296
+R143	hasAttr Arg1:T298 Arg2:T299
+R144	hasAttr Arg1:T300 Arg2:T301
+R145	hasAttr Arg1:T302 Arg2:T303
+R146	hasAttr Arg1:T304 Arg2:T306
+R147	hasAttr Arg1:T304 Arg2:T305
+R148	hasAttr Arg1:T307 Arg2:T308
+R149	hasAttr Arg1:T309 Arg2:T310
+R150	hasAttr Arg1:T311 Arg2:T312
+R151	hasAttr Arg1:T316 Arg2:T317
+R152	hasAttr Arg1:T318 Arg2:T319
+R153	hasAttr Arg1:T318 Arg2:T320
+R154	hasAttr Arg1:T321 Arg2:T322
+R155	hasAttr Arg1:T323 Arg2:T324
+R156	hasAttr Arg1:T326 Arg2:T328
+R157	hasAttr Arg1:T326 Arg2:T329
+R158	hasAttr Arg1:T326 Arg2:T327
+R159	hasAttr Arg1:T330 Arg2:T331
+R160	hasAttr Arg1:T330 Arg2:T332
+R161	hasAttr Arg1:T330 Arg2:T333
+R162	hasAttr Arg1:T334 Arg2:T335
+R163	hasAttr Arg1:T334 Arg2:T336
+R164	hasAttr Arg1:T334 Arg2:T337
+R165	hasAttr Arg1:T338 Arg2:T339
+R166	hasAttr Arg1:T338 Arg2:T341
+R167	hasAttr Arg1:T338 Arg2:T340
+R168	hasAttr Arg1:T342 Arg2:T343
+R169	hasAttr Arg1:T342 Arg2:T344
+R170	hasAttr Arg1:T342 Arg2:T345
+R171	hasAttr Arg1:T346 Arg2:T347
+R172	hasAttr Arg1:T346 Arg2:T349
+R173	hasAttr Arg1:T346 Arg2:T348
+R174	hasAttr Arg1:T346 Arg2:T350
+R175	hasAttr Arg1:T351 Arg2:T352

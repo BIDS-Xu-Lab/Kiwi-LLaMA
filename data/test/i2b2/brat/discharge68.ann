@@ -1,0 +1,82 @@
+T1	temporal 182 193	Jan 09 2008
+T2	temporal 219 230	Jan 11 2008
+T3	problem 246 268	Intestinal obstruction
+T4	bodyloc 246 256	Intestinal
+T5	problem 273 283	Paraplegia
+T6	problem 363 373	paraplegia
+T7	problem 387 411	a motor vehicle accident
+T8	test 416 449	multiple exploratory laparotomies
+T9	problem 454 477	small bowel perforation
+T10	bodyloc 460 465	bowel
+T11	temporal 481 489	the past
+T12	problem 538 544	nausea
+T13	problem 549 578	absence of the bowel movement
+T14	bodyloc 564 569	bowel
+T15	problem 656 678	intestinal obstruction
+T16	bodyloc 656 666	intestinal
+T17	treatment 691 701	an NG tube
+T18	treatment 735 744	hydration
+T19	treatment 809 822	her ileostomy
+T20	treatment 836 847	her NG tube
+T21	labvalue 960 966	normal
+T22	test 967 981	bowel movement
+T23	drug 1010 1019	Neurontin
+T24	strength 1020 1026	900 mg
+T25	route 1027 1031	p.o.
+T26	frequency 1032 1038	t.i.d.
+T27	drug 1041 1050	Neurontin
+T28	strength 1051 1058	1200 mg
+T29	route 1059 1063	p.o.
+T30	frequency 1064 1071	nightly
+T31	drug 1076 1084	Ditropan
+T32	strength 1085 1089	5 mg
+T33	route 1090 1094	p.o.
+T34	frequency 1095 1101	b.i.d.
+T35	drug 1104 1118	Fentanyl patch
+T36	strength 1119 1125	50 mcg
+T37	frequency 1126 1140	every 72 hours
+T38	drug 1145 1155	Wellbutrin
+T39	strength 1156 1161	75 mg
+T40	route 1162 1166	p.o.
+T41	frequency 1167 1173	b.i.d.
+T42	drug 1176 1184	Baclofen
+T43	strength 1185 1190	20 mg
+T44	route 1191 1195	p.o.
+T45	frequency 1196 1202	b.i.d.
+T46	drug 1205 1211	Ambien
+T47	strength 1212 1217	10 mg
+T48	frequency 1218 1225	nightly
+T49	temporal 1337 1348	Jan 11 2008
+T50	temporal 1350 1358	18:31:10
+T51	temporal 1370 1381	Jan 12 2008
+T52	temporal 1383 1391	04:32:44
+T53	temporal 1403 1414	Jan 12 2008
+T54	temporal 1416 1424	04:32:44
+T55	temporal 1547 1558	Jan 23 2008
+T56	temporal 1560 1571	02:37:54 PM
+R1	hasAttr Arg1:T3 Arg2:T4
+R2	hasAttr Arg1:T8 Arg2:T11
+R3	hasAttr Arg1:T9 Arg2:T11
+R4	hasAttr Arg1:T9 Arg2:T10
+R5	hasAttr Arg1:T13 Arg2:T14
+R6	hasAttr Arg1:T15 Arg2:T16
+R7	hasAttr Arg1:T22 Arg2:T21
+R8	hasAttr Arg1:T23 Arg2:T25
+R9	hasAttr Arg1:T23 Arg2:T26
+R10	hasAttr Arg1:T23 Arg2:T24
+R11	hasAttr Arg1:T27 Arg2:T29
+R12	hasAttr Arg1:T27 Arg2:T28
+R13	hasAttr Arg1:T27 Arg2:T30
+R14	hasAttr Arg1:T31 Arg2:T32
+R15	hasAttr Arg1:T31 Arg2:T34
+R16	hasAttr Arg1:T31 Arg2:T33
+R17	hasAttr Arg1:T35 Arg2:T37
+R18	hasAttr Arg1:T35 Arg2:T36
+R19	hasAttr Arg1:T38 Arg2:T40
+R20	hasAttr Arg1:T38 Arg2:T39
+R21	hasAttr Arg1:T38 Arg2:T41
+R22	hasAttr Arg1:T42 Arg2:T44
+R23	hasAttr Arg1:T42 Arg2:T45
+R24	hasAttr Arg1:T42 Arg2:T43
+R25	hasAttr Arg1:T46 Arg2:T48
+R26	hasAttr Arg1:T46 Arg2:T47

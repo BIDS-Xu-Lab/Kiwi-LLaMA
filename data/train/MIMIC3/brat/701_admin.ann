@@ -1,0 +1,246 @@
+T1	temporal 19 29	2176-11-21
+T2	temporal 52 62	2176-11-26
+T3	problem 190 198	diabetes
+T4	problem 200 212	hypertension
+T5	problem 218 240	deep venous thrombosis
+T6	bodyloc 218 229	deep venous
+T7	problem 257 264	a fever
+T8	problem 269 289	lower extremity pain
+T9	bodyloc 269 284	lower extremity
+T10	problem 366 371	fever
+T11	problem 376 387	hypotension
+T12	treatment 413 431	intravenous fluids
+T13	drug 433 438	Ancef
+T14	drug 444 450	Unasyn
+T15	problem 532 556	Type 2 diabetes mellitus
+T16	problem 561 573	Hypertension
+T17	problem 578 610	Bilateral deep venous thrombosis
+T18	bodyloc 578 599	Bilateral deep venous
+T19	problem 615 631	High cholesterol
+T20	problem 636 648	Anal fissure
+T21	problem 653 664	Thalassemia
+T22	drug 692 697	Actos
+T23	drug 699 709	Glucophage
+T24	drug 711 719	atenolol
+T25	drug 721 728	aspirin
+T26	drug 734 741	Lipitor
+T27	problem 743 752	ALLERGIES
+T28	drug 754 766	ERYTHROMYCIN
+T29	subject 837 843	Mother
+T30	problem 849 857	diabetes
+T31	test 901 921	physical examination
+T32	test 939 952	a temperature
+T33	labvalue 956 961	103.5
+T34	test 967 977	heart rate
+T35	labvalue 982 985	112
+T36	test 987 1005	his blood pressure
+T37	labvalue 1010 1016	109/50
+T38	test 1022 1038	respiratory rate
+T39	labvalue 1043 1045	20
+T40	test 1051 1072	his oxygen saturation
+T41	labvalue 1077 1081	100%
+T42	negation 1149 1151	no
+T43	problem 1152 1166	acute distress
+T44	course 1152 1157	acute
+T45	test 1168 1214	Head, eyes, ears, nose, and throat examination
+T46	negation 1278 1280	No
+T47	problem 1281 1295	neck stiffness
+T48	bodyloc 1281 1285	neck
+T49	test 1297 1323	Cardiovascular examination
+T50	labvalue 1335 1342	regular
+T51	test 1343 1347	rate
+T52	test 1352 1358	rhythm
+T53	labvalue 1360 1366	Normal
+T54	test 1367 1385	first heart sounds
+T55	test 1390 1409	second heart sounds
+T56	negation 1411 1413	No
+T57	problem 1414 1421	murmurs
+T58	labvalue 1438 1443	clear
+T59	test 1447 1459	auscultation
+T60	labvalue 1524 1532	Positive
+T61	test 1533 1545	bowel sounds
+T62	problem 1568 1604	right lower extremity venous changes
+T63	bodyloc 1568 1589	right lower extremity
+T64	problem 1606 1610	Pain
+T65	bodyloc 1615 1627	medial thigh
+T66	bodyloc 1635 1639	calf
+T67	negation 1641 1643	No
+T68	problem 1644 1648	rash
+T69	test 1650 1672	Neurologic examination
+T70	test 1725 1747	Sensation and strength
+T71	labvalue 1756 1760	6-10
+T72	test 1765 1778	Distal pulses
+T73	labvalue 1784 1795	2+ distally
+T74	test 1843 1865	White blood cell count
+T75	labvalue 1870 1874	12.8
+T76	test 1876 1890	His hematocrit
+T77	labvalue 1895 1899	37.1
+T78	test 1901 1912	Chemistries
+T79	labvalue 1918 1938	within normal limits
+T80	test 1940 1950	Urinalysis
+T81	labvalue 1955 1961	normal
+T82	test 1963 1970	Lactate
+T83	labvalue 1975 1978	3.3
+T84	test 2010 2041	A computed tomography angiogram
+T85	negation 2046 2058	negative for
+T86	problem 2059 2079	a pulmonary embolism
+T87	test 2081 2094	A chest x-ray
+T88	labvalue 2099 2105	normal
+T89	test 2107 2141	A right lower extremity ultrasound
+T90	negation 2151 2153	no
+T91	problem 2154 2176	deep venous thrombosis
+T92	bodyloc 2154 2165	deep venous
+T93	problem 2287 2293	fevers
+T94	problem 2295 2306	hypotension
+T95	problem 2308 2334	right lower extremity pain
+T96	bodyloc 2308 2329	right lower extremity
+T97	problem 2340 2368	septic physiology responsive
+T98	treatment 2372 2390	intravenous fluids
+T99	negation 2410 2418	negative
+T100	test 2419 2458	ultrasound of his right lower extremity
+T101	problem 2463 2485	deep venous thrombosis
+T102	negation 2492 2500	negative
+T103	test 2501 2530	computed tomography angiogram
+T104	problem 2535 2555	a pulmonary embolism
+T105	test 2557 2567	Urinalysis
+T106	labvalue 2572 2578	normal
+T107	negation 2580 2582	No
+T108	problem 2583 2589	murmur
+T109	test 2603 2622	cardiac examination
+T110	test 2628 2658	a transthoracic echocardiogram
+T111	negation 2663 2675	negative for
+T112	problem 2676 2688	endocarditis
+T113	problem 2724 2737	his infection
+T114	problem 2742 2776	a right lower extremity cellulitis
+T115	bodyloc 2744 2765	right lower extremity
+T116	drug 2806 2812	Unasyn
+T117	problem 2832 2842	a diabetic
+T118	drug 2848 2858	gentamicin
+T119	problem 2878 2889	Pseudomonas
+T120	test 2891 2941	A right lower extremity magnetic resonance imaging
+T121	problem 2969 2986	soft tissue edema
+T122	negation 2988 2990	No
+T123	problem 2991 3002	focal fluid
+T124	negation 3019 3030	no signs of
+T125	problem 3031 3040	fasciitis
+T126	drug 3077 3087	vancomycin
+T127	treatment 3101 3112	the regimen
+T128	problem 3117 3131	his cellulitis
+T129	problem 3155 3165	a headache
+T130	negation 3166 3173	without
+T131	problem 3174 3188	neck stiffness
+T132	bodyloc 3174 3178	neck
+T133	test 3192 3207	lumbar puncture
+T134	problem 3248 3268	patient's cellulitis
+T135	course 3282 3289	improve
+T136	treatment 3291 3303	Another line
+T137	drug 3374 3380	Unasyn
+T138	route 3390 3398	by mouth
+T139	drug 3399 3408	Augmentin
+T140	duration 3409 3423	for seven days
+T141	treatment 3450 3471	compression stockings
+T142	problem 3486 3494	swelling
+T143	problem 3523 3531	HEADACHE
+T144	problem 3540 3562	The patient's headache
+T145	course 3563 3571	improved
+T146	negation 3607 3610	not
+T147	problem 3631 3642	photophobia
+T148	problem 3646 3660	neck stiffness
+T149	bodyloc 3646 3650	neck
+T150	drug 3737 3749	beta blocker
+T151	problem 3761 3784	his low blood pressures
+T152	temporal 4003 4008	11-27
+T153	treatment 4059 4077	Mid line placement
+T154	temporal 4084 4094	2176-11-25
+T155	drug 4128 4134	Unasyn
+T156	strength 4135 4141	3 gram
+T157	route 4142 4155	intravenously
+T158	frequency 4156 4180	q.6h. (times seven days)
+T159	drug 4185 4194	Augmentin
+T160	strength 4195 4202	500/125
+T161	dosage 4203 4206	one
+T162	form 4207 4213	tablet
+T163	route 4214 4222	by mouth
+T164	frequency 4223 4242	three times per day
+T165	duration 4244 4260	times seven days
+T166	temporal 4263 4283	starting in one week
+T167	drug 4288 4301	Normal saline
+T168	form 4302 4309	flushes
+T169	dosage 4310 4315	10 cc
+T170	drug 4338 4344	Unasyn
+T171	drug 4354 4361	Heparin
+T172	form 4362 4369	flushes
+T173	dosage 4370 4374	2 cc
+T174	drug 4386 4392	Unasyn
+T175	temporal 4527 4536	2177-3-19
+T176	temporal 4540 4545	12:03
+T177	temporal 4552 4561	2177-3-19
+T178	temporal 4565 4570	12:52
+R1	hasAttr Arg1:T5 Arg2:T6
+R2	hasAttr Arg1:T8 Arg2:T9
+R3	hasAttr Arg1:T17 Arg2:T18
+R4	hasAttr Arg1:T30 Arg2:T29
+R5	hasAttr Arg1:T32 Arg2:T33
+R6	hasAttr Arg1:T34 Arg2:T35
+R7	hasAttr Arg1:T36 Arg2:T37
+R8	hasAttr Arg1:T38 Arg2:T39
+R9	hasAttr Arg1:T40 Arg2:T41
+R10	hasAttr Arg1:T43 Arg2:T42
+R11	hasAttr Arg1:T43 Arg2:T44
+R12	hasAttr Arg1:T47 Arg2:T46
+R13	hasAttr Arg1:T47 Arg2:T48
+R14	hasAttr Arg1:T52 Arg2:T50
+R15	hasAttr Arg1:T51 Arg2:T50
+R16	hasAttr Arg1:T54 Arg2:T53
+R17	hasAttr Arg1:T55 Arg2:T53
+R18	hasAttr Arg1:T57 Arg2:T56
+R19	hasAttr Arg1:T59 Arg2:T58
+R20	hasAttr Arg1:T61 Arg2:T60
+R21	hasAttr Arg1:T62 Arg2:T63
+R22	hasAttr Arg1:T64 Arg2:T66
+R23	hasAttr Arg1:T64 Arg2:T65
+R24	hasAttr Arg1:T68 Arg2:T67
+R25	hasAttr Arg1:T70 Arg2:T71
+R26	hasAttr Arg1:T72 Arg2:T73
+R27	hasAttr Arg1:T74 Arg2:T75
+R28	hasAttr Arg1:T76 Arg2:T77
+R29	hasAttr Arg1:T78 Arg2:T79
+R30	hasAttr Arg1:T80 Arg2:T81
+R31	hasAttr Arg1:T82 Arg2:T83
+R32	hasAttr Arg1:T86 Arg2:T85
+R33	hasAttr Arg1:T87 Arg2:T88
+R34	hasAttr Arg1:T91 Arg2:T90
+R35	hasAttr Arg1:T91 Arg2:T92
+R36	hasAttr Arg1:T95 Arg2:T96
+R37	hasAttr Arg1:T101 Arg2:T99
+R38	hasAttr Arg1:T104 Arg2:T102
+R39	hasAttr Arg1:T105 Arg2:T106
+R40	hasAttr Arg1:T108 Arg2:T107
+R41	hasAttr Arg1:T112 Arg2:T111
+R42	hasAttr Arg1:T114 Arg2:T115
+R43	hasAttr Arg1:T123 Arg2:T122
+R44	hasAttr Arg1:T125 Arg2:T124
+R45	hasAttr Arg1:T131 Arg2:T130
+R46	hasAttr Arg1:T131 Arg2:T132
+R47	hasAttr Arg1:T134 Arg2:T135
+R48	hasAttr Arg1:T139 Arg2:T138
+R49	hasAttr Arg1:T139 Arg2:T140
+R50	hasAttr Arg1:T144 Arg2:T145
+R51	hasAttr Arg1:T147 Arg2:T146
+R52	hasAttr Arg1:T148 Arg2:T146
+R53	hasAttr Arg1:T148 Arg2:T149
+R54	hasAttr Arg1:T153 Arg2:T154
+R55	hasAttr Arg1:T155 Arg2:T156
+R56	hasAttr Arg1:T155 Arg2:T157
+R57	hasAttr Arg1:T155 Arg2:T158
+R58	hasAttr Arg1:T159 Arg2:T161
+R59	hasAttr Arg1:T159 Arg2:T162
+R60	hasAttr Arg1:T159 Arg2:T165
+R61	hasAttr Arg1:T159 Arg2:T163
+R62	hasAttr Arg1:T159 Arg2:T166
+R63	hasAttr Arg1:T159 Arg2:T160
+R64	hasAttr Arg1:T159 Arg2:T164
+R65	hasAttr Arg1:T167 Arg2:T169
+R66	hasAttr Arg1:T167 Arg2:T168
+R67	hasAttr Arg1:T171 Arg2:T172
+R68	hasAttr Arg1:T171 Arg2:T173

@@ -1,0 +1,271 @@
+T1	temporal 144 155	Sep 24 1969
+T2	problem 200 207	Allergy
+T3	problem 218 221	NKA
+T4	drug 222 241	Current medications
+T5	temporal 321 332	Jul 19 2007
+T6	temporal 334 342	10:00 AM
+T7	test 343 354	Temperature
+T8	labvalue 366 376	36.9 Deg C
+T9	test 377 388	Temperature
+T10	labvalue 389 399	98.4 Deg F
+T11	test 422 427	Pulse
+T12	labvalue 428 434	82 BPM
+T13	test 435 451	Respiratory Rate
+T14	labvalue 452 454	20
+T15	test 455 466	Systolic BP
+T16	labvalue 467 475	107 mmHg
+T17	test 476 488	Diastolic BP
+T18	labvalue 489 496	47 mmHg
+T19	temporal 504 515	Jul 19 2007
+T20	temporal 517 524	6:15 AM
+T21	test 525 527	Na
+T22	labvalue 528 539	133 mEq / L
+T23	labvalue 540 543	Low
+T24	test 544 545	K
+T25	labvalue 546 557	4.1 mEq / L
+T26	test 558 560	Cl
+T27	labvalue 561 572	101 mEq / L
+T28	test 573 576	CO2
+T29	labvalue 577 587	28 mEq / L
+T30	test 588 597	Anion Gap
+T31	labvalue 598 601	4.0
+T32	labvalue 602 605	Low
+T33	test 606 609	BUN
+T34	labvalue 610 619	7 mg / dL
+T35	test 620 622	Cr
+T36	labvalue 623 634	0.5 mg / dL
+T37	labvalue 635 638	Low
+T38	test 639 646	Glucose
+T39	labvalue 647 657	99 mg / dL
+T40	test 658 660	Ca
+T41	labvalue 661 672	7.7 mg / dL
+T42	labvalue 673 676	Low
+T43	test 677 679	Ca
+T44	labvalue 693 697	10.1
+T45	test 711 726	Ionized Calcium
+T46	labvalue 727 740	1.13 mMol / L
+T47	labvalue 741 744	Low
+T48	test 745 747	Mg
+T49	labvalue 748 759	1.6 mg / dL
+T50	labvalue 760 763	Low
+T51	test 764 771	Albumin
+T52	labvalue 772 783	1.4 gm / dL
+T53	labvalue 784 787	Low
+T54	test 788 801	Total Protein
+T55	labvalue 802 813	6.3 gm / dL
+T56	labvalue 814 817	Low
+T57	test 818 830	Bili , Total
+T58	labvalue 831 842	3.8 mg / dL
+T59	labvalue 843 847	High
+T60	test 848 852	Bili
+T61	labvalue 862 873	2.0 mg / dL
+T62	labvalue 874 878	High
+T63	test 879 889	ALT / SGPT
+T64	labvalue 890 904	65 IntUnit / L
+T65	test 905 915	AST / SGOT
+T66	labvalue 916 931	167 IntUnit / L
+T67	labvalue 932 936	High
+T68	test 937 945	Alk Phos
+T69	labvalue 946 961	117 IntUnit / L
+T70	test 962 965	WBC
+T71	labvalue 966 980	10.5 X10E+09 /
+T72	test 983 986	RBC
+T73	labvalue 987 1003	2.90 X10E+12 / L
+T74	labvalue 1004 1007	Low
+T75	test 1008 1011	Hgb
+T76	labvalue 1012 1024	10.6 gm / dL
+T77	labvalue 1025 1028	Low
+T78	test 1029 1032	Hct
+T79	labvalue 1033 1039	30.5 %
+T80	labvalue 1040 1043	Low
+T81	test 1044 1047	MCV
+T82	labvalue 1048 1056	105.2 fL
+T83	labvalue 1057 1061	High
+T84	test 1062 1065	MCH
+T85	labvalue 1066 1073	36.5 pg
+T86	labvalue 1074 1078	High
+T87	test 1079 1083	MCHC
+T88	labvalue 1084 1096	34.7 gm / dL
+T89	test 1097 1100	RDW
+T90	labvalue 1101 1107	16.4 %
+T91	labvalue 1108 1112	High
+T92	test 1113 1116	MPV
+T93	labvalue 1117 1123	6.7 fL
+T94	labvalue 1124 1127	Low
+T95	test 1128 1137	Platelets
+T96	labvalue 1138 1153	162 X10E+09 / L
+T97	test 1154 1165	Neutrophils
+T98	labvalue 1166 1170	69 %
+T99	test 1171 1177	Lymphs
+T100	labvalue 1178 1182	20 %
+T101	test 1183 1192	Monocytes
+T102	labvalue 1193 1196	9 %
+T103	test 1197 1208	Eosinophils
+T104	labvalue 1209 1212	1 %
+T105	test 1213 1222	Basophils
+T106	labvalue 1223 1226	0 %
+T107	test 1227 1242	ABS Neutrophils
+T108	labvalue 1243 1258	7.2 X10E+09 / L
+T109	test 1259 1269	ABS Lymphs
+T110	labvalue 1270 1285	2.1 X10E+09 / L
+T111	test 1286 1299	ABS Monocytes
+T112	labvalue 1300 1315	1.0 X10E+09 / L
+T113	test 1316 1323	Abs Eos
+T114	labvalue 1331 1346	0.1 X10E+09 / L
+T115	test 1347 1360	ABS Basophils
+T116	labvalue 1361 1376	0.0 X10E+09 / L
+T117	problem 1399 1417	abdominal swelling
+T118	bodyloc 1399 1408	abdominal
+T119	course 1425 1433	improved
+T120	treatment 1438 1451	paracenthesis
+T121	problem 1454 1482	minimal leak of serous fliud
+T122	treatment 1520 1529	treatment
+T123	treatment 1627 1643	Acute ETOH rehab
+T124	problem 1735 1742	anxious
+T125	treatment 1774 1791	out patient rehab
+T126	test 2008 2018	his sugars
+T127	treatment 2088 2093	rehab
+T128	treatment 2131 2136	rehab
+T129	problem 2164 2171	anxiety
+T130	course 2172 2180	improved
+T131	negation 2181 2183	no
+T132	problem 2184 2186	CP
+T133	problem 2189 2192	SOB
+T134	bodyloc 2250 2257	Abdomen
+T135	problem 2270 2292	generalized distention
+T136	test 2302 2314	bowel sounds
+T137	labvalue 2317 2323	normal
+T138	test 2326 2337	Vital signs
+T139	labvalue 2340 2346	normal
+T140	problem 2434 2459	ACUTE ALCOHOLIC HEPATITIS
+T141	course 2434 2439	ACUTE
+T142	problem 2514 2536	ALCOHOLIC LIVER DAMAGE
+T143	bodyloc 2524 2529	LIVER
+T144	problem 2597 2621	Non - alcoholic liver ds
+T145	bodyloc 2613 2618	liver
+T146	problem 2639 2648	cirrhosis
+T147	treatment 2671 2684	paracenthesis
+T148	temporal 2728 2737	Jul 17 06
+T149	problem 2854 2873	PORTAL HYPERTENSION
+T150	problem 2911 2918	ASCITES
+T151	drug 2959 2973	spironalactone
+T152	problem 2974 3000	Blood coagulation disorder
+T153	problem 3008 3021	liver disease
+T154	bodyloc 3008 3013	liver
+T155	negation 3063 3065	no
+T156	problem 3078 3086	bleeding
+T157	test 3094 3100	PT/INR
+T158	drug 3162 3170	Thiamine
+T159	drug 3173 3183	folic acid
+T160	drug 3190 3197	Librium
+T161	treatment 3202 3210	DT proph
+T162	problem 3211 3227	Leukocytosis NOS
+T163	route 3286 3288	IV
+T164	drug 3289 3292	abx
+T165	test 3297 3304	GI cult
+T166	labvalue 3305 3308	neg
+T167	problem 3316 3339	Dilutional hyponatremia
+T168	treatment 3395 3412	fluid restriction
+T169	treatment 3417 3428	low na diet
+T170	problem 3429 3453	Lone atrial fibrillation
+T171	bodyloc 3434 3440	atrial
+T172	drug 3521 3528	Nadolol
+T173	problem 3529 3558	BENIGN ESSENTIAL HYPERTENSION
+T174	treatment 3599 3602	ace
+T175	problem 3603 3627	Diabetes mellitus type 2
+T176	problem 3631 3636	obese
+T177	treatment 3681 3686	actos
+T178	test 3697 3703	hgba1c
+T179	test 3713 3716	glu
+T180	drug 3742 3749	prandin
+T181	test 3778 3785	glucose
+T182	drug 3805 3815	prednisone
+T183	problem 3825 3833	Liver Ds
+T184	bodyloc 3825 3830	Liver
+T185	temporal 3992 4003	Jul 19 2007
+T186	temporal 4005 4010	11:34
+T187	temporal 4053 4064	Jul 19 2007
+T188	temporal 4066 4071	11:34
+T189	temporal 4116 4127	Jul 19 2007
+T190	temporal 4129 4134	11:34
+R1	hasAttr Arg1:T7 Arg2:T8
+R2	hasAttr Arg1:T9 Arg2:T10
+R3	hasAttr Arg1:T11 Arg2:T12
+R4	hasAttr Arg1:T13 Arg2:T14
+R5	hasAttr Arg1:T15 Arg2:T16
+R6	hasAttr Arg1:T17 Arg2:T18
+R7	hasAttr Arg1:T21 Arg2:T23
+R8	hasAttr Arg1:T21 Arg2:T22
+R9	hasAttr Arg1:T24 Arg2:T25
+R10	hasAttr Arg1:T26 Arg2:T27
+R11	hasAttr Arg1:T28 Arg2:T29
+R12	hasAttr Arg1:T30 Arg2:T31
+R13	hasAttr Arg1:T30 Arg2:T32
+R14	hasAttr Arg1:T33 Arg2:T34
+R15	hasAttr Arg1:T35 Arg2:T37
+R16	hasAttr Arg1:T35 Arg2:T36
+R17	hasAttr Arg1:T38 Arg2:T39
+R18	hasAttr Arg1:T40 Arg2:T42
+R19	hasAttr Arg1:T40 Arg2:T41
+R20	hasAttr Arg1:T43 Arg2:T44
+R21	hasAttr Arg1:T45 Arg2:T47
+R22	hasAttr Arg1:T45 Arg2:T46
+R23	hasAttr Arg1:T48 Arg2:T50
+R24	hasAttr Arg1:T48 Arg2:T49
+R25	hasAttr Arg1:T51 Arg2:T53
+R26	hasAttr Arg1:T51 Arg2:T52
+R27	hasAttr Arg1:T54 Arg2:T55
+R28	hasAttr Arg1:T54 Arg2:T56
+R29	hasAttr Arg1:T57 Arg2:T59
+R30	hasAttr Arg1:T57 Arg2:T58
+R31	hasAttr Arg1:T60 Arg2:T62
+R32	hasAttr Arg1:T60 Arg2:T61
+R33	hasAttr Arg1:T63 Arg2:T64
+R34	hasAttr Arg1:T65 Arg2:T66
+R35	hasAttr Arg1:T65 Arg2:T67
+R36	hasAttr Arg1:T68 Arg2:T69
+R37	hasAttr Arg1:T70 Arg2:T71
+R38	hasAttr Arg1:T72 Arg2:T73
+R39	hasAttr Arg1:T72 Arg2:T74
+R40	hasAttr Arg1:T75 Arg2:T76
+R41	hasAttr Arg1:T75 Arg2:T77
+R42	hasAttr Arg1:T78 Arg2:T80
+R43	hasAttr Arg1:T78 Arg2:T79
+R44	hasAttr Arg1:T81 Arg2:T83
+R45	hasAttr Arg1:T81 Arg2:T82
+R46	hasAttr Arg1:T84 Arg2:T85
+R47	hasAttr Arg1:T84 Arg2:T86
+R48	hasAttr Arg1:T87 Arg2:T88
+R49	hasAttr Arg1:T89 Arg2:T91
+R50	hasAttr Arg1:T89 Arg2:T90
+R51	hasAttr Arg1:T92 Arg2:T93
+R52	hasAttr Arg1:T92 Arg2:T94
+R53	hasAttr Arg1:T95 Arg2:T96
+R54	hasAttr Arg1:T97 Arg2:T98
+R55	hasAttr Arg1:T99 Arg2:T100
+R56	hasAttr Arg1:T101 Arg2:T102
+R57	hasAttr Arg1:T103 Arg2:T104
+R58	hasAttr Arg1:T105 Arg2:T106
+R59	hasAttr Arg1:T107 Arg2:T108
+R60	hasAttr Arg1:T109 Arg2:T110
+R61	hasAttr Arg1:T111 Arg2:T112
+R62	hasAttr Arg1:T113 Arg2:T114
+R63	hasAttr Arg1:T115 Arg2:T116
+R64	hasAttr Arg1:T117 Arg2:T119
+R65	hasAttr Arg1:T117 Arg2:T118
+R66	hasAttr Arg1:T129 Arg2:T130
+R67	hasAttr Arg1:T133 Arg2:T131
+R68	hasAttr Arg1:T132 Arg2:T131
+R69	hasAttr Arg1:T135 Arg2:T134
+R70	hasAttr Arg1:T136 Arg2:T137
+R71	hasAttr Arg1:T138 Arg2:T139
+R72	hasAttr Arg1:T140 Arg2:T141
+R73	hasAttr Arg1:T142 Arg2:T143
+R74	hasAttr Arg1:T144 Arg2:T145
+R75	hasAttr Arg1:T147 Arg2:T148
+R76	hasAttr Arg1:T153 Arg2:T154
+R77	hasAttr Arg1:T156 Arg2:T155
+R78	hasAttr Arg1:T164 Arg2:T163
+R79	hasAttr Arg1:T165 Arg2:T166
+R80	hasAttr Arg1:T170 Arg2:T171
+R81	hasAttr Arg1:T183 Arg2:T184

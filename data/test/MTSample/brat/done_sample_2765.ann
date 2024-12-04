@@ -1,0 +1,72 @@
+T1	problem 64 78	Pyelonephritis
+T2	problem 112 126	Pyelonephritis
+T3	problem 147 162	mucous plugging
+T4	treatment 166 182	indwelling Foley
+T5	treatment 186 203	the ileal conduit
+T6	problem 205 217	hypertension
+T7	problem 219 243	mild renal insufficiency
+T8	problem 249 255	anemia
+T9	course 280 291	chronically
+T10	temporal 297 310	the past year
+T11	problem 374 388	Pyelonephritis
+T12	problem 404 418	uterine cancer
+T13	treatment 423 454	ileal conduit urinary diversion
+T14	problem 459 471	Hypertension
+T15	problem 476 495	Renal insufficiency
+T16	bodyloc 476 481	Renal
+T17	problem 500 506	Anemia
+T18	problem 532 546	Pyelonephritis
+T19	problem 567 582	mucous plugging
+T20	treatment 586 602	indwelling Foley
+T21	treatment 606 623	the ileal conduit
+T22	problem 628 640	Hypertension
+T23	problem 645 669	Mild renal insufficiency
+T24	problem 674 680	Anemia
+T25	course 705 716	chronically
+T26	temporal 722 735	the past year
+T27	uncertain 784 793	suspected
+T28	problem 794 808	pyelonephritis
+T29	problem 861 880	a thick mucous plug
+T30	treatment 884 893	the Foley
+T31	treatment 897 914	the ileal conduit
+T32	problem 944 956	Her symptoms
+T33	route 970 972	IV
+T34	drug 973 984	antibiotics
+T35	problem 1021 1031	Klebsiella
+T36	drug 1083 1090	Bactrim
+T37	route 1117 1121	p.o.
+T38	drug 1122 1129	Bactrim
+T39	temporal 1152 1162	08/07/2007
+T40	treatment 1167 1182	further surgery
+T41	problem 1252 1267	right knee pain
+T42	bodyloc 1252 1262	right knee
+T43	bodyloc 1272 1286	the right knee
+T44	negation 1294 1304	no sign of
+T45	problem 1305 1313	effusion
+T46	problem 1323 1350	exquisitely tender to touch
+T47	bodyloc 1354 1373	the patellar tendon
+T48	drug 1465 1474	ibuprofen
+T49	dosage 1492 1504	two to three
+T50	form 1505 1509	tabs
+T51	frequency 1510 1516	t.i.d.
+T52	problem 1546 1560	uterine cancer
+T53	problem 1562 1581	renal insufficiency
+T54	problem 1583 1597	pyelonephritis
+T55	problem 1599 1614	mucous plugging
+T56	treatment 1616 1629	ileal conduit
+R1	hasAttr Arg1:T8 Arg2:T9
+R2	hasAttr Arg1:T8 Arg2:T10
+R3	hasAttr Arg1:T15 Arg2:T16
+R4	hasAttr Arg1:T24 Arg2:T26
+R5	hasAttr Arg1:T24 Arg2:T25
+R6	hasAttr Arg1:T28 Arg2:T27
+R7	hasAttr Arg1:T34 Arg2:T33
+R8	hasAttr Arg1:T38 Arg2:T37
+R9	hasAttr Arg1:T40 Arg2:T39
+R10	hasAttr Arg1:T41 Arg2:T42
+R11	hasAttr Arg1:T45 Arg2:T43
+R12	hasAttr Arg1:T45 Arg2:T44
+R13	hasAttr Arg1:T46 Arg2:T47
+R14	hasAttr Arg1:T48 Arg2:T50
+R15	hasAttr Arg1:T48 Arg2:T49
+R16	hasAttr Arg1:T48 Arg2:T51

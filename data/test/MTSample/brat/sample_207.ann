@@ -1,0 +1,62 @@
+T1	problem 162 188	some very mild prematurity
+T2	severity 167 176	very mild
+T3	problem 210 218	wheezing
+T4	problem 220 225	cough
+T5	problem 230 249	shortness of breath
+T6	temporal 255 278	the last several months
+T7	temporal 449 454	today
+T8	problem 552 578	some very mild prematurity
+T9	severity 557 566	very mild
+T10	problem 600 608	problems
+T11	problem 614 622	wheezing
+T12	problem 624 629	cough
+T13	problem 634 653	shortness of breath
+T14	temporal 659 682	the last several months
+T15	route 742 749	inhaled
+T16	drug 750 758	steroids
+T17	drug 763 777	bronchodilator
+T18	problem 814 833	persistent problems
+T19	problem 839 846	a cough
+T20	drug 907 919	prednisolone
+T21	subject 1062 1068	father
+T22	subject 1073 1078	uncle
+T23	problem 1100 1106	asthma
+T24	subject 1122 1135	older sister.
+T25	test 1293 1297	exam
+T26	temporal 1298 1303	today
+T27	problem 1313 1335	some scattered rhonchi
+T28	problem 1355 1363	coughing
+T29	treatment 1465 1482	asthma management
+T30	problem 1622 1652	fairly severe childhood asthma
+T31	severity 1629 1635	severe
+T32	drug 1738 1764	his alternate day steroids
+T33	problem 1788 1795	symptom
+T34	negation 1796 1800	free
+T35	negation 1813 1816	off
+T36	drug 1817 1825	steroids
+T37	drug 2168 2182	bronchodilator
+T38	problem 2195 2211	childhood asthma
+T39	problem 2213 2218	cough
+T40	problem 2264 2275	prematurity
+T41	problem 2277 2296	shortness of breath
+T42	problem 2306 2314	wheezing
+T43	problem 2316 2330	wheezing cough
+T44	problem 2332 2338	asthma
+R1	hasAttr Arg1:T16 Arg2:T15
+R2	hasAttr Arg1:T30 Arg2:T31
+R3	hasAttr Arg1:T23 Arg2:T21
+R4	hasAttr Arg1:T23 Arg2:T22
+R5	hasTemporal Arg1:T4 Arg2:T6
+R6	hasTemporal Arg1:T5 Arg2:T6
+R7	hasTemporal Arg1:T12 Arg2:T14
+R8	hasTemporal Arg1:T13 Arg2:T14
+R9	hasTemporal Arg1:T25 Arg2:T26
+R10	hasAttr Arg1:T1 Arg2:T2
+R11	hasAttr Arg1:T3 Arg2:T6
+R12	hasAttr Arg1:T8 Arg2:T9
+R13	hasAttr Arg1:T11 Arg2:T14
+R14	hasAttr Arg1:T10 Arg2:T14
+R15	hasAttr Arg1:T17 Arg2:T15
+R16	hasAttr Arg1:T23 Arg2:T24
+R17	hasAttr Arg1:T33 Arg2:T34
+R18	hasAttr Arg1:T36 Arg2:T35

@@ -1,0 +1,307 @@
+T1	temporal 120 131	Mar 30 2006
+T2	problem 205 233	Community-acquired pneumonia
+T3	problem 261 273	Hypertension
+T4	problem 279 291	Osteoporosis
+T5	problem 308 333	transient ischemic attack
+T6	problem 336 360	cerebrovascular accident
+T7	problem 366 389	Coronary artery disease
+T8	bodyloc 366 381	Coronary artery
+T9	treatment 402 410	stenting
+T10	problem 416 443	Degenerative osteoarthritis
+T11	problem 449 469	Rheumatoid arthritis
+T12	problem 475 483	Cataract
+T13	test 532 543	Chest x-ray
+T14	temporal 559 570	Mar 25 2007
+T15	problem 586 623	moderate-sized left pleural effusions
+T16	negation 636 638	no
+T17	problem 639 668	acute cardiopulmonary changes
+T18	course 639 644	acute
+T19	test 674 685	Chest x-ray
+T20	temporal 701 712	Mar 28 2007
+T21	temporal 754 762	previous
+T22	test 763 767	exam
+T23	test 773 810	CT scan of the chest without contrast
+T24	temporal 826 837	Mar 26 2007
+T25	problem 853 878	left lower lobe pneumonia
+T26	bodyloc 853 868	left lower lobe
+T27	problem 884 917	trace left parapneumonic effusion
+T28	severity 884 889	trace
+T29	problem 920 941	moderate cardiomegaly
+T30	severity 920 928	moderate
+T31	problem 948 967	large hiatal hernia
+T32	test 973 976	EKG
+T33	temporal 992 1003	Mar 24 2007
+T34	problem 1019 1036	sinus bradycardia
+T35	problem 1042 1058	sinus arrhythmia
+T36	uncertain 1061 1069	Possible
+T37	problem 1070 1091	left atrial deformity
+T38	bodyloc 1070 1081	left atrial
+T39	negation 1096 1098	no
+T40	problem 1099 1112	other changes
+T41	temporal 1160 1172	Aug] of 2006
+T42	test 1178 1192	Blood cultures
+T43	temporal 1209 1220	Mar 24 2007
+T44	labvalue 1236 1245	no growth
+T45	test 1262 1269	culture
+T46	test 1275 1290	Sputum cultures
+T47	temporal 1306 1317	Mar 29 2007
+T48	problem 1333 1358	light Gram-positive cocci
+T49	problem 1397 1412	very rare yeast
+T50	test 1418 1432	Throat culture
+T51	negation 1445 1447	no
+T52	problem 1448 1472	B-hemolytic streptococci
+T53	test 1508 1521	thoracentesis
+T54	test 1541 1550	this exam
+T55	test 1568 1586	WBC s in the fluid
+T56	labvalue 1591 1594	300
+T57	test 1597 1615	RBC s in the fluid
+T58	labvalue 1621 1641	within normal limits
+T59	test 1644 1668	neutrophils in the fluid
+T60	labvalue 1674 1676	5%
+T61	test 1683 1707	lymphocytes in the fluid
+T62	labvalue 1713 1716	81%
+T63	test 1719 1732	Fluid glucose
+T64	labvalue 1737 1739	98
+T65	test 1742 1758	Specific gravity
+T66	labvalue 1763 1768	1.023
+T67	test 1771 1778	Albumin
+T68	labvalue 1783 1786	1.5
+T69	test 1789 1815	Total protein in the fluid
+T70	labvalue 1820 1823	3.1
+T71	test 1830 1837	amylase
+T72	labvalue 1852 1854	30
+T73	test 1861 1864	LDH
+T74	test 1875 1886	The culture
+T75	problem 1890 1907	the pleural fluid
+T76	labvalue 1915 1924	no growth
+T77	test 1941 1948	culture
+T78	test 1951 1959	A sample
+T79	problem 2010 2029	any malignant cells
+T80	test 2032 2044	The cytology
+T81	problem 2114 2129	malignant cells
+T82	problem 2132 2157	mild chronic inflammation
+T83	severity 2132 2136	mild
+T84	course 2137 2144	chronic
+T85	temporal 2275 2286	Mar 24 2007
+T86	temporal 2310 2322	1 to 2 weeks
+T87	problem 2326 2342	chest discomfort
+T88	bodyloc 2326 2331	chest
+T89	problem 2356 2404	a pressure / bulging sensation on the left chest
+T90	bodyloc 2394 2404	left chest
+T91	temporal 2410 2419	that time
+T92	negation 2426 2432	denied
+T93	problem 2433 2456	any significant dyspnea
+T94	problem 2460 2470	chest pain
+T95	bodyloc 2460 2465	chest
+T96	problem 2474 2482	coughing
+T97	problem 2486 2492	sputum
+T98	negation 2504 2510	denies
+T99	problem 2511 2524	any tiredness
+T100	problem 2528 2533	fever
+T101	problem 2537 2544	malaise
+T102	drug 2626 2638	moxifloxacin
+T103	uncertain 2657 2665	possible
+T104	problem 2666 2675	pneumonia
+T105	test 2684 2699	the chest x-ray
+T106	problem 2704 2732	the very unspecific symptoms
+T107	test 2752 2765	a chest x-ray
+T108	problem 2805 2832	unilateral pleural effusion
+T109	bodyloc 2816 2823	pleural
+T110	test 2867 2880	thoracentesis
+T111	problem 2893 2903	an exudate
+T112	negation 2904 2911	without
+T113	problem 2912 2931	signs of malignancy
+T114	test 2935 2962	the cytological examination
+T115	labvalue 3001 3005	high
+T116	test 3017 3028	lymphocytes
+T117	labvalue 3035 3038	81%
+T118	labvalue 3045 3048	low
+T119	test 3049 3065	neutrophil count
+T120	labvalue 3071 3073	5%
+T121	test 3077 3092	the total WBC s
+T122	problem 3126 3150	a parapneumonic effusion
+T123	test 3169 3188	another chest x-ray
+T124	problem 3204 3216	the effusion
+T125	course 3221 3236	not progressing
+T126	problem 3240 3251	infiltrates
+T127	treatment 3301 3321	adequate oxygenation
+T128	treatment 3359 3370	the therapy
+T129	drug 3376 3388	moxifloxacin
+T130	route 3389 3391	IV
+T131	negation 3410 3413	not
+T132	problem 3419 3449	any worsening of her condition
+T133	course 3423 3432	worsening
+T134	problem 3581 3604	any significant dyspnea
+T135	test 3696 3707	a WBC count
+T136	labvalue 3708 3728	within normal limits
+T137	test 3829 3848	evaluation of PT/OT
+T138	treatment 3903 3919	physical therapy
+T139	treatment 4053 4075	this intensive therapy
+T140	drug 4135 4143	Percocet
+T141	strength 4144 4152	5/325 mg
+T142	route 4153 4157	p.o.
+T143	frequency 4158 4163	q.6h.
+T144	frequency 4164 4170	p.r.n.
+T145	problem 4175 4186	severe pain
+T146	drug 4192 4202	Amlodipine
+T147	strength 4203 4207	5 mg
+T148	route 4208 4212	p.o.
+T149	frequency 4213 4218	daily
+T150	drug 4224 4234	Benazepril
+T151	strength 4235 4240	20 mg
+T152	route 4241 4245	p.o.
+T153	frequency 4246 4251	daily
+T154	drug 4257 4278	Os-Cal with vitamin D
+T155	strength 4279 4285	500 mg
+T156	route 4286 4290	p.o.
+T157	frequency 4291 4297	t.i.d.
+T158	drug 4301 4312	Clopidogrel
+T159	strength 4313 4318	75 mg
+T160	route 4319 4323	p.o.
+T161	frequency 4324 4329	daily
+T162	drug 4335 4351	Darbepoetin alfa
+T163	strength 4352 4359	100 mcg
+T164	route 4360 4365	subcu
+T165	frequency 4366 4372	weekly
+T166	drug 4378 4384	Colace
+T167	strength 4385 4391	100 mg
+T168	route 4392 4396	p.o.
+T169	frequency 4397 4403	b.i.d.
+T170	drug 4407 4414	Heparin
+T171	strength 4415 4425	5000 units
+T172	route 4426 4431	subcu
+T173	frequency 4432 4437	q.8h.
+T174	drug 4441 4457	Milk of magnesia
+T175	route 4458 4466	by mouth
+T176	frequency 4467 4472	daily
+T177	form 4473 4483	suspension
+T178	frequency 4484 4490	p.r.n.
+T179	problem 4495 4507	constipation
+T180	drug 4514 4526	Moxifloxacin
+T181	strength 4527 4533	400 mg
+T182	route 4534 4542	by mouth
+T183	frequency 4543 4548	daily
+T184	duration 4549 4564	for 5 more days
+T185	drug 4571 4579	Protonix
+T186	strength 4580 4585	40 mg
+T187	route 4586 4590	p.o.
+T188	frequency 4591 4596	daily
+T189	drug 4603 4610	Actonel
+T190	strength 4611 4616	35 mg
+T191	route 4617 4621	p.o.
+T192	frequency 4622 4628	weekly
+T193	treatment 4731 4736	PT/OT
+T194	test 4909 4928	another chest x-ray
+T195	problem 4999 5019	the pleural effusion
+T196	bodyloc 5003 5010	pleural
+T197	problem 5024 5055	the worsening of the infiltrate
+T198	course 5028 5037	worsening
+T199	temporal 5156 5167	Mar 30 2007
+T200	temporal 5169 5174	11:21
+T201	temporal 5185 5196	Mar 30 2007
+T202	temporal 5198 5203	11:43
+R1	hasAttr Arg1:T7 Arg2:T8
+R2	hasAttr Arg1:T13 Arg2:T14
+R3	hasAttr Arg1:T17 Arg2:T16
+R4	hasAttr Arg1:T17 Arg2:T18
+R5	hasAttr Arg1:T19 Arg2:T20
+R6	hasAttr Arg1:T22 Arg2:T21
+R7	hasAttr Arg1:T23 Arg2:T24
+R8	hasAttr Arg1:T27 Arg2:T24
+R9	hasAttr Arg1:T29 Arg2:T24
+R10	hasAttr Arg1:T25 Arg2:T24
+R11	hasAttr Arg1:T31 Arg2:T24
+R12	hasAttr Arg1:T25 Arg2:T26
+R13	hasAttr Arg1:T27 Arg2:T28
+R14	hasAttr Arg1:T29 Arg2:T30
+R15	hasAttr Arg1:T32 Arg2:T33
+R16	hasAttr Arg1:T35 Arg2:T33
+R17	hasAttr Arg1:T34 Arg2:T33
+R18	hasAttr Arg1:T37 Arg2:T36
+R19	hasAttr Arg1:T37 Arg2:T38
+R20	hasAttr Arg1:T40 Arg2:T39
+R21	hasAttr Arg1:T42 Arg2:T43
+R22	hasAttr Arg1:T42 Arg2:T44
+R23	hasAttr Arg1:T46 Arg2:T47
+R24	hasAttr Arg1:T52 Arg2:T51
+R25	hasAttr Arg1:T55 Arg2:T56
+R26	hasAttr Arg1:T57 Arg2:T58
+R27	hasAttr Arg1:T59 Arg2:T60
+R28	hasAttr Arg1:T61 Arg2:T62
+R29	hasAttr Arg1:T63 Arg2:T64
+R30	hasAttr Arg1:T65 Arg2:T66
+R31	hasAttr Arg1:T67 Arg2:T68
+R32	hasAttr Arg1:T69 Arg2:T70
+R33	hasAttr Arg1:T71 Arg2:T72
+R34	hasAttr Arg1:T74 Arg2:T76
+R35	hasAttr Arg1:T82 Arg2:T83
+R36	hasAttr Arg1:T82 Arg2:T84
+R37	hasAttr Arg1:T89 Arg2:T86
+R38	hasAttr Arg1:T87 Arg2:T86
+R39	hasAttr Arg1:T87 Arg2:T88
+R40	hasAttr Arg1:T89 Arg2:T90
+R41	hasAttr Arg1:T94 Arg2:T91
+R42	hasAttr Arg1:T93 Arg2:T91
+R43	hasAttr Arg1:T96 Arg2:T91
+R44	hasAttr Arg1:T97 Arg2:T91
+R45	hasAttr Arg1:T94 Arg2:T92
+R46	hasAttr Arg1:T93 Arg2:T92
+R47	hasAttr Arg1:T96 Arg2:T92
+R48	hasAttr Arg1:T97 Arg2:T92
+R49	hasAttr Arg1:T94 Arg2:T95
+R50	hasAttr Arg1:T101 Arg2:T98
+R51	hasAttr Arg1:T99 Arg2:T98
+R52	hasAttr Arg1:T100 Arg2:T98
+R53	hasAttr Arg1:T108 Arg2:T109
+R54	hasAttr Arg1:T113 Arg2:T112
+R55	hasAttr Arg1:T116 Arg2:T115
+R56	hasAttr Arg1:T116 Arg2:T117
+R57	hasAttr Arg1:T119 Arg2:T118
+R58	hasAttr Arg1:T121 Arg2:T120
+R59	hasAttr Arg1:T129 Arg2:T130
+R60	hasAttr Arg1:T132 Arg2:T131
+R61	hasAttr Arg1:T132 Arg2:T133
+R62	hasAttr Arg1:T135 Arg2:T136
+R63	hasAttr Arg1:T140 Arg2:T143
+R64	hasAttr Arg1:T140 Arg2:T142
+R65	hasAttr Arg1:T140 Arg2:T144
+R66	hasAttr Arg1:T140 Arg2:T141
+R67	hasAttr Arg1:T146 Arg2:T149
+R68	hasAttr Arg1:T146 Arg2:T148
+R69	hasAttr Arg1:T146 Arg2:T147
+R70	hasAttr Arg1:T150 Arg2:T152
+R71	hasAttr Arg1:T150 Arg2:T153
+R72	hasAttr Arg1:T150 Arg2:T151
+R73	hasAttr Arg1:T154 Arg2:T157
+R74	hasAttr Arg1:T154 Arg2:T155
+R75	hasAttr Arg1:T154 Arg2:T156
+R76	hasAttr Arg1:T158 Arg2:T159
+R77	hasAttr Arg1:T158 Arg2:T160
+R78	hasAttr Arg1:T158 Arg2:T161
+R79	hasAttr Arg1:T162 Arg2:T164
+R80	hasAttr Arg1:T162 Arg2:T165
+R81	hasAttr Arg1:T162 Arg2:T163
+R82	hasAttr Arg1:T166 Arg2:T169
+R83	hasAttr Arg1:T166 Arg2:T168
+R84	hasAttr Arg1:T166 Arg2:T167
+R85	hasAttr Arg1:T170 Arg2:T171
+R86	hasAttr Arg1:T170 Arg2:T172
+R87	hasAttr Arg1:T170 Arg2:T173
+R88	hasAttr Arg1:T174 Arg2:T178
+R89	hasAttr Arg1:T174 Arg2:T175
+R90	hasAttr Arg1:T174 Arg2:T177
+R91	hasAttr Arg1:T174 Arg2:T176
+R92	hasAttr Arg1:T180 Arg2:T181
+R93	hasAttr Arg1:T180 Arg2:T182
+R94	hasAttr Arg1:T180 Arg2:T183
+R95	hasAttr Arg1:T185 Arg2:T186
+R96	hasAttr Arg1:T185 Arg2:T187
+R97	hasAttr Arg1:T185 Arg2:T188
+R98	hasAttr Arg1:T189 Arg2:T191
+R99	hasAttr Arg1:T189 Arg2:T190
+R100	hasAttr Arg1:T189 Arg2:T192
+R101	hasAttr Arg1:T195 Arg2:T196
+R102	hasAttr Arg1:T180 Arg2:T184
+R103	hasAttr Arg1:T197 Arg2:T198
+R104	hasAttr Arg1:T104 Arg2:T103
+R105	hasAttr Arg1:T124 Arg2:T125

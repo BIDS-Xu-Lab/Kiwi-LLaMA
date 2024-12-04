@@ -1,0 +1,117 @@
+T1	uncertain 106 114	Possible
+T2	problem 115 143	free air under the diaphragm
+T3	bodyloc 134 143	diaphragm
+T4	test 148 161	a chest x-ray
+T5	problem 186 205	shortness of breath
+T6	uncertain 237 250	thought to be
+T7	problem 251 285	free air under the right diaphragm
+T8	bodyloc 270 285	right diaphragm
+T9	negation 287 289	No
+T10	problem 290 315	intra-abdominal pathology
+T11	bodyloc 290 305	intra-abdominal
+T12	uncertain 380 388	Possible
+T13	problem 389 417	free air under the diaphragm
+T14	bodyloc 408 417	diaphragm
+T15	problem 490 520	unable to give any information
+T16	drug 548 554	Ativan
+T17	problem 588 596	obtunded
+T18	problem 601 627	unable to give any history
+T19	test 632 645	a chest x-ray
+T20	problem 670 689	shortness of breath
+T21	uncertain 721 734	thought to be
+T22	problem 735 769	free air under the right diaphragm
+T23	bodyloc 754 769	right diaphragm
+T24	problem 809 822	alcohol abuse
+T25	problem 885 896	so obtunded
+T26	treatment 959 974	an appendectomy
+T27	problem 976 994	right hip fracture
+T28	bodyloc 976 985	right hip
+T29	problem 1132 1145	alcohol abuse
+T30	test 1274 1285	VITAL SIGNS
+T31	test 1287 1291	Temp
+T32	labvalue 1292 1296	98.3
+T33	test 1298 1308	heart rate
+T34	labvalue 1309 1311	82
+T35	test 1313 1329	respiratory rate
+T36	labvalue 1330 1332	24
+T37	test 1338 1352	blood pressure
+T38	labvalue 1353 1359	141/70
+T39	bodyloc 1510 1515	LUNGS
+T40	problem 1517 1539	Bilaterally diminished
+T41	test 1581 1595	deep palpation
+T42	negation 1631 1647	unable to elicit
+T43	problem 1648 1662	any tenderness
+T44	labvalue 1691 1697	normal
+T45	test 1698 1720	white blood cell count
+T46	problem 1736 1748	Elevated AST
+T47	labvalue 1764 1770	normal
+T48	test 1771 1774	ALT
+T49	labvalue 1778 1780	38
+T50	test 1782 1802	Alkaline phosphatase
+T51	labvalue 1806 1808	96
+T52	test 1810 1819	bilirubin
+T53	labvalue 1820 1823	0.8
+T54	test 1825 1831	Sodium
+T55	labvalue 1835 1838	107
+T56	labvalue 1845 1847	68
+T57	test 1848 1856	chloride
+T58	test 1861 1870	potassium
+T59	labvalue 1874 1877	2.8
+T60	test 1879 1897	X-ray of the chest
+T61	problem 1923 1931	free air
+T62	test 1944 1953	a CT scan
+T63	test 1978 2012	the patient's physical examination
+T64	negation 2026 2037	no evidence
+T65	problem 2041 2066	intra-abdominal pathology
+T66	bodyloc 2041 2056	intra-abdominal
+T67	problem 2084 2111	the air under the diaphragm
+T68	bodyloc 2102 2111	diaphragm
+T69	problem 2124 2137	a colonic air
+T70	bodyloc 2126 2133	colonic
+T71	bodyloc 2146 2163	anterior superior
+T72	negation 2234 2236	No
+T73	problem 2237 2262	intra-abdominal pathology
+T74	bodyloc 2237 2252	intra-abdominal
+T75	treatment 2315 2344	treatment of her hyponatremia
+T76	problem 2374 2382	free air
+T77	problem 2384 2396	hyponatremia
+T78	problem 2398 2421	air under the diaphragm
+T79	bodyloc 2412 2421	diaphragm
+T80	problem 2423 2448	intra abdominal pathology
+T81	bodyloc 2423 2438	intra abdominal
+T82	problem 2461 2470	pathology
+T83	problem 2472 2480	obtunded
+R1	hasAttr Arg1:T2 Arg2:T1
+R2	hasAttr Arg1:T2 Arg2:T3
+R3	hasAttr Arg1:T7 Arg2:T6
+R4	hasAttr Arg1:T7 Arg2:T8
+R5	hasAttr Arg1:T10 Arg2:T9
+R6	hasAttr Arg1:T10 Arg2:T11
+R7	hasAttr Arg1:T13 Arg2:T12
+R8	hasAttr Arg1:T13 Arg2:T14
+R9	hasAttr Arg1:T22 Arg2:T21
+R10	hasAttr Arg1:T22 Arg2:T23
+R11	hasAttr Arg1:T27 Arg2:T28
+R12	hasAttr Arg1:T31 Arg2:T32
+R13	hasAttr Arg1:T33 Arg2:T34
+R14	hasAttr Arg1:T35 Arg2:T36
+R15	hasAttr Arg1:T37 Arg2:T38
+R16	hasAttr Arg1:T40 Arg2:T39
+R17	hasAttr Arg1:T43 Arg2:T42
+R18	hasAttr Arg1:T45 Arg2:T44
+R19	hasAttr Arg1:T48 Arg2:T47
+R20	hasAttr Arg1:T48 Arg2:T49
+R21	hasAttr Arg1:T50 Arg2:T51
+R22	hasAttr Arg1:T52 Arg2:T53
+R23	hasAttr Arg1:T54 Arg2:T55
+R24	hasAttr Arg1:T57 Arg2:T56
+R25	hasAttr Arg1:T58 Arg2:T59
+R26	hasAttr Arg1:T65 Arg2:T64
+R27	hasAttr Arg1:T65 Arg2:T66
+R28	hasAttr Arg1:T67 Arg2:T68
+R29	hasAttr Arg1:T69 Arg2:T70
+R30	hasAttr Arg1:T69 Arg2:T71
+R31	hasAttr Arg1:T73 Arg2:T72
+R32	hasAttr Arg1:T73 Arg2:T74
+R33	hasAttr Arg1:T78 Arg2:T79
+R34	hasAttr Arg1:T80 Arg2:T81

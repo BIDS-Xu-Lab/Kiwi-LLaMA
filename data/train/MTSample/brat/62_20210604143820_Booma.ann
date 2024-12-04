@@ -1,0 +1,288 @@
+T1	problem 63 69	Nausea
+T2	problem 94 100	Nausea
+T3	problem 105 118	feeling faint
+T4	problem 137 148	some nausea
+T5	problem 154 164	feels weak
+T6	problem 287 293	Nausea
+T7	problem 298 311	feeling faint
+T8	problem 517 528	some nausea
+T9	negation 607 613	denies
+T10	problem 614 619	fever
+T11	problem 621 627	chills
+T12	problem 629 635	sweats
+T13	problem 637 645	ear pain
+T14	bodyloc 637 640	ear
+T15	problem 647 659	URI symptoms
+T16	problem 661 666	cough
+T17	problem 668 675	dyspnea
+T18	problem 677 687	chest pain
+T19	bodyloc 677 682	chest
+T20	problem 689 697	vomiting
+T21	problem 699 707	diarrhea
+T22	problem 709 723	abdominal pain
+T23	bodyloc 709 718	abdominal
+T24	problem 725 731	melena
+T25	problem 733 745	hematochezia
+T26	problem 747 763	urinary symptoms
+T27	problem 765 773	headache
+T28	problem 775 784	neck pain
+T29	bodyloc 775 779	neck
+T30	problem 786 795	back pain
+T31	bodyloc 786 790	back
+T32	problem 797 805	weakness
+T33	problem 809 836	paresthesias in extremities
+T34	bodyloc 825 836	extremities
+T35	drug 859 865	Diovan
+T36	drug 867 876	estradiol
+T37	drug 878 885	Norvasc
+T38	drug 887 908	Wellbutrin SR inhaler
+T39	treatment 914 921	home O2
+T40	problem 923 932	ALLERGIES
+T41	drug 934 942	MORPHINE
+T42	problem 950 958	VOMITING
+T43	problem 982 986	COPD
+T44	problem 991 1003	hypertension
+T45	treatment 1152 1164	hysterectomy
+T46	test 1273 1284	VITAL SIGNS
+T47	test 1286 1297	Temperature
+T48	labvalue 1298 1302	98.2
+T49	test 1304 1309	pulse
+T50	labvalue 1313 1316	105
+T51	test 1318 1330	respirations
+T52	labvalue 1331 1333	20
+T53	test 1339 1341	BP
+T54	labvalue 1342 1348	137/80
+T55	test 1484 1488	EOMI
+T56	test 1490 1495	PERRL
+T57	bodyloc 1535 1539	NECK
+T58	negation 1549 1551	No
+T59	problem 1552 1555	JVD
+T60	problem 1571 1594	faint expiratory wheeze
+T61	bodyloc 1608 1629	posterior lung fields
+T62	problem 1638 1658	Slightly tachycardic
+T63	severity 1638 1646	Slightly
+T64	negation 1659 1666	without
+T65	problem 1667 1673	murmur
+T66	negation 1728 1730	No
+T67	problem 1731 1738	rebound
+T68	problem 1742 1750	guarding
+T69	negation 1773 1775	No
+T70	problem 1776 1790	CVA tenderness
+T71	bodyloc 1776 1779	CVA
+T72	negation 1833 1835	No
+T73	problem 1836 1851	pretibial edema
+T74	test 1961 1964	WBC
+T75	labvalue 1965 1969	9200
+T76	test 1971 1983	differential
+T77	labvalue 1989 1991	82
+T78	test 1992 2003	neutrophils
+T79	labvalue 2005 2006	8
+T80	test 2007 2018	lymphocytes
+T81	labvalue 2020 2021	6
+T82	test 2022 2031	monocytes
+T83	labvalue 2037 2038	4
+T84	test 2039 2050	eosinophils
+T85	test 2052 2062	Hemoglobin
+T86	labvalue 2063 2067	10.7
+T87	test 2072 2082	hematocrit
+T88	labvalue 2083 2087	31.2
+T89	test 2108 2137	Comprehensive medical profile
+T90	labvalue 2138 2144	normal
+T91	problem 2156 2172	decreased sodium
+T92	course 2156 2165	decreased
+T93	problem 2181 2199	decreased chloride
+T94	course 2181 2190	decreased
+T95	problem 2207 2224	calcium decreased
+T96	course 2215 2224	decreased
+T97	problem 2230 2253	total protein decreased
+T98	course 2244 2253	decreased
+T99	problem 2263 2280	albumin decreased
+T100	course 2271 2280	decreased
+T101	test 2286 2293	Amylase
+T102	test 2298 2304	lipase
+T103	labvalue 2310 2316	normal
+T104	test 2318 2340	Clean catch urinalysis
+T105	labvalue 2344 2356	unremarkable
+T106	temporal 2385 2393	05/09/06
+T107	test 2394 2404	hemoglobin
+T108	labvalue 2409 2413	12.1
+T109	temporal 2418 2426	05/10/07
+T110	test 2427 2437	hemoglobin
+T111	labvalue 2442 2445	9.9
+T112	temporal 2451 2456	today
+T113	test 2457 2467	hemoglobin
+T114	labvalue 2471 2475	10.7
+T115	problem 2542 2548	anemia
+T116	test 2569 2580	Chest x-ray
+T117	labvalue 2591 2606	chronic changes
+T118	test 2664 2670	O2 sat
+T119	labvalue 2686 2689	92%
+T120	problem 2735 2739	COPD
+T121	problem 2759 2776	sinus tachycardia
+T122	test 2780 2784	rate
+T123	labvalue 2785 2788	103
+T124	negation 2790 2792	No
+T125	problem 2793 2799	ectopy
+T126	problem 2841 2871	orthostatic vital sign changes
+T127	negation 2876 2880	none
+T128	drug 2931 2940	albuterol
+T129	dosage 2941 2963	unit dose small volume
+T130	treatment 2964 2984	nebulizer treatment.
+T131	test 2985 3001	Repeat lung exam
+T132	labvalue 3010 3020	resolution
+T133	problem 3024 3043	expiratory wheezing
+T134	drug 3067 3080	normal saline
+T135	treatment 3122 3131	IV fluids
+T136	drug 3135 3148	normal saline
+T137	dosage 3149 3161	1L wide open
+T138	duration 3181 3189	one hour
+T139	test 3256 3274	Rectal examination
+T140	negation 3343 3345	No
+T141	problem 3346 3352	masses
+T142	problem 3354 3375	The rectal secretions
+T143	temporal 3459 3462	now
+T144	labvalue 3469 3475	normal
+T145	test 3476 3488	sinus rhythm
+T146	test 3490 3494	rate
+T147	labvalue 3495 3497	81
+T148	negation 3499 3501	no
+T149	problem 3502 3508	ectopy
+T150	test 3510 3524	Blood pressure
+T151	labvalue 3528 3534	136/66
+T152	test 3653 3674	Laboratory evaluation
+T153	temporal 3675 3680	today
+T154	problem 3715 3721	anemia
+T155	problem 3726 3738	hyponatremia
+T156	problem 3762 3797	the patient's feelings of tiredness
+T157	negation 3829 3843	no evidence of
+T158	problem 3844 3859	rectal bleeding
+T159	bodyloc 3844 3850	rectal
+T160	temporal 3860 3872	at this time
+T161	problem 4053 4068	Acute tiredness
+T162	course 4053 4058	Acute
+T163	problem 4073 4099	Anemia of unknown etiology
+T164	problem 4104 4122	Acute hyponatremia
+T165	course 4104 4109	Acute
+T166	problem 4244 4250	anemia
+T167	condition 4357 4359	if
+T168	problem 4360 4387	condition changes or worsen
+T169	course 4370 4387	changes or worsen
+T170	problem 4456 4461	fever
+T171	problem 4463 4469	chills
+T172	problem 4471 4477	sweats
+T173	problem 4479 4487	ear pain
+T174	bodyloc 4479 4482	ear
+T175	problem 4489 4501	uri symptoms
+T176	problem 4503 4508	cough
+T177	problem 4510 4517	dyspnea
+T178	problem 4519 4529	chest pain
+T179	bodyloc 4519 4524	chest
+T180	problem 4531 4539	vomiting
+T181	problem 4541 4549	diarrhea
+T182	problem 4551 4565	abdominal pain
+T183	bodyloc 4551 4560	abdominal
+T184	problem 4567 4573	melena
+T185	problem 4575 4587	hematochezia
+T186	problem 4589 4605	urinary symptoms
+T187	problem 4607 4615	headache
+T188	problem 4617 4626	neck pain
+T189	bodyloc 4617 4621	neck
+T190	problem 4628 4637	back pain
+T191	bodyloc 4628 4632	back
+T192	problem 4639 4647	weakness
+T193	problem 4649 4661	paresthesias
+T194	problem 4671 4676	faint
+T195	treatment 4678 4689	saline lock
+T196	problem 4691 4696	edema
+T197	test 4698 4708	hemoglobin
+T198	problem 4710 4716	nausea
+T199	drug 4718 4728	wellbutrin
+R1	hasAttr Arg1:T22 Arg2:T9
+R2	hasAttr Arg1:T13 Arg2:T9
+R3	hasAttr Arg1:T15 Arg2:T9
+R4	hasAttr Arg1:T10 Arg2:T9
+R5	hasAttr Arg1:T33 Arg2:T9
+R6	hasAttr Arg1:T20 Arg2:T9
+R7	hasAttr Arg1:T26 Arg2:T9
+R8	hasAttr Arg1:T30 Arg2:T9
+R9	hasAttr Arg1:T18 Arg2:T9
+R10	hasAttr Arg1:T12 Arg2:T9
+R11	hasAttr Arg1:T28 Arg2:T9
+R12	hasAttr Arg1:T32 Arg2:T9
+R13	hasAttr Arg1:T25 Arg2:T9
+R14	hasAttr Arg1:T16 Arg2:T9
+R15	hasAttr Arg1:T11 Arg2:T9
+R16	hasAttr Arg1:T17 Arg2:T9
+R17	hasAttr Arg1:T24 Arg2:T9
+R18	hasAttr Arg1:T27 Arg2:T9
+R19	hasAttr Arg1:T21 Arg2:T9
+R20	hasAttr Arg1:T13 Arg2:T14
+R21	hasAttr Arg1:T18 Arg2:T19
+R22	hasAttr Arg1:T22 Arg2:T23
+R23	hasAttr Arg1:T28 Arg2:T29
+R24	hasAttr Arg1:T30 Arg2:T31
+R25	hasAttr Arg1:T33 Arg2:T34
+R26	hasAttr Arg1:T47 Arg2:T48
+R27	hasAttr Arg1:T49 Arg2:T50
+R28	hasAttr Arg1:T51 Arg2:T52
+R29	hasAttr Arg1:T53 Arg2:T54
+R30	hasAttr Arg1:T59 Arg2:T57
+R31	hasAttr Arg1:T59 Arg2:T58
+R32	hasAttr Arg1:T60 Arg2:T61
+R33	hasAttr Arg1:T62 Arg2:T63
+R34	hasAttr Arg1:T65 Arg2:T64
+R35	hasAttr Arg1:T68 Arg2:T66
+R36	hasAttr Arg1:T67 Arg2:T66
+R37	hasAttr Arg1:T70 Arg2:T69
+R38	hasAttr Arg1:T70 Arg2:T71
+R39	hasAttr Arg1:T73 Arg2:T72
+R40	hasAttr Arg1:T74 Arg2:T75
+R41	hasAttr Arg1:T78 Arg2:T77
+R42	hasAttr Arg1:T80 Arg2:T79
+R43	hasAttr Arg1:T82 Arg2:T81
+R44	hasAttr Arg1:T84 Arg2:T83
+R45	hasAttr Arg1:T85 Arg2:T86
+R46	hasAttr Arg1:T87 Arg2:T88
+R47	hasAttr Arg1:T89 Arg2:T90
+R48	hasAttr Arg1:T91 Arg2:T92
+R49	hasAttr Arg1:T93 Arg2:T94
+R50	hasAttr Arg1:T95 Arg2:T96
+R51	hasAttr Arg1:T97 Arg2:T98
+R52	hasAttr Arg1:T99 Arg2:T100
+R53	hasAttr Arg1:T101 Arg2:T103
+R54	hasAttr Arg1:T102 Arg2:T103
+R55	hasAttr Arg1:T104 Arg2:T105
+R56	hasAttr Arg1:T107 Arg2:T106
+R57	hasAttr Arg1:T107 Arg2:T108
+R58	hasAttr Arg1:T110 Arg2:T109
+R59	hasAttr Arg1:T110 Arg2:T111
+R60	hasAttr Arg1:T113 Arg2:T112
+R61	hasAttr Arg1:T113 Arg2:T114
+R62	hasAttr Arg1:T116 Arg2:T117
+R63	hasAttr Arg1:T118 Arg2:T119
+R64	hasAttr Arg1:T122 Arg2:T123
+R65	hasAttr Arg1:T125 Arg2:T124
+R66	hasAttr Arg1:T126 Arg2:T127
+R67	hasAttr Arg1:T128 Arg2:T129
+R68	hasAttr Arg1:T131 Arg2:T132
+R69	hasAttr Arg1:T136 Arg2:T138
+R70	hasAttr Arg1:T136 Arg2:T137
+R71	hasAttr Arg1:T141 Arg2:T140
+R72	hasAttr Arg1:T145 Arg2:T143
+R73	hasAttr Arg1:T145 Arg2:T144
+R74	hasAttr Arg1:T146 Arg2:T147
+R75	hasAttr Arg1:T149 Arg2:T148
+R76	hasAttr Arg1:T150 Arg2:T151
+R77	hasAttr Arg1:T152 Arg2:T153
+R78	hasAttr Arg1:T161 Arg2:T162
+R79	hasAttr Arg1:T164 Arg2:T165
+R80	hasAttr Arg1:T168 Arg2:T167
+R81	hasAttr Arg1:T168 Arg2:T169
+R82	hasAttr Arg1:T173 Arg2:T174
+R83	hasAttr Arg1:T178 Arg2:T179
+R84	hasAttr Arg1:T182 Arg2:T183
+R85	hasAttr Arg1:T188 Arg2:T189
+R86	hasAttr Arg1:T190 Arg2:T191
+R87	hasAttr Arg1:T158 Arg2:T159
+R88	hasAttr Arg1:T158 Arg2:T157
+R89	hasAttr Arg1:T158 Arg2:T160

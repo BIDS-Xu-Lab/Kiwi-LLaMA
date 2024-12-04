@@ -1,0 +1,35 @@
+T1	temporal 186 197	Apr 29 2007
+T2	temporal 224 233	May 01 07
+T3	negation 445 451	denies
+T4	problem 452 460	any pain
+T5	problem 464 474	discomfort
+T6	problem 477 496	shortness of breath
+T7	test 540 555	Her heart rates
+T8	labvalue 577 580	90s
+T9	test 635 644	Skin exam
+T10	problem 685 745	large oozing sores on her legs , buttocks , under her breast
+T11	bodyloc 711 715	legs
+T12	bodyloc 718 726	buttocks
+T13	bodyloc 739 745	breast
+T14	test 755 759	Labs
+T15	problem 858 861	SLE
+T16	drug 878 886	steroids
+T17	drug 889 898	Plaquenil
+T18	test 974 988	their cultures
+T19	drug 1013 1023	vancomycin
+T20	drug 1028 1034	Unasyn
+T21	temporal 1353 1364	May 01 2007
+T22	temporal 1366 1374	23:15:19
+T23	temporal 1386 1397	May 02 2007
+T24	temporal 1399 1407	01:02:07
+T25	temporal 1419 1430	May 02 2007
+T26	temporal 1432 1440	01:02:07
+T27	temporal 1566 1577	May 21 2007
+T28	temporal 1579 1590	10:46:42 PM
+R1	hasAttr Arg1:T4 Arg2:T3
+R2	hasAttr Arg1:T5 Arg2:T3
+R3	hasAttr Arg1:T6 Arg2:T3
+R4	hasAttr Arg1:T7 Arg2:T8
+R5	hasAttr Arg1:T10 Arg2:T11
+R6	hasAttr Arg1:T10 Arg2:T13
+R7	hasAttr Arg1:T10 Arg2:T12

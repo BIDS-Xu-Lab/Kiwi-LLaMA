@@ -1,0 +1,173 @@
+T1	negation 110 112	no
+T2	problem 113 124	weight loss
+T3	problem 126 132	fevers
+T4	problem 134 140	chills
+T5	problem 142 148	sweats
+T6	negation 159 161	no
+T7	problem 162 184	blurring of the vision
+T8	problem 186 193	itching
+T9	problem 195 214	throat or neck pain
+T10	bodyloc 195 201	throat
+T11	bodyloc 205 209	neck
+T12	problem 219 232	neck fullness
+T13	bodyloc 219 223	neck
+T14	negation 243 245	no
+T15	problem 246 253	vertigo
+T16	problem 257 267	hoarseness
+T17	problem 271 289	painful swallowing
+T18	negation 357 359	no
+T19	problem 360 371	weight loss
+T20	problem 373 379	fevers
+T21	problem 381 387	chills
+T22	problem 389 395	sweats
+T23	negation 406 408	no
+T24	problem 409 431	blurring of the vision
+T25	problem 433 440	itching
+T26	problem 442 461	throat or neck pain
+T27	bodyloc 442 448	throat
+T28	bodyloc 452 456	neck
+T29	problem 466 479	neck fullness
+T30	bodyloc 466 470	neck
+T31	negation 490 492	no
+T32	problem 493 500	vertigo
+T33	problem 504 514	hoarseness
+T34	problem 518 536	painful swallowing
+T35	negation 547 549	no
+T36	problem 550 560	chest pain
+T37	bodyloc 550 555	chest
+T38	problem 562 581	shortness of breath
+T39	problem 583 611	paroxysmal nocturnal dyspnea
+T40	problem 616 626	chest pain
+T41	bodyloc 616 621	chest
+T42	problem 632 640	exertion
+T43	negation 651 653	no
+T44	problem 654 673	shortness of breath
+T45	negation 678 680	no
+T46	problem 681 686	cough
+T47	problem 690 700	hemoptysis
+T48	negation 702 704	No
+T49	problem 705 711	melena
+T50	problem 713 719	nausea
+T51	problem 721 729	vomiting
+T52	problem 731 740	dysphagia
+T53	problem 742 756	abdominal pain
+T54	bodyloc 742 751	abdominal
+T55	problem 758 766	diarrhea
+T56	problem 768 780	constipation
+T57	negation 805 807	No
+T58	problem 808 815	dysuria
+T59	problem 817 826	hematuria
+T60	problem 830 849	excessive urination
+T61	negation 851 853	No
+T62	problem 854 869	muscle weakness
+T63	bodyloc 854 860	muscle
+T64	problem 873 883	tenderness
+T65	negation 885 887	No
+T66	problem 888 900	new numbness
+T67	problem 904 912	tingling
+T68	negation 914 916	No
+T69	problem 917 928	arthralgias
+T70	problem 932 941	arthritis
+T71	negation 953 955	no
+T72	problem 956 962	rashes
+T73	negation 964 966	No
+T74	problem 967 989	excessive fatigability
+T75	problem 991 1024	loss of motor skills or sensation
+T76	negation 1026 1028	No
+T77	problem 1029 1052	changes in hair texture
+T78	problem 1054 1074	change in skin color
+T79	problem 1076 1107	excessive or decreased appetite
+T80	course 1076 1098	excessive or decreased
+T81	negation 1109 1111	No
+T82	problem 1112 1131	swollen lymph nodes
+T83	bodyloc 1120 1131	lymph nodes
+T84	problem 1135 1147	night sweats
+T85	negation 1149 1151	No
+T86	problem 1152 1161	headaches
+T87	problem 1238 1249	weight loss
+T88	problem 1251 1257	fevers
+T89	problem 1259 1265	chills
+T90	problem 1267 1273	sweats
+T91	problem 1275 1281	melena
+T92	problem 1283 1289	nausea
+T93	problem 1291 1299	vomiting
+T94	problem 1301 1310	dysphagia
+T95	problem 1312 1326	abdominal pain
+T96	bodyloc 1312 1321	abdominal
+T97	problem 1328 1336	diarrhea
+T98	problem 1338 1350	constipation
+T99	problem 1352 1366	itching throat
+T100	bodyloc 1360 1366	throat
+T101	problem 1368 1381	neck fullness
+T102	bodyloc 1368 1372	neck
+T103	problem 1383 1401	painful swallowing
+R1	hasAttr Arg1:T5 Arg2:T1
+R2	hasAttr Arg1:T3 Arg2:T1
+R3	hasAttr Arg1:T4 Arg2:T1
+R4	hasAttr Arg1:T2 Arg2:T1
+R5	hasAttr Arg1:T7 Arg2:T6
+R6	hasAttr Arg1:T9 Arg2:T6
+R7	hasAttr Arg1:T8 Arg2:T6
+R8	hasAttr Arg1:T12 Arg2:T6
+R9	hasAttr Arg1:T9 Arg2:T11
+R10	hasAttr Arg1:T9 Arg2:T10
+R11	hasAttr Arg1:T12 Arg2:T13
+R12	hasAttr Arg1:T17 Arg2:T14
+R13	hasAttr Arg1:T15 Arg2:T14
+R14	hasAttr Arg1:T16 Arg2:T14
+R15	hasAttr Arg1:T20 Arg2:T18
+R16	hasAttr Arg1:T22 Arg2:T18
+R17	hasAttr Arg1:T19 Arg2:T18
+R18	hasAttr Arg1:T21 Arg2:T18
+R19	hasAttr Arg1:T24 Arg2:T23
+R20	hasAttr Arg1:T26 Arg2:T23
+R21	hasAttr Arg1:T29 Arg2:T23
+R22	hasAttr Arg1:T25 Arg2:T23
+R23	hasAttr Arg1:T26 Arg2:T28
+R24	hasAttr Arg1:T26 Arg2:T27
+R25	hasAttr Arg1:T29 Arg2:T30
+R26	hasAttr Arg1:T33 Arg2:T31
+R27	hasAttr Arg1:T32 Arg2:T31
+R28	hasAttr Arg1:T34 Arg2:T31
+R29	hasAttr Arg1:T40 Arg2:T35
+R30	hasAttr Arg1:T36 Arg2:T35
+R31	hasAttr Arg1:T42 Arg2:T35
+R32	hasAttr Arg1:T39 Arg2:T35
+R33	hasAttr Arg1:T38 Arg2:T35
+R34	hasAttr Arg1:T36 Arg2:T37
+R35	hasAttr Arg1:T40 Arg2:T41
+R36	hasAttr Arg1:T44 Arg2:T43
+R37	hasAttr Arg1:T46 Arg2:T45
+R38	hasAttr Arg1:T47 Arg2:T45
+R39	hasAttr Arg1:T51 Arg2:T48
+R40	hasAttr Arg1:T56 Arg2:T48
+R41	hasAttr Arg1:T53 Arg2:T48
+R42	hasAttr Arg1:T50 Arg2:T48
+R43	hasAttr Arg1:T55 Arg2:T48
+R44	hasAttr Arg1:T52 Arg2:T48
+R45	hasAttr Arg1:T49 Arg2:T48
+R46	hasAttr Arg1:T53 Arg2:T54
+R47	hasAttr Arg1:T59 Arg2:T57
+R48	hasAttr Arg1:T58 Arg2:T57
+R49	hasAttr Arg1:T60 Arg2:T57
+R50	hasAttr Arg1:T64 Arg2:T61
+R51	hasAttr Arg1:T62 Arg2:T61
+R52	hasAttr Arg1:T62 Arg2:T63
+R53	hasAttr Arg1:T66 Arg2:T65
+R54	hasAttr Arg1:T67 Arg2:T65
+R55	hasAttr Arg1:T69 Arg2:T68
+R56	hasAttr Arg1:T70 Arg2:T68
+R57	hasAttr Arg1:T72 Arg2:T71
+R58	hasAttr Arg1:T75 Arg2:T73
+R59	hasAttr Arg1:T74 Arg2:T73
+R60	hasAttr Arg1:T77 Arg2:T76
+R61	hasAttr Arg1:T78 Arg2:T76
+R62	hasAttr Arg1:T79 Arg2:T76
+R63	hasAttr Arg1:T79 Arg2:T80
+R64	hasAttr Arg1:T84 Arg2:T81
+R65	hasAttr Arg1:T82 Arg2:T81
+R66	hasAttr Arg1:T82 Arg2:T83
+R67	hasAttr Arg1:T86 Arg2:T85
+R68	hasAttr Arg1:T95 Arg2:T96
+R69	hasAttr Arg1:T99 Arg2:T100
+R70	hasAttr Arg1:T101 Arg2:T102

@@ -1,0 +1,95 @@
+T1	temporal 172 183	Mar 06 2007
+T2	temporal 185 193	00:00:00
+T3	temporal 218 229	Mar 11 2007
+T4	problem 309 317	weakness
+T5	problem 320 344	general diffuse weakness
+T6	problem 347 381	decreased ability to stand or walk
+T7	course 347 356	decreased
+T8	test 396 404	her labs
+T9	test 421 428	Her CBC
+T10	labvalue 433 439	normal
+T11	test 442 451	Chemistry
+T12	labvalue 456 462	normal
+T13	route 549 551	IV
+T14	drug 552 565	normal saline
+T15	dosage 566 578	500 cc bolus
+T16	route 585 587	IV
+T17	drug 588 596	Dilaudid
+T18	strength 597 601	1 mg
+T19	route 602 604	IV
+T20	drug 611 617	Valium
+T21	strength 618 622	4 mg
+T22	route 623 625	IV
+T23	negation 636 651	did not receive
+T24	drug 652 676	the pneumococcal vaccine
+T25	drug 699 732	the inactivated influenza vaccine
+T26	problem 817 825	weakness
+T27	problem 830 851	inability to ambulate
+T28	temporal 978 987	Mar 05 07
+T29	problem 1058 1066	weakness
+T30	problem 1071 1096	numbness in arms and legs
+T31	bodyloc 1080 1096	in arms and legs
+T32	problem 1101 1113	incontinence
+T33	labvalue 1157 1163	normal
+T34	test 1164 1235	MRI s of the brain , thoracic spine , lumbar spine , and cervical spine
+T35	test 1238 1263	MRI of the cervical spine
+T36	problem 1273 1305	mild protrusion of C5-C6 , C6-C7
+T37	severity 1273 1277	mild
+T38	bodyloc 1292 1297	C5-C6
+T39	bodyloc 1300 1305	C6-C7
+T40	problem 1308 1333	disk barely touching cord
+T41	test 1336 1364	EMG nerve conduction studies
+T42	problem 1373 1383	neuropathy
+T43	test 1416 1427	a myelogram
+T44	test 1430 1458	cerebrospinal fluid analysis
+T45	temporal 1471 1476	Mar 9
+T46	test 1545 1558	the myelogram
+T47	test 1582 1594	A spinal tap
+T48	labvalue 1667 1673	normal
+T49	test 1678 1685	protein
+T50	test 1690 1697	glucose
+T51	test 1744 1771	Cerebrospinal fluid results
+T52	labvalue 1789 1795	normal
+T53	test 1814 1828	immune studies
+T54	treatment 1884 1900	physical therapy
+T55	treatment 1905 1925	occupational therapy
+T56	treatment 2098 2103	rehab
+T57	treatment 2106 2108	PT
+T58	treatment 2111 2113	OT
+T59	drug 2137 2148	Medications
+T60	problem 2287 2332	Displacement of cervical intervertebral disks
+T61	bodyloc 2303 2326	cervical intervertebral
+T62	negation 2333 2340	without
+T63	problem 2341 2351	myelopathy
+T64	problem 2354 2409	Secondary unspecified mononeuritis of lower extremities
+T65	bodyloc 2392 2409	lower extremities
+T66	temporal 2592 2603	Mar 15 2007
+T67	temporal 2605 2613	12:20:27
+T68	temporal 2625 2636	Mar 15 2007
+T69	temporal 2638 2646	15:16:41
+T70	temporal 2658 2669	Mar 15 2007
+T71	temporal 2671 2679	15:16:41
+T72	temporal 2826 2837	Mar 16 2007
+T73	temporal 2839 2850	09:01:29 AM
+R1	hasAttr Arg1:T6 Arg2:T7
+R2	hasAttr Arg1:T9 Arg2:T10
+R3	hasAttr Arg1:T11 Arg2:T12
+R4	hasAttr Arg1:T14 Arg2:T13
+R5	hasAttr Arg1:T14 Arg2:T15
+R6	hasAttr Arg1:T17 Arg2:T16
+R7	hasAttr Arg1:T17 Arg2:T18
+R8	hasAttr Arg1:T17 Arg2:T19
+R9	hasAttr Arg1:T20 Arg2:T21
+R10	hasAttr Arg1:T20 Arg2:T22
+R11	hasAttr Arg1:T30 Arg2:T31
+R12	hasAttr Arg1:T36 Arg2:T38
+R13	hasAttr Arg1:T36 Arg2:T39
+R14	hasAttr Arg1:T36 Arg2:T37
+R15	hasAttr Arg1:T49 Arg2:T48
+R16	hasAttr Arg1:T50 Arg2:T48
+R17	hasAttr Arg1:T51 Arg2:T52
+R18	hasAttr Arg1:T60 Arg2:T61
+R19	hasAttr Arg1:T63 Arg2:T62
+R20	hasAttr Arg1:T24 Arg2:T23
+R21	hasAttr Arg1:T34 Arg2:T33
+R22	hasAttr Arg1:T64 Arg2:T65

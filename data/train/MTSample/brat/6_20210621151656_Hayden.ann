@@ -1,0 +1,225 @@
+T1	problem 114 126	hypertension
+T2	problem 129 137	dementia
+T3	problem 144 154	depression
+T4	problem 238 272	multiple cerebrovascular accidents
+T5	bodyloc 247 262	cerebrovascular
+T6	problem 277 323	significant left-sided upper extremity paresis
+T7	severity 277 288	significant
+T8	bodyloc 289 315	left-sided upper extremity
+T9	temporal 327 331	2006
+T10	problem 339 347	Dementia
+T11	problem 352 362	depression
+T12	problem 370 382	Hypertension
+T13	problem 400 419	atrial fibrillation
+T14	bodyloc 400 406	atrial
+T15	problem 513 522	fall risk
+T16	problem 530 538	Glaucoma
+T17	problem 546 581	Degenerative arthritis of her spine
+T18	bodyloc 576 581	spine
+T19	problem 589 593	GERD
+T20	problem 601 615	Hypothyroidism
+T21	problem 623 639	Chronic rhinitis
+T22	course 623 630	Chronic
+T23	route 663 668	nasal
+T24	drug 669 677	steroids
+T25	problem 688 713	Urinary urge incontinence
+T26	bodyloc 688 695	Urinary
+T27	problem 722 742	Chronic constipation
+T28	course 722 729	Chronic
+T29	problem 751 767	Diabetes type II
+T30	temporal 770 774	2006
+T31	problem 783 818	Painful bunions on feet bilaterally
+T32	bodyloc 802 818	feet bilaterally
+T33	drug 842 849	Aspirin
+T34	strength 850 855	81 mg
+T35	route 856 860	p.o.
+T36	frequency 861 866	daily
+T37	drug 869 877	Cymbalta
+T38	strength 878 883	60 mg
+T39	route 884 888	p.o.
+T40	frequency 889 894	daily
+T41	drug 897 903	Diovan
+T42	strength 904 909	80 mg
+T43	route 910 914	p.o.
+T44	frequency 915 920	daily
+T45	drug 923 933	felodipine
+T46	strength 934 938	5 mg
+T47	route 939 943	p.o.
+T48	frequency 944 949	daily
+T49	drug 952 962	omeprazole
+T50	strength 963 968	20 mg
+T51	frequency 969 974	daily
+T52	drug 977 986	Toprol-XL
+T53	strength 987 993	100 mg
+T54	frequency 994 999	daily
+T55	drug 1002 1009	Levoxyl
+T56	strength 1010 1016	50 mcg
+T57	frequency 1017 1022	daily
+T58	drug 1025 1039	Lantus insulin
+T59	dosage 1040 1048	12 units
+T60	route 1049 1063	subcutaneously
+T61	frequency 1064 1069	h.s .
+T62	drug 1072 1083	simvastatin
+T63	strength 1084 1089	10 mg
+T64	route 1090 1094	p.o.
+T65	frequency 1095 1100	daily
+T66	drug 1103 1109	AyrGel
+T67	route 1110 1126	to both nostrils
+T68	frequency 1127 1138	twice daily
+T69	drug 1141 1146	Senna
+T70	dosage 1149 1150	2
+T71	form 1151 1158	tablets
+T72	frequency 1159 1170	twice daily
+T73	drug 1173 1181	Timoptic
+T74	dosage 1182 1183	1
+T75	form 1184 1188	drop
+T76	frequency 1199 1210	twice daily
+T77	drug 1213 1220	Tylenol
+T78	strength 1221 1228	1000 mg
+T79	frequency 1229 1242	3 times daily
+T80	drug 1245 1252	Xalatan
+T81	strength 1253 1259	0.005%
+T82	form 1260 1265	drops
+T83	dosage 1266 1267	1
+T84	form 1268 1272	drop
+T85	frequency 1283 1293	at bedtime
+T86	drug 1300 1305	Tucks
+T87	route 1306 1315	to rectum
+T88	frequency 1316 1324	post BMs
+T89	problem 1328 1337	ALLERGIES
+T90	negation 1340 1342	NO
+T91	problem 1343 1363	KNOWN DRUG ALLERGIES
+T92	drug 1367 1380	ACE INHIBITOR
+T93	problem 1397 1404	A COUGH
+T94	problem 1741 1757	some hemorrhoids
+T95	negation 1770 1773	not
+T96	problem 1774 1781	painful
+T97	problem 1826 1837	constipated
+T98	test 1840 1858	Her blood glucoses
+T99	labvalue 1877 1892	reasonably well
+T100	temporal 1893 1907	in the morning
+T101	negation 2086 2089	not
+T102	problem 2102 2107	cough
+T103	problem 2111 2119	rib pain
+T104	bodyloc 2111 2114	rib
+T105	problem 2229 2239	Depression
+T106	drug 2263 2271	Cymbalta
+T107	duration 2331 2337	1 year
+T108	negation 2347 2350	not
+T109	problem 2358 2381	problems with breathing
+T110	negation 2384 2386	No
+T111	problem 2387 2408	neurologic complaints
+T112	problem 2423 2427	Pain
+T113	course 2431 2453	generally well managed
+T114	drug 2464 2471	Tylenol
+T115	test 2499 2505	Vitals
+T116	negation 2574 2576	no
+T117	problem 2577 2594	apparent distress
+T118	labvalue 2611 2616	clear
+T119	test 2620 2632	auscultation
+T120	test 2637 2647	percussion
+T121	test 2650 2662	Heart sounds
+T122	labvalue 2663 2670	regular
+T123	bodyloc 2696 2707	Extremities
+T124	negation 2708 2715	without
+T125	problem 2716 2725	any edema
+T126	bodyloc 2735 2741	rectum
+T127	problem 2752 2781	a couple of large hemorrhoids
+T128	negation 2817 2820	not
+T129	problem 2821 2827	tender
+T130	problem 2858 2870	Hypertension
+T131	problem 2912 2922	Depression
+T132	course 2925 2937	well treated
+T133	drug 2941 2949	Cymbalta
+T134	test 3026 3040	blood pressure
+T135	drug 3087 3100	the medicines
+T136	problem 3110 3130	clinically euthyroid
+T137	drug 3171 3178	Tylenol
+T138	drug 3303 3311	FiberCon
+T139	form 3312 3319	tablets
+T140	drug 3323 3332	Metamucil
+T141	form 3333 3339	powder
+T142	treatment 3371 3379	annulose
+T143	problem 3462 3481	atrial fibrillation
+T144	bodyloc 3462 3468	atrial
+T145	problem 3484 3500	chronic rhinitis
+T146	problem 3503 3513	depression
+T147	problem 3516 3528	hypertension
+T148	problem 3531 3542	hemorrhoids
+R1	hasAttr Arg1:T4 Arg2:T5
+R2	hasAttr Arg1:T4 Arg2:T9
+R3	hasAttr Arg1:T6 Arg2:T8
+R4	hasAttr Arg1:T6 Arg2:T7
+R5	hasAttr Arg1:T6 Arg2:T9
+R6	hasAttr Arg1:T13 Arg2:T14
+R7	hasAttr Arg1:T17 Arg2:T18
+R8	hasAttr Arg1:T21 Arg2:T22
+R9	hasAttr Arg1:T24 Arg2:T23
+R10	hasAttr Arg1:T25 Arg2:T26
+R11	hasAttr Arg1:T27 Arg2:T28
+R12	hasAttr Arg1:T29 Arg2:T30
+R13	hasAttr Arg1:T31 Arg2:T32
+R14	hasAttr Arg1:T33 Arg2:T36
+R15	hasAttr Arg1:T33 Arg2:T35
+R16	hasAttr Arg1:T33 Arg2:T34
+R17	hasAttr Arg1:T37 Arg2:T40
+R18	hasAttr Arg1:T37 Arg2:T39
+R19	hasAttr Arg1:T37 Arg2:T38
+R20	hasAttr Arg1:T41 Arg2:T42
+R21	hasAttr Arg1:T41 Arg2:T43
+R22	hasAttr Arg1:T41 Arg2:T44
+R23	hasAttr Arg1:T45 Arg2:T46
+R24	hasAttr Arg1:T45 Arg2:T48
+R25	hasAttr Arg1:T45 Arg2:T47
+R26	hasAttr Arg1:T49 Arg2:T50
+R27	hasAttr Arg1:T49 Arg2:T51
+R28	hasAttr Arg1:T52 Arg2:T54
+R29	hasAttr Arg1:T52 Arg2:T53
+R30	hasAttr Arg1:T55 Arg2:T57
+R31	hasAttr Arg1:T55 Arg2:T56
+R32	hasAttr Arg1:T58 Arg2:T60
+R33	hasAttr Arg1:T58 Arg2:T61
+R34	hasAttr Arg1:T58 Arg2:T59
+R35	hasAttr Arg1:T62 Arg2:T63
+R36	hasAttr Arg1:T62 Arg2:T64
+R37	hasAttr Arg1:T62 Arg2:T65
+R38	hasAttr Arg1:T66 Arg2:T68
+R39	hasAttr Arg1:T66 Arg2:T67
+R40	hasAttr Arg1:T69 Arg2:T71
+R41	hasAttr Arg1:T69 Arg2:T72
+R42	hasAttr Arg1:T69 Arg2:T70
+R43	hasAttr Arg1:T73 Arg2:T76
+R44	hasAttr Arg1:T73 Arg2:T75
+R45	hasAttr Arg1:T73 Arg2:T74
+R46	hasAttr Arg1:T77 Arg2:T78
+R47	hasAttr Arg1:T77 Arg2:T79
+R48	hasAttr Arg1:T80 Arg2:T83
+R49	hasAttr Arg1:T80 Arg2:T82
+R50	hasAttr Arg1:T80 Arg2:T85
+R51	hasAttr Arg1:T80 Arg2:T81
+R52	hasAttr Arg1:T80 Arg2:T84
+R53	hasAttr Arg1:T86 Arg2:T87
+R54	hasAttr Arg1:T86 Arg2:T88
+R55	hasAttr Arg1:T91 Arg2:T90
+R56	hasAttr Arg1:T96 Arg2:T95
+R57	hasAttr Arg1:T98 Arg2:T99
+R58	hasAttr Arg1:T98 Arg2:T100
+R59	hasAttr Arg1:T103 Arg2:T101
+R60	hasAttr Arg1:T102 Arg2:T101
+R61	hasAttr Arg1:T103 Arg2:T104
+R62	hasAttr Arg1:T106 Arg2:T107
+R63	hasAttr Arg1:T109 Arg2:T108
+R64	hasAttr Arg1:T111 Arg2:T110
+R65	hasAttr Arg1:T112 Arg2:T113
+R66	hasAttr Arg1:T117 Arg2:T116
+R67	hasAttr Arg1:T120 Arg2:T118
+R68	hasAttr Arg1:T119 Arg2:T118
+R69	hasAttr Arg1:T121 Arg2:T122
+R70	hasAttr Arg1:T125 Arg2:T123
+R71	hasAttr Arg1:T125 Arg2:T124
+R72	hasAttr Arg1:T127 Arg2:T126
+R73	hasAttr Arg1:T129 Arg2:T128
+R74	hasAttr Arg1:T131 Arg2:T132
+R75	hasAttr Arg1:T138 Arg2:T139
+R76	hasAttr Arg1:T140 Arg2:T141
+R77	hasAttr Arg1:T143 Arg2:T144

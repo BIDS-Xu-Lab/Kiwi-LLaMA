@@ -1,0 +1,92 @@
+T1	temporal 19 27	2148-4-8
+T2	temporal 50 58	2148-4-8
+T3	temporal 80 89	2070-10-4
+T4	negation 156 158	No
+T5	problem 159 183	Known Allergies to Drugs
+T6	problem 246 253	hypoxia
+T7	problem 259 269	PEA arrest
+T8	problem 432 439	hypoxia
+T9	problem 444 465	worsening L sided PNA
+T10	course 444 453	worsening
+T11	bodyloc 454 461	L sided
+T12	test 488 497	an O2 sat
+T13	labvalue 501 509	the 70's
+T14	treatment 526 565	100% oxygen by non-rebreather face mask
+T15	problem 574 585	some ectopy
+T16	strength 608 613	75 mg
+T17	drug 617 627	amiodraone
+T18	treatment 636 645	intubated
+T19	test 654 672	oxygen saturations
+T20	labvalue 682 697	low in the 60's
+T21	test 704 708	PAO2
+T22	labvalue 716 720	40's
+T23	treatment 724 761	vent settings of AC 500 x 15, 10 peep
+T24	test 763 770	His CXR
+T25	problem 778 790	worsened PNA
+T26	course 778 786	worsened
+T27	problem 796 819	white out of the L lung
+T28	bodyloc 813 819	L lung
+T29	test 824 832	his labs
+T30	labvalue 847 852	+ UTI
+T31	labvalue 857 873	elevated lactate
+T32	drug 893 897	Vanc
+T33	drug 902 907	Zosyn
+T34	problem 916 928	a PEA arrest
+T35	treatment 949 952	CPR
+T36	drug 967 978	epinephrine
+T37	test 1010 1028	His blood pressure
+T38	labvalue 1051 1055	90's
+T39	labvalue 1116 1141	improved to the low 100's
+T40	drug 1152 1163	epinephrine
+T41	test 1165 1179	His heart rate
+T42	labvalue 1191 1194	120
+T43	problem 1285 1305	persistantly hypoxic
+T44	problem 1340 1346	V tach
+T45	bodyloc 1340 1341	V
+T46	problem 1805 1812	hypoxic
+T47	problem 1817 1829	bradycardiac
+T48	treatment 1838 1875	vent changes and positioning manuvers
+T49	strength 1889 1893	4 mg
+T50	strength 1903 1907	2 mg
+T51	drug 1911 1919	morphine
+T52	problem 1929 1953	his respiratory distress
+T53	bodyloc 1933 1944	respiratory
+T54	treatment 1978 1981	CPR
+T55	problem 2026 2038	a PEA arrest
+T56	problem 2050 2059	asystolic
+T57	problem 2068 2083	pronounced dead
+T58	temporal 2087 2095	12:55 PM
+T59	problem 2206 2213	hypoxia
+T60	problem 2215 2246	hypotension of unknown etiology
+T61	problem 2264 2277	Schizophrenia
+T62	problem 2345 2355	Depression
+T63	problem 2356 2359	HTN
+T64	problem 2360 2368	Dementia
+T65	problem 2369 2383	R eye cataract
+T66	bodyloc 2369 2374	R eye
+T67	problem 2384 2387	CAD
+T68	treatment 2393 2397	CABG
+T69	problem 2640 2649	Pneumonia
+T70	problem 2650 2673	Urinary Tract Infection
+T71	bodyloc 2650 2663	Urinary Tract
+R1	hasAttr Arg1:T5 Arg2:T4
+R2	hasAttr Arg1:T9 Arg2:T11
+R3	hasAttr Arg1:T9 Arg2:T10
+R4	hasAttr Arg1:T12 Arg2:T13
+R5	hasAttr Arg1:T17 Arg2:T16
+R6	hasAttr Arg1:T19 Arg2:T20
+R7	hasAttr Arg1:T21 Arg2:T22
+R8	hasAttr Arg1:T25 Arg2:T26
+R9	hasAttr Arg1:T27 Arg2:T28
+R10	hasAttr Arg1:T29 Arg2:T30
+R11	hasAttr Arg1:T29 Arg2:T31
+R12	hasAttr Arg1:T37 Arg2:T38
+R13	hasAttr Arg1:T37 Arg2:T39
+R14	hasAttr Arg1:T41 Arg2:T42
+R15	hasAttr Arg1:T44 Arg2:T45
+R16	hasAttr Arg1:T51 Arg2:T49
+R17	hasAttr Arg1:T51 Arg2:T50
+R18	hasAttr Arg1:T52 Arg2:T53
+R19	hasAttr Arg1:T57 Arg2:T58
+R20	hasAttr Arg1:T65 Arg2:T66
+R21	hasAttr Arg1:T70 Arg2:T71

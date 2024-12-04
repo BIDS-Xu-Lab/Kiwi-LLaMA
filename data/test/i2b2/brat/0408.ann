@@ -1,0 +1,249 @@
+T1	temporal 190 201	Nov 12 2007
+T2	temporal 228 237	Nov 13 07
+T3	problem 345 355	depression
+T4	problem 358 377	atrial fibrillation
+T5	bodyloc 358 364	atrial
+T6	problem 384 388	COPD
+T7	temporal 431 442	Nov 12 2007
+T8	problem 470 490	respiratory distress
+T9	temporal 544 555	Oct 20 2007
+T10	problem 563 582	worsening confusion
+T11	course 563 572	worsening
+T12	treatment 633 658	electroconvulsive therapy
+T13	treatment 661 679	her last treatment
+T14	temporal 696 707	Nov 11 2007
+T15	treatment 721 729	this ECT
+T16	problem 740 781	progressively increased work of breathing
+T17	treatment 794 804	extubation
+T18	treatment 811 824	her procedure
+T19	drug 842 854	some Xopenex
+T20	test 892 903	Saturations
+T21	labvalue 909 913	100%
+T22	treatment 924 937	nasal cannula
+T23	test 948 961	a chest x-ray
+T24	problem 988 1011	right - sided opacities
+T25	bodyloc 988 1001	right - sided
+T26	uncertain 1012 1022	suspicious
+T27	problem 1027 1036	pneumonia
+T28	drug 1066 1071	Zosyn
+T29	drug 1076 1086	vancomycin
+T30	treatment 1102 1121	a tracheal aspirate
+T31	temporal 1132 1143	Nov 12 2006
+T32	problem 1160 1188	moderate gram-positive cocci
+T33	treatment 1298 1315	further treatment
+T34	negation 1443 1449	denied
+T35	problem 1450 1464	any chest pain
+T36	bodyloc 1454 1459	chest
+T37	problem 1468 1487	shortness of breath
+T38	negation 1490 1492	No
+T39	problem 1493 1507	abdominal pain
+T40	bodyloc 1493 1502	abdominal
+T41	problem 1510 1516	nausea
+T42	problem 1520 1528	vomiting
+T43	test 1552 1563	Vital Signs
+T44	test 1566 1577	Temperature
+T45	labvalue 1581 1585	37.1
+T46	test 1588 1593	pulse
+T47	labvalue 1594 1596	80
+T48	test 1599 1611	respirations
+T49	labvalue 1612 1614	18
+T50	test 1621 1635	blood pressure
+T51	labvalue 1636 1642	110/60
+T52	labvalue 1851 1858	Regular
+T53	test 1859 1863	rate
+T54	test 1868 1874	rhythm
+T55	problem 1885 1932	Decreased breath sounds in her right lower lobe
+T56	course 1885 1894	Decreased
+T57	bodyloc 1912 1932	her right lower lobe
+T58	negation 1937 1939	no
+T59	problem 1940 1947	wheezes
+T60	problem 1951 1959	crackles
+T61	labvalue 1972 1980	Positive
+T62	test 1981 1993	bowel sounds
+T63	negation 2056 2058	No
+T64	problem 2059 2067	clubbing
+T65	problem 2070 2078	cyanosis
+T66	problem 2082 2087	edema
+T67	negation 2117 2119	no
+T68	problem 2120 2134	visible rashes
+T69	test 2138 2147	skin exam
+T70	test 2174 2182	lab work
+T71	temporal 2183 2192	yesterday
+T72	temporal 2193 2200	morning
+T73	test 2213 2221	a sodium
+T74	labvalue 2225 2228	138
+T75	test 2231 2240	potassium
+T76	labvalue 2241 2244	3.8
+T77	test 2247 2255	chloride
+T78	labvalue 2256 2259	103
+T79	test 2262 2273	bicarbonate
+T80	labvalue 2274 2276	20
+T81	test 2279 2282	BUN
+T82	test 2287 2297	creatinine
+T83	labvalue 2298 2300	10
+T84	labvalue 2305 2308	1.6
+T85	test 2311 2318	calcium
+T86	labvalue 2319 2322	8.7
+T87	test 2325 2334	magnesium
+T88	labvalue 2335 2338	1.4
+T89	test 2341 2351	phosphorus
+T90	labvalue 2352 2355	3.9
+T91	test 2358 2373	total bilirubin
+T92	labvalue 2374 2377	0.5
+T93	test 2380 2383	ALT
+T94	labvalue 2384 2386	47
+T95	test 2389 2392	AST
+T96	labvalue 2393 2395	33
+T97	test 2398 2418	alkaline phosphatase
+T98	labvalue 2419 2422	128
+T99	test 2425 2432	lactate
+T100	labvalue 2433 2436	1.1
+T101	test 2439 2446	amylase
+T102	labvalue 2447 2459	less than 30
+T103	test 2466 2472	lipase
+T104	labvalue 2473 2475	21
+T105	test 2478 2486	Troponin
+T106	labvalue 2491 2504	less than 0.1
+T107	test 2515 2528	a white count
+T108	labvalue 2532 2536	64.4
+T109	test 2539 2540	H
+T110	test 2545 2546	H
+T111	labvalue 2547 2551	12.1
+T112	labvalue 2556 2558	37
+T113	test 2561 2570	platelets
+T114	labvalue 2571 2574	280
+T115	test 2581 2584	INR
+T116	labvalue 2589 2592	2.4
+T117	test 2595 2601	Her UA
+T118	negation 2606 2609	not
+T119	problem 2615 2637	any signs of infection
+T120	test 2640 2651	Chest x-ray
+T121	problem 2659 2710	a large pleural-based opacity in the right mid lung
+T122	bodyloc 2692 2710	the right mid lung
+T123	problem 2727 2738	atelectasis
+T124	negation 2743 2745	no
+T125	problem 2746 2755	pneumonia
+T126	problem 2830 2859	a hospital-acquired pneumonia
+T127	drug 2882 2887	Zosyn
+T128	drug 2892 2902	vancomycin
+T129	duration 2903 2932	for approximately 8 more days
+T130	negation 2952 2960	negative
+T131	problem 2965 2969	MRSA
+T132	drug 2998 3012	the vancomycin
+T133	drug 3031 3041	vancomycin
+T134	problem 3176 3195	Atrial fibrillation
+T135	test 3206 3221	therapeutic INR
+T136	labvalue 3225 3228	2.4
+T137	drug 3265 3273	Coumadin
+T138	problem 3284 3294	Depression
+T139	problem 3320 3334	medical issues
+T140	course 3335 3342	resolve
+T141	treatment 3348 3359	Prophylaxis
+T142	drug 3372 3380	Coumadin
+T143	drug 3385 3391	Pepcid
+T144	temporal 3511 3522	Nov 13 2007
+T145	temporal 3524 3532	02:39:59
+T146	temporal 3544 3555	Nov 13 2007
+T147	temporal 3557 3565	07:00:11
+T148	temporal 3577 3588	Nov 13 2007
+T149	temporal 3590 3601	07:00:11/gn
+T150	temporal 3724 3735	Dec 11 2007
+T151	temporal 3737 3748	04:51:51 PM
+R1	hasAttr Arg1:T3 Arg2:T7
+R2	hasAttr Arg1:T4 Arg2:T7
+R3	hasAttr Arg1:T4 Arg2:T5
+R4	hasAttr Arg1:T6 Arg2:T7
+R5	hasAttr Arg1:T10 Arg2:T9
+R6	hasAttr Arg1:T10 Arg2:T11
+R7	hasAttr Arg1:T12 Arg2:T14
+R8	hasAttr Arg1:T13 Arg2:T14
+R9	hasAttr Arg1:T20 Arg2:T21
+R10	hasAttr Arg1:T24 Arg2:T25
+R11	hasAttr Arg1:T27 Arg2:T26
+R12	hasAttr Arg1:T30 Arg2:T31
+R13	hasAttr Arg1:T35 Arg2:T36
+R14	hasAttr Arg1:T41 Arg2:T38
+R15	hasAttr Arg1:T42 Arg2:T38
+R16	hasAttr Arg1:T39 Arg2:T38
+R17	hasAttr Arg1:T39 Arg2:T40
+R18	hasAttr Arg1:T44 Arg2:T45
+R19	hasAttr Arg1:T46 Arg2:T47
+R20	hasAttr Arg1:T48 Arg2:T49
+R21	hasAttr Arg1:T50 Arg2:T51
+R22	hasAttr Arg1:T54 Arg2:T52
+R23	hasAttr Arg1:T53 Arg2:T52
+R24	hasAttr Arg1:T55 Arg2:T57
+R25	hasAttr Arg1:T60 Arg2:T58
+R26	hasAttr Arg1:T59 Arg2:T58
+R27	hasAttr Arg1:T62 Arg2:T61
+R28	hasAttr Arg1:T64 Arg2:T63
+R29	hasAttr Arg1:T65 Arg2:T63
+R30	hasAttr Arg1:T66 Arg2:T63
+R31	hasAttr Arg1:T68 Arg2:T67
+R32	hasAttr Arg1:T70 Arg2:T71
+R33	hasAttr Arg1:T70 Arg2:T72
+R34	hasAttr Arg1:T73 Arg2:T71
+R35	hasAttr Arg1:T89 Arg2:T71
+R36	hasAttr Arg1:T82 Arg2:T71
+R37	hasAttr Arg1:T81 Arg2:T71
+R38	hasAttr Arg1:T103 Arg2:T71
+R39	hasAttr Arg1:T87 Arg2:T71
+R40	hasAttr Arg1:T77 Arg2:T71
+R41	hasAttr Arg1:T95 Arg2:T71
+R42	hasAttr Arg1:T85 Arg2:T71
+R43	hasAttr Arg1:T97 Arg2:T71
+R44	hasAttr Arg1:T79 Arg2:T71
+R45	hasAttr Arg1:T75 Arg2:T71
+R46	hasAttr Arg1:T91 Arg2:T71
+R47	hasAttr Arg1:T93 Arg2:T71
+R48	hasAttr Arg1:T99 Arg2:T71
+R49	hasAttr Arg1:T101 Arg2:T71
+R50	hasAttr Arg1:T77 Arg2:T72
+R51	hasAttr Arg1:T95 Arg2:T72
+R52	hasAttr Arg1:T101 Arg2:T72
+R53	hasAttr Arg1:T85 Arg2:T72
+R54	hasAttr Arg1:T93 Arg2:T72
+R55	hasAttr Arg1:T75 Arg2:T72
+R56	hasAttr Arg1:T91 Arg2:T72
+R57	hasAttr Arg1:T103 Arg2:T72
+R58	hasAttr Arg1:T87 Arg2:T72
+R59	hasAttr Arg1:T82 Arg2:T72
+R60	hasAttr Arg1:T99 Arg2:T72
+R61	hasAttr Arg1:T73 Arg2:T72
+R62	hasAttr Arg1:T89 Arg2:T72
+R63	hasAttr Arg1:T79 Arg2:T72
+R64	hasAttr Arg1:T81 Arg2:T72
+R65	hasAttr Arg1:T97 Arg2:T72
+R66	hasAttr Arg1:T73 Arg2:T74
+R67	hasAttr Arg1:T75 Arg2:T76
+R68	hasAttr Arg1:T77 Arg2:T78
+R69	hasAttr Arg1:T79 Arg2:T80
+R70	hasAttr Arg1:T81 Arg2:T83
+R71	hasAttr Arg1:T82 Arg2:T84
+R72	hasAttr Arg1:T85 Arg2:T86
+R73	hasAttr Arg1:T87 Arg2:T88
+R74	hasAttr Arg1:T89 Arg2:T90
+R75	hasAttr Arg1:T91 Arg2:T92
+R76	hasAttr Arg1:T93 Arg2:T94
+R77	hasAttr Arg1:T95 Arg2:T96
+R78	hasAttr Arg1:T97 Arg2:T98
+R79	hasAttr Arg1:T99 Arg2:T100
+R80	hasAttr Arg1:T101 Arg2:T102
+R81	hasAttr Arg1:T103 Arg2:T104
+R82	hasAttr Arg1:T105 Arg2:T106
+R83	hasAttr Arg1:T107 Arg2:T108
+R84	hasAttr Arg1:T109 Arg2:T111
+R85	hasAttr Arg1:T110 Arg2:T112
+R86	hasAttr Arg1:T113 Arg2:T114
+R87	hasAttr Arg1:T115 Arg2:T116
+R88	hasAttr Arg1:T119 Arg2:T118
+R89	hasAttr Arg1:T121 Arg2:T122
+R90	hasAttr Arg1:T125 Arg2:T124
+R91	hasAttr Arg1:T131 Arg2:T130
+R92	hasAttr Arg1:T135 Arg2:T136
+R93	hasAttr Arg1:T139 Arg2:T140
+R94	hasAttr Arg1:T35 Arg2:T34
+R95	hasAttr Arg1:T37 Arg2:T34
+R96	hasAttr Arg1:T55 Arg2:T56
+R97	hasAttr Arg1:T128 Arg2:T129
+R98	hasAttr Arg1:T127 Arg2:T129

@@ -1,0 +1,271 @@
+T1	temporal 42 51	7/30/1993
+T2	temporal 52 63	12:00:00 AM
+T3	problem 64 87	CORONARY ARTERY DISEASE
+T4	bodyloc 64 79	CORONARY ARTERY
+T5	temporal 145 153	07-30-93
+T6	temporal 171 179	08-10-93
+T7	problem 202 225	Coronary artery disease
+T8	bodyloc 202 217	Coronary artery
+T9	problem 254 278	Congestive heart failure
+T10	bodyloc 265 270	heart
+T11	problem 284 302	Ventricular ectopy
+T12	bodyloc 284 295	Ventricular
+T13	problem 308 330	Pulmonary hypertension
+T14	bodyloc 308 317	Pulmonary
+T15	problem 336 348	Cardiomegaly
+T16	problem 354 371	Sinus tachycardia
+T17	problem 377 394	Diabetes mellitus
+T18	problem 400 412	Paraphimosis
+T19	problem 418 443	Right bundle branch block
+T20	bodyloc 418 437	Right bundle branch
+T21	problem 449 461	Pericarditis
+T22	drug 489 496	Heparin
+T23	problem 513 529	thrombocytopenia
+T24	drug 532 541	Pronestyl
+T25	problem 558 564	nausea
+T26	temporal 603 611	08/02/93
+T27	treatment 614 649	coronary artery bypass grafting x 3
+T28	temporal 652 660	08/02/93
+T29	temporal 728 736	08/02/93
+T30	treatment 739 777	Insertion of intra-aortic balloon pump
+T31	temporal 780 788	07/30/93
+T32	test 791 824	bilateral cardiac catheterization
+T33	temporal 827 835	07/30/93
+T34	test 838 859	Left ventriculography
+T35	temporal 862 870	07/30/93
+T36	test 873 903	bilateral coronary angiography
+T37	temporal 906 914	08/02/93
+T38	test 917 935	Signal average EKG
+T39	drug 965 972	Digoxin
+T40	strength 975 981	.25 mg
+T41	route 982 984	PO
+T42	frequency 985 987	QD
+T43	drug 990 997	Ecotrin
+T44	strength 1000 1006	325 mg
+T45	frequency 1007 1009	QD
+T46	drug 1012 1020	Coumadin
+T47	strength 1023 1029	2.5 mg
+T48	route 1030 1032	PO
+T49	frequency 1033 1035	QD
+T50	drug 1038 1048	Lisinopril
+T51	strength 1051 1057	2.5 mg
+T52	route 1058 1060	PO
+T53	frequency 1061 1063	QD
+T54	drug 1066 1075	Micronase
+T55	strength 1078 1082	5 mg
+T56	route 1083 1085	PO
+T57	frequency 1086 1089	BID
+T58	problem 1269 1285	double pneumonia
+T59	temporal 1289 1297	May 1992
+T60	problem 1402 1414	hypertension
+T61	problem 1419 1436	diabetes mellitus
+T62	problem 1469 1477	headache
+T63	problem 1482 1496	disorientation
+T64	test 1512 1516	A CT
+T65	test 1521 1529	MRI scan
+T66	problem 1543 1569	multiple cerebral infarcts
+T67	bodyloc 1552 1560	cerebral
+T68	drug 1590 1597	aspirin
+T69	problem 1627 1639	hypertension
+T70	drug 1672 1679	Vasotec
+T71	test 1682 1698	A Holter monitor
+T72	problem 1706 1724	ventricular ectopy
+T73	bodyloc 1706 1717	ventricular
+T74	test 1727 1749	A thallium stress test
+T75	problem 1757 1768	tachycardia
+T76	problem 1773 1787	severe dyspnea
+T77	bodyloc 1773 1779	severe
+T78	problem 1799 1823	a fall in blood pressure
+T79	test 1850 1867	An echocardiogram
+T80	problem 1875 1893	global hypokinesis
+T81	test 1928 1946	further evaluation
+T82	test 1972 1986	Blood pressure
+T83	labvalue 1987 1994	140/100
+T84	test 1997 2007	phosphorus
+T85	labvalue 2008 2010	94
+T86	test 2013 2019	weight
+T87	labvalue 2020 2026	181 lb
+T88	problem 2100 2107	Loud S4
+T89	problem 2112 2140	a II / VI regurgitant murmur
+T90	test 2164 2181	Peripheral pulses
+T91	test 2235 2241	Sodium
+T92	labvalue 2242 2245	140
+T93	test 2248 2257	potassium
+T94	labvalue 2258 2261	4.0
+T95	test 2264 2272	chloride
+T96	labvalue 2273 2276	104
+T97	test 2279 2282	CO2
+T98	labvalue 2283 2285	28
+T99	test 2288 2291	BUN
+T100	labvalue 2292 2294	14
+T101	test 2297 2307	creatinine
+T102	labvalue 2308 2311	1.1
+T103	test 2314 2321	glucose
+T104	labvalue 2322 2325	243
+T105	test 2328 2339	Cholesterol
+T106	labvalue 2340 2343	197
+T107	test 2346 2359	triglycerides
+T108	labvalue 2360 2363	118
+T109	test 2366 2369	HDL
+T110	labvalue 2370 2372	31
+T111	test 2375 2378	LDL
+T112	labvalue 2379 2382	142
+T113	test 2385 2398	total protein
+T114	labvalue 2399 2402	6.2
+T115	test 2405 2414	bilirubin
+T116	labvalue 2415 2418	1.0
+T117	test 2421 2441	alkaline phosphatase
+T118	labvalue 2442 2444	72
+T119	test 2447 2451	SGOT
+T120	labvalue 2452 2454	23
+T121	test 2457 2467	Hematocrit
+T122	labvalue 2485 2488	43%
+T123	test 2494 2513	a white blood count
+T124	labvalue 2517 2521	6600
+T125	test 2524 2527	MCV
+T126	labvalue 2532 2534	85
+T127	test 2584 2607	cardiac catheterization
+T128	test 2658 2684	a pulmonary wedge pressure
+T129	labvalue 2688 2690	45
+T130	test 2696 2723	a pulmonary artery pressure
+T131	labvalue 2727 2732	82/40
+T132	route 2753 2755	IV
+T133	drug 2756 2769	nitroglycerin
+T134	test 2772 2802	Selective coronary angiography
+T135	problem 2810 2861	an occluded right coronary artery in its midportion
+T136	bodyloc 2822 2843	right coronary artery
+T137	problem 2929 2968	multiple significant lesions in the LAD
+T138	bodyloc 2971 2989	His left ventricle
+T139	problem 3006 3025	diffuse hypokinesis
+T140	problem 3273 3297	congestive heart failure
+T141	bodyloc 3284 3289	heart
+T142	problem 3302 3331	the critical left main lesion
+T143	test 3360 3378	further evaluation
+T144	drug 3410 3419	diuretics
+T145	drug 3424 3432	nitrates
+T146	drug 3457 3468	his aspirin
+T147	route 3489 3491	IV
+T148	drug 3492 3499	Heparin
+T149	problem 3556 3579	some ventricular ectopy
+T150	bodyloc 3561 3572	ventricular
+T151	test 3583 3597	Holter monitor
+T152	problem 3613 3628	epigastric pain
+T153	temporal 3632 3637	07/31
+T154	problem 3703 3725	his anginal equivalent
+T155	problem 3740 3769	multifocal ventricular ectopy
+T156	bodyloc 3751 3762	ventricular
+T157	problem 3792 3837	some further anterolateral ST segment changes
+T158	problem 3864 3879	unstable angina
+T159	course 3864 3872	unstable
+T160	problem 3885 3914	his critical coronary anatomy
+T161	negation 4031 4044	no indication
+T162	treatment 4049 4064	patch placement
+T163	temporal 4093 4101	08/02/93
+T164	treatment 4104 4132	an intra-aortic balloon pump
+T165	treatment 4215 4256	quadruple coronary artery bypass grafting
+T166	treatment 4266 4313	a left internal mammary artery graft of the LAD
+T167	treatment 4403 4447	a saphenous vein snake graft to the diagonal
+T168	problem 4493 4507	A paraphimosis
+T169	treatment 4559 4566	surgery
+T170	problem 4574 4601	a ongoing sinus tachycardia
+T171	problem 4687 4736	occasional atrial and ventricular premature beats
+T172	bodyloc 4698 4720	atrial and ventricular
+T173	treatment 4739 4768	His intra-aortic balloon pump
+T174	problem 4961 4982	his diabetes mellitus
+T175	test 5012 5030	his platelet count
+T176	labvalue 5047 5064	171,000 to 54,000
+T177	route 5106 5117	intravenous
+T178	drug 5118 5125	Heparin
+T179	drug 5144 5151	Heparin
+T180	test 5215 5233	his platelet count
+T181	labvalue 5247 5253	normal
+T182	problem 5281 5308	a thrombocytopenic reaction
+T183	drug 5312 5319	Heparin
+T184	problem 5379 5415	nonsustained ventricular tachycardia
+T185	bodyloc 5392 5403	ventricular
+T186	problem 5456 5483	a right bundle branch block
+T187	bodyloc 5456 5477	a right bundle branch
+T188	problem 5539 5581	his low left ventricular ejection fraction
+T189	bodyloc 5543 5563	low left ventricular
+T190	drug 5615 5629	ACE inhibitors
+T191	drug 5632 5639	Digoxin
+T192	drug 5642 5650	Coumadin
+T193	drug 5657 5664	aspirin
+T194	problem 5746 5784	significant left ventricle dysfunction
+T195	bodyloc 5758 5772	left ventricle
+T196	test 5812 5833	his prothrombin times
+T197	problem 5838 5853	his arrhythmias
+T198	temporal 5965 5973	08-09-93
+T199	temporal 5979 5987	08/10/93
+R1	hasAttr Arg1:T3 Arg2:T4
+R2	hasAttr Arg1:T7 Arg2:T8
+R3	hasAttr Arg1:T9 Arg2:T10
+R4	hasAttr Arg1:T11 Arg2:T12
+R5	hasAttr Arg1:T13 Arg2:T14
+R6	hasAttr Arg1:T19 Arg2:T20
+R7	hasAttr Arg1:T27 Arg2:T26
+R8	hasAttr Arg1:T30 Arg2:T29
+R9	hasAttr Arg1:T32 Arg2:T31
+R10	hasAttr Arg1:T34 Arg2:T33
+R11	hasAttr Arg1:T36 Arg2:T35
+R12	hasAttr Arg1:T38 Arg2:T37
+R13	hasAttr Arg1:T39 Arg2:T42
+R14	hasAttr Arg1:T39 Arg2:T41
+R15	hasAttr Arg1:T39 Arg2:T40
+R16	hasAttr Arg1:T43 Arg2:T45
+R17	hasAttr Arg1:T43 Arg2:T44
+R18	hasAttr Arg1:T46 Arg2:T48
+R19	hasAttr Arg1:T46 Arg2:T47
+R20	hasAttr Arg1:T46 Arg2:T49
+R21	hasAttr Arg1:T50 Arg2:T51
+R22	hasAttr Arg1:T50 Arg2:T52
+R23	hasAttr Arg1:T50 Arg2:T53
+R24	hasAttr Arg1:T54 Arg2:T55
+R25	hasAttr Arg1:T54 Arg2:T57
+R26	hasAttr Arg1:T54 Arg2:T56
+R27	hasAttr Arg1:T58 Arg2:T59
+R28	hasAttr Arg1:T66 Arg2:T67
+R29	hasAttr Arg1:T72 Arg2:T73
+R30	hasAttr Arg1:T76 Arg2:T77
+R31	hasAttr Arg1:T82 Arg2:T83
+R32	hasAttr Arg1:T84 Arg2:T85
+R33	hasAttr Arg1:T86 Arg2:T87
+R34	hasAttr Arg1:T91 Arg2:T92
+R35	hasAttr Arg1:T93 Arg2:T94
+R36	hasAttr Arg1:T95 Arg2:T96
+R37	hasAttr Arg1:T97 Arg2:T98
+R38	hasAttr Arg1:T99 Arg2:T100
+R39	hasAttr Arg1:T101 Arg2:T102
+R40	hasAttr Arg1:T103 Arg2:T104
+R41	hasAttr Arg1:T105 Arg2:T106
+R42	hasAttr Arg1:T107 Arg2:T108
+R43	hasAttr Arg1:T109 Arg2:T110
+R44	hasAttr Arg1:T111 Arg2:T112
+R45	hasAttr Arg1:T113 Arg2:T114
+R46	hasAttr Arg1:T115 Arg2:T116
+R47	hasAttr Arg1:T117 Arg2:T118
+R48	hasAttr Arg1:T119 Arg2:T120
+R49	hasAttr Arg1:T121 Arg2:T122
+R50	hasAttr Arg1:T123 Arg2:T124
+R51	hasAttr Arg1:T125 Arg2:T126
+R52	hasAttr Arg1:T128 Arg2:T129
+R53	hasAttr Arg1:T130 Arg2:T131
+R54	hasAttr Arg1:T133 Arg2:T132
+R55	hasAttr Arg1:T135 Arg2:T136
+R56	hasAttr Arg1:T139 Arg2:T138
+R57	hasAttr Arg1:T140 Arg2:T141
+R58	hasAttr Arg1:T148 Arg2:T147
+R59	hasAttr Arg1:T149 Arg2:T150
+R60	hasAttr Arg1:T152 Arg2:T153
+R61	hasAttr Arg1:T155 Arg2:T156
+R62	hasAttr Arg1:T158 Arg2:T159
+R63	hasAttr Arg1:T162 Arg2:T161
+R64	hasAttr Arg1:T164 Arg2:T163
+R65	hasAttr Arg1:T171 Arg2:T172
+R66	hasAttr Arg1:T175 Arg2:T176
+R67	hasAttr Arg1:T178 Arg2:T177
+R68	hasAttr Arg1:T180 Arg2:T181
+R69	hasAttr Arg1:T184 Arg2:T185
+R70	hasAttr Arg1:T186 Arg2:T187
+R71	hasAttr Arg1:T188 Arg2:T189
+R72	hasAttr Arg1:T194 Arg2:T195

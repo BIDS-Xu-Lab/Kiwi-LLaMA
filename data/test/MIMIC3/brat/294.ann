@@ -1,0 +1,255 @@
+T1	temporal 19 27	2172-7-3
+T2	temporal 50 59	2172-7-13
+T3	problem 76 85	Allergies
+T4	drug 87 98	Amoxicillin
+T5	drug 101 108	Aspirin
+T6	drug 111 122	Clindamycin
+T7	drug 125 142	Erythromycin Base
+T8	drug 145 152	Bactrim
+T9	problem 215 224	confusion
+T10	test 263 266	EGD
+T11	problem 290 309	Respiratory failure
+T12	bodyloc 290 301	Respiratory
+T13	treatment 355 383	pressure support ventilation
+T14	problem 418 437	respiratory failure
+T15	bodyloc 418 429	respiratory
+T16	test 443 452	blood gas
+T17	problem 469 476	hypoxia
+T18	problem 478 513	Respiratory failure in this patient
+T19	bodyloc 478 489	Respiratory
+T20	problem 536 566	impending hemodynamic collapse
+T21	negation 578 580	no
+T22	problem 581 608	clear evidence of pneumonia
+T23	problem 612 643	other primary pulmonary process
+T24	bodyloc 626 635	pulmonary
+T25	test 647 658	chest x-ray
+T26	test 665 676	examination
+T27	problem 694 722	small right pleural effusion
+T28	severity 694 699	small
+T29	bodyloc 700 713	right pleural
+T30	problem 750 771	left pleural effusion
+T31	bodyloc 750 762	left pleural
+T32	problem 802 817	these effusions
+T33	severity 823 828	small
+T34	problem 859 879	respiratory distress
+T35	bodyloc 859 870	respiratory
+T36	treatment 911 939	pressure support ventilation
+T37	treatment 965 976	oxygenation
+T38	problem 1020 1031	Hypotension
+T39	problem 1049 1060	hypotensive
+T40	test 1079 1093	blood pressure
+T41	labvalue 1097 1106	low as 60
+T42	test 1112 1121	palpation
+T43	uncertain 1165 1171	likely
+T44	problem 1185 1193	GI bleed
+T45	bodyloc 1185 1187	GI
+T46	problem 1205 1239	the patient's elevated white count
+T47	problem 1257 1291	continuous hemodynamic instability
+T48	course 1257 1267	continuous
+T49	labvalue 1325 1331	stable
+T50	test 1332 1342	hematocrit
+T51	uncertain 1369 1375	likely
+T52	problem 1376 1402	other contributing factors
+T53	uncertain 1430 1439	suspected
+T54	problem 1450 1456	sepsis
+T55	treatment 1475 1490	empiric therapy
+T56	drug 1496 1508	levofloxacin
+T57	drug 1513 1519	Flagyl
+T58	test 1534 1562	cosyntropin stimulation test
+T59	problem 1593 1614	adrenal insufficiency
+T60	test 1616 1625	This test
+T61	labvalue 1630 1636	normal
+T62	problem 1653 1667	hypoadrenalism
+T63	negation 1679 1695	not contributing
+T64	problem 1699 1714	her hypotension
+T65	drug 1745 1757	levofloxacin
+T66	drug 1762 1768	Flagyl
+T67	treatment 1809 1824	empiric therapy
+T68	uncertain 1829 1837	possible
+T69	problem 1838 1844	sepsis
+T70	problem 1860 1881	labile blood pressure
+T71	course 1860 1866	labile
+T72	treatment 1923 1947	occasional fluid boluses
+T73	test 1960 1986	her mean arterial pressure
+T74	labvalue 1987 2002	greater than 60
+T75	drug 2037 2057	pressure medications
+T76	drug 2084 2092	Dopamine
+T77	problem 2141 2155	Upper GI bleed
+T78	bodyloc 2141 2149	Upper GI
+T79	test 2187 2197	hematocrit
+T80	labvalue 2201 2203	22
+T81	problem 2208 2225	signs of GI bleed
+T82	bodyloc 2217 2219	GI
+T83	problem 2236 2263	bright red blood per rectum
+T84	bodyloc 2257 2263	rectum
+T85	test 2265 2268	EGD
+T86	temporal 2275 2283	2172-7-5
+T87	problem 2300 2330	a bleeding mass in the stomach
+T88	bodyloc 2319 2330	the stomach
+T89	uncertain 2331 2341	suspicious
+T90	problem 2346 2385	malignancy of the linitis plastica type
+T91	severity 2346 2356	malignancy
+T92	test 2387 2395	Biopsies
+T93	problem 2418 2447	adenocarcinoma of the stomach
+T94	bodyloc 2436 2447	the stomach
+T95	problem 2457 2474	diffuse gastritis
+T96	problem 2476 2490	This gastritis
+T97	problem 2515 2537	the patient's GI bleed
+T98	bodyloc 2529 2531	GI
+T99	dosage 2585 2592	2 units
+T100	drug 2596 2618	packed red blood cells
+T101	test 2627 2641	her hematocrit
+T102	labvalue 2645 2647	27
+T103	test 2649 2659	Hematocrit
+T104	test 2766 2780	her hematocrit
+T105	labvalue 2784 2799	greater than 30
+T106	test 2801 2815	Her hematocrit
+T107	labvalue 2825 2837	stable at 30
+T108	problem 2898 2906	GI bleed
+T109	bodyloc 2898 2900	GI
+T110	course 2911 2921	stabilized
+T111	drug 2977 2985	Protonix
+T112	route 2986 2988	IV
+T113	frequency 2989 2994	b.i.d
+T114	drug 2997 3007	sucralfate
+T115	strength 3008 3014	1 gram
+T116	route 3015 3025	by NG tube
+T117	frequency 3026 3032	q.i.d.
+T118	treatment 3038 3057	fluid resuscitation
+T119	negation 3059 3061	No
+T120	treatment 3062 3071	treatment
+T121	problem 3090 3119	her diffuse gastric carcinoma
+T122	bodyloc 3102 3109	gastric
+T123	problem 3124 3133	gastritis
+T124	drug 3145 3176	the above mentioned medications
+T125	problem 3178 3194	Thrombocytopenia
+T126	labvalue 3226 3232	normal
+T127	test 3233 3247	platelet count
+T128	test 3253 3262	platelets
+T129	labvalue 3285 3291	87,000
+T130	test 3348 3374	her white blood cell count
+T131	test 3379 3389	hematocrit
+T132	uncertain 3446 3464	The possibility of
+T133	problem 3465 3489	consumptive coagulopathy
+T134	problem 3531 3548	gastric carcinoma
+T135	bodyloc 3531 3538	gastric
+T136	test 3550 3560	Fibrinogen
+T137	test 3565 3568	FDP
+T138	problem 3598 3601	DIC
+T139	labvalue 3624 3645	within normal limits.
+T140	test 3646 3655	Platelets
+T141	labvalue 3700 3713	normal levels
+T142	negation 3740 3742	no
+T143	problem 3743 3771	sequelae of thrombocytopenia
+T144	problem 3794 3798	Pain
+T145	drug 3829 3837	Fentanyl
+T146	route 3838 3842	drip
+T147	treatment 3863 3881	adequate analgesia
+T148	drug 3931 3939	Fentanyl
+T149	route 3940 3944	drip
+T150	negation 3950 3952	no
+T151	problem 3953 3966	signs of pain
+T152	negation 3978 3980	no
+T153	problem 3981 3993	hypertension
+T154	problem 3995 4006	tachycardia
+T155	problem 4011 4032	physical sign of pain
+T156	problem 4071 4099	physical signs of discomfort
+T157	drug 4114 4122	Fentanyl
+T158	dosage 4123 4130	boluses
+T159	drug 4146 4158	her Fentanyl
+T160	route 4159 4163	drip
+T161	drug 4165 4173	Fentanyl
+T162	dosage 4174 4181	boluses
+T163	treatment 4224 4249	strong level of analgesia
+T164	problem 4711 4732	the patient's disease
+T165	problem 4800 4811	her disease
+T166	problem 4880 4898	end of life issues
+T167	treatment 4903 4919	end of life care
+T168	temporal 5013 5022	2172-7-10
+T169	treatment 5047 5059	comfort care
+T170	treatment 5073 5082	treatment
+T171	test 5148 5164	laboratory tests
+T172	drug 5169 5180	medications
+T173	drug 5192 5203	medications
+T174	drug 5276 5284	Fentanyl
+T175	route 5285 5289	drip
+T176	drug 5294 5302	Fentanyl
+T177	dosage 5303 5310	boluses
+T178	treatment 5323 5332	analgesia
+T179	test 5424 5452	the patient's blood pressure
+T180	labvalue 5469 5486	trend down slowly
+T181	treatment 5544 5555	ventilation
+T182	temporal 5563 5572	2172-7-13
+T183	problem 5597 5620	cardiovascular collapse
+T184	problem 5635 5676	her diffuse hemorrhagic gastric carcinoma
+T185	bodyloc 5659 5666	gastric
+R1	hasAttr Arg1:T11 Arg2:T12
+R2	hasAttr Arg1:T14 Arg2:T15
+R3	hasAttr Arg1:T18 Arg2:T19
+R4	hasAttr Arg1:T22 Arg2:T21
+R5	hasAttr Arg1:T23 Arg2:T21
+R6	hasAttr Arg1:T23 Arg2:T24
+R7	hasAttr Arg1:T27 Arg2:T29
+R8	hasAttr Arg1:T27 Arg2:T28
+R9	hasAttr Arg1:T30 Arg2:T31
+R10	hasAttr Arg1:T32 Arg2:T33
+R11	hasAttr Arg1:T34 Arg2:T35
+R12	hasAttr Arg1:T40 Arg2:T41
+R13	hasAttr Arg1:T44 Arg2:T43
+R14	hasAttr Arg1:T44 Arg2:T45
+R15	hasAttr Arg1:T47 Arg2:T48
+R16	hasAttr Arg1:T50 Arg2:T49
+R17	hasAttr Arg1:T52 Arg2:T51
+R18	hasAttr Arg1:T54 Arg2:T53
+R19	hasAttr Arg1:T60 Arg2:T61
+R20	hasAttr Arg1:T64 Arg2:T63
+R21	hasAttr Arg1:T69 Arg2:T68
+R22	hasAttr Arg1:T70 Arg2:T71
+R23	hasAttr Arg1:T73 Arg2:T74
+R24	hasAttr Arg1:T77 Arg2:T78
+R25	hasAttr Arg1:T79 Arg2:T80
+R26	hasAttr Arg1:T81 Arg2:T82
+R27	hasAttr Arg1:T83 Arg2:T84
+R28	hasAttr Arg1:T85 Arg2:T86
+R29	hasAttr Arg1:T87 Arg2:T88
+R30	hasAttr Arg1:T90 Arg2:T89
+R31	hasAttr Arg1:T90 Arg2:T91
+R32	hasAttr Arg1:T93 Arg2:T94
+R33	hasAttr Arg1:T97 Arg2:T98
+R34	hasAttr Arg1:T100 Arg2:T99
+R35	hasAttr Arg1:T101 Arg2:T102
+R36	hasAttr Arg1:T104 Arg2:T105
+R37	hasAttr Arg1:T106 Arg2:T107
+R38	hasAttr Arg1:T108 Arg2:T109
+R39	hasAttr Arg1:T108 Arg2:T110
+R40	hasAttr Arg1:T111 Arg2:T113
+R41	hasAttr Arg1:T111 Arg2:T112
+R42	hasAttr Arg1:T114 Arg2:T116
+R43	hasAttr Arg1:T114 Arg2:T117
+R44	hasAttr Arg1:T114 Arg2:T115
+R45	hasAttr Arg1:T120 Arg2:T119
+R46	hasAttr Arg1:T121 Arg2:T122
+R47	hasAttr Arg1:T127 Arg2:T126
+R48	hasAttr Arg1:T128 Arg2:T129
+R49	hasAttr Arg1:T133 Arg2:T132
+R50	hasAttr Arg1:T134 Arg2:T135
+R51	hasAttr Arg1:T136 Arg2:T139
+R52	hasAttr Arg1:T137 Arg2:T139
+R53	hasAttr Arg1:T140 Arg2:T141
+R54	hasAttr Arg1:T143 Arg2:T142
+R55	hasAttr Arg1:T145 Arg2:T146
+R56	hasAttr Arg1:T148 Arg2:T149
+R57	hasAttr Arg1:T151 Arg2:T150
+R58	hasAttr Arg1:T154 Arg2:T152
+R59	hasAttr Arg1:T153 Arg2:T152
+R60	hasAttr Arg1:T155 Arg2:T152
+R61	hasAttr Arg1:T157 Arg2:T158
+R62	hasAttr Arg1:T159 Arg2:T160
+R63	hasAttr Arg1:T161 Arg2:T162
+R64	hasAttr Arg1:T169 Arg2:T168
+R65	hasAttr Arg1:T174 Arg2:T175
+R66	hasAttr Arg1:T176 Arg2:T177
+R67	hasAttr Arg1:T179 Arg2:T180
+R68	hasAttr Arg1:T184 Arg2:T182
+R69	hasAttr Arg1:T183 Arg2:T182
+R70	hasAttr Arg1:T184 Arg2:T185

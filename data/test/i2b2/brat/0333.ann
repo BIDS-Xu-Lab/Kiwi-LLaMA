@@ -1,0 +1,421 @@
+T1	temporal 18 28	2016-03-30
+T2	temporal 46 56	2016-04-03
+T3	temporal 73 83	1951-08-19
+T4	problem 182 194	hypertension
+T5	problem 197 217	hypercholesterolemia
+T6	problem 220 237	diabetes mellitus
+T7	problem 244 266	dilated cardiomyopathy
+T8	test 274 304	a transthoracic echocardiogram
+T9	temporal 308 318	2016-01-13
+T10	test 327 347	an ejection fraction
+T11	labvalue 351 354	40%
+T12	problem 357 395	posterior and inferior apical akinesis
+T13	bodyloc 357 386	posterior and inferior apical
+T14	problem 402 433	large left ventricular thrombus
+T15	bodyloc 408 424	left ventricular
+T16	temporal 467 477	2016-01-21
+T17	temporal 481 491	2016-02-03
+T18	negation 516 525	ruled out
+T19	problem 530 553	a myocardial infarction
+T20	bodyloc 532 542	myocardial
+T21	test 564 589	a cardiac catheterization
+T22	problem 605 621	3-vessel disease
+T23	bodyloc 605 613	3-vessel
+T24	problem 688 719	diffuse 90% mid distal stenosis
+T25	bodyloc 700 710	mid distal
+T26	problem 752 794	serial 70% and 90% left circumflex lesions
+T27	bodyloc 771 786	left circumflex
+T28	test 872 890	initial evaluation
+T29	treatment 895 925	a coronary artery bypass graft
+T30	problem 942 976	the right coronary artery stenosis
+T31	bodyloc 942 967	the right coronary artery
+T32	treatment 1013 1050	a right internal carotid artery stent
+T33	drug 1075 1083	Coumadin
+T34	test 1095 1098	INR
+T35	labvalue 1102 1110	2.5 to 3
+T36	temporal 1144 1154	2016-03-30
+T37	treatment 1159 1199	an elective coronary artery bypass graft
+T38	treatment 1205 1212	surgery
+T39	bodyloc 1215 1235	the descending aorta
+T40	problem 1252 1261	calcified
+T41	test 1268 1316	an intraoperative transesophageal echocardiogram
+T42	problem 1326 1371	an irregular intra-aortic pedunculated lesion
+T43	bodyloc 1339 1351	intra-aortic
+T44	problem 1380 1404	the elevated stroke risk
+T45	treatment 1408 1429	aortic cross-clamping
+T46	treatment 1476 1490	a bypass graft
+T47	treatment 1623 1657	percutaneous coronary intervention
+T48	problem 1709 1726	Diabetes mellitus
+T49	problem 1732 1744	Hypertension
+T50	problem 1750 1770	Hypercholesterolemia
+T51	problem 1776 1782	Asthma
+T52	problem 1788 1809	Chronic low back pain
+T53	course 1788 1795	Chronic
+T54	bodyloc 1796 1804	low back
+T55	problem 1815 1829	Cholelithiasis
+T56	problem 1835 1858	Coronary artery disease
+T57	bodyloc 1835 1850	Coronary artery
+T58	problem 1887 1909	Dilated cardiomyopathy
+T59	drug 1964 1972	Dopamine
+T60	route 1973 1977	drip
+T61	drug 1988 1995	Insulin
+T62	route 1996 2000	drip
+T63	drug 2063 2071	Percocet
+T64	frequency 2072 2081	as needed
+T65	drug 2087 2097	Sucralfate
+T66	strength 2098 2101	1 g
+T67	route 2106 2122	nasogastric tube
+T68	frequency 2123 2128	q.6h.
+T69	drug 2132 2139	Aspirin
+T70	strength 2140 2146	325 mg
+T71	route 2147 2151	p.o.
+T72	frequency 2152 2164	once per day
+T73	drug 2170 2176	Colace
+T74	strength 2177 2183	100 mg
+T75	route 2184 2188	p.o.
+T76	frequency 2189 2202	twice per day
+T77	drug 2208 2215	Flonase
+T78	dosage 2216 2217	2
+T79	form 2218 2223	puffs
+T80	frequency 2224 2237	twice per day
+T81	drug 2243 2250	Lipitor
+T82	strength 2251 2256	10 mg
+T83	route 2257 2261	p.o.
+T84	frequency 2262 2274	once per day
+T85	drug 2281 2289	Protonix
+T86	strength 2290 2295	40 mg
+T87	route 2296 2300	p.o.
+T88	frequency 2301 2313	once per day
+T89	drug 2320 2326	Plavix
+T90	strength 2327 2332	75 mg
+T91	route 2333 2337	p.o.
+T92	frequency 2338 2350	once per day
+T93	problem 2353 2362	ALLERGIES
+T94	negation 2365 2367	No
+T95	problem 2368 2388	known drug allergies
+T96	test 2488 2508	Physical examination
+T97	test 2518 2529	temperature
+T98	labvalue 2534 2538	99.3
+T99	test 2541 2551	heart rate
+T100	labvalue 2556 2558	66
+T101	labvalue 2564 2570	normal
+T102	test 2571 2583	sinus rhythm
+T103	test 2586 2600	blood pressure
+T104	labvalue 2605 2611	132/51
+T105	test 2614 2630	respiratory rate
+T106	labvalue 2635 2637	22
+T107	test 2644 2661	oxygen saturation
+T108	labvalue 2666 2670	100%
+T109	treatment 2674 2696	3 liters nasal cannula
+T110	test 2699 2703	Swan
+T111	test 2711 2715	a PA
+T112	labvalue 2719 2724	29/11
+T113	test 2727 2730	SVR
+T114	labvalue 2734 2738	14/9
+T115	test 2741 2755	cardiac output
+T116	labvalue 2759 2763	3.86
+T117	test 2766 2779	cardiac index
+T118	labvalue 2783 2787	2.14
+T119	test 2790 2802	Urine output
+T120	labvalue 2806 2830	30 cc to 100 cc per hour
+T121	temporal 2836 2855	the last four hours
+T122	treatment 2858 2868	Chest tube
+T123	negation 2983 2985	no
+T124	problem 2986 3003	apparent distress
+T125	negation 3008 3014	denied
+T126	problem 3015 3019	pain
+T127	test 3022 3072	Head , eyes , ears , nose , and throat examination
+T128	negation 3077 3084	without
+T129	problem 3085 3091	bruits
+T130	labvalue 3105 3110	clear
+T131	test 3114 3126	auscultation
+T132	labvalue 3150 3157	regular
+T133	test 3161 3165	rate
+T134	test 3170 3176	rhythm
+T135	labvalue 3179 3185	Normal
+T136	test 3186 3204	first heart sounds
+T137	test 3209 3228	second heart sounds
+T138	negation 3231 3233	No
+T139	problem 3234 3249	audible murmurs
+T140	bodyloc 3331 3342	Extremities
+T141	negation 3348 3355	without
+T142	problem 3356 3361	edema
+T143	test 3364 3386	Neurologic examination
+T144	labvalue 3391 3399	nonfocal
+T145	treatment 3402 3407	Lines
+T146	treatment 3417 3459	a right antecubital peripheral intravenous
+T147	treatment 3462 3472	Chest tube
+T148	treatment 3511 3539	an pulmonary artery catheter
+T149	test 3588 3600	Laboratories
+T150	test 3610 3632	white blood cell count
+T151	labvalue 3637 3641	12.7
+T152	test 3644 3654	hematocrit
+T153	labvalue 3659 3663	32.4
+T154	test 3666 3675	platelets
+T155	labvalue 3681 3684	140
+T156	test 3691 3707	mean cell volume
+T157	labvalue 3712 3714	80
+T158	test 3735 3754	blood urea nitrogen
+T159	labvalue 3759 3761	14
+T160	test 3764 3774	creatinine
+T161	labvalue 3779 3782	0.6
+T162	test 3789 3796	glucose
+T163	labvalue 3801 3804	147
+T164	test 3807 3810	INR
+T165	labvalue 3815 3818	1.2
+T166	test 3821 3848	partial thromboplastin time
+T167	labvalue 3853 3857	23.7
+T168	test 3864 3880	prothrombin time
+T169	labvalue 3885 3889	13.4
+T170	test 3892 3904	Free calcium
+T171	labvalue 3909 3913	0.95
+T172	temporal 3917 3922	03-30
+T173	test 3925 3934	Phosphate
+T174	labvalue 3939 3942	3.6
+T175	test 3947 3956	magnesium
+T176	labvalue 3961 3964	2.2
+T177	test 3967 3985	Arterial blood gas
+T178	temporal 3989 3995	3 a.m.
+T179	labvalue 4009 4019	7.4/45/125
+T180	problem 4081 4097	3-vessel disease
+T181	bodyloc 4081 4089	3-vessel
+T182	treatment 4223 4262	an aborted coronary artery bypass graft
+T183	problem 4268 4292	a mobile aortic atheroma
+T184	bodyloc 4277 4283	aortic
+T185	drug 4334 4341	aspirin
+T186	drug 4344 4350	Plavix
+T187	drug 4357 4363	statin
+T188	drug 4400 4408	dopamine
+T189	drug 4411 4427	the beta blocker
+T190	drug 4432 4445	ACE inhibitor
+T191	problem 4478 4507	the left ventricular thrombus
+T192	bodyloc 4478 4498	the left ventricular
+T193	test 4519 4522	INR
+T194	labvalue 4532 4540	2.5 to 3
+T195	drug 4569 4576	heparin
+T196	treatment 4610 4623	a thoracotomy
+T197	treatment 4628 4638	chest tube
+T198	temporal 4690 4695	04-01
+T199	treatment 4756 4770	the chest tube
+T200	treatment 4812 4839	transcutaneous pacing wires
+T201	temporal 4865 4870	04-01
+T202	treatment 4900 4907	surgery
+T203	drug 4936 4952	the beta blocker
+T204	drug 4957 4970	ACE inhibitor
+T205	drug 5045 5055	Wellbutrin
+T206	treatment 5149 5183	percutaneous coronary intervention
+T207	temporal 5337 5342	04-02
+T208	test 5351 5361	evaluation
+T209	treatment 5449 5464	anticoagulation
+T210	negation 5481 5483	no
+T211	problem 5484 5499	aortic thrombus
+T212	bodyloc 5484 5490	aortic
+T213	problem 5509 5525	an aortic plaque
+T214	bodyloc 5512 5518	aortic
+T215	negation 5542 5544	no
+T216	problem 5545 5569	anterior/apical akinesis
+T217	bodyloc 5545 5560	anterior/apical
+T218	problem 5594 5623	the left ventricular thrombus
+T219	bodyloc 5594 5614	the left ventricular
+T220	treatment 5662 5669	therapy
+T221	problem 5730 5754	a slight hematocrit drop
+T222	treatment 5774 5808	one unit of packed red blood cells
+T223	test 5820 5830	hematocrit
+T224	labvalue 5834 5849	greater than 30
+T225	temporal 5855 5860	04-03
+T226	drug 5863 5872	captopril
+T227	drug 5877 5885	atenolol
+T228	treatment 5905 5931	the patient 's leg bandage
+T229	treatment 5937 5953	the vein harvest
+T230	treatment 6004 6023	the medical regimen
+T231	negation 6032 6039	without
+T232	problem 6040 6050	chest pain
+T233	bodyloc 6040 6045	chest
+T234	problem 6053 6072	shortness of breath
+T235	problem 6078 6096	any other symptoms
+T236	treatment 6310 6356	an eventual percutaneous coronary intervention
+T237	treatment 6401 6416	her thoracotomy
+T238	problem 6443 6466	Coronary artery disease
+T239	bodyloc 6443 6458	Coronary artery
+T240	problem 6469 6485	3-vessel disease
+T241	bodyloc 6469 6477	3-vessel
+T242	treatment 6503 6539	aborted coronary artery bypass graft
+T243	problem 6547 6569	mobile aortic atheroma
+T244	bodyloc 6554 6560	aortic
+T245	problem 6575 6583	Diabetes
+T246	problem 6589 6601	Hypertension
+T247	drug 6712 6719	Aspirin
+T248	strength 6720 6726	325 mg
+T249	route 6727 6731	p.o.
+T250	frequency 6732 6744	once per day
+T251	drug 6750 6758	Docusate
+T252	strength 6759 6765	100 mg
+T253	route 6766 6770	p.o.
+T254	frequency 6771 6784	twice per day
+T255	drug 6790 6801	Fluticasone
+T256	dosage 6802 6803	2
+T257	form 6804 6809	puffs
+T258	route 6810 6817	inhaled
+T259	frequency 6818 6831	twice per day
+T260	drug 6837 6845	Protonix
+T261	strength 6846 6851	40 mg
+T262	route 6852 6856	p.o.
+T263	frequency 6857 6869	once per day
+T264	drug 6875 6881	Plavix
+T265	strength 6882 6887	75 mg
+T266	route 6888 6892	p.o.
+T267	frequency 6893 6905	once per day
+T268	drug 6911 6922	Pravastatin
+T269	strength 6923 6928	20 mg
+T270	route 6929 6933	p.o.
+T271	frequency 6934 6946	once per day
+T272	drug 6952 6961	Bupropion
+T273	strength 6962 6968	100 mg
+T274	route 6969 6973	p.o.
+T275	frequency 6974 6987	twice per day
+T276	drug 7018 7026	Atenolol
+T277	strength 7027 7032	25 mg
+T278	route 7033 7037	p.o.
+T279	frequency 7038 7050	once per day
+T280	drug 7056 7066	Lisinopril
+T281	strength 7067 7071	5 mg
+T282	route 7072 7076	p.o.
+T283	frequency 7077 7089	once per day
+T284	temporal 7177 7187	2016-06-15
+T285	temporal 7188 7193	21:48
+T286	temporal 7197 7207	2016-06-19
+T287	temporal 7208 7213	10:46
+T288	temporal 7284 7294	2016-06-30
+T289	temporal 7295 7302	1:09 PM
+R1	hasAttr Arg1:T10 Arg2:T9
+R2	hasAttr Arg1:T10 Arg2:T11
+R3	hasAttr Arg1:T12 Arg2:T13
+R4	hasAttr Arg1:T14 Arg2:T15
+R5	hasAttr Arg1:T19 Arg2:T18
+R6	hasAttr Arg1:T19 Arg2:T20
+R7	hasAttr Arg1:T22 Arg2:T23
+R8	hasAttr Arg1:T24 Arg2:T25
+R9	hasAttr Arg1:T26 Arg2:T27
+R10	hasAttr Arg1:T30 Arg2:T31
+R11	hasAttr Arg1:T34 Arg2:T35
+R12	hasAttr Arg1:T37 Arg2:T36
+R13	hasAttr Arg1:T40 Arg2:T39
+R14	hasAttr Arg1:T42 Arg2:T43
+R15	hasAttr Arg1:T52 Arg2:T53
+R16	hasAttr Arg1:T52 Arg2:T54
+R17	hasAttr Arg1:T56 Arg2:T57
+R18	hasAttr Arg1:T59 Arg2:T60
+R19	hasAttr Arg1:T61 Arg2:T62
+R20	hasAttr Arg1:T63 Arg2:T64
+R21	hasAttr Arg1:T65 Arg2:T66
+R22	hasAttr Arg1:T65 Arg2:T68
+R23	hasAttr Arg1:T65 Arg2:T67
+R24	hasAttr Arg1:T69 Arg2:T72
+R25	hasAttr Arg1:T69 Arg2:T71
+R26	hasAttr Arg1:T69 Arg2:T70
+R27	hasAttr Arg1:T73 Arg2:T74
+R28	hasAttr Arg1:T73 Arg2:T75
+R29	hasAttr Arg1:T73 Arg2:T76
+R30	hasAttr Arg1:T77 Arg2:T80
+R31	hasAttr Arg1:T77 Arg2:T79
+R32	hasAttr Arg1:T77 Arg2:T78
+R33	hasAttr Arg1:T81 Arg2:T83
+R34	hasAttr Arg1:T81 Arg2:T84
+R35	hasAttr Arg1:T81 Arg2:T82
+R36	hasAttr Arg1:T85 Arg2:T86
+R37	hasAttr Arg1:T85 Arg2:T87
+R38	hasAttr Arg1:T85 Arg2:T88
+R39	hasAttr Arg1:T89 Arg2:T91
+R40	hasAttr Arg1:T89 Arg2:T90
+R41	hasAttr Arg1:T89 Arg2:T92
+R42	hasAttr Arg1:T95 Arg2:T94
+R43	hasAttr Arg1:T97 Arg2:T98
+R44	hasAttr Arg1:T99 Arg2:T100
+R45	hasAttr Arg1:T102 Arg2:T101
+R46	hasAttr Arg1:T103 Arg2:T104
+R47	hasAttr Arg1:T105 Arg2:T106
+R48	hasAttr Arg1:T107 Arg2:T108
+R49	hasAttr Arg1:T111 Arg2:T112
+R50	hasAttr Arg1:T113 Arg2:T114
+R51	hasAttr Arg1:T115 Arg2:T116
+R52	hasAttr Arg1:T117 Arg2:T118
+R53	hasAttr Arg1:T119 Arg2:T120
+R54	hasAttr Arg1:T119 Arg2:T121
+R55	hasAttr Arg1:T124 Arg2:T123
+R56	hasAttr Arg1:T126 Arg2:T125
+R57	hasAttr Arg1:T129 Arg2:T128
+R58	hasAttr Arg1:T131 Arg2:T130
+R59	hasAttr Arg1:T133 Arg2:T132
+R60	hasAttr Arg1:T134 Arg2:T132
+R61	hasAttr Arg1:T136 Arg2:T135
+R62	hasAttr Arg1:T137 Arg2:T135
+R63	hasAttr Arg1:T139 Arg2:T138
+R64	hasAttr Arg1:T142 Arg2:T140
+R65	hasAttr Arg1:T142 Arg2:T141
+R66	hasAttr Arg1:T143 Arg2:T144
+R67	hasAttr Arg1:T150 Arg2:T151
+R68	hasAttr Arg1:T152 Arg2:T153
+R69	hasAttr Arg1:T154 Arg2:T155
+R70	hasAttr Arg1:T156 Arg2:T157
+R71	hasAttr Arg1:T158 Arg2:T159
+R72	hasAttr Arg1:T160 Arg2:T161
+R73	hasAttr Arg1:T162 Arg2:T163
+R74	hasAttr Arg1:T164 Arg2:T165
+R75	hasAttr Arg1:T166 Arg2:T167
+R76	hasAttr Arg1:T168 Arg2:T169
+R77	hasAttr Arg1:T170 Arg2:T171
+R78	hasAttr Arg1:T170 Arg2:T172
+R79	hasAttr Arg1:T173 Arg2:T174
+R80	hasAttr Arg1:T175 Arg2:T176
+R81	hasAttr Arg1:T177 Arg2:T178
+R82	hasAttr Arg1:T177 Arg2:T179
+R83	hasAttr Arg1:T180 Arg2:T181
+R84	hasAttr Arg1:T183 Arg2:T184
+R85	hasAttr Arg1:T191 Arg2:T192
+R86	hasAttr Arg1:T193 Arg2:T194
+R87	hasAttr Arg1:T199 Arg2:T198
+R88	hasAttr Arg1:T202 Arg2:T201
+R89	hasAttr Arg1:T211 Arg2:T210
+R90	hasAttr Arg1:T211 Arg2:T212
+R91	hasAttr Arg1:T213 Arg2:T214
+R92	hasAttr Arg1:T216 Arg2:T215
+R93	hasAttr Arg1:T216 Arg2:T217
+R94	hasAttr Arg1:T218 Arg2:T219
+R95	hasAttr Arg1:T223 Arg2:T224
+R96	hasAttr Arg1:T226 Arg2:T225
+R97	hasAttr Arg1:T227 Arg2:T225
+R98	hasAttr Arg1:T235 Arg2:T231
+R99	hasAttr Arg1:T232 Arg2:T231
+R100	hasAttr Arg1:T234 Arg2:T231
+R101	hasAttr Arg1:T232 Arg2:T233
+R102	hasAttr Arg1:T238 Arg2:T239
+R103	hasAttr Arg1:T240 Arg2:T241
+R104	hasAttr Arg1:T243 Arg2:T244
+R105	hasAttr Arg1:T247 Arg2:T250
+R106	hasAttr Arg1:T247 Arg2:T249
+R107	hasAttr Arg1:T247 Arg2:T248
+R108	hasAttr Arg1:T251 Arg2:T253
+R109	hasAttr Arg1:T251 Arg2:T254
+R110	hasAttr Arg1:T251 Arg2:T252
+R111	hasAttr Arg1:T255 Arg2:T258
+R112	hasAttr Arg1:T255 Arg2:T259
+R113	hasAttr Arg1:T255 Arg2:T256
+R114	hasAttr Arg1:T255 Arg2:T257
+R115	hasAttr Arg1:T260 Arg2:T263
+R116	hasAttr Arg1:T260 Arg2:T262
+R117	hasAttr Arg1:T260 Arg2:T261
+R118	hasAttr Arg1:T264 Arg2:T266
+R119	hasAttr Arg1:T264 Arg2:T267
+R120	hasAttr Arg1:T264 Arg2:T265
+R121	hasAttr Arg1:T268 Arg2:T271
+R122	hasAttr Arg1:T268 Arg2:T270
+R123	hasAttr Arg1:T268 Arg2:T269
+R124	hasAttr Arg1:T272 Arg2:T274
+R125	hasAttr Arg1:T272 Arg2:T273
+R126	hasAttr Arg1:T272 Arg2:T275
+R127	hasAttr Arg1:T276 Arg2:T277
+R128	hasAttr Arg1:T276 Arg2:T279
+R129	hasAttr Arg1:T276 Arg2:T278
+R130	hasAttr Arg1:T280 Arg2:T281
+R131	hasAttr Arg1:T280 Arg2:T282
+R132	hasAttr Arg1:T280 Arg2:T283

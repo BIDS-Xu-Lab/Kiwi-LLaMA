@@ -1,0 +1,154 @@
+T1	temporal 17 27	2012-04-27
+T2	temporal 45 55	2012-04-30
+T3	temporal 72 82	1933-02-05
+T4	problem 195 204	cataracts
+T5	problem 207 215	glaucoma
+T6	problem 222 230	diabetes
+T7	problem 237 241	fell
+T8	treatment 259 271	a wheelchair
+T9	negation 289 291	no
+T10	problem 292 313	loss of consciousness
+T11	negation 316 318	no
+T12	problem 319 328	dizziness
+T13	negation 331 333	no
+T14	problem 334 344	chest pain
+T15	bodyloc 334 339	chest
+T16	negation 351 353	no
+T17	problem 354 373	shortness of breath
+T18	test 411 421	Heart rate
+T19	labvalue 426 428	77
+T20	test 431 445	Blood pressure
+T21	labvalue 446 452	132/48
+T22	test 455 471	Respiratory rate
+T23	labvalue 476 478	17
+T24	test 481 485	Sats
+T25	labvalue 486 489	96%
+T26	test 504 519	Her temperature
+T27	labvalue 524 528	97.6
+T28	labvalue 619 626	regular
+T29	test 627 631	rate
+T30	test 636 642	rhythm
+T31	labvalue 671 676	clear
+T32	test 680 692	auscultation
+T33	negation 721 723	No
+T34	problem 724 732	cyanosis
+T35	problem 735 743	clubbing
+T36	problem 749 754	edema
+T37	test 757 764	Head CT
+T38	problem 772 823	a front focal hemorrhage in the left occipital lobe
+T39	bodyloc 800 823	the left occipital lobe
+T40	problem 850 877	intraparenchymal hemorrhage
+T41	bodyloc 850 866	intraparenchymal
+T42	problem 881 926	epidural or subdural hemorrhage near the falx
+T43	bodyloc 881 901	epidural or subdural
+T44	bodyloc 918 926	the falx
+T45	negation 932 934	no
+T46	problem 935 940	shift
+T47	test 943 960	CT of the C spine
+T48	labvalue 965 973	negative
+T49	test 978 996	her cervical spine
+T50	labvalue 1001 1008	cleared
+T51	test 1149 1163	Repeat head CT
+T52	problem 1171 1183	stable bleed
+T53	course 1171 1177	stable
+T54	temporal 1382 1394	in two weeks
+T55	test 1400 1416	a repeat head CT
+T56	drug 1449 1461	Levofloxacin
+T57	strength 1462 1468	250 mg
+T58	route 1469 1473	p.o.
+T59	frequency 1474 1480	q.24h.
+T60	duration 1481 1488	x3 days
+T61	drug 1494 1502	Dilantin
+T62	strength 1503 1509	100 mg
+T63	route 1510 1514	p.o.
+T64	duration 1515 1521	t.i.d.
+T65	drug 1525 1531	Colace
+T66	strength 1532 1538	100 mg
+T67	route 1539 1543	p.o.
+T68	duration 1544 1550	b.i.d.
+T69	drug 1554 1562	Timoptic
+T70	strength 1563 1567	0.25
+T71	dosage 1568 1571	one
+T72	form 1572 1576	drop
+T73	route 1577 1581	O.U.
+T74	duration 1582 1588	b.i.d.
+T75	drug 1592 1602	Lantoprost
+T76	strength 1603 1608	0.005
+T77	route 1609 1619	ophthalmic
+T78	form 1620 1628	solution
+T79	dosage 1629 1632	one
+T80	form 1633 1637	drop
+T81	route 1638 1642	O.U.
+T82	duration 1643 1649	q.h.s.
+T83	drug 1653 1659	Zantac
+T84	strength 1660 1666	150 mg
+T85	route 1667 1671	p.o.
+T86	duration 1672 1678	b.i.d.
+T87	drug 1682 1697	Insulin-sliding
+T88	dosage 1715 1723	40 units
+T89	drug 1727 1734	Humalog
+T90	frequency 1738 1746	the a.m.
+T91	dosage 1751 1753	20
+T92	frequency 1754 1762	at night
+T93	temporal 1858 1870	in two weeks
+T94	test 1876 1890	repeat head CT
+T95	temporal 1974 1984	2012-04-30
+T96	temporal 1985 1990	11:30
+T97	temporal 1995 2005	2012-05-01
+T98	temporal 2006 2011	08:13
+T99	temporal 2082 2092	2012-06-05
+T100	temporal 2093 2100	8:08 AM
+R1	hasAttr Arg1:T10 Arg2:T9
+R2	hasAttr Arg1:T12 Arg2:T11
+R3	hasAttr Arg1:T14 Arg2:T13
+R4	hasAttr Arg1:T14 Arg2:T15
+R5	hasAttr Arg1:T17 Arg2:T16
+R6	hasAttr Arg1:T18 Arg2:T19
+R7	hasAttr Arg1:T20 Arg2:T21
+R8	hasAttr Arg1:T24 Arg2:T25
+R9	hasAttr Arg1:T26 Arg2:T27
+R10	hasAttr Arg1:T29 Arg2:T28
+R11	hasAttr Arg1:T30 Arg2:T28
+R12	hasAttr Arg1:T32 Arg2:T31
+R13	hasAttr Arg1:T35 Arg2:T33
+R14	hasAttr Arg1:T34 Arg2:T33
+R15	hasAttr Arg1:T36 Arg2:T33
+R16	hasAttr Arg1:T38 Arg2:T39
+R17	hasAttr Arg1:T40 Arg2:T41
+R18	hasAttr Arg1:T42 Arg2:T43
+R19	hasAttr Arg1:T42 Arg2:T44
+R20	hasAttr Arg1:T46 Arg2:T45
+R21	hasAttr Arg1:T47 Arg2:T48
+R22	hasAttr Arg1:T49 Arg2:T50
+R23	hasAttr Arg1:T52 Arg2:T53
+R24	hasAttr Arg1:T55 Arg2:T54
+R25	hasAttr Arg1:T56 Arg2:T58
+R26	hasAttr Arg1:T56 Arg2:T57
+R27	hasAttr Arg1:T56 Arg2:T59
+R28	hasAttr Arg1:T56 Arg2:T60
+R29	hasAttr Arg1:T61 Arg2:T64
+R30	hasAttr Arg1:T61 Arg2:T63
+R31	hasAttr Arg1:T61 Arg2:T62
+R32	hasAttr Arg1:T65 Arg2:T66
+R33	hasAttr Arg1:T65 Arg2:T67
+R34	hasAttr Arg1:T65 Arg2:T68
+R35	hasAttr Arg1:T69 Arg2:T74
+R36	hasAttr Arg1:T69 Arg2:T70
+R37	hasAttr Arg1:T69 Arg2:T71
+R38	hasAttr Arg1:T69 Arg2:T72
+R39	hasAttr Arg1:T69 Arg2:T73
+R40	hasAttr Arg1:T75 Arg2:T76
+R41	hasAttr Arg1:T75 Arg2:T82
+R42	hasAttr Arg1:T75 Arg2:T79
+R43	hasAttr Arg1:T75 Arg2:T80
+R44	hasAttr Arg1:T75 Arg2:T77
+R45	hasAttr Arg1:T75 Arg2:T81
+R46	hasAttr Arg1:T75 Arg2:T78
+R47	hasAttr Arg1:T83 Arg2:T85
+R48	hasAttr Arg1:T83 Arg2:T84
+R49	hasAttr Arg1:T83 Arg2:T86
+R50	hasAttr Arg1:T89 Arg2:T88
+R51	hasAttr Arg1:T89 Arg2:T90
+R52	hasAttr Arg1:T89 Arg2:T91
+R53	hasAttr Arg1:T89 Arg2:T92
+R54	hasAttr Arg1:T94 Arg2:T93

@@ -1,0 +1,276 @@
+T1	temporal 19 28	2118-9-22
+T2	temporal 51 60	2118-10-9
+T3	temporal 82 91	2042-5-18
+T4	problem 138 174	infrarenal abdominal aortic aneurysm
+T5	bodyloc 149 165	abdominal aortic
+T6	problem 243 300	a known 6.5 x 5.5 cm infrarenal abdominal aortic aneurysm
+T7	bodyloc 275 291	abdominal aortic
+T8	problem 363 371	weakness
+T9	problem 376 387	diaphoresis
+T10	problem 446 491	severe bilateral lower extremity claudication
+T11	severity 446 452	severe
+T12	bodyloc 453 478	bilateral lower extremity
+T13	problem 496 505	back pain
+T14	bodyloc 496 500	back
+T15	temporal 510 519	two weeks
+T16	drug 529 542	nitroglycerin
+T17	test 629 639	evaluation
+T18	problem 666 689	Coronary artery disease
+T19	bodyloc 666 681	Coronary artery
+T20	problem 703 725	myocardial infarctions
+T21	temporal 732 736	2091
+T22	temporal 744 748	2079
+T23	temporal 760 764	2059
+T24	problem 772 796	Cerebrovascular accident
+T25	problem 801 838	Chronic obstructive pulmonary disease
+T26	course 801 808	Chronic
+T27	bodyloc 821 830	pulmonary
+T28	problem 843 855	Hypertension
+T29	problem 860 887	Peripheral vascular disease
+T30	bodyloc 860 879	Peripheral vascular
+T31	problem 892 928	Infrarenal abdominal aortic aneurysm
+T32	bodyloc 903 919	abdominal aortic
+T33	problem 943 952	ALLERGIES
+T34	negation 954 958	None
+T35	drug 995 1001	Toprol
+T36	strength 1002 1008	300 mg
+T37	frequency 1009 1011	qd
+T38	drug 1016 1023	Lipitor
+T39	strength 1024 1029	10 mg
+T40	frequency 1030 1032	qd
+T41	drug 1037 1042	Imdur
+T42	strength 1043 1049	120 mg
+T43	frequency 1050 1052	qd
+T44	drug 1057 1062	Vioxx
+T45	strength 1063 1068	25 mg
+T46	frequency 1069 1071	qd
+T47	drug 1076 1083	Norvasc
+T48	strength 1084 1089	25 mg
+T49	frequency 1090 1092	qd
+T50	drug 1097 1103	Pepcid
+T51	strength 1104 1109	20 mg
+T52	frequency 1110 1112	qd
+T53	drug 1117 1126	Singulair
+T54	strength 1127 1132	10 mg
+T55	drug 1169 1174	Lasix
+T56	strength 1175 1180	20 mg
+T57	frequency 1181 1183	qd
+T58	drug 1189 1200	Allopurinol
+T59	strength 1201 1207	100 mg
+T60	frequency 1208 1210	qd
+T61	drug 1245 1252	Trental
+T62	strength 1253 1259	400 mg
+T63	frequency 1260 1266	t.i.d.
+T64	drug 1271 1277	Zoloft
+T65	strength 1278 1283	25 mg
+T66	frequency 1284 1286	qd
+T67	drug 1292 1300	Antivert
+T68	strength 1301 1308	12.5 mg
+T69	frequency 1309 1311	qd
+T70	drug 1317 1324	Flovent
+T71	strength 1325 1330	10 mg
+T72	test 1368 1382	Blood pressure
+T73	labvalue 1383 1389	138/88
+T74	test 1391 1401	heart rate
+T75	labvalue 1402 1404	72
+T76	problem 1409 1418	irregular
+T77	problem 1454 1459	Obese
+T78	test 1473 1477	EOMI
+T79	test 1479 1482	MMM
+T80	problem 1501 1521	Irregular heart rate
+T81	bodyloc 1511 1516	heart
+T82	labvalue 1531 1536	Clear
+T83	test 1540 1552	auscultation
+T84	problem 1575 1580	Obese
+T85	problem 1588 1594	tender
+T86	problem 1596 1610	Pulsatile mass
+T87	test 1620 1626	Guaiac
+T88	labvalue 1627 1635	negative
+T89	test 1785 1796	Chemistries
+T90	test 1804 1810	sodium
+T91	labvalue 1811 1814	144
+T92	test 1816 1825	potassium
+T93	labvalue 1826 1829	4.6
+T94	test 1831 1839	chloride
+T95	labvalue 1840 1843	108
+T96	test 1845 1856	bicarbonate
+T97	labvalue 1857 1859	22
+T98	test 1861 1864	BUN
+T99	labvalue 1865 1867	31
+T100	test 1869 1879	creatinine
+T101	labvalue 1880 1883	1.9
+T102	test 1885 1892	glucose
+T103	labvalue 1893 1896	121
+T104	test 1898 1901	CBC
+T105	test 1909 1919	hematocrit
+T106	labvalue 1920 1924	44.5
+T107	test 1926 1942	white cell count
+T108	labvalue 1943 1947	11.3
+T109	test 1949 1958	platelets
+T110	labvalue 1959 1966	175,000
+T111	test 1982 1984	PT
+T112	labvalue 1985 1989	13.1
+T113	test 1991 1994	PTT
+T114	labvalue 1995 1998	6.1
+T115	test 2000 2003	INR
+T116	labvalue 2004 2007	1.1
+T117	test 2008 2025	Electrocardiogram
+T118	problem 2046 2065	atrial fibrillation
+T119	bodyloc 2046 2052	atrial
+T120	problem 2123 2169	expanding infrarenal abdominal aortic aneurysm
+T121	bodyloc 2144 2160	abdominal aortic
+T122	test 2234 2244	monitoring
+T123	treatment 2265 2272	surgery
+T124	temporal 2276 2293	the following day
+T125	drug 2364 2384	beta blocker therapy
+T126	temporal 2392 2401	2118-9-23
+T127	treatment 2418 2456	an abdominal aortic aneurysm resection
+T128	treatment 2462 2488	oversewing of the left CIA
+T129	treatment 2490 2511	ligation of right CIA
+T130	treatment 2513 2548	aortobifemoral with profunda bypass
+T131	treatment 2554 2577	bifurcated Dacron graft
+T132	test 2621 2643	hemodynamic monitoring
+T133	drug 2691 2700	Lopressor
+T134	route 2701 2705	drip
+T135	test 2804 2822	further monitoring
+T136	temporal 2827 2847	postoperative day #1
+T137	test 2848 2864	his urine output
+T138	labvalue 2869 2872	low
+T139	problem 2905 2908	ATN
+T140	uncertain 2913 2925	seemed to be
+T141	problem 2926 2942	fluid overloaded
+T142	drug 2960 2965	Lasix
+T143	test 2990 3009	his cardiac enzymes
+T144	labvalue 3015 3023	elevated
+T145	problem 3050 3065	a non-Q wave MI
+T146	drug 3120 3127	aspirin
+T147	drug 3142 3155	beta blockade
+T148	treatment 3238 3256	blood transfusions
+T149	test 3278 3306	Postoperative echocardiogram
+T150	temporal 3313 3322	2118-9-26
+T151	test 3338 3340	EF
+T152	labvalue 3344 3357	less than 25%
+T153	problem 3396 3429	hypokinesis of the left ventricle
+T154	bodyloc 3415 3429	left ventricle
+T155	problem 3431 3458	mild pulmonary hypertension
+T156	bodyloc 3436 3445	pulmonary
+T157	problem 3460 3483	1+ mitral regurgitation
+T158	bodyloc 3463 3469	mitral
+T159	test 3541 3573	monitoring of his renal function
+T160	test 3578 3602	his respiratory function
+T161	temporal 3629 3638	2119-9-28
+T162	problem 3661 3681	respiratory distress
+T163	problem 3768 3772	ARDS
+T164	course 3774 3784	recurrence
+T165	problem 3788 3805	the renal failure
+T166	bodyloc 3792 3797	renal
+T167	drug 3824 3836	vasopressors
+T168	test 3849 3867	his blood pressure
+T169	treatment 3953 3966	cardioversion
+T170	problem 3971 3994	his atrial fibrillation
+T171	bodyloc 3975 3981	atrial
+T172	problem 4004 4009	DVVHD
+T173	problem 4014 4031	his renal failure
+T174	bodyloc 4018 4023	renal
+T175	problem 4049 4060	deteriorate
+T176	treatment 4070 4092	increasing ventilatory
+T177	drug 4097 4108	vasopressor
+T178	problem 4200 4206	sepsis
+T179	drug 4230 4238	Levophed
+T180	drug 4240 4248	Dopamine
+T181	drug 4254 4268	Neo-Synephrine
+T182	form 4269 4274	drips
+T183	test 4287 4305	his blood pressure
+T184	temporal 4313 4322	2108-10-8
+T185	treatment 4365 4377	vasopressors
+T186	negation 4383 4392	withdrawn
+T187	problem 4425 4452	an asystolic cardiac arrest
+T188	bodyloc 4438 4445	cardiac
+T189	temporal 4617 4625	2119-3-8
+T190	temporal 4635 4644	2119-3-14
+T191	temporal 4648 4653	17:57
+R1	hasAttr Arg1:T4 Arg2:T5
+R2	hasAttr Arg1:T6 Arg2:T7
+R3	hasAttr Arg1:T10 Arg2:T12
+R4	hasAttr Arg1:T10 Arg2:T11
+R5	hasAttr Arg1:T13 Arg2:T14
+R6	hasAttr Arg1:T13 Arg2:T15
+R7	hasAttr Arg1:T18 Arg2:T19
+R8	hasAttr Arg1:T20 Arg2:T23
+R9	hasAttr Arg1:T20 Arg2:T22
+R10	hasAttr Arg1:T20 Arg2:T21
+R11	hasAttr Arg1:T25 Arg2:T27
+R12	hasAttr Arg1:T25 Arg2:T26
+R13	hasAttr Arg1:T29 Arg2:T30
+R14	hasAttr Arg1:T31 Arg2:T32
+R15	hasAttr Arg1:T33 Arg2:T34
+R16	hasAttr Arg1:T35 Arg2:T37
+R17	hasAttr Arg1:T35 Arg2:T36
+R18	hasAttr Arg1:T38 Arg2:T39
+R19	hasAttr Arg1:T38 Arg2:T40
+R20	hasAttr Arg1:T41 Arg2:T42
+R21	hasAttr Arg1:T41 Arg2:T43
+R22	hasAttr Arg1:T44 Arg2:T46
+R23	hasAttr Arg1:T44 Arg2:T45
+R24	hasAttr Arg1:T47 Arg2:T49
+R25	hasAttr Arg1:T47 Arg2:T48
+R26	hasAttr Arg1:T50 Arg2:T52
+R27	hasAttr Arg1:T50 Arg2:T51
+R28	hasAttr Arg1:T53 Arg2:T54
+R29	hasAttr Arg1:T55 Arg2:T57
+R30	hasAttr Arg1:T55 Arg2:T56
+R31	hasAttr Arg1:T58 Arg2:T60
+R32	hasAttr Arg1:T58 Arg2:T59
+R33	hasAttr Arg1:T61 Arg2:T63
+R34	hasAttr Arg1:T61 Arg2:T62
+R35	hasAttr Arg1:T64 Arg2:T65
+R36	hasAttr Arg1:T64 Arg2:T66
+R37	hasAttr Arg1:T67 Arg2:T68
+R38	hasAttr Arg1:T67 Arg2:T69
+R39	hasAttr Arg1:T70 Arg2:T71
+R40	hasAttr Arg1:T72 Arg2:T73
+R41	hasAttr Arg1:T74 Arg2:T75
+R42	hasAttr Arg1:T80 Arg2:T81
+R43	hasAttr Arg1:T83 Arg2:T82
+R44	hasAttr Arg1:T87 Arg2:T88
+R45	hasAttr Arg1:T90 Arg2:T91
+R46	hasAttr Arg1:T92 Arg2:T93
+R47	hasAttr Arg1:T94 Arg2:T95
+R48	hasAttr Arg1:T96 Arg2:T97
+R49	hasAttr Arg1:T98 Arg2:T99
+R50	hasAttr Arg1:T100 Arg2:T101
+R51	hasAttr Arg1:T102 Arg2:T103
+R52	hasAttr Arg1:T105 Arg2:T106
+R53	hasAttr Arg1:T107 Arg2:T108
+R54	hasAttr Arg1:T109 Arg2:T110
+R55	hasAttr Arg1:T111 Arg2:T112
+R56	hasAttr Arg1:T113 Arg2:T114
+R57	hasAttr Arg1:T115 Arg2:T116
+R58	hasAttr Arg1:T118 Arg2:T119
+R59	hasAttr Arg1:T120 Arg2:T121
+R60	hasAttr Arg1:T122 Arg2:T124
+R61	hasAttr Arg1:T123 Arg2:T124
+R62	hasAttr Arg1:T127 Arg2:T126
+R63	hasAttr Arg1:T128 Arg2:T126
+R64	hasAttr Arg1:T129 Arg2:T126
+R65	hasAttr Arg1:T130 Arg2:T126
+R66	hasAttr Arg1:T131 Arg2:T126
+R67	hasAttr Arg1:T133 Arg2:T134
+R68	hasAttr Arg1:T137 Arg2:T136
+R69	hasAttr Arg1:T137 Arg2:T138
+R70	hasAttr Arg1:T141 Arg2:T140
+R71	hasAttr Arg1:T143 Arg2:T144
+R72	hasAttr Arg1:T149 Arg2:T150
+R73	hasAttr Arg1:T151 Arg2:T152
+R74	hasAttr Arg1:T153 Arg2:T154
+R75	hasAttr Arg1:T155 Arg2:T156
+R76	hasAttr Arg1:T157 Arg2:T158
+R77	hasAttr Arg1:T162 Arg2:T161
+R78	hasAttr Arg1:T165 Arg2:T164
+R79	hasAttr Arg1:T165 Arg2:T166
+R80	hasAttr Arg1:T170 Arg2:T171
+R81	hasAttr Arg1:T173 Arg2:T174
+R82	hasAttr Arg1:T181 Arg2:T182
+R83	hasAttr Arg1:T185 Arg2:T184
+R84	hasAttr Arg1:T185 Arg2:T186
+R85	hasAttr Arg1:T187 Arg2:T188

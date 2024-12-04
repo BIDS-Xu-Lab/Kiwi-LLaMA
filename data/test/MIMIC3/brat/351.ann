@@ -1,0 +1,138 @@
+T1	temporal 19 28	2120-8-14
+T2	temporal 51 60	2120-8-19
+T3	temporal 82 91	2059-6-19
+T4	problem 206 217	brain tumor
+T5	bodyloc 206 211	brain
+T6	test 219 227	MRI scan
+T7	problem 235 256	right cerebellar mass
+T8	bodyloc 235 251	right cerebellar
+T9	problem 310 323	breast cancer
+T10	bodyloc 310 316	breast
+T11	treatment 329 339	lumpectomy
+T12	temporal 346 350	2114
+T13	problem 355 377	carpal tunnel syndrome
+T14	problem 379 384	sleep
+T15	problem 385 390	apnea
+T16	problem 392 423	gastroesophageal reflux disease
+T17	bodyloc 392 408	gastroesophageal
+T18	temporal 448 456	Previous
+T19	treatment 457 464	surgery
+T20	treatment 474 484	lumpectomy
+T21	temporal 491 495	2114
+T22	treatment 500 512	hysterectomy
+T23	temporal 519 523	2114
+T24	treatment 528 551	thyroid nodule excision
+T25	problem 553 562	ALLERGIES
+T26	negation 580 582	no
+T27	problem 583 603	known drug allergies
+T28	test 643 663	physical examination
+T29	negation 692 694	no
+T30	problem 695 709	acute distress
+T31	course 695 700	acute
+T32	course 732 745	A well-healed
+T33	problem 746 754	incision
+T34	labvalue 766 771	clear
+T35	test 775 787	auscultation
+T36	test 806 808	S1
+T37	test 813 815	S2
+T38	labvalue 819 826	regular
+T39	test 827 831	rate
+T40	test 836 842	rhythm
+T41	problem 869 899	a well-healed midline incision
+T42	course 869 882	a well-healed
+T43	bodyloc 901 912	Extremities
+T44	problem 922 969	slight edema of the bilateral lower extremities
+T45	severity 922 928	slight
+T46	bodyloc 942 969	bilateral lower extremities
+T47	test 999 1013	dorsalis pedis
+T48	test 1018 1043	posterior tibialis pulses
+T49	temporal 1093 1102	2120-8-14
+T50	treatment 1119 1148	right suboccipital craniotomy
+T51	treatment 1153 1162	resection
+T52	problem 1166 1181	cerebellar mass
+T53	bodyloc 1166 1176	cerebellar
+T54	negation 1194 1196	no
+T55	problem 1197 1225	intraoperative complications
+T56	negation 1402 1404	No
+T57	problem 1405 1410	drift
+T58	labvalue 1423 1428	clear
+T59	test 1432 1444	auscultation
+T60	labvalue 1448 1455	regular
+T61	test 1456 1460	rate
+T62	test 1465 1471	rhythm
+T63	test 1592 1613	Extraocular movements
+T64	labvalue 1619 1623	full
+T65	temporal 1753 1771	three to four days
+T66	treatment 1775 1801	Physical Therapy treatment
+T67	treatment 1854 1868	that treatment
+T68	drug 1934 1949	Her medications
+T69	drug 1980 1994	Decadron taper
+T70	duration 2004 2018	two weeks time
+T71	drug 2020 2028	Percocet
+T72	dosage 2029 2039	one to two
+T73	form 2040 2047	tablets
+T74	route 2048 2052	p.o.
+T75	frequency 2053 2058	q.4h.
+T76	frequency 2059 2064	p.r.n
+T77	drug 2066 2072	Zantac
+T78	strength 2073 2079	150 mg
+T79	route 2080 2083	p.o
+T80	frequency 2085 2091	b.i.d.
+T81	drug 2107 2116	Lopressor
+T82	strength 2117 2122	50 mg
+T83	route 2123 2127	p.o.
+T84	frequency 2128 2133	b.i.d
+T85	test 2158 2169	Vital signs
+T86	labvalue 2175 2181	stable
+T87	temporal 2329 2337	one week
+T88	treatment 2342 2356	staple removal
+T89	temporal 2689 2698	2120-8-19
+T90	temporal 2702 2707	10:01
+T91	temporal 2714 2723	2120-8-21
+T92	temporal 2727 2732	13:47
+R1	hasAttr Arg1:T4 Arg2:T5
+R2	hasAttr Arg1:T7 Arg2:T8
+R3	hasAttr Arg1:T9 Arg2:T10
+R4	hasAttr Arg1:T9 Arg2:T12
+R5	hasAttr Arg1:T11 Arg2:T12
+R6	hasAttr Arg1:T16 Arg2:T17
+R7	hasAttr Arg1:T19 Arg2:T18
+R8	hasAttr Arg1:T20 Arg2:T21
+R9	hasAttr Arg1:T22 Arg2:T23
+R10	hasAttr Arg1:T24 Arg2:T23
+R11	hasAttr Arg1:T27 Arg2:T26
+R12	hasAttr Arg1:T30 Arg2:T29
+R13	hasAttr Arg1:T30 Arg2:T31
+R14	hasAttr Arg1:T33 Arg2:T32
+R15	hasAttr Arg1:T35 Arg2:T34
+R16	hasAttr Arg1:T39 Arg2:T38
+R17	hasAttr Arg1:T40 Arg2:T38
+R18	hasAttr Arg1:T41 Arg2:T42
+R19	hasAttr Arg1:T44 Arg2:T43
+R20	hasAttr Arg1:T44 Arg2:T45
+R21	hasAttr Arg1:T44 Arg2:T46
+R22	hasAttr Arg1:T51 Arg2:T49
+R23	hasAttr Arg1:T50 Arg2:T49
+R24	hasAttr Arg1:T52 Arg2:T49
+R25	hasAttr Arg1:T52 Arg2:T53
+R26	hasAttr Arg1:T55 Arg2:T54
+R27	hasAttr Arg1:T57 Arg2:T56
+R28	hasAttr Arg1:T59 Arg2:T58
+R29	hasAttr Arg1:T61 Arg2:T60
+R30	hasAttr Arg1:T62 Arg2:T60
+R31	hasAttr Arg1:T63 Arg2:T64
+R32	hasAttr Arg1:T66 Arg2:T65
+R33	hasAttr Arg1:T69 Arg2:T70
+R34	hasAttr Arg1:T71 Arg2:T74
+R35	hasAttr Arg1:T71 Arg2:T72
+R36	hasAttr Arg1:T71 Arg2:T75
+R37	hasAttr Arg1:T71 Arg2:T76
+R38	hasAttr Arg1:T71 Arg2:T73
+R39	hasAttr Arg1:T77 Arg2:T78
+R40	hasAttr Arg1:T77 Arg2:T80
+R41	hasAttr Arg1:T77 Arg2:T79
+R42	hasAttr Arg1:T81 Arg2:T83
+R43	hasAttr Arg1:T81 Arg2:T82
+R44	hasAttr Arg1:T81 Arg2:T84
+R45	hasAttr Arg1:T85 Arg2:T86
+R46	hasAttr Arg1:T88 Arg2:T87

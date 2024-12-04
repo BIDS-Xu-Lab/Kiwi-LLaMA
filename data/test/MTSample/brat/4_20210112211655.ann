@@ -1,0 +1,157 @@
+T1	problem 111 116	fever
+T2	problem 196 201	Fever
+T3	problem 289 301	polymyositis
+T4	problem 302 317	dermatomyositis
+T5	drug 321 333	methotrexate
+T6	frequency 334 346	once a week.
+T7	dosage 376 385	high-dose
+T8	drug 386 396	prednisone
+T9	problem 401 419	an urticarial rash
+T10	problem 457 479	persistent high fevers
+T11	problem 510 519	infection
+T12	test 541 553	temperatures
+T13	labvalue 563 566	103
+T14	test 661 669	A workup
+T15	test 686 697	chest x-ray
+T16	test 699 713	blood cultures
+T17	test 719 749	a transthoracic echocardiogram
+T18	labvalue 791 797	normal
+T19	test 799 814	Her chest x-ray
+T20	labvalue 836 842	normal
+T21	temporal 888 897	August 10
+T22	problem 918 929	high fevers
+T23	temporal 950 959	August 11
+T24	test 984 991	Studies
+T25	test 1012 1053	CT scan of the chest, abdomen, and pelvis
+T26	test 1064 1072	CT chest
+T27	problem 1080 1129	mild bibasilar pleural-based interstitial changes
+T28	problem 1223 1242	ground glass change
+T29	test 1244 1265	CT abdomen and pelvis
+T30	labvalue 1270 1276	normal
+T31	test 1360 1370	serologies
+T32	problem 1375 1378	CMV
+T33	test 1389 1404	a CMV blood PCR
+T34	test 1406 1421	Next serologies
+T35	problem 1426 1429	EBV
+T36	problem 1431 1441	Legionella
+T37	problem 1443 1452	Chlamydia
+T38	problem 1454 1464	Mycoplasma
+T39	problem 1466 1478	Coccidioides
+T40	problem 1484 1504	cryptococcal antigen
+T41	test 1510 1515	a PPD
+T42	test 1517 1533	The CMV serology
+T43	labvalue 1544 1552	positive
+T44	test 1557 1560	IgM
+T45	test 1562 1569	The IgG
+T46	labvalue 1574 1582	negative
+T47	test 1584 1601	The CMV blood PCR
+T48	labvalue 1606 1614	positive
+T49	test 1625 1641	Other serologies
+T50	test 1646 1653	her PPD
+T51	labvalue 1661 1669	negative
+T52	test 1671 1685	Blood cultures
+T53	labvalue 1693 1701	negative
+T54	problem 1714 1735	the positive CMV, PCR
+T55	test 1756 1768	her CAT scan
+T56	test 1796 1810	a bronchoscopy
+T57	test 1812 1815	BAL
+T58	test 1820 1843	transbronchial biopsies
+T59	test 1860 1887	The transbronchial biopsies
+T60	negation 1892 1916	not show any evidence of
+T61	problem 1917 1929	pneumocystis
+T62	problem 1931 1947	fungal infection
+T63	problem 1949 1952	AFB
+T64	problem 1964 2002	some nonspecific interstitial fibrosis
+T65	problem 2102 2105	CMV
+T66	test 2137 2157	the biopsy specimens
+T67	problem 2205 2218	CMV infection
+T68	drug 2247 2258	ganciclovir
+T69	test 2264 2282	her CMV serologies
+T70	negation 2307 2315	No other
+T71	drug 2316 2334	antibiotic therapy
+T72	drug 2357 2383	the patient's methotrexate
+T73	test 2394 2407	A chest x-ray
+T74	problem 2434 2456	some bibasilar disease
+T75	problem 2466 2490	interstitial infiltrates
+T76	drug 2514 2523	ibuprofen
+T77	drug 2528 2541	acetaminophen
+T78	problem 2574 2583	her fever
+T79	course 2584 2592	resolved
+T80	test 2621 2641	BAL fluid cell count
+T81	labvalue 2664 2665	5
+T82	labvalue 2675 2676	5
+T83	labvalue 2713 2716	43%
+T84	test 2717 2728	neutrophils
+T85	labvalue 2730 2733	45%
+T86	test 2734 2745	lymphocytes
+T87	problem 2856 2882	Disseminated CMV infection
+T88	problem 2888 2912	possible CMV pneumonitis
+T89	problem 2917 2929	Polymyositis
+T90	drug 2933 2958	immunosuppressive therapy
+T91	drug 2960 2972	methotrexate
+T92	drug 2977 2987	prednisone
+T93	drug 3046 3057	ganciclovir
+T94	strength 3058 3064	275 mg
+T95	route 3065 3067	IV
+T96	frequency 3068 3075	q.12 h.
+T97	duration 3080 3101	approximately 3 weeks
+T98	drug 3106 3112	Advair
+T99	strength 3113 3119	100/50
+T100	dosage 3121 3122	1
+T101	form 3123 3127	puff
+T102	frequency 3128 3134	b.i.d.
+T103	drug 3138 3147	Ibuprofen
+T104	frequency 3148 3154	p.r.n.
+T105	drug 3159 3166	Tylenol
+T106	frequency 3167 3173	p.r.n.
+T107	problem 3178 3183	fever
+T108	drug 3203 3217	her folic acid
+T109	drug 3255 3267	methotrexate
+T110	temporal 3272 3275	now
+T111	temporal 3317 3332	August 22, 2007
+T112	temporal 3336 3344	1:45 p.m
+T113	problem 3619 3624	fever
+T114	test 3644 3658	blood cultures
+T115	test 3660 3683	transbronchial biopsies
+T116	problem 3685 3694	infection
+T117	problem 3696 3699	cmv
+T118	problem 3712 3719	illness
+T119	problem 3735 3740	fever
+T120	problem 3742 3752	serologies
+T121	drug 3776 3788	methotrexate
+R1	hasAttr Arg1:T5 Arg2:T6
+R2	hasAttr Arg1:T8 Arg2:T7
+R3	hasAttr Arg1:T12 Arg2:T13
+R4	hasAttr Arg1:T15 Arg2:T18
+R5	hasAttr Arg1:T16 Arg2:T18
+R6	hasAttr Arg1:T17 Arg2:T18
+R7	hasAttr Arg1:T19 Arg2:T20
+R8	hasAttr Arg1:T22 Arg2:T21
+R9	hasAttr Arg1:T22 Arg2:T23
+R10	hasAttr Arg1:T29 Arg2:T30
+R11	hasAttr Arg1:T44 Arg2:T43
+R12	hasAttr Arg1:T45 Arg2:T46
+R13	hasAttr Arg1:T47 Arg2:T48
+R14	hasAttr Arg1:T49 Arg2:T51
+R15	hasAttr Arg1:T50 Arg2:T51
+R16	hasAttr Arg1:T52 Arg2:T53
+R17	hasAttr Arg1:T61 Arg2:T60
+R18	hasAttr Arg1:T62 Arg2:T60
+R19	hasAttr Arg1:T63 Arg2:T60
+R20	hasAttr Arg1:T71 Arg2:T70
+R21	hasAttr Arg1:T78 Arg2:T79
+R22	hasAttr Arg1:T80 Arg2:T82
+R23	hasAttr Arg1:T80 Arg2:T81
+R24	hasAttr Arg1:T84 Arg2:T83
+R25	hasAttr Arg1:T86 Arg2:T85
+R26	hasAttr Arg1:T93 Arg2:T97
+R27	hasAttr Arg1:T93 Arg2:T94
+R28	hasAttr Arg1:T93 Arg2:T95
+R29	hasAttr Arg1:T93 Arg2:T96
+R30	hasAttr Arg1:T98 Arg2:T100
+R31	hasAttr Arg1:T98 Arg2:T99
+R32	hasAttr Arg1:T98 Arg2:T101
+R33	hasAttr Arg1:T98 Arg2:T102
+R34	hasAttr Arg1:T103 Arg2:T104
+R35	hasAttr Arg1:T105 Arg2:T106
+R36	hasAttr Arg1:T109 Arg2:T110

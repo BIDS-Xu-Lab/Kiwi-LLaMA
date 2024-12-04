@@ -1,0 +1,195 @@
+T1	temporal 135 146	Nov 20 1928
+T2	temporal 247 257	Dec 7 2007
+T3	temporal 259 266	8:00 AM
+T4	test 267 269	Na
+T5	labvalue 270 281	140 mEq / L
+T6	test 282 283	K
+T7	labvalue 284 295	4.2 mEq / L
+T8	test 296 298	Cl
+T9	labvalue 299 310	103 mEq / L
+T10	test 311 314	CO2
+T11	labvalue 315 325	34 mEq / L
+T12	labvalue 326 330	High
+T13	test 331 340	Anion Gap
+T14	labvalue 341 344	3.0
+T15	labvalue 345 348	Low
+T16	test 349 352	BUN
+T17	labvalue 353 363	33 mg / dL
+T18	labvalue 364 368	High
+T19	test 369 371	Cr
+T20	labvalue 372 383	1.1 mg / dL
+T21	test 384 391	Glucose
+T22	labvalue 392 403	171 mg / dL
+T23	labvalue 404 408	High
+T24	test 409 411	Ca
+T25	labvalue 412 423	9.4 mg / dL
+T26	test 424 432	Troponin
+T27	labvalue 441 453	0.04 ng / mL
+T28	test 454 457	WBC
+T29	labvalue 458 473	6.6 X10E+09 / L
+T30	test 474 477	RBC
+T31	labvalue 478 494	4.19 X10E+12 / L
+T32	labvalue 495 498	Low
+T33	test 499 502	Hgb
+T34	labvalue 503 515	12.4 gm / dL
+T35	labvalue 516 519	Low
+T36	test 520 523	Hct
+T37	labvalue 524 530	36.6 %
+T38	labvalue 531 534	Low
+T39	test 535 538	MCV
+T40	labvalue 539 546	87.4 fL
+T41	test 547 550	MCH
+T42	labvalue 551 558	29.5 pg
+T43	test 559 563	MCHC
+T44	labvalue 564 576	33.7 gm / dL
+T45	test 577 580	RDW
+T46	labvalue 581 587	14.3 %
+T47	test 588 591	MPV
+T48	labvalue 592 598	7.7 fL
+T49	test 599 608	Platelets
+T50	labvalue 609 624	266 X10E+09 / L
+T51	test 625 636	Neutrophils
+T52	labvalue 637 641	87 %
+T53	test 642 648	Lymphs
+T54	labvalue 649 652	9 %
+T55	labvalue 653 656	Low
+T56	test 657 666	Monocytes
+T57	labvalue 667 670	4 %
+T58	test 671 682	Eosinophils
+T59	labvalue 683 686	0 %
+T60	test 687 696	Basophils
+T61	labvalue 697 700	0 %
+T62	test 701 716	ABS Neutrophils
+T63	labvalue 717 732	5.7 X10E+09 / L
+T64	test 733 743	ABS Lymphs
+T65	labvalue 744 759	0.6 X10E+09 / L
+T66	test 760 773	ABS Monocytes
+T67	labvalue 774 789	0.3 X10E+09 / L
+T68	test 790 797	Abs Eos
+T69	labvalue 805 820	0.0 X10E+09 / L
+T70	test 821 834	ABS Basophils
+T71	labvalue 835 850	0.0 X10E+09 / L
+T72	test 851 863	Theophylline
+T73	labvalue 870 881	2.0 ug / mL
+T74	temporal 889 899	Dec 7 2007
+T75	temporal 901 908	6:35 AM
+T76	test 909 931	Temperature Conversion
+T77	labvalue 932 942	36.4 Deg C
+T78	test 943 954	Temperature
+T79	labvalue 955 965	97.6 Deg F
+T80	test 966 977	Temperature
+T81	test 988 993	Pulse
+T82	labvalue 994 1000	92 BPM
+T83	test 1001 1017	Respiratory Rate
+T84	labvalue 1018 1020	16
+T85	test 1021 1032	Systolic BP
+T86	labvalue 1033 1041	127 mmHg
+T87	test 1042 1054	Diastolic BP
+T88	labvalue 1055 1062	72 mmHg
+T89	test 1063 1065	BP
+T90	test 1080 1105	Current weight conversion
+T91	labvalue 1106 1113	72.7 kg
+T92	test 1114 1120	Weight
+T93	labvalue 1121 1130	159.90 lb
+T94	negation 1289 1295	denies
+T95	problem 1296 1299	N/V
+T96	problem 1302 1307	fever
+T97	problem 1310 1316	chills
+T98	problem 1321 1331	chest pain
+T99	bodyloc 1321 1326	chest
+T100	test 1378 1398	Physical Examination
+T101	negation 1504 1506	No
+T102	problem 1507 1515	m/r/g 's
+T103	problem 1536 1543	Rhonchi
+T104	problem 1549 1564	bibasilar rales
+T105	bodyloc 1549 1558	bibasilar
+T106	labvalue 1577 1578	+
+T107	test 1579 1581	BS
+T108	negation 1623 1625	No
+T109	problem 1626 1634	LE edema
+T110	bodyloc 1626 1628	LE
+T111	problem 1770 1773	CAD
+T112	problem 1780 1782	MI
+T113	problem 1785 1788	HTN
+T114	problem 1791 1795	COPD
+T115	problem 1800 1809	pneumonia
+T116	test 1822 1833	White count
+T117	labvalue 1837 1843	normal
+T118	labvalue 1846 1849	6.6
+T119	drug 1873 1879	Avelox
+T120	treatment 1891 1895	nebs
+T121	test 1898 1923	Sputum and blood cultures
+T122	treatment 1961 1974	O2 supplement
+T123	problem 1980 1984	COPD
+T124	route 2006 2008	IV
+T125	drug 2009 2017	steroids
+T126	drug 2020 2038	methylprednisolone
+T127	test 2042 2050	Troponin
+T128	labvalue 2051 2054	wnl
+T129	temporal 2123 2134	Dec 07 2007
+T130	temporal 2136 2141	15:16
+T131	temporal 2184 2195	Dec 07 2007
+T132	temporal 2197 2202	15:16
+T133	temporal 2247 2258	Dec 07 2007
+T134	temporal 2260 2265	15:16
+R1	hasAttr Arg1:T4 Arg2:T5
+R2	hasAttr Arg1:T6 Arg2:T7
+R3	hasAttr Arg1:T8 Arg2:T9
+R4	hasAttr Arg1:T10 Arg2:T12
+R5	hasAttr Arg1:T10 Arg2:T11
+R6	hasAttr Arg1:T13 Arg2:T15
+R7	hasAttr Arg1:T13 Arg2:T14
+R8	hasAttr Arg1:T16 Arg2:T18
+R9	hasAttr Arg1:T16 Arg2:T17
+R10	hasAttr Arg1:T19 Arg2:T20
+R11	hasAttr Arg1:T21 Arg2:T22
+R12	hasAttr Arg1:T24 Arg2:T25
+R13	hasAttr Arg1:T26 Arg2:T27
+R14	hasAttr Arg1:T28 Arg2:T29
+R15	hasAttr Arg1:T30 Arg2:T31
+R16	hasAttr Arg1:T30 Arg2:T32
+R17	hasAttr Arg1:T33 Arg2:T35
+R18	hasAttr Arg1:T33 Arg2:T34
+R19	hasAttr Arg1:T36 Arg2:T38
+R20	hasAttr Arg1:T36 Arg2:T37
+R21	hasAttr Arg1:T39 Arg2:T40
+R22	hasAttr Arg1:T41 Arg2:T42
+R23	hasAttr Arg1:T43 Arg2:T44
+R24	hasAttr Arg1:T45 Arg2:T46
+R25	hasAttr Arg1:T47 Arg2:T48
+R26	hasAttr Arg1:T49 Arg2:T50
+R27	hasAttr Arg1:T51 Arg2:T52
+R28	hasAttr Arg1:T53 Arg2:T55
+R29	hasAttr Arg1:T53 Arg2:T54
+R30	hasAttr Arg1:T56 Arg2:T57
+R31	hasAttr Arg1:T58 Arg2:T59
+R32	hasAttr Arg1:T60 Arg2:T61
+R33	hasAttr Arg1:T62 Arg2:T63
+R34	hasAttr Arg1:T64 Arg2:T65
+R35	hasAttr Arg1:T66 Arg2:T67
+R36	hasAttr Arg1:T68 Arg2:T69
+R37	hasAttr Arg1:T70 Arg2:T71
+R38	hasAttr Arg1:T72 Arg2:T73
+R39	hasAttr Arg1:T76 Arg2:T77
+R40	hasAttr Arg1:T78 Arg2:T79
+R41	hasAttr Arg1:T81 Arg2:T82
+R42	hasAttr Arg1:T83 Arg2:T84
+R43	hasAttr Arg1:T85 Arg2:T86
+R44	hasAttr Arg1:T87 Arg2:T88
+R45	hasAttr Arg1:T90 Arg2:T91
+R46	hasAttr Arg1:T92 Arg2:T93
+R47	hasAttr Arg1:T96 Arg2:T94
+R48	hasAttr Arg1:T98 Arg2:T94
+R49	hasAttr Arg1:T95 Arg2:T94
+R50	hasAttr Arg1:T97 Arg2:T94
+R51	hasAttr Arg1:T98 Arg2:T99
+R52	hasAttr Arg1:T102 Arg2:T101
+R53	hasAttr Arg1:T104 Arg2:T105
+R54	hasAttr Arg1:T107 Arg2:T106
+R55	hasAttr Arg1:T109 Arg2:T108
+R56	hasAttr Arg1:T109 Arg2:T110
+R57	hasAttr Arg1:T116 Arg2:T118
+R58	hasAttr Arg1:T116 Arg2:T117
+R59	hasAttr Arg1:T125 Arg2:T124
+R60	hasAttr Arg1:T126 Arg2:T124
+R61	hasAttr Arg1:T127 Arg2:T128

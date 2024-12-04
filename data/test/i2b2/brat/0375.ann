@@ -1,0 +1,58 @@
+T1	temporal 107 118	Sep 10 2007
+T2	temporal 140 151	Sep 17 2007
+T3	treatment 238 267	right total knee arthroplasty
+T4	problem 401 415	right knee DJD
+T5	bodyloc 401 411	right knee
+T6	treatment 494 539	elective total knee arthroplasty on the right
+T7	temporal 550 561	Sep 10 2007
+T8	treatment 587 601	this procedure
+T9	treatment 700 714	this procedure
+T10	temporal 758 769	Sep 10 2007
+T11	treatment 795 808	the procedure
+T12	problem 818 826	her pain
+T13	treatment 875 896	nerve block catheters
+T14	route 899 901	IV
+T15	route 908 912	oral
+T16	drug 913 929	pain medications
+T17	problem 1012 1020	drainage
+T18	problem 1026 1043	her incision site
+T19	treatment 1188 1204	physical therapy
+T20	problem 1229 1238	some pain
+T21	treatment 1283 1299	physical therapy
+T22	temporal 1320 1325	day 5
+T23	drug 1364 1372	Coumadin
+T24	treatment 1377 1392	DVT prophylaxis
+T25	test 1411 1418	Her INR
+T26	test 1515 1526	vital signs
+T27	labvalue 1531 1537	stable
+T28	test 1540 1541	H
+T29	test 1546 1547	H
+T30	labvalue 1552 1572	within normal limits
+T31	test 1579 1586	her INR
+T32	treatment 1715 1731	physical therapy
+T33	drug 1845 1857	her Coumadin
+T34	test 1913 1924	blood draws
+T35	test 1929 1931	PT
+T36	test 1936 1939	INR
+T37	drug 2063 2081	to Coumadin dosing
+T38	problem 2122 2172	additional problems with her right lower extremity
+T39	bodyloc 2147 2172	her right lower extremity
+T40	problem 2181 2199	increased erythema
+T41	problem 2202 2206	pain
+T42	problem 2209 2217	numbness
+T43	problem 2223 2231	tingling
+T44	problem 2235 2249	other problems
+T45	temporal 2416 2427	Sep 17 2007
+T46	temporal 2429 2434	19:30
+T47	temporal 2446 2457	Sep 17 2007
+T48	temporal 2459 2464	19:42
+R1	hasAttr Arg1:T4 Arg2:T5
+R2	hasAttr Arg1:T6 Arg2:T7
+R3	hasAttr Arg1:T9 Arg2:T10
+R4	hasAttr Arg1:T16 Arg2:T14
+R5	hasAttr Arg1:T16 Arg2:T15
+R6	hasAttr Arg1:T21 Arg2:T22
+R7	hasAttr Arg1:T26 Arg2:T27
+R8	hasAttr Arg1:T28 Arg2:T30
+R9	hasAttr Arg1:T29 Arg2:T30
+R10	hasAttr Arg1:T38 Arg2:T39

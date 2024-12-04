@@ -1,0 +1,81 @@
+T1	problem 64 81	Ectopic Pregnancy
+T2	problem 172 183	pelvic pain
+T3	bodyloc 172 178	pelvic
+T4	problem 188 204	vaginal bleeding
+T5	bodyloc 188 195	vaginal
+T6	problem 206 238	Right ruptured ectopic pregnancy
+T7	problem 244 258	hemoperitoneum
+T8	problem 260 266	Anemia
+T9	problem 280 290	blood loss
+T10	problem 435 446	pelvic pain
+T11	bodyloc 435 441	pelvic
+T12	problem 451 467	vaginal bleeding
+T13	bodyloc 451 458	vaginal
+T14	test 496 499	hCG
+T15	labvalue 507 515	negative
+T16	test 516 524	sonogram
+T17	test 529 538	hCG titer
+T18	labvalue 548 554	18,000
+T19	uncertain 638 646	possible
+T20	problem 647 666	incomplete abortion
+T21	uncertain 671 679	rule out
+T22	problem 680 697	ectopic pregnancy
+T23	problem 701 730	rupture of corpus luteal cyst
+T24	problem 846 876	a small mass within the uterus
+T25	bodyloc 870 876	uterus
+T26	test 959 977	A repeat hCG titer
+T27	labvalue 1012 1018	15,000
+T28	labvalue 1064 1070	18,000
+T29	problem 1100 1126	ruptured ectopic pregnancy
+T30	treatment 1169 1176	surgery
+T31	treatment 1183 1193	laparotomy
+T32	problem 1225 1259	a right ruptured ectopic pregnancy
+T33	treatment 1261 1284	The right salpingectomy
+T34	negation 1304 1306	no
+T35	problem 1307 1320	complications
+T36	treatment 1343 1370	2 units of red packed cells
+T37	test 1386 1400	her hemoglobin
+T38	labvalue 1405 1409	12.9
+T39	temporal 1416 1432	in the afternoon
+T40	labvalue 1447 1450	8.1
+T41	temporal 1456 1477	the following morning
+T42	labvalue 1486 1489	7.9
+T43	problem 1523 1548	the severe abdominal pain
+T44	bodyloc 1534 1543	abdominal
+T45	problem 1575 1582	ectopic
+T46	treatment 1617 1624	surgery
+T47	negation 1672 1674	no
+T48	problem 1675 1680	fever
+T49	temporal 1775 1785	09/09/2007
+T50	problem 1845 1877	Right ruptured ectopic pregnancy
+T51	problem 1883 1897	hemoperitoneum
+T52	problem 1902 1908	Anemia
+T53	problem 1922 1932	blood loss
+T54	drug 1973 1988	pain medication
+T55	drug 1993 2005	iron therapy
+T56	problem 2036 2042	anemia
+T57	problem 2044 2054	blood loss
+T58	problem 2056 2082	ruptured ectopic pregnancy
+T59	problem 2101 2118	ectopic pregnancy
+T60	problem 2120 2134	hemoperitoneum
+T61	problem 2149 2157	ruptured
+R1	hasAttr Arg1:T2 Arg2:T3
+R2	hasAttr Arg1:T4 Arg2:T5
+R3	hasAttr Arg1:T10 Arg2:T11
+R4	hasAttr Arg1:T12 Arg2:T13
+R5	hasAttr Arg1:T16 Arg2:T15
+R6	hasAttr Arg1:T17 Arg2:T18
+R7	hasAttr Arg1:T20 Arg2:T19
+R8	hasAttr Arg1:T22 Arg2:T21
+R9	hasAttr Arg1:T23 Arg2:T21
+R10	hasAttr Arg1:T24 Arg2:T25
+R11	hasAttr Arg1:T26 Arg2:T28
+R12	hasAttr Arg1:T26 Arg2:T27
+R13	hasAttr Arg1:T35 Arg2:T34
+R14	hasAttr Arg1:T37 Arg2:T38
+R15	hasAttr Arg1:T37 Arg2:T39
+R16	hasAttr Arg1:T37 Arg2:T40
+R17	hasAttr Arg1:T37 Arg2:T41
+R18	hasAttr Arg1:T37 Arg2:T42
+R19	hasAttr Arg1:T43 Arg2:T44
+R20	hasAttr Arg1:T48 Arg2:T47

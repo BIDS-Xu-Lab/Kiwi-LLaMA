@@ -1,0 +1,198 @@
+T1	temporal 17 27	2009-03-27
+T2	temporal 45 55	2009-04-03
+T3	temporal 72 82	1960-03-06
+T4	problem 262 282	lower abdominal pain
+T5	bodyloc 262 277	lower abdominal
+T6	treatment 312 339	uterine artery embolization
+T7	temporal 343 353	2009-01-07
+T8	problem 367 375	fibroids
+T9	problem 390 418	continuing vaginal discharge
+T10	bodyloc 401 408	vaginal
+T11	problem 444 463	bacterial vaginosis
+T12	drug 526 532	Flagyl
+T13	problem 545 570	increasing abdominal pain
+T14	course 545 555	increasing
+T15	bodyloc 556 565	abdominal
+T16	problem 746 760	abdominal pain
+T17	bodyloc 746 755	abdominal
+T18	problem 882 899	some loose stools
+T19	negation 926 928	no
+T20	problem 929 935	nausea
+T21	problem 939 947	vomiting
+T22	test 950 965	Her temperature
+T23	labvalue 970 975	100.4
+T24	negation 1004 1006	no
+T25	problem 1007 1013	chills
+T26	test 1033 1057	a CT scan of her abdomen
+T27	problem 1075 1080	fluid
+T28	problem 1097 1126	gas in the endometrial cavity
+T29	bodyloc 1108 1119	endometrial
+T30	treatment 1172 1181	treatment
+T31	treatment 1225 1241	Cesarean section
+T32	problem 1248 1268	spontaneous abortion
+T33	temporal 1324 1334	2009-02-21
+T34	problem 1337 1350	Some spotting
+T35	drug 1427 1433	Lupron
+T36	duration 1436 1448	three months
+T37	treatment 1458 1470	embolization
+T38	problem 1473 1487	Fibroid uterus
+T39	bodyloc 1481 1487	uterus
+T40	treatment 1500 1512	embolization
+T41	temporal 1516 1526	2009-01-07
+T42	treatment 1529 1553	Dilatation and curettage
+T43	problem 1562 1565	SAB
+T44	problem 1579 1599	herpes simplex virus
+T45	temporal 1619 1623	2000
+T46	negation 1626 1628	No
+T47	problem 1640 1659	abnormal Pap smears
+T48	treatment 1716 1732	Cesarean section
+T49	treatment 1739 1763	dilatation and curettage
+T50	treatment 1770 1781	neck fusion
+T51	problem 1788 1810	motor vehicle accident
+T52	treatment 1813 1829	shoulder surgery
+T53	problem 1836 1858	motor vehicle accident
+T54	drug 1875 1881	Flagyl
+T55	problem 1884 1893	ALLERGIES
+T56	test 1975 1986	Temperature
+T57	labvalue 1987 1992	100.4
+T58	test 1995 2000	pulse
+T59	labvalue 2001 2004	108
+T60	test 2007 2019	respirations
+T61	labvalue 2020 2022	20
+T62	test 2025 2039	blood pressure
+T63	labvalue 2040 2046	110/70
+T64	test 2049 2066	oxygen saturation
+T65	labvalue 2067 2071	100%
+T66	negation 2110 2112	no
+T67	problem 2113 2127	acute distress
+T68	course 2113 2118	acute
+T69	bodyloc 2130 2141	Her abdomen
+T70	problem 2158 2176	voluntary guarding
+T71	negation 2181 2183	no
+T72	problem 2184 2204	involuntary guarding
+T73	problem 2208 2215	rebound
+T74	problem 2218 2254	mild right lower quadrant tenderness
+T75	severity 2218 2222	mild
+T76	bodyloc 2223 2243	right lower quadrant
+T77	test 2305 2327	Her pelvic examination
+T78	problem 2344 2367	some brownish discharge
+T79	problem 2430 2462	voluntary tensing of her abdomen
+T80	bodyloc 2451 2462	her abdomen
+T81	treatment 2524 2563	status post uterine artery embolization
+T82	temporal 2567 2577	2009-01-07
+T83	problem 2585 2601	uterine fibroids
+T84	bodyloc 2585 2592	uterine
+T85	problem 2609 2633	continued abdominal pain
+T86	bodyloc 2619 2628	abdominal
+T87	test 2638 2645	CT scan
+T88	problem 2656 2695	fluid and gas in the endometrial cavity
+T89	bodyloc 2677 2688	endometrial
+T90	route 2770 2781	intravenous
+T91	drug 2782 2792	ampicillin
+T92	drug 2795 2805	gentamicin
+T93	drug 2810 2821	clindamycin
+T94	test 2824 2858	Her initial white blood cell count
+T95	labvalue 2863 2867	11.3
+T96	labvalue 2877 2883	normal
+T97	test 2884 2896	differential
+T98	test 2899 2921	Her sedimentation rate
+T99	labvalue 2938 2941	110
+T100	test 2944 2960	Her electrolytes
+T101	labvalue 2966 2986	within normal limits
+T102	route 3011 3022	intravenous
+T103	drug 3023 3034	antibiotics
+T104	test 3068 3086	her blood cultures
+T105	labvalue 3097 3105	positive
+T106	test 3109 3130	the anaerobic culture
+T107	problem 3135 3176	gram-positive cocci in pairs and clusters
+T108	test 3211 3230	staphylococcus coag
+T109	labvalue 3231 3239	negative
+T110	drug 3265 3275	gentamicin
+T111	drug 3280 3291	clindamycin
+T112	drug 3315 3330	her antibiotics
+T113	test 3396 3409	a temperature
+T114	labvalue 3419 3424	102.3
+T115	test 3427 3448	Repeat blood cultures
+T116	test 3461 3487	Her white blood cell count
+T117	labvalue 3492 3496	12.8
+T118	labvalue 3506 3512	normal
+T119	test 3513 3525	differential
+T120	drug 3630 3644	the ampicillin
+T121	drug 3647 3657	gentamicin
+T122	drug 3662 3673	clindamycin
+T123	route 3693 3704	intravenous
+T124	drug 3705 3711	Unasyn
+T125	test 3728 3747	a pelvic ultrasound
+T126	test 3752 3776	an abdomen and pelvis CT
+T127	problem 3794 3833	continued air in the endometrial cavity
+T128	bodyloc 3815 3826	endometrial
+T129	problem 3841 3859	the fundal fibroid
+T130	bodyloc 3845 3851	fundal
+T131	problem 3953 3972	an infected abscess
+T132	problem 3977 3997	post-surgical change
+T133	treatment 4096 4104	drainage
+T134	problem 4108 4119	the abscess
+T135	treatment 4124 4136	hysterectomy
+T136	treatment 4221 4233	hysterectomy
+T137	route 4310 4314	oral
+T138	drug 4315 4326	antibiotics
+T139	test 4353 4369	a repeat CT scan
+T140	temporal 4373 4381	one week
+T141	treatment 4459 4478	surgical management
+T142	temporal 4566 4576	2009-04-02
+T143	temporal 4577 4582	22:09
+T144	temporal 4587 4597	2009-04-03
+T145	temporal 4598 4603	01:26
+T146	temporal 4673 4683	2009-04-24
+T147	temporal 4684 4692	12:48 PM
+R1	hasAttr Arg1:T4 Arg2:T5
+R2	hasAttr Arg1:T6 Arg2:T7
+R3	hasAttr Arg1:T9 Arg2:T10
+R4	hasAttr Arg1:T13 Arg2:T15
+R5	hasAttr Arg1:T13 Arg2:T14
+R6	hasAttr Arg1:T16 Arg2:T17
+R7	hasAttr Arg1:T20 Arg2:T19
+R8	hasAttr Arg1:T21 Arg2:T19
+R9	hasAttr Arg1:T22 Arg2:T23
+R10	hasAttr Arg1:T25 Arg2:T24
+R11	hasAttr Arg1:T28 Arg2:T29
+R12	hasAttr Arg1:T35 Arg2:T36
+R13	hasAttr Arg1:T38 Arg2:T39
+R14	hasAttr Arg1:T40 Arg2:T41
+R15	hasAttr Arg1:T44 Arg2:T45
+R16	hasAttr Arg1:T47 Arg2:T46
+R17	hasAttr Arg1:T56 Arg2:T57
+R18	hasAttr Arg1:T58 Arg2:T59
+R19	hasAttr Arg1:T60 Arg2:T61
+R20	hasAttr Arg1:T62 Arg2:T63
+R21	hasAttr Arg1:T64 Arg2:T65
+R22	hasAttr Arg1:T67 Arg2:T66
+R23	hasAttr Arg1:T67 Arg2:T68
+R24	hasAttr Arg1:T70 Arg2:T69
+R25	hasAttr Arg1:T73 Arg2:T71
+R26	hasAttr Arg1:T72 Arg2:T71
+R27	hasAttr Arg1:T74 Arg2:T76
+R28	hasAttr Arg1:T74 Arg2:T75
+R29	hasAttr Arg1:T79 Arg2:T80
+R30	hasAttr Arg1:T81 Arg2:T82
+R31	hasAttr Arg1:T83 Arg2:T84
+R32	hasAttr Arg1:T85 Arg2:T86
+R33	hasAttr Arg1:T88 Arg2:T89
+R34	hasAttr Arg1:T92 Arg2:T90
+R35	hasAttr Arg1:T93 Arg2:T90
+R36	hasAttr Arg1:T91 Arg2:T90
+R37	hasAttr Arg1:T94 Arg2:T95
+R38	hasAttr Arg1:T97 Arg2:T96
+R39	hasAttr Arg1:T98 Arg2:T99
+R40	hasAttr Arg1:T100 Arg2:T101
+R41	hasAttr Arg1:T103 Arg2:T102
+R42	hasAttr Arg1:T106 Arg2:T105
+R43	hasAttr Arg1:T108 Arg2:T109
+R44	hasAttr Arg1:T116 Arg2:T117
+R45	hasAttr Arg1:T119 Arg2:T118
+R46	hasAttr Arg1:T124 Arg2:T123
+R47	hasAttr Arg1:T127 Arg2:T128
+R48	hasAttr Arg1:T129 Arg2:T130
+R49	hasAttr Arg1:T138 Arg2:T137
+R50	hasAttr Arg1:T139 Arg2:T140
+R51	hasAttr Arg1:T113 Arg2:T114

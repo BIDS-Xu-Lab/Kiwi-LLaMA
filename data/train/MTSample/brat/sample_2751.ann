@@ -1,0 +1,346 @@
+T1	problem 63 72	Toothache
+T2	problem 113 145	multiple problems with his teeth
+T3	bodyloc 140 145	teeth
+T4	problem 153 177	extensive dental disease
+T5	treatment 190 214	many of his teeth pulled
+T6	problem 233 294	new tooth pain to both upper and lower teeth on the left side
+T7	course 233 236	new
+T8	bodyloc 237 242	tooth
+T9	bodyloc 256 277	upper and lower teeth
+T10	temporal 299 323	approximately three days
+T11	problem 381 390	Toothache
+T12	problem 459 491	multiple problems with his teeth
+T13	bodyloc 486 491	teeth
+T14	problem 499 523	extensive dental disease
+T15	treatment 536 560	many of his teeth pulled
+T16	problem 575 589	new tooth pain
+T17	course 575 578	new
+T18	bodyloc 579 584	tooth
+T19	problem 610 631	his current toothache
+T20	bodyloc 643 664	upper and lower teeth
+T21	temporal 686 710	approximately three days
+T22	negation 941 947	denies
+T23	problem 948 966	any other problems
+T24	problem 970 980	complaints
+T25	negation 994 1000	denies
+T26	problem 1001 1019	any recent illness
+T27	problem 1023 1031	injuries
+T28	drug 1055 1064	OxyContin
+T29	drug 1069 1076	Vicodin
+T30	problem 1103 1116	his knee pain
+T31	bodyloc 1107 1111	knee
+T32	drug 1130 1149	more pain medicines
+T33	drug 1185 1198	that medicine
+T34	problem 1203 1216	his toothache
+T35	negation 1287 1289	No
+T36	problem 1290 1295	fever
+T37	problem 1299 1305	chills
+T38	negation 1307 1309	No
+T39	problem 1310 1317	fatigue
+T40	problem 1321 1329	weakness
+T41	negation 1331 1333	No
+T42	temporal 1334 1340	recent
+T43	problem 1341 1354	weight change
+T44	negation 1363 1365	No
+T45	problem 1366 1374	headache
+T46	negation 1376 1378	no
+T47	problem 1379 1388	neck pain
+T48	problem 1394 1408	toothache pain
+T49	negation 1467 1469	no
+T50	problem 1470 1485	throat swelling
+T51	negation 1487 1489	no
+T52	problem 1490 1501	sore throat
+T53	negation 1503 1505	no
+T54	problem 1506 1545	difficulty swallowing solids or liquids
+T55	negation 1559 1565	denies
+T56	problem 1566 1580	any rhinorrhea
+T57	negation 1582 1584	No
+T58	problem 1585 1601	sinus congestion
+T59	problem 1603 1611	pressure
+T60	problem 1615 1619	pain
+T61	negation 1621 1623	no
+T62	problem 1624 1632	ear pain
+T63	negation 1634 1636	no
+T64	problem 1637 1651	hearing change
+T65	negation 1653 1655	no
+T66	problem 1656 1664	eye pain
+T67	problem 1668 1681	vision change
+T68	negation 1699 1701	No
+T69	problem 1702 1712	chest pain
+T70	negation 1728 1730	No
+T71	problem 1731 1750	shortness of breath
+T72	problem 1754 1759	cough
+T73	negation 1779 1781	No
+T74	problem 1782 1796	abdominal pain
+T75	bodyloc 1782 1791	abdominal
+T76	negation 1798 1800	No
+T77	problem 1801 1807	nausea
+T78	problem 1811 1819	vomiting
+T79	negation 1836 1838	No
+T80	problem 1839 1846	dysuria
+T81	negation 1865 1867	No
+T82	problem 1868 1877	back pain
+T83	bodyloc 1868 1872	back
+T84	negation 1879 1881	No
+T85	problem 1882 1903	muscle or joint aches
+T86	bodyloc 1882 1888	muscle
+T87	bodyloc 1892 1897	joint
+T88	negation 1911 1913	No
+T89	problem 1914 1920	rashes
+T90	problem 1924 1931	lesions
+T91	negation 1945 1947	No
+T92	problem 1948 1972	vision or hearing change
+T93	negation 1974 1976	No
+T94	problem 1977 1991	focal weakness
+T95	problem 1995 2003	numbness
+T96	negation 2043 2045	No
+T97	problem 2046 2065	lymph node swelling
+T98	bodyloc 2046 2056	lymph node
+T99	problem 2104 2121	Chronic knee pain
+T100	course 2104 2111	Chronic
+T101	bodyloc 2112 2116	knee
+T102	drug 2144 2153	OxyContin
+T103	drug 2158 2165	Vicodin
+T104	problem 2167 2176	ALLERGIES
+T105	drug 2178 2188	PENICILLIN
+T106	drug 2193 2200	CODEINE
+T107	test 2284 2295	Temperature
+T108	labvalue 2296 2300	97.9
+T109	test 2307 2321	blood pressure
+T110	labvalue 2325 2331	146/83
+T111	test 2333 2338	pulse
+T112	labvalue 2342 2345	74,
+T113	test 2346 2358	respirations
+T114	labvalue 2359 2361	16
+T115	test 2363 2380	oxygen saturation
+T116	labvalue 2381 2384	98%
+T117	problem 2505 2524	a little overweight
+T118	negation 2599 2601	no
+T119	problem 2602 2616	acute distress
+T120	course 2602 2607	acute
+T121	negation 2754 2756	no
+T122	problem 2757 2764	icterus
+T123	problem 2766 2775	injection
+T124	problem 2780 2789	discharge
+T125	negation 2869 2871	no
+T126	problem 2883 2900	light sensitivity
+T127	problem 2904 2915	photophobia
+T128	test 2917 2936	Extraocular motions
+T129	labvalue 2941 2959	intact bilaterally
+T130	problem 2997 3018	any sign of infection
+T131	negation 3029 3031	no
+T132	problem 3032 3040	erythema
+T133	problem 3042 3060	swelling of canals
+T134	negation 3092 3099	without
+T135	problem 3100 3112	any erythema
+T136	problem 3114 3121	bulging
+T137	problem 3125 3137	fluid levels
+T138	problem 3141 3148	bubbles
+T139	negation 3175 3182	without
+T140	problem 3183 3193	rhinorrhea
+T141	problem 3197 3215	audible congestion
+T142	negation 3226 3228	no
+T143	problem 3229 3256	tenderness over the sinuses
+T144	bodyloc 3249 3256	sinuses
+T145	test 3292 3307	range of motion
+T146	negation 3318 3320	no
+T147	problem 3321 3332	meningismus
+T148	negation 3334 3336	No
+T149	problem 3337 3361	cervical lymphadenopathy
+T150	negation 3363 3365	No
+T151	problem 3366 3369	JVD
+T152	problem 3398 3414	multiple denture
+T153	problem 3419 3441	multiple dental caries
+T154	bodyloc 3428 3434	dental
+T155	problem 3459 3504	tenderness to tooth #12 as well as tooth #21.
+T156	bodyloc 3473 3482	tooth #12
+T157	bodyloc 3494 3504	tooth #21.
+T158	negation 3543 3545	no
+T159	problem 3546 3554	erythema
+T160	problem 3558 3566	swelling
+T161	negation 3577 3579	no
+T162	problem 3580 3607	purulent or other discharge
+T163	negation 3624 3626	no
+T164	problem 3627 3637	fluctuance
+T165	problem 3655 3662	abscess
+T166	negation 3674 3676	no
+T167	problem 3677 3697	new dental fractures
+T168	course 3677 3680	new
+T169	negation 3724 3743	without any sign of
+T170	problem 3744 3753	infection
+T171	negation 3764 3766	no
+T172	problem 3767 3775	erythema
+T173	problem 3777 3784	exudate
+T174	problem 3786 3792	lesion
+T175	problem 3796 3804	swelling
+T176	negation 3900 3907	without
+T177	problem 3908 3919	any abscess
+T178	uncertain 3921 3931	suggestion
+T179	problem 3935 3952	Ludwig's syndrome
+T180	labvalue 3979 3986	regular
+T181	test 3987 3991	rate
+T182	test 3996 4002	rhythm
+T183	negation 4003 4010	without
+T184	problem 4011 4017	murmur
+T185	problem 4019 4022	rub
+T186	problem 4027 4033	gallop
+T187	labvalue 4049 4054	Clear
+T188	test 4058 4070	auscultation
+T189	negation 4083 4090	without
+T190	problem 4091 4110	shortness of breath
+T191	negation 4180 4182	No
+T192	problem 4183 4196	abnormalities
+T193	negation 4284 4286	No
+T194	problem 4287 4293	rashes
+T195	problem 4297 4304	lesions
+T196	negation 4560 4562	No
+T197	problem 4563 4587	cervical lymphadenopathy
+T198	bodyloc 4563 4571	cervical
+T199	treatment 4654 4665	a pain shot
+T200	drug 4692 4700	Dilaudid
+T201	strength 4704 4708	4 mg
+T202	form 4709 4711	IM
+T203	negation 4712 4719	without
+T204	problem 4720 4740	any adverse reaction
+T205	problem 4756 4766	ODONTALGIA
+T206	problem 4771 4793	MULTIPLE DENTAL CARIES
+T207	test 5035 5047	reevaluation
+T208	drug 5106 5114	Percocet
+T209	drug 5119 5130	clindamycin
+T210	problem 5253 5262	toothache
+T211	problem 5398 5428	any worsening of his condition
+T212	course 5402 5411	worsening
+T213	problem 5440 5458	any other problems
+T214	problem 5462 5481	symptoms of concern
+T215	problem 5522 5544	multiple dental caries
+T216	bodyloc 5531 5537	dental
+T217	problem 5555 5569	dental disease
+T218	bodyloc 5555 5561	dental
+T219	problem 5571 5595	extensive dental disease
+T220	bodyloc 5581 5587	dental
+T221	treatment 5597 5609	teeth pulled
+T222	problem 5624 5648	cervical lymphadenopathy
+T223	problem 5650 5663	dental caries
+T224	bodyloc 5650 5656	dental
+T225	problem 5665 5674	toothache
+T226	problem 5676 5684	erythema
+T227	problem 5686 5694	swelling
+R1	hasAttr Arg1:T2 Arg2:T3
+R2	hasAttr Arg1:T6 Arg2:T8
+R3	hasAttr Arg1:T6 Arg2:T10
+R4	hasAttr Arg1:T6 Arg2:T7
+R5	hasAttr Arg1:T6 Arg2:T9
+R6	hasAttr Arg1:T12 Arg2:T13
+R7	hasAttr Arg1:T16 Arg2:T18
+R8	hasAttr Arg1:T16 Arg2:T17
+R9	hasAttr Arg1:T19 Arg2:T20
+R10	hasAttr Arg1:T19 Arg2:T21
+R11	hasAttr Arg1:T24 Arg2:T22
+R12	hasAttr Arg1:T23 Arg2:T22
+R13	hasAttr Arg1:T27 Arg2:T25
+R14	hasAttr Arg1:T26 Arg2:T25
+R15	hasAttr Arg1:T30 Arg2:T31
+R16	hasAttr Arg1:T37 Arg2:T35
+R17	hasAttr Arg1:T36 Arg2:T35
+R18	hasAttr Arg1:T40 Arg2:T38
+R19	hasAttr Arg1:T39 Arg2:T38
+R20	hasAttr Arg1:T43 Arg2:T41
+R21	hasAttr Arg1:T43 Arg2:T42
+R22	hasAttr Arg1:T45 Arg2:T44
+R23	hasAttr Arg1:T47 Arg2:T46
+R24	hasAttr Arg1:T50 Arg2:T49
+R25	hasAttr Arg1:T52 Arg2:T51
+R26	hasAttr Arg1:T54 Arg2:T53
+R27	hasAttr Arg1:T56 Arg2:T55
+R28	hasAttr Arg1:T59 Arg2:T57
+R29	hasAttr Arg1:T60 Arg2:T57
+R30	hasAttr Arg1:T58 Arg2:T57
+R31	hasAttr Arg1:T62 Arg2:T61
+R32	hasAttr Arg1:T64 Arg2:T63
+R33	hasAttr Arg1:T66 Arg2:T65
+R34	hasAttr Arg1:T67 Arg2:T65
+R35	hasAttr Arg1:T69 Arg2:T68
+R36	hasAttr Arg1:T71 Arg2:T70
+R37	hasAttr Arg1:T72 Arg2:T70
+R38	hasAttr Arg1:T74 Arg2:T73
+R39	hasAttr Arg1:T74 Arg2:T75
+R40	hasAttr Arg1:T78 Arg2:T76
+R41	hasAttr Arg1:T77 Arg2:T76
+R42	hasAttr Arg1:T80 Arg2:T79
+R43	hasAttr Arg1:T82 Arg2:T81
+R44	hasAttr Arg1:T82 Arg2:T83
+R45	hasAttr Arg1:T85 Arg2:T84
+R46	hasAttr Arg1:T85 Arg2:T87
+R47	hasAttr Arg1:T85 Arg2:T86
+R48	hasAttr Arg1:T89 Arg2:T88
+R49	hasAttr Arg1:T90 Arg2:T88
+R50	hasAttr Arg1:T92 Arg2:T91
+R51	hasAttr Arg1:T94 Arg2:T93
+R52	hasAttr Arg1:T95 Arg2:T93
+R53	hasAttr Arg1:T97 Arg2:T96
+R54	hasAttr Arg1:T97 Arg2:T98
+R55	hasAttr Arg1:T99 Arg2:T100
+R56	hasAttr Arg1:T99 Arg2:T101
+R57	hasAttr Arg1:T107 Arg2:T108
+R58	hasAttr Arg1:T109 Arg2:T110
+R59	hasAttr Arg1:T111 Arg2:T112
+R60	hasAttr Arg1:T113 Arg2:T114
+R61	hasAttr Arg1:T115 Arg2:T116
+R62	hasAttr Arg1:T119 Arg2:T118
+R63	hasAttr Arg1:T119 Arg2:T120
+R64	hasAttr Arg1:T122 Arg2:T121
+R65	hasAttr Arg1:T124 Arg2:T121
+R66	hasAttr Arg1:T123 Arg2:T121
+R67	hasAttr Arg1:T126 Arg2:T125
+R68	hasAttr Arg1:T127 Arg2:T125
+R69	hasAttr Arg1:T128 Arg2:T129
+R70	hasAttr Arg1:T133 Arg2:T131
+R71	hasAttr Arg1:T132 Arg2:T131
+R72	hasAttr Arg1:T137 Arg2:T134
+R73	hasAttr Arg1:T136 Arg2:T134
+R74	hasAttr Arg1:T135 Arg2:T134
+R75	hasAttr Arg1:T138 Arg2:T134
+R76	hasAttr Arg1:T140 Arg2:T139
+R77	hasAttr Arg1:T141 Arg2:T139
+R78	hasAttr Arg1:T143 Arg2:T142
+R79	hasAttr Arg1:T143 Arg2:T144
+R80	hasAttr Arg1:T147 Arg2:T146
+R81	hasAttr Arg1:T149 Arg2:T148
+R82	hasAttr Arg1:T151 Arg2:T150
+R83	hasAttr Arg1:T153 Arg2:T154
+R84	hasAttr Arg1:T155 Arg2:T156
+R85	hasAttr Arg1:T155 Arg2:T157
+R86	hasAttr Arg1:T160 Arg2:T158
+R87	hasAttr Arg1:T159 Arg2:T158
+R88	hasAttr Arg1:T162 Arg2:T161
+R89	hasAttr Arg1:T164 Arg2:T163
+R90	hasAttr Arg1:T165 Arg2:T163
+R91	hasAttr Arg1:T167 Arg2:T166
+R92	hasAttr Arg1:T167 Arg2:T168
+R93	hasAttr Arg1:T170 Arg2:T169
+R94	hasAttr Arg1:T175 Arg2:T171
+R95	hasAttr Arg1:T173 Arg2:T171
+R96	hasAttr Arg1:T172 Arg2:T171
+R97	hasAttr Arg1:T174 Arg2:T171
+R98	hasAttr Arg1:T177 Arg2:T176
+R99	hasAttr Arg1:T179 Arg2:T178
+R100	hasAttr Arg1:T182 Arg2:T180
+R101	hasAttr Arg1:T181 Arg2:T180
+R102	hasAttr Arg1:T185 Arg2:T183
+R103	hasAttr Arg1:T184 Arg2:T183
+R104	hasAttr Arg1:T186 Arg2:T183
+R105	hasAttr Arg1:T188 Arg2:T187
+R106	hasAttr Arg1:T190 Arg2:T189
+R107	hasAttr Arg1:T192 Arg2:T191
+R108	hasAttr Arg1:T194 Arg2:T193
+R109	hasAttr Arg1:T195 Arg2:T193
+R110	hasAttr Arg1:T197 Arg2:T196
+R111	hasAttr Arg1:T197 Arg2:T198
+R112	hasAttr Arg1:T200 Arg2:T202
+R113	hasAttr Arg1:T200 Arg2:T201
+R114	hasAttr Arg1:T204 Arg2:T203
+R115	hasAttr Arg1:T211 Arg2:T212
+R116	hasAttr Arg1:T215 Arg2:T216
+R117	hasAttr Arg1:T217 Arg2:T218
+R118	hasAttr Arg1:T219 Arg2:T220
+R119	hasAttr Arg1:T223 Arg2:T224

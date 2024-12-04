@@ -1,0 +1,152 @@
+T1	temporal 108 119	Mar 13 2007
+T2	temporal 141 152	Mar 15 2007
+T3	problem 228 240	Hypertension
+T4	problem 245 258	low back pain
+T5	bodyloc 249 253	back
+T6	problem 286 310	Irritable bowel syndrome
+T7	problem 316 332	Major depression
+T8	problem 349 356	anxiety
+T9	test 437 455	a lumbar spine MRI
+T10	test 460 465	x-ray
+T11	test 492 508	lumbar spine MRI
+T12	uncertain 511 519	probable
+T13	problem 520 565	left paravertebral dilated vascular structure
+T14	bodyloc 525 538	paravertebral
+T15	test 602 611	a head CT
+T16	negation 625 627	no
+T17	problem 628 645	acute abnormality
+T18	course 628 633	acute
+T19	test 664 677	a chest x-ray
+T20	negation 691 705	no evidence of
+T21	problem 706 736	active cardiopulmonary disease
+T22	bodyloc 713 728	cardiopulmonary
+T23	test 755 761	an EKG
+T24	problem 788 805	sinus bradycardia
+T25	bodyloc 788 793	sinus
+T26	problem 808 840	nonspecific T-wave abnormalities
+T27	drug 870 875	Xanax
+T28	strength 876 879	0.5
+T29	route 880 884	p.o.
+T30	frequency 885 891	t.i.d.
+T31	drug 895 902	Norvasc
+T32	strength 903 905	10
+T33	route 906 910	p.o.
+T34	frequency 911 917	q. day
+T35	drug 923 931	Klonopin
+T36	strength 932 935	0.5
+T37	route 936 940	p.o.
+T38	frequency 941 948	nightly
+T39	drug 954 962	FiberCon
+T40	strength 963 967	1250
+T41	route 968 972	p.o.
+T42	frequency 973 979	q.i.d.
+T43	drug 983 992	Tenoretic
+T44	strength 993 999	100/25
+T45	route 1000 1004	p.o.
+T46	frequency 1005 1011	q. day
+T47	problem 1142 1166	a right - sided headache
+T48	problem 1195 1207	hypertension
+T49	test 1226 1244	her blood pressure
+T50	labvalue 1269 1272	140
+T51	labvalue 1328 1331	200
+T52	test 1332 1340	systolic
+T53	labvalue 1343 1346	100
+T54	test 1347 1356	diastolic
+T55	problem 1359 1371	The headache
+T56	temporal 1392 1398	Dec 10
+T57	bodyloc 1422 1432	right neck
+T58	bodyloc 1437 1454	right nuchal area
+T59	drug 1457 1464	Tylenol
+T60	treatment 1507 1532	blood pressure management
+T61	treatment 1537 1549	pain control
+T62	drug 1573 1584	hydralazine
+T63	drug 1589 1598	labetalol
+T64	test 1630 1648	her blood pressure
+T65	drug 1713 1726	her Tenoretic
+T66	drug 1756 1764	atenolol
+T67	drug 1769 1783	chlorthalidone
+T68	drug 1810 1817	Norvasc
+T69	test 1852 1870	her blood pressure
+T70	test 1897 1907	a systolic
+T71	labvalue 1908 1914	134/85
+T72	temporal 1976 1983	current
+T73	drug 1984 2002	medication regimen
+T74	problem 2034 2047	her headaches
+T75	course 2048 2056	declined
+T76	drug 2079 2086	Tylenol
+T77	problem 2130 2143	blurry vision
+T78	problem 2147 2157	chest pain
+T79	bodyloc 2147 2152	chest
+T80	problem 2173 2191	some blurry vision
+T81	problem 2196 2206	chest pain
+T82	bodyloc 2196 2201	chest
+T83	test 2233 2248	eye examination
+T84	negation 2262 2264	no
+T85	problem 2265 2276	papilledema
+T86	test 2290 2299	troponins
+T87	problem 2317 2329	a chest pain
+T88	bodyloc 2319 2324	chest
+T89	labvalue 2344 2352	negative
+T90	test 2353 2362	troponins
+T91	negation 2374 2376	no
+T92	problem 2377 2395	further chest pain
+T93	bodyloc 2385 2390	chest
+T94	problem 2466 2475	back pain
+T95	bodyloc 2466 2470	back
+T96	test 2518 2531	the above MRI
+T97	problem 2553 2566	her back pain
+T98	bodyloc 2557 2561	back
+T99	treatment 2589 2614	musculoskeletal treatment
+T100	problem 2705 2731	some restless leg syndrome
+T101	bodyloc 2719 2722	leg
+T102	drug 2806 2814	Klonopin
+T103	test 2939 2952	a stress test
+T104	problem 3016 3033	some oral lesions
+T105	bodyloc 3021 3025	oral
+T106	temporal 3308 3319	Mar 16 2007
+T107	temporal 3321 3326	16:37
+T108	temporal 3338 3349	Mar 17 2007
+T109	temporal 3351 3356	18:17
+R1	hasAttr Arg1:T4 Arg2:T5
+R2	hasAttr Arg1:T13 Arg2:T12
+R3	hasAttr Arg1:T13 Arg2:T14
+R4	hasAttr Arg1:T17 Arg2:T16
+R5	hasAttr Arg1:T17 Arg2:T18
+R6	hasAttr Arg1:T21 Arg2:T20
+R7	hasAttr Arg1:T21 Arg2:T22
+R8	hasAttr Arg1:T24 Arg2:T25
+R9	hasAttr Arg1:T27 Arg2:T30
+R10	hasAttr Arg1:T27 Arg2:T29
+R11	hasAttr Arg1:T27 Arg2:T28
+R12	hasAttr Arg1:T31 Arg2:T33
+R13	hasAttr Arg1:T31 Arg2:T32
+R14	hasAttr Arg1:T31 Arg2:T34
+R15	hasAttr Arg1:T35 Arg2:T38
+R16	hasAttr Arg1:T35 Arg2:T37
+R17	hasAttr Arg1:T35 Arg2:T36
+R18	hasAttr Arg1:T39 Arg2:T41
+R19	hasAttr Arg1:T39 Arg2:T40
+R20	hasAttr Arg1:T39 Arg2:T42
+R21	hasAttr Arg1:T43 Arg2:T46
+R22	hasAttr Arg1:T43 Arg2:T44
+R23	hasAttr Arg1:T43 Arg2:T45
+R24	hasAttr Arg1:T49 Arg2:T50
+R25	hasAttr Arg1:T52 Arg2:T51
+R26	hasAttr Arg1:T54 Arg2:T53
+R27	hasAttr Arg1:T55 Arg2:T58
+R28	hasAttr Arg1:T55 Arg2:T56
+R29	hasAttr Arg1:T55 Arg2:T57
+R30	hasAttr Arg1:T70 Arg2:T71
+R31	hasAttr Arg1:T73 Arg2:T72
+R32	hasAttr Arg1:T74 Arg2:T75
+R33	hasAttr Arg1:T78 Arg2:T79
+R34	hasAttr Arg1:T81 Arg2:T82
+R35	hasAttr Arg1:T85 Arg2:T84
+R36	hasAttr Arg1:T87 Arg2:T88
+R37	hasAttr Arg1:T90 Arg2:T89
+R38	hasAttr Arg1:T92 Arg2:T91
+R39	hasAttr Arg1:T92 Arg2:T93
+R40	hasAttr Arg1:T94 Arg2:T95
+R41	hasAttr Arg1:T97 Arg2:T98
+R42	hasAttr Arg1:T100 Arg2:T101
+R43	hasAttr Arg1:T104 Arg2:T105

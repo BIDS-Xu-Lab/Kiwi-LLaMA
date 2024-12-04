@@ -1,0 +1,456 @@
+T1	temporal 29 38	2/17/2000
+T2	temporal 39 50	12:00:00 AM
+T3	problem 51 69	ACUTE PANCREATITIS
+T4	course 51 56	ACUTE
+T5	temporal 98 108	02/17/2000
+T6	temporal 149 159	02/29/2000
+T7	problem 182 200	ACUTE PANCREATITIS
+T8	course 182 187	ACUTE
+T9	problem 225 256	GASTROESOPHAGEAL REFLUX DISEASE
+T10	bodyloc 225 241	GASTROESOPHAGEAL
+T11	problem 339 343	GERD
+T12	problem 364 378	abdominal pain
+T13	bodyloc 364 373	abdominal
+T14	temporal 382 392	seven days
+T15	temporal 466 473	2/11/00
+T16	problem 490 529	a sudden onset of sharp left flank pain
+T17	course 492 504	sudden onset
+T18	bodyloc 514 524	left flank
+T19	bodyloc 552 565	lower abdomen
+T20	bodyloc 578 593	the epigastrium
+T21	problem 618 626	the pain
+T22	temporal 674 678	1/25
+T23	severity 686 691	worse
+T24	problem 781 804	blood-streaked diarrhea
+T25	temporal 809 817	two days
+T26	negation 823 829	denies
+T27	problem 830 836	nausea
+T28	problem 841 849	vomiting
+T29	negation 863 865	no
+T30	problem 866 872	fevers
+T31	problem 876 882	chills
+T32	negation 896 898	no
+T33	temporal 899 905	recent
+T34	problem 906 917	weight loss
+T35	negation 920 922	no
+T36	problem 923 939	light-headedness
+T37	problem 943 952	dizziness
+T38	negation 958 964	denies
+T39	problem 965 991	increased urinary frequent
+T40	course 965 974	increased
+T41	problem 995 1002	urgency
+T42	drug 1102 1115	normal saline
+T43	drug 1129 1137	morphine
+T44	problem 1142 1146	pain
+T45	treatment 1209 1227	further management
+T46	problem 1257 1261	GERD
+T47	problem 1268 1277	Pneumonia
+T48	problem 1283 1307	partially collapsed lung
+T49	bodyloc 1303 1307	lung
+T50	temporal 1311 1315	1999
+T51	drug 1363 1371	Prilosec
+T52	strength 1372 1377	20 mg
+T53	route 1378 1382	p.o.
+T54	frequency 1383 1387	q.d.
+T55	problem 1388 1397	ALLERGIES
+T56	negation 1400 1402	No
+T57	problem 1403 1423	known drug allergies
+T58	problem 1443 1447	GERD
+T59	problem 1452 1455	PUD
+T60	test 1776 1787	VITAL SIGNS
+T61	test 1790 1794	Temp
+T62	labvalue 1795 1799	98.5
+T63	test 1802 1812	heart rate
+T64	labvalue 1813 1815	74
+T65	test 1818 1820	BP
+T66	labvalue 1821 1827	140/90
+T67	test 1830 1846	respiratory rate
+T68	labvalue 1847 1849	18
+T69	test 1852 1858	O2 sat
+T70	labvalue 1859 1862	98%
+T71	problem 1904 1919	mild discomfort
+T72	severity 1904 1908	mild
+T73	test 1930 1935	PERRL
+T74	test 1938 1942	EOMI
+T75	negation 1993 1995	No
+T76	problem 1996 2011	lymphadenopathy
+T77	negation 2014 2016	no
+T78	problem 2017 2020	JVD
+T79	problem 2031 2049	Bibasilar crackles
+T80	bodyloc 2031 2040	Bibasilar
+T81	test 2052 2065	Breath sounds
+T82	labvalue 2074 2088	good intensity
+T83	labvalue 2099 2106	Regular
+T84	test 2107 2111	rate
+T85	test 2116 2122	rhythm
+T86	labvalue 2125 2131	normal
+T87	test 2132 2134	S1
+T88	test 2137 2139	S2
+T89	negation 2142 2144	no
+T90	problem 2145 2152	murmurs
+T91	problem 2155 2159	rubs
+T92	problem 2165 2172	gallops
+T93	problem 2208 2214	Tender
+T94	test 2218 2227	palpation
+T95	bodyloc 2235 2254	left lower quadrant
+T96	bodyloc 2273 2288	the epigastrium
+T97	negation 2301 2303	no
+T98	problem 2304 2316	splenomegaly
+T99	problem 2320 2338	hepatosplenomegaly
+T100	test 2341 2353	Bowel sounds
+T101	labvalue 2359 2366	present
+T102	problem 2376 2425	Point tenderness at the left costovertebral angle
+T103	bodyloc 2400 2419	left costovertebral
+T104	negation 2458 2460	no
+T105	problem 2461 2469	clubbing
+T106	problem 2472 2480	cyanosis
+T107	problem 2486 2491	edema
+T108	test 2518 2539	alert and oriented x3
+T109	test 2542 2562	Deep tendon reflexes
+T110	labvalue 2568 2573	equal
+T111	test 2653 2662	Sensation
+T112	labvalue 2667 2673	intact
+T113	test 2718 2724	Chem-7
+T114	test 2727 2729	Na
+T115	labvalue 2730 2733	139
+T116	test 2736 2737	K
+T117	labvalue 2738 2741	3.7
+T118	test 2744 2746	Cl
+T119	labvalue 2747 2749	99
+T120	test 2752 2758	bicarb
+T121	labvalue 2759 2761	28
+T122	test 2764 2767	BUN
+T123	labvalue 2768 2770	15
+T124	test 2773 2783	creatinine
+T125	labvalue 2784 2787	0.9
+T126	test 2790 2797	glucose
+T127	labvalue 2798 2800	89
+T128	test 2803 2823	Liver function tests
+T129	test 2845 2851	an ALT
+T130	labvalue 2852 2854	41
+T131	test 2857 2860	AST
+T132	labvalue 2861 2863	31
+T133	test 2866 2874	alk phos
+T134	labvalue 2875 2877	76
+T135	test 2880 2887	T. bili
+T136	labvalue 2888 2891	0.7
+T137	test 2894 2901	D. bili
+T138	labvalue 2902 2905	0.2
+T139	test 2908 2915	amylase
+T140	labvalue 2916 2919	345
+T141	test 2922 2928	lipase
+T142	labvalue 2929 2933	2510
+T143	test 2936 2946	T. protein
+T144	labvalue 2947 2950	8.1
+T145	test 2953 2960	albumin
+T146	labvalue 2961 2964	4.9
+T147	test 2967 2975	globulin
+T148	labvalue 2976 2979	3.2
+T149	test 2982 2984	Ca
+T150	labvalue 2985 2988	9.9
+T151	test 2991 2994	CBC
+T152	test 2997 3019	White blood cell count
+T153	labvalue 3020 3024	8.82
+T154	test 3027 3037	hemoglobin
+T155	labvalue 3038 3042	15.2
+T156	test 3045 3055	hematocrit
+T157	labvalue 3056 3058	43
+T158	test 3065 3074	platelets
+T159	labvalue 3075 3078	322
+T160	test 3081 3096	Imaging studies
+T161	test 3099 3116	Abdominal CT scan
+T162	temporal 3120 3127	2/21/00
+T163	problem 3145 3165	a prominent pancreas
+T164	bodyloc 3157 3165	pancreas
+T165	problem 3171 3202	associated mesenteric stranding
+T166	bodyloc 3182 3192	mesenteric
+T167	negation 3205 3207	No
+T168	problem 3208 3215	abscess
+T169	problem 3219 3229	pseudocyst
+T170	problem 3232 3249	A small gallstone
+T171	bodyloc 3267 3283	gallbladder neck
+T172	problem 3286 3312	Bilateral pleural effusion
+T173	bodyloc 3296 3303	pleural
+T174	problem 3328 3362	associated compression atelectasis
+T175	test 3365 3385	Abdominal ultrasound
+T176	temporal 3389 3396	2/23/00
+T177	problem 3419 3437	gallbladder sludge
+T178	bodyloc 3419 3430	gallbladder
+T179	negation 3442 3444	no
+T180	problem 3445 3459	cholelithiasis
+T181	problem 3472 3517	swelling of the body and tail of the pancreas
+T182	bodyloc 3488 3517	body and tail of the pancreas
+T183	test 3520 3534	Portable chest
+T184	temporal 3538 3545	2/23/00
+T185	labvalue 3559 3564	clear
+T186	negation 3596 3598	no
+T187	problem 3599 3615	pleural effusion
+T188	bodyloc 3599 3606	pleural
+T189	test 3618 3642	Chest ( PA and lateral )
+T190	temporal 3646 3653	2/25/00
+T191	negation 3685 3687	no
+T192	problem 3688 3699	infiltrates
+T193	problem 3703 3716	consolidation
+T194	problem 3783 3801	acute pancreatitis
+T195	course 3783 3788	acute
+T196	treatment 3816 3819	NPO
+T197	treatment 3846 3855	IV fluids
+T198	treatment 3858 3870	Pain control
+T199	drug 3890 3898	morphine
+T200	drug 3923 3930	Demerol
+T201	problem 3973 3992	his epigastric pain
+T202	bodyloc 3977 3987	epigastric
+T203	temporal 4000 4007	2/17/00
+T204	temporal 4011 4018	2/21/00
+T205	problem 4047 4097	persistent and occasionally severe epigastric pain
+T206	course 4047 4057	persistent
+T207	severity 4075 4081	severe
+T208	bodyloc 4082 4092	epigastric
+T209	drug 4100 4119	His pain medication
+T210	drug 4140 4148	Dilaudid
+T211	route 4149 4151	IV
+T212	problem 4186 4198	his symptoms
+T213	drug 4201 4209	Dilaudid
+T214	route 4210 4212	IV
+T215	problem 4428 4443	epigastric pain
+T216	bodyloc 4428 4438	epigastric
+T217	problem 4463 4488	a pancreatic complication
+T218	bodyloc 4465 4475	pancreatic
+T219	problem 4497 4505	necrosis
+T220	problem 4509 4516	abscess
+T221	test 4535 4544	a CT scan
+T222	problem 4562 4592	a mass in the gallbladder neck
+T223	bodyloc 4576 4592	gallbladder neck
+T224	negation 4599 4601	no
+T225	problem 4602 4620	biliary dilatation
+T226	bodyloc 4602 4609	biliary
+T227	problem 4633 4661	stranding along the pancreas
+T228	bodyloc 4653 4661	pancreas
+T229	negation 4668 4670	no
+T230	problem 4671 4679	necrosis
+T231	problem 4682 4689	abscess
+T232	problem 4695 4705	pseudocyst
+T233	temporal 4711 4718	2/22/00
+T234	problem 4737 4743	fevers
+T235	test 4755 4779	Blood and urine cultures
+T236	test 4792 4805	A chest x-ray
+T237	negation 4832 4834	no
+T238	problem 4835 4845	infiltrate
+T239	problem 4849 4857	effusion
+T240	drug 4887 4897	cefotaxime
+T241	strength 4898 4902	1 gm
+T242	route 4903 4905	IV
+T243	drug 4910 4938	empiric antibiotic treatment
+T244	test 4941 4953	All cultures
+T245	labvalue 4959 4967	negative
+T246	temporal 4973 4980	2/23/00
+T247	problem 4983 5003	the high grade fever
+T248	test 5016 5029	An ultrasound
+T249	uncertain 5042 5047	R / O
+T250	problem 5048 5059	cholestasis
+T251	problem 5063 5074	cholangitis
+T252	test 5077 5091	The ultrasound
+T253	problem 5099 5113	biliary sludge
+T254	bodyloc 5099 5106	biliary
+T255	problem 5118 5138	swelling of the body
+T256	bodyloc 5155 5163	pancreas
+T257	negation 5166 5168	No
+T258	problem 5169 5188	other abnormalities
+T259	temporal 5205 5212	2/24/00
+T260	problem 5231 5276	an episode of exacerbation of epigastric pain
+T261	bodyloc 5261 5271	epigastric
+T262	bodyloc 5299 5318	left upper quadrant
+T263	problem 5321 5329	The pain
+T264	course 5347 5355	relieved
+T265	drug 5371 5379	Dilaudid
+T266	test 5398 5421	a follow-up chest x-ray
+T267	bodyloc 5501 5506	lungs
+T268	negation 5507 5514	without
+T269	problem 5515 5525	infiltrate
+T270	temporal 5533 5537	2/25
+T271	temporal 5540 5547	2/27/00
+T272	problem 5570 5575	fever
+T273	problem 5592 5610	his abdominal pain
+T274	bodyloc 5596 5605	abdominal
+T275	drug 5636 5646	cefotaxime
+T276	negation 5670 5672	no
+T277	problem 5673 5682	infection
+T278	temporal 5703 5710	2/28/00
+T279	treatment 5754 5770	a low fat solids
+T280	test 5777 5795	pancreatitis study
+T281	temporal 5870 5877	2/29/00
+T282	course 5890 5901	improvement
+T283	problem 5905 5917	his symptoms
+T284	drug 5944 5952	Prilosec
+T285	strength 5953 5958	20 mg
+T286	route 5959 5963	p.o.
+T287	frequency 5964 5968	q.d.
+T288	drug 5971 5979	Percocet
+T289	dosage 5980 5983	1-2
+T290	form 5984 5988	tabs
+T291	route 5989 5993	p.o.
+T292	frequency 5994 6001	q.6-8h.
+T293	duration 6002 6009	x5 days
+T294	drug 6012 6015	MVI
+T295	dosage 6016 6017	1
+T296	form 6018 6021	tab
+T297	route 6022 6026	p.o.
+T298	frequency 6027 6031	q.d.
+T299	temporal 6368 6376	03/01/00
+T300	temporal 6381 6389	03/01/00
+R1	hasAttr Arg1:T3 Arg2:T4
+R2	hasAttr Arg1:T7 Arg2:T8
+R3	hasAttr Arg1:T9 Arg2:T10
+R4	hasAttr Arg1:T12 Arg2:T14
+R5	hasAttr Arg1:T12 Arg2:T13
+R6	hasAttr Arg1:T16 Arg2:T15
+R7	hasAttr Arg1:T16 Arg2:T20
+R8	hasAttr Arg1:T16 Arg2:T18
+R9	hasAttr Arg1:T16 Arg2:T19
+R10	hasAttr Arg1:T16 Arg2:T17
+R11	hasAttr Arg1:T21 Arg2:T22
+R12	hasAttr Arg1:T21 Arg2:T23
+R13	hasAttr Arg1:T24 Arg2:T25
+R14	hasAttr Arg1:T27 Arg2:T26
+R15	hasAttr Arg1:T28 Arg2:T26
+R16	hasAttr Arg1:T30 Arg2:T29
+R17	hasAttr Arg1:T31 Arg2:T29
+R18	hasAttr Arg1:T34 Arg2:T32
+R19	hasAttr Arg1:T34 Arg2:T33
+R20	hasAttr Arg1:T37 Arg2:T35
+R21	hasAttr Arg1:T36 Arg2:T35
+R22	hasAttr Arg1:T39 Arg2:T38
+R23	hasAttr Arg1:T41 Arg2:T38
+R24	hasAttr Arg1:T39 Arg2:T40
+R25	hasAttr Arg1:T47 Arg2:T50
+R26	hasAttr Arg1:T48 Arg2:T49
+R27	hasAttr Arg1:T48 Arg2:T50
+R28	hasAttr Arg1:T51 Arg2:T54
+R29	hasAttr Arg1:T51 Arg2:T52
+R30	hasAttr Arg1:T51 Arg2:T53
+R31	hasAttr Arg1:T57 Arg2:T56
+R32	hasAttr Arg1:T61 Arg2:T62
+R33	hasAttr Arg1:T63 Arg2:T64
+R34	hasAttr Arg1:T65 Arg2:T66
+R35	hasAttr Arg1:T67 Arg2:T68
+R36	hasAttr Arg1:T69 Arg2:T70
+R37	hasAttr Arg1:T71 Arg2:T72
+R38	hasAttr Arg1:T76 Arg2:T75
+R39	hasAttr Arg1:T78 Arg2:T77
+R40	hasAttr Arg1:T79 Arg2:T80
+R41	hasAttr Arg1:T81 Arg2:T82
+R42	hasAttr Arg1:T84 Arg2:T83
+R43	hasAttr Arg1:T85 Arg2:T83
+R44	hasAttr Arg1:T87 Arg2:T86
+R45	hasAttr Arg1:T88 Arg2:T86
+R46	hasAttr Arg1:T90 Arg2:T89
+R47	hasAttr Arg1:T91 Arg2:T89
+R48	hasAttr Arg1:T92 Arg2:T89
+R49	hasAttr Arg1:T93 Arg2:T96
+R50	hasAttr Arg1:T93 Arg2:T95
+R51	hasAttr Arg1:T98 Arg2:T97
+R52	hasAttr Arg1:T99 Arg2:T97
+R53	hasAttr Arg1:T100 Arg2:T101
+R54	hasAttr Arg1:T102 Arg2:T103
+R55	hasAttr Arg1:T107 Arg2:T104
+R56	hasAttr Arg1:T105 Arg2:T104
+R57	hasAttr Arg1:T106 Arg2:T104
+R58	hasAttr Arg1:T109 Arg2:T110
+R59	hasAttr Arg1:T111 Arg2:T112
+R60	hasAttr Arg1:T114 Arg2:T115
+R61	hasAttr Arg1:T116 Arg2:T117
+R62	hasAttr Arg1:T118 Arg2:T119
+R63	hasAttr Arg1:T120 Arg2:T121
+R64	hasAttr Arg1:T122 Arg2:T123
+R65	hasAttr Arg1:T124 Arg2:T125
+R66	hasAttr Arg1:T126 Arg2:T127
+R67	hasAttr Arg1:T129 Arg2:T130
+R68	hasAttr Arg1:T131 Arg2:T132
+R69	hasAttr Arg1:T133 Arg2:T134
+R70	hasAttr Arg1:T135 Arg2:T136
+R71	hasAttr Arg1:T137 Arg2:T138
+R72	hasAttr Arg1:T139 Arg2:T140
+R73	hasAttr Arg1:T141 Arg2:T142
+R74	hasAttr Arg1:T143 Arg2:T144
+R75	hasAttr Arg1:T145 Arg2:T146
+R76	hasAttr Arg1:T147 Arg2:T148
+R77	hasAttr Arg1:T149 Arg2:T150
+R78	hasAttr Arg1:T152 Arg2:T153
+R79	hasAttr Arg1:T154 Arg2:T155
+R80	hasAttr Arg1:T156 Arg2:T157
+R81	hasAttr Arg1:T158 Arg2:T159
+R82	hasAttr Arg1:T161 Arg2:T162
+R83	hasAttr Arg1:T163 Arg2:T164
+R84	hasAttr Arg1:T165 Arg2:T166
+R85	hasAttr Arg1:T169 Arg2:T167
+R86	hasAttr Arg1:T168 Arg2:T167
+R87	hasAttr Arg1:T170 Arg2:T171
+R88	hasAttr Arg1:T172 Arg2:T173
+R89	hasAttr Arg1:T175 Arg2:T176
+R90	hasAttr Arg1:T177 Arg2:T178
+R91	hasAttr Arg1:T180 Arg2:T179
+R92	hasAttr Arg1:T181 Arg2:T182
+R93	hasAttr Arg1:T183 Arg2:T185
+R94	hasAttr Arg1:T183 Arg2:T184
+R95	hasAttr Arg1:T187 Arg2:T186
+R96	hasAttr Arg1:T187 Arg2:T188
+R97	hasAttr Arg1:T189 Arg2:T190
+R98	hasAttr Arg1:T193 Arg2:T191
+R99	hasAttr Arg1:T192 Arg2:T191
+R100	hasAttr Arg1:T194 Arg2:T195
+R101	hasAttr Arg1:T201 Arg2:T202
+R102	hasAttr Arg1:T205 Arg2:T203
+R103	hasAttr Arg1:T205 Arg2:T204
+R104	hasAttr Arg1:T205 Arg2:T207
+R105	hasAttr Arg1:T205 Arg2:T206
+R106	hasAttr Arg1:T205 Arg2:T208
+R107	hasAttr Arg1:T210 Arg2:T211
+R108	hasAttr Arg1:T213 Arg2:T214
+R109	hasAttr Arg1:T215 Arg2:T216
+R110	hasAttr Arg1:T217 Arg2:T218
+R111	hasAttr Arg1:T222 Arg2:T223
+R112	hasAttr Arg1:T225 Arg2:T224
+R113	hasAttr Arg1:T225 Arg2:T226
+R114	hasAttr Arg1:T227 Arg2:T228
+R115	hasAttr Arg1:T231 Arg2:T229
+R116	hasAttr Arg1:T230 Arg2:T229
+R117	hasAttr Arg1:T232 Arg2:T229
+R118	hasAttr Arg1:T234 Arg2:T233
+R119	hasAttr Arg1:T239 Arg2:T237
+R120	hasAttr Arg1:T238 Arg2:T237
+R121	hasAttr Arg1:T240 Arg2:T241
+R122	hasAttr Arg1:T240 Arg2:T242
+R123	hasAttr Arg1:T244 Arg2:T245
+R124	hasAttr Arg1:T247 Arg2:T246
+R125	hasAttr Arg1:T250 Arg2:T249
+R126	hasAttr Arg1:T251 Arg2:T249
+R127	hasAttr Arg1:T253 Arg2:T254
+R128	hasAttr Arg1:T255 Arg2:T256
+R129	hasAttr Arg1:T258 Arg2:T257
+R130	hasAttr Arg1:T260 Arg2:T259
+R131	hasAttr Arg1:T260 Arg2:T261
+R132	hasAttr Arg1:T260 Arg2:T262
+R133	hasAttr Arg1:T263 Arg2:T264
+R134	hasAttr Arg1:T269 Arg2:T267
+R135	hasAttr Arg1:T269 Arg2:T268
+R136	hasAttr Arg1:T273 Arg2:T270
+R137	hasAttr Arg1:T272 Arg2:T270
+R138	hasAttr Arg1:T272 Arg2:T271
+R139	hasAttr Arg1:T273 Arg2:T271
+R140	hasAttr Arg1:T273 Arg2:T274
+R141	hasAttr Arg1:T277 Arg2:T276
+R142	hasAttr Arg1:T279 Arg2:T278
+R143	hasAttr Arg1:T283 Arg2:T281
+R144	hasAttr Arg1:T283 Arg2:T282
+R145	hasAttr Arg1:T284 Arg2:T287
+R146	hasAttr Arg1:T284 Arg2:T286
+R147	hasAttr Arg1:T284 Arg2:T285
+R148	hasAttr Arg1:T288 Arg2:T290
+R149	hasAttr Arg1:T288 Arg2:T289
+R150	hasAttr Arg1:T288 Arg2:T293
+R151	hasAttr Arg1:T288 Arg2:T292
+R152	hasAttr Arg1:T288 Arg2:T291
+R153	hasAttr Arg1:T294 Arg2:T296
+R154	hasAttr Arg1:T294 Arg2:T298
+R155	hasAttr Arg1:T294 Arg2:T295
+R156	hasAttr Arg1:T294 Arg2:T297

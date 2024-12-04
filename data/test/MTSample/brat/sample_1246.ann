@@ -1,0 +1,67 @@
+T1	treatment 64 78	Gastric Bypass
+T2	treatment 125 162	laparoscopic Roux-en-Y gastric bypass
+T3	problem 221 235	Morbid obesity
+T4	course 221 227	Morbid
+T5	treatment 249 286	laparoscopic Roux-en-Y gastric bypass
+T6	problem 291 303	Hypertension
+T7	problem 308 331	Obstructive sleep apnea
+T8	course 308 319	Obstructive
+T9	treatment 336 340	CPAP
+T10	treatment 367 404	Laparoscopic Roux-en-Y gastric bypass
+T11	test 516 526	evaluation
+T12	treatment 531 540	treatment
+T13	problem 544 571	longstanding morbid obesity
+T14	course 557 563	morbid
+T15	problem 576 600	associated comorbidities
+T16	test 612 641	standard bariatric evaluation
+T17	treatment 670 704	preop Medifast induced weight loss
+T18	treatment 724 750	elective bariatric surgery
+T19	treatment 801 824	elective gastric bypass
+T20	treatment 891 917	routine postoperative care
+T21	treatment 926 941	DVT prophylaxis
+T22	route 961 966	subcu
+T23	drug 967 974	heparin
+T24	treatment 976 1007	early and frequent mobilization
+T25	treatment 1013 1017	SCDs
+T26	treatment 1019 1022	PCA
+T27	treatment 1040 1052	pain control
+T28	treatment 1081 1089	the CPAP
+T29	problem 1117 1147	new cardiopulmonary complaints
+T30	test 1164 1168	labs
+T31	labvalue 1176 1182	normal
+T32	treatment 1216 1239	bariatric clear liquids
+T33	negation 1310 1312	no
+T34	problem 1313 1339	cardiopulmonary complaints
+T35	negation 1341 1343	no
+T36	problem 1344 1357	unusual fever
+T37	course 1344 1351	unusual
+T38	problem 1372 1380	symptoms
+T39	temporal 1539 1544	today
+T40	treatment 1553 1563	his drains
+T41	temporal 1651 1664	the next week
+T42	condition 1686 1688	if
+T43	problem 1693 1726	significant concerning complaints
+T44	drug 1758 1768	omeprazole
+T45	drug 1773 1779	Lortab
+T46	treatment 1836 1859	bariatric clear liquids
+T47	treatment 1893 1918	maintain activity at home
+T48	treatment 1985 2000	drain site care
+T49	treatment 2005 2015	wound care
+T50	condition 2107 2109	if
+T51	problem 2110 2147	any significant concerning complaints
+T52	treatment 2188 2225	laparoscopic roux-en-y gastric bypass
+T53	treatment 2227 2236	roux-en-y
+T54	treatment 2238 2261	bariatric clear liquids
+T55	treatment 2263 2277	gastric bypass
+T56	treatment 2279 2291	laparoscopic
+T57	treatment 2313 2319	bypass
+R1	hasAttr Arg1:T3 Arg2:T4
+R2	hasAttr Arg1:T7 Arg2:T8
+R3	hasAttr Arg1:T13 Arg2:T14
+R4	hasAttr Arg1:T23 Arg2:T22
+R5	hasAttr Arg1:T30 Arg2:T31
+R6	hasAttr Arg1:T34 Arg2:T33
+R7	hasAttr Arg1:T36 Arg2:T35
+R8	hasAttr Arg1:T36 Arg2:T37
+R9	hasAttr Arg1:T43 Arg2:T42
+R10	hasAttr Arg1:T51 Arg2:T50

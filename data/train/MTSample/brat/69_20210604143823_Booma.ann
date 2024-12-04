@@ -1,0 +1,94 @@
+T1	labvalue 124 130	normal
+T2	test 131 152	male multisystem exam
+T3	test 225 240	The vital signs
+T4	labvalue 269 277	afebrile
+T5	test 279 293	blood pressure
+T6	test 298 308	heart rate
+T7	labvalue 321 327	normal
+T8	negation 441 443	no
+T9	problem 444 450	ptosis
+T10	negation 643 645	no
+T11	problem 646 652	lesion
+T12	bodyloc 753 766	thyroid gland
+T13	negation 771 774	not
+T14	problem 775 783	enlarged
+T15	test 787 796	palpation
+T16	test 856 868	Auscultation
+T17	labvalue 897 925	clear with good air movement
+T18	test 943 968	Auscultation of the heart
+T19	test 978 980	S1
+T20	test 985 987	S2
+T21	labvalue 993 1005	regular rate
+T22	negation 1011 1013	no
+T23	problem 1014 1020	murmur
+T24	bodyloc 1032 1043	extremities
+T25	negation 1051 1053	no
+T26	problem 1054 1059	edema
+T27	negation 1116 1118	no
+T28	test 1119 1126	rebound
+T29	negation 1128 1130	no
+T30	problem 1131 1139	guarding
+T31	negation 1141 1143	no
+T32	problem 1144 1168	enlarged liver or spleen
+T33	bodyloc 1153 1158	liver
+T34	bodyloc 1162 1168	spleen
+T35	bodyloc 1239 1245	testes
+T36	negation 1251 1258	without
+T37	problem 1259 1272	discrete mass
+T38	bodyloc 1278 1283	penis
+T39	negation 1291 1293	no
+T40	problem 1294 1300	lesion
+T41	negation 1302 1304	no
+T42	problem 1305 1314	discharge
+T43	negation 1337 1339	no
+T44	problem 1340 1356	appreciated node
+T45	test 1440 1450	inspection
+T46	negation 1458 1460	no
+T47	problem 1461 1478	obvious deformity
+T48	bodyloc 1491 1502	extremities
+T49	negation 1510 1512	no
+T50	problem 1513 1530	obvious deformity
+T51	test 1532 1547	Range of motion
+T52	labvalue 1563 1605	normal for the upper and lower extremities
+T53	test 1613 1660	Inspection of the skin and subcutaneous tissues
+T54	labvalue 1676 1682	normal
+T55	test 1738 1758	Deep tendon reflexes
+T56	labvalue 1764 1796	symmetrical at the patellar area
+T57	test 1798 1807	Sensation
+T58	labvalue 1812 1826	grossly intact
+T59	test 1916 1936	judgment and insight
+T60	labvalue 1952 1958	normal
+T61	test 2088 2100	auscultation
+R1	hasAttr Arg1:T2 Arg2:T1
+R2	hasAttr Arg1:T3 Arg2:T4
+R3	hasAttr Arg1:T5 Arg2:T7
+R4	hasAttr Arg1:T6 Arg2:T7
+R5	hasAttr Arg1:T9 Arg2:T8
+R6	hasAttr Arg1:T11 Arg2:T10
+R7	hasAttr Arg1:T14 Arg2:T13
+R8	hasAttr Arg1:T16 Arg2:T17
+R9	hasAttr Arg1:T19 Arg2:T21
+R10	hasAttr Arg1:T20 Arg2:T21
+R11	hasAttr Arg1:T23 Arg2:T22
+R12	hasAttr Arg1:T26 Arg2:T25
+R13	hasAttr Arg1:T28 Arg2:T27
+R14	hasAttr Arg1:T30 Arg2:T29
+R15	hasAttr Arg1:T32 Arg2:T31
+R16	hasAttr Arg1:T32 Arg2:T33
+R17	hasAttr Arg1:T32 Arg2:T34
+R18	hasAttr Arg1:T37 Arg2:T36
+R19	hasAttr Arg1:T40 Arg2:T39
+R20	hasAttr Arg1:T42 Arg2:T41
+R21	hasAttr Arg1:T44 Arg2:T43
+R22	hasAttr Arg1:T47 Arg2:T46
+R23	hasAttr Arg1:T50 Arg2:T49
+R24	hasAttr Arg1:T51 Arg2:T52
+R25	hasAttr Arg1:T53 Arg2:T54
+R26	hasAttr Arg1:T55 Arg2:T56
+R27	hasAttr Arg1:T57 Arg2:T58
+R28	hasAttr Arg1:T59 Arg2:T60
+R29	hasAttr Arg1:T14 Arg2:T12
+R30	hasAttr Arg1:T26 Arg2:T24
+R31	hasAttr Arg1:T37 Arg2:T35
+R32	hasAttr Arg1:T40 Arg2:T38
+R33	hasAttr Arg1:T50 Arg2:T48

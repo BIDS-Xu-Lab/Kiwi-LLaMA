@@ -1,0 +1,110 @@
+T1	temporal 121 132	Dec 01 2007
+T2	problem 208 219	Dehydration
+T3	problem 244 267	Urinary tract infection
+T4	bodyloc 244 257	Urinary tract
+T5	problem 299 309	Depression
+T6	problem 315 323	Dementia
+T7	problem 329 345	Seizure disorder
+T8	problem 351 382	Gastroesophageal reflux disease
+T9	bodyloc 351 367	Gastroesophageal
+T10	problem 388 394	Anemia
+T11	problem 398 413	chronic disease
+T12	problem 450 458	vomiting
+T13	problem 463 468	fever
+T14	problem 487 510	urinary tract infection
+T15	bodyloc 487 500	urinary tract
+T16	problem 518 528	dehydrated
+T17	route 571 582	intravenous
+T18	drug 583 594	antibiotics
+T19	drug 606 612	Zofran
+T20	problem 617 629	his vomiting
+T21	test 632 647	Potassium level
+T22	labvalue 652 660	elevated
+T23	treatment 744 753	treatment
+T24	negation 788 790	no
+T25	treatment 791 806	other treatment
+T26	treatment 876 897	his usual medications
+T27	drug 946 967	His usual medications
+T28	drug 975 985	Metoprolol
+T29	strength 986 991	25 mg
+T30	frequency 992 997	b.i.d
+T31	drug 1002 1012	Fluoxetine
+T32	strength 1013 1018	20 mg
+T33	frequency 1019 1024	daily
+T34	drug 1030 1040	Apresoline
+T35	strength 1041 1046	10 mg
+T36	frequency 1047 1060	4 times a day
+T37	drug 1066 1072	Keppra
+T38	strength 1073 1079	500 mg
+T39	frequency 1080 1085	b.i.d
+T40	drug 1090 1097	Remeron
+T41	strength 1098 1103	15 mg
+T42	frequency 1104 1114	at bedtime
+T43	drug 1120 1127	Imodium
+T44	strength 1128 1132	2 mg
+T45	frequency 1133 1145	q.4 h. p.r.n
+T46	drug 1150 1157	Aspirin
+T47	strength 1158 1163	81 mg
+T48	frequency 1164 1169	daily
+T49	drug 1175 1183	Prevacid
+T50	strength 1184 1189	30 mg
+T51	frequency 1190 1195	daily
+T52	drug 1201 1208	Aricept
+T53	strength 1209 1214	10 mg
+T54	frequency 1215 1225	at bedtime
+T55	drug 1232 1247	Ferrous sulfate
+T56	strength 1248 1251	325
+T57	frequency 1252 1257	b.i.d
+T58	drug 1263 1271	Klor-Con
+T59	strength 1272 1278	20 mEq
+T60	frequency 1279 1284	daily
+T61	drug 1291 1302	Scopolamine
+T62	form 1303 1308	patch
+T63	drug 1315 1322	Tylenol
+T64	strength 1323 1329	650 mg
+T65	frequency 1330 1335	q.6 h
+T66	drug 1342 1351	Thorazine
+T67	strength 1352 1357	25 mg
+T68	frequency 1358 1363	q.6 h
+T69	drug 1370 1376	Reglan
+T70	strength 1377 1381	5 mg
+T71	frequency 1382 1393	twice a day
+T72	temporal 1508 1519	Dec 01 2007
+T73	temporal 1521 1526	08:48
+T74	temporal 1538 1549	Dec 02 2007
+T75	temporal 1551 1556	14:46
+R1	hasAttr Arg1:T3 Arg2:T4
+R2	hasAttr Arg1:T8 Arg2:T9
+R3	hasAttr Arg1:T14 Arg2:T15
+R4	hasAttr Arg1:T18 Arg2:T17
+R5	hasAttr Arg1:T21 Arg2:T22
+R6	hasAttr Arg1:T25 Arg2:T24
+R7	hasAttr Arg1:T28 Arg2:T29
+R8	hasAttr Arg1:T28 Arg2:T30
+R9	hasAttr Arg1:T31 Arg2:T32
+R10	hasAttr Arg1:T31 Arg2:T33
+R11	hasAttr Arg1:T34 Arg2:T35
+R12	hasAttr Arg1:T34 Arg2:T36
+R13	hasAttr Arg1:T37 Arg2:T39
+R14	hasAttr Arg1:T37 Arg2:T38
+R15	hasAttr Arg1:T40 Arg2:T42
+R16	hasAttr Arg1:T40 Arg2:T41
+R17	hasAttr Arg1:T43 Arg2:T44
+R18	hasAttr Arg1:T43 Arg2:T45
+R19	hasAttr Arg1:T46 Arg2:T47
+R20	hasAttr Arg1:T46 Arg2:T48
+R21	hasAttr Arg1:T49 Arg2:T51
+R22	hasAttr Arg1:T49 Arg2:T50
+R23	hasAttr Arg1:T52 Arg2:T54
+R24	hasAttr Arg1:T52 Arg2:T53
+R25	hasAttr Arg1:T55 Arg2:T56
+R26	hasAttr Arg1:T55 Arg2:T57
+R27	hasAttr Arg1:T58 Arg2:T60
+R28	hasAttr Arg1:T58 Arg2:T59
+R29	hasAttr Arg1:T61 Arg2:T62
+R30	hasAttr Arg1:T63 Arg2:T64
+R31	hasAttr Arg1:T63 Arg2:T65
+R32	hasAttr Arg1:T66 Arg2:T68
+R33	hasAttr Arg1:T66 Arg2:T67
+R34	hasAttr Arg1:T69 Arg2:T70
+R35	hasAttr Arg1:T69 Arg2:T71

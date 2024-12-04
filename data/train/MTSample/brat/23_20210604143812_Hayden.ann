@@ -1,0 +1,56 @@
+T1	treatment 64 78	Speech Therapy
+T2	treatment 202 224	skilled speech therapy
+T3	treatment 466 488	skilled speech therapy
+T4	treatment 588 595	therapy
+T5	temporal 600 608	03/26/08
+T6	treatment 626 629	NPO
+T7	treatment 635 643	a G-tube
+T8	test 652 690	initial speech and language evaluation
+T9	problem 700 714	global aphasia
+T10	test 720 739	an aphasia quotient
+T11	labvalue 743 750	3.6/100
+T12	test 760 787	the Western Aphasia Battery
+T13	test 795 817	the initial evaluation
+T14	treatment 847 881	outpatient speech therapy sessions
+T15	test 1134 1165	a modified barium swallow study
+T16	negation 1203 1205	no
+T17	problem 1206 1216	aspiration
+T18	drug 1278 1293	all medications
+T19	route 1294 1302	by mouth
+T20	treatment 1313 1323	her G-tube
+T21	negation 1413 1420	removal
+T22	treatment 1424 1440	her feeding tube
+T23	test 1471 1499	accuracy of yes-no responses
+T24	test 1746 1758	reevaluation
+T25	problem 2061 2088	difficulty stating verbally
+T26	severity 2222 2228	marked
+T27	problem 2229 2279	difficulty with her expressive language abilities.
+T28	test 2570 2584	A reevaluation
+T29	temporal 2598 2606	12/01/08
+T30	test 2617 2636	an aphasia quotient
+T31	labvalue 2640 2644	26.4
+T32	problem 2732 2753	unintelligible speech
+T33	treatment 2755 2790	An alternative communication device
+T34	negation 2869 2882	does not want
+T35	treatment 2894 2916	a communication device
+T36	treatment 3006 3051	an alternative augmented communication device
+T37	treatment 3149 3175	a speech generating device
+T38	treatment 3276 3291	home activities
+T39	treatment 3411 3417	g-tube
+T40	problem 3419 3426	aphasia
+T41	test 3428 3447	language evaluation
+T42	test 3449 3472	western aphasia battery
+T43	treatment 3474 3496	skilled speech therapy
+T44	test 3498 3517	swallowing function
+T45	treatment 3519 3533	speech therapy
+T46	treatment 3535 3542	therapy
+T47	problem 3556 3566	aspiration
+R1	hasAttr Arg1:T4 Arg2:T5
+R2	hasAttr Arg1:T10 Arg2:T11
+R3	hasAttr Arg1:T17 Arg2:T16
+R4	hasAttr Arg1:T18 Arg2:T19
+R5	hasAttr Arg1:T22 Arg2:T21
+R6	hasAttr Arg1:T27 Arg2:T26
+R7	hasAttr Arg1:T28 Arg2:T29
+R8	hasAttr Arg1:T30 Arg2:T31
+R9	hasAttr Arg1:T35 Arg2:T34

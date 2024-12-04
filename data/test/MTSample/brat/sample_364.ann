@@ -1,0 +1,214 @@
+T1	test 71 84	Physical Exam
+T2	test 89 92	Pap
+T3	test 142 159	complete physical
+T4	test 161 164	Pap
+T5	test 169 180	breast exam
+T6	test 292 309	complete physical
+T7	test 311 314	Pap
+T8	test 319 330	breast exam
+T9	test 333 351	Her last Pap smear
+T10	temporal 356 366	05/02/2002
+T11	problem 436 454	some midchest pain
+T12	bodyloc 441 449	midchest
+T13	negation 587 593	Denies
+T14	problem 594 600	nausea
+T15	problem 602 610	vomiting
+T16	problem 612 623	diaphoresis
+T17	problem 627 646	shortness of breath
+T18	labvalue 712 718	normal
+T19	test 719 722	EKG
+T20	temporal 723 735	one year ago
+T21	treatment 797 813	her foot surgery
+T22	problem 855 878	Reactive airway disease
+T23	bodyloc 864 870	airway
+T24	problem 880 900	rheumatoid arthritis
+T25	temporal 902 908	recent
+T26	treatment 909 938	surgery on her hands and feet
+T27	problem 1006 1028	iron deficiency anemia
+T28	problem 1030 1042	osteoporosis
+T29	problem 1048 1062	hypothyroidism
+T30	drug 1078 1090	Methotrexate
+T31	strength 1091 1097	2.5 mg
+T32	frequency 1098 1109	five weekly
+T33	drug 1111 1118	Fosamax
+T34	strength 1119 1124	70 mg
+T35	frequency 1125 1131	weekly
+T36	drug 1133 1143	folic acid
+T37	frequency 1144 1149	daily
+T38	drug 1151 1164	amitriptyline
+T39	strength 1165 1170	15 mg
+T40	frequency 1171 1176	daily
+T41	drug 1178 1187	Synthroid
+T42	strength 1188 1196	0.088 mg
+T43	frequency 1197 1202	daily
+T44	drug 1204 1211	calcium
+T45	dosage 1212 1215	two
+T46	frequency 1219 1230	the morning
+T47	dosage 1235 1238	two
+T48	frequency 1239 1246	at noon
+T49	drug 1248 1260	multivitamin
+T50	frequency 1261 1266	daily
+T51	drug 1268 1280	baby aspirin
+T52	frequency 1281 1286	daily
+T53	drug 1291 1297	Colace
+T54	dosage 1298 1310	one to three
+T55	frequency 1311 1316	b.i.d
+T56	test 1672 1678	Weight
+T57	labvalue 1679 1682	146
+T58	test 1685 1699	Blood pressure
+T59	labvalue 1700 1706	100/64
+T60	test 1709 1714	Pulse
+T61	labvalue 1715 1717	80
+T62	test 1720 1732	Respirations
+T63	labvalue 1733 1735	16
+T64	test 1738 1749	Temperature
+T65	labvalue 1750 1754	97.7
+T66	negation 1822 1824	no
+T67	problem 1825 1839	acute distress
+T68	course 1825 1830	acute
+T69	negation 1895 1897	No
+T70	problem 1898 1913	lymphadenopathy
+T71	negation 1916 1918	No
+T72	problem 1919 1930	thyromegaly
+T73	labvalue 1940 1945	Clear
+T74	test 1949 1961	auscultation
+T75	labvalue 1992 1999	Regular
+T76	test 2000 2004	rate
+T77	test 2009 2015	rhythm
+T78	negation 2071 2073	No
+T79	problem 2074 2092	hepatosplenomegaly
+T80	negation 2104 2106	No
+T81	problem 2107 2123	nipple discharge
+T82	negation 2126 2128	No
+T83	problem 2129 2134	lumps
+T84	problem 2138 2144	masses
+T85	negation 2156 2158	No
+T86	problem 2159 2179	dimpling of the skin
+T87	bodyloc 2175 2179	skin
+T88	test 2217 2233	Self-breast exam
+T89	problem 2295 2318	Atrophic vaginal mucosa
+T90	bodyloc 2304 2318	vaginal mucosa
+T91	negation 2321 2323	No
+T92	problem 2324 2340	cervical lesions
+T93	bodyloc 2324 2332	cervical
+T94	negation 2343 2345	No
+T95	problem 2346 2372	cervical motion tenderness
+T96	bodyloc 2346 2354	cervical
+T97	negation 2375 2377	No
+T98	problem 2378 2396	adnexal tenderness
+T99	bodyloc 2378 2385	adnexal
+T100	problem 2400 2406	masses
+T101	negation 2450 2452	No
+T102	problem 2453 2458	stool
+T103	bodyloc 2474 2479	vault
+T104	negation 2482 2484	No
+T105	problem 2485 2498	rectal masses
+T106	bodyloc 2485 2491	rectal
+T107	negation 2523 2525	No
+T108	problem 2526 2534	cyanosis
+T109	problem 2536 2544	clubbing
+T110	problem 2548 2553	edema
+T111	problem 2570 2611	obvious rheumatoid arthritis of her hands
+T112	bodyloc 2606 2611	hands
+T113	problem 2663 2673	Chest pain
+T114	bodyloc 2663 2668	Chest
+T115	labvalue 2800 2806	normal
+T116	test 2807 2810	ECG
+T117	temporal 2811 2823	one year ago
+T118	negation 2877 2888	will not do
+T119	test 2889 2911	further cardiac workup
+T120	temporal 2915 2924	this time
+T121	problem 2966 2994	some GI reflux type symptoms
+T122	bodyloc 2971 2973	GI
+T123	problem 3000 3014	Hypothyroidism
+T124	test 3033 3036	TSH
+T125	drug 3080 3090	medication
+T126	temporal 3094 3103	this time
+T127	problem 3139 3159	Rheumatoid arthritis
+T128	drug 3171 3187	her methotrexate
+T129	problem 3262 3274	Osteoporosis
+T130	test 3304 3317	a repeat DEXA
+T131	test 3388 3397	Pap smear
+T132	temporal 3411 3416	today
+T133	test 3453 3462	mammogram
+T134	test 3499 3516	complete physical
+T135	test 3518 3527	pap smear
+T136	test 3529 3540	breast exam
+T137	problem 3542 3562	rheumatoid arthritis
+T138	problem 3564 3570	masses
+T139	test 3581 3586	smear
+T140	problem 3588 3603	lymphadenopathy
+T141	problem 3622 3632	tenderness
+T142	problem 3661 3671	rheumatoid
+T143	problem 3673 3682	arthritis
+T144	problem 3684 3690	masses
+T145	test 3710 3713	pap
+R1	hasAttr Arg1:T53 Arg2:T54
+R2	hasAttr Arg1:T53 Arg2:T55
+R3	hasAttr Arg1:T49 Arg2:T50
+R4	hasAttr Arg1:T44 Arg2:T48
+R5	hasAttr Arg1:T44 Arg2:T47
+R6	hasAttr Arg1:T41 Arg2:T43
+R7	hasAttr Arg1:T41 Arg2:T42
+R8	hasAttr Arg1:T38 Arg2:T39
+R9	hasAttr Arg1:T38 Arg2:T40
+R10	hasAttr Arg1:T36 Arg2:T37
+R11	hasAttr Arg1:T33 Arg2:T35
+R12	hasAttr Arg1:T33 Arg2:T34
+R13	hasAttr Arg1:T30 Arg2:T32
+R14	hasAttr Arg1:T30 Arg2:T31
+R15	hasAttr Arg1:T102 Arg2:T101
+R16	hasAttr Arg1:T86 Arg2:T87
+R17	hasAttr Arg1:T70 Arg2:T69
+R18	hasAttr Arg1:T113 Arg2:T114
+R19	hasAttr Arg1:T108 Arg2:T107
+R20	hasAttr Arg1:T15 Arg2:T13
+R21	hasAttr Arg1:T67 Arg2:T66
+R22	hasAttr Arg1:T92 Arg2:T93
+R23	hasAttr Arg1:T84 Arg2:T82
+R24	hasAttr Arg1:T92 Arg2:T91
+R25	hasAttr Arg1:T79 Arg2:T78
+R26	hasAttr Arg1:T14 Arg2:T13
+R27	hasAttr Arg1:T109 Arg2:T107
+R28	hasAttr Arg1:T102 Arg2:T103
+R29	hasAttr Arg1:T95 Arg2:T94
+R30	hasAttr Arg1:T98 Arg2:T99
+R31	hasAttr Arg1:T72 Arg2:T71
+R32	hasAttr Arg1:T86 Arg2:T85
+R33	hasAttr Arg1:T110 Arg2:T107
+R34	hasAttr Arg1:T121 Arg2:T122
+R35	hasAttr Arg1:T83 Arg2:T82
+R36	hasAttr Arg1:T105 Arg2:T106
+R37	hasAttr Arg1:T16 Arg2:T13
+R38	hasAttr Arg1:T100 Arg2:T97
+R39	hasAttr Arg1:T81 Arg2:T80
+R40	hasAttr Arg1:T22 Arg2:T23
+R41	hasAttr Arg1:T111 Arg2:T112
+R42	hasAttr Arg1:T67 Arg2:T68
+R43	hasAttr Arg1:T95 Arg2:T96
+R44	hasAttr Arg1:T17 Arg2:T13
+R45	hasAttr Arg1:T89 Arg2:T90
+R46	hasAttr Arg1:T105 Arg2:T104
+R47	hasAttr Arg1:T98 Arg2:T97
+R48	hasAttr Arg1:T58 Arg2:T59
+R49	hasAttr Arg1:T60 Arg2:T61
+R50	hasAttr Arg1:T56 Arg2:T57
+R51	hasAttr Arg1:T64 Arg2:T65
+R52	hasAttr Arg1:T62 Arg2:T63
+R53	hasTemporal Arg1:T9 Arg2:T10
+R54	hasTemporal Arg1:T19 Arg2:T20
+R55	hasTemporal Arg1:T116 Arg2:T117
+R56	hasTemporal Arg1:T119 Arg2:T120
+R57	hasTemporal Arg1:T131 Arg2:T132
+R58	hasAttr Arg1:T11 Arg2:T12
+R59	hasAttr Arg1:T19 Arg2:T18
+R60	hasAttr Arg1:T26 Arg2:T25
+R61	hasAttr Arg1:T44 Arg2:T45
+R62	hasAttr Arg1:T51 Arg2:T52
+R63	hasAttr Arg1:T44 Arg2:T46
+R64	hasAttr Arg1:T74 Arg2:T73
+R65	hasAttr Arg1:T76 Arg2:T75
+R66	hasAttr Arg1:T77 Arg2:T75
+R67	hasAttr Arg1:T116 Arg2:T115
+R68	hasAttr Arg1:T125 Arg2:T126
+R69	hasAttr Arg1:T119 Arg2:T118

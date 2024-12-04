@@ -1,0 +1,116 @@
+T1	problem 64 73	Pneumonia
+T2	problem 107 125	Atypical pneumonia
+T3	problem 127 134	hypoxia
+T4	problem 136 156	rheumatoid arthritis
+T5	uncertain 162 171	suspected
+T6	problem 172 213	mild stress-induced adrenal insufficiency
+T7	severity 172 176	mild
+T8	bodyloc 192 199	adrenal
+T9	problem 268 273	cough
+T10	problem 275 281	fevers
+T11	problem 283 291	weakness
+T12	problem 297 303	chills
+T13	temporal 308 335	the week prior to admission
+T14	problem 399 408	Pneumonia
+T15	treatment 417 437	outpatient treatment
+T16	problem 442 449	Hypoxia
+T17	problem 454 474	Rheumatoid arthritis
+T18	problem 500 518	Atypical pneumonia
+T19	problem 530 535	viral
+T20	problem 540 547	Hypoxia
+T21	problem 552 572	Rheumatoid arthritis
+T22	uncertain 577 586	Suspected
+T23	problem 587 628	mild stress-induced adrenal insufficiency
+T24	severity 587 591	mild
+T25	bodyloc 607 614	adrenal
+T26	problem 700 705	cough
+T27	problem 707 713	fevers
+T28	problem 715 723	weakness
+T29	problem 729 735	chills
+T30	temporal 740 767	the week prior to admission
+T31	test 850 863	Initial x-ray
+T32	problem 871 907	some mild diffuse patchy infiltrates
+T33	severity 876 880	mild
+T34	drug 934 940	Avelox
+T35	problem 950 960	a reaction
+T36	drug 974 983	Augmentin
+T37	problem 998 1010	loose stools
+T38	frequency 1061 1066	daily
+T39	strength 1067 1070	1 g
+T40	drug 1071 1079	Rocephin
+T41	drug 1095 1107	azithromycin
+T42	test 1109 1127	Her O2 saturations
+T43	treatment 1256 1289	outpatient treatment of pneumonia
+T44	problem 1330 1350	rheumatoid arthritis
+T45	strength 1362 1367	20 mg
+T46	drug 1371 1383	methotrexate
+T47	frequency 1384 1394	every week
+T48	drug 1406 1414	Remicade
+T49	frequency 1415 1432	every eight weeks
+T50	drug 1451 1459	Remicade
+T51	temporal 1467 1484	the month of June
+T52	test 1531 1538	CT scan
+T53	negation 1557 1559	no
+T54	problem 1560 1584	specific focal pathology
+T55	problem 1683 1697	viral etiology
+T56	problem 1736 1752	her loose stools
+T57	test 1754 1772	C. difficile toxin
+T58	drug 1858 1866	Rocephin
+T59	route 1867 1869	IV
+T60	drug 1874 1886	azithromycin
+T61	problem 1888 1897	Her fever
+T62	test 1937 1951	O2 saturations
+T63	drug 2040 2052	azithromycin
+T64	drug 2165 2183	prednisone therapy
+T65	problem 2215 2242	mildly adrenal insufficient
+T66	severity 2215 2221	mildly
+T67	bodyloc 2222 2229	adrenal
+T68	problem 2248 2258	the stress
+T69	problem 2262 2275	her pneumonia
+T70	drug 2318 2328	prednisone
+T71	strength 2332 2337	20 mg
+T72	dosage 2347 2351	5 mg
+T73	frequency 2352 2359	per day
+T74	drug 2423 2439	her methotrexate
+T75	drug 2473 2485	Methotrexate
+T76	problem 2522 2533	pneumonitis
+T77	problem 2564 2585	adrenal insufficiency
+T78	problem 2587 2594	hypoxia
+T79	problem 2596 2601	cough
+T80	problem 2603 2609	fevers
+T81	problem 2611 2619	weakness
+T82	problem 2621 2627	chills
+T83	problem 2629 2647	atypical pneumonia
+T84	problem 2649 2661	loose stools
+T85	problem 2663 2683	rheumatoid arthritis
+T86	drug 2685 2697	azithromycin
+T87	problem 2699 2708	arthritis
+T88	problem 2710 2719	pneumonia
+R1	hasAttr Arg1:T6 Arg2:T5
+R2	hasAttr Arg1:T6 Arg2:T7
+R3	hasAttr Arg1:T6 Arg2:T8
+R4	hasAttr Arg1:T9 Arg2:T13
+R5	hasAttr Arg1:T10 Arg2:T13
+R6	hasAttr Arg1:T11 Arg2:T13
+R7	hasAttr Arg1:T12 Arg2:T13
+R8	hasAttr Arg1:T23 Arg2:T22
+R9	hasAttr Arg1:T23 Arg2:T24
+R10	hasAttr Arg1:T23 Arg2:T25
+R11	hasAttr Arg1:T26 Arg2:T30
+R12	hasAttr Arg1:T27 Arg2:T30
+R13	hasAttr Arg1:T28 Arg2:T30
+R14	hasAttr Arg1:T29 Arg2:T30
+R15	hasAttr Arg1:T32 Arg2:T33
+R16	hasAttr Arg1:T40 Arg2:T38
+R17	hasAttr Arg1:T40 Arg2:T39
+R18	hasAttr Arg1:T46 Arg2:T45
+R19	hasAttr Arg1:T46 Arg2:T47
+R20	hasAttr Arg1:T48 Arg2:T49
+R21	hasAttr Arg1:T50 Arg2:T51
+R22	hasAttr Arg1:T54 Arg2:T53
+R23	hasAttr Arg1:T58 Arg2:T59
+R24	hasAttr Arg1:T65 Arg2:T66
+R25	hasAttr Arg1:T65 Arg2:T67
+R26	hasAttr Arg1:T70 Arg2:T73
+R27	hasAttr Arg1:T70 Arg2:T71
+R28	hasAttr Arg1:T70 Arg2:T72

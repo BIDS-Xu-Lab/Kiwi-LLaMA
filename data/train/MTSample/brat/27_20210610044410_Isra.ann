@@ -1,0 +1,115 @@
+T1	problem 125 150	left renal cell carcinoma
+T2	bodyloc 125 135	left renal
+T3	problem 153 168	left renal cyst
+T4	bodyloc 153 163	left renal
+T5	treatment 175 236	robotic - Assisted laparoscopic left renal cyst decortication
+T6	test 241 251	cystoscopy
+T7	problem 317 342	Left renal cell carcinoma
+T8	bodyloc 317 327	Left renal
+T9	problem 345 360	left renal cyst
+T10	bodyloc 345 355	left renal
+T11	problem 385 410	Left renal cell carcinoma
+T12	bodyloc 385 395	Left renal
+T13	problem 413 428	left renal cyst
+T14	bodyloc 413 423	left renal
+T15	problem 459 496	Chronic obstructive pulmonary disease
+T16	course 459 466	Chronic
+T17	bodyloc 479 488	pulmonary
+T18	problem 504 527	Coronary artery disease
+T19	bodyloc 513 519	artery
+T20	treatment 544 605	Robotic - Assisted laparoscopic left renal cyst decortication
+T21	test 610 620	cystoscopy
+T22	problem 710 737	a left renal cell carcinoma
+T23	problem 743 763	multiple renal cysts
+T24	test 783 801	MRI of the abdomen
+T25	temporal 805 818	June 18, 2008
+T26	problem 829 883	an enhancing mass of the upper pole of the left kidney
+T27	bodyloc 872 883	left kidney
+T28	problem 915 935	renal cell carcinoma
+T29	bodyloc 915 920	renal
+T30	negation 958 960	no
+T31	problem 967 989	enhancing solid masses
+T32	test 1003 1006	MRI
+T33	treatment 1095 1119	Left partial nephrectomy
+T34	treatment 1127 1151	Left radical nephrectomy
+T35	treatment 1159 1188	Left renal cyst decortication
+T36	treatment 1304 1333	left renal cyst decortication
+T37	test 1347 1357	cystoscopy
+T38	problem 1392 1417	four enlarged renal cysts
+T39	bodyloc 1406 1411	renal
+T40	problem 1422 1445	six smaller renal cysts
+T41	bodyloc 1434 1439	renal
+T42	treatment 1511 1533	dissection of the cyst
+T43	problem 1577 1585	the cyst
+T44	test 1605 1614	pathology
+T45	problem 1724 1734	hemostasis
+T46	negation 1778 1780	no
+T47	problem 1781 1794	complications
+T48	treatment 1816 1831	Single JP drain
+T49	test 1889 1908	flexible cystoscopy
+T50	negation 1926 1928	no
+T51	problem 1929 1945	gross strictures
+T52	problem 1949 2008	any other abnormalities in the penile nor prostatic urethra
+T53	negation 2025 2027	no
+T54	problem 2028 2041	gross lesions
+T55	course 2263 2271	advanced
+T56	negation 2272 2279	without
+T57	problem 2280 2292	complication
+T58	treatment 2372 2395	His Jackson-Pratt drain
+T59	treatment 2471 2489	His Foley catheter
+T60	temporal 2505 2516	the morning
+T61	test 2650 2665	His vital signs
+T62	negation 2709 2723	no evidence of
+T63	problem 2724 2733	infection
+T64	temporal 2792 2801	8/12/2008
+T65	temporal 2805 2813	1:50 p.m
+T66	drug 2846 2862	pain medications
+T67	drug 2874 2882	laxative
+T68	problem 3074 3079	fever
+T69	problem 3101 3117	intractable pain
+T70	problem 3119 3125	nausea
+T71	problem 3128 3136	vomiting
+T72	temporal 3244 3254	08/12/2008
+T73	temporal 3258 3266	1:50 p.m
+T74	treatment 3344 3357	decortication
+T75	test 3360 3370	cystoscopy
+T76	problem 3373 3377	pain
+T77	problem 3380 3386	nausea
+T78	problem 3389 3397	vomiting
+T79	treatment 3400 3424	renal cyst decortication
+T80	problem 3427 3447	renal cell carcinoma
+T81	bodyloc 3427 3432	renal
+T82	problem 3469 3479	renal cyst
+T83	bodyloc 3469 3474	renal
+T84	treatment 3515 3526	nephrectomy
+T85	problem 3529 3534	cysts
+T86	problem 3544 3553	carcinoma
+R1	hasAttr Arg1:T18 Arg2:T19
+R2	hasAttr Arg1:T24 Arg2:T25
+R3	hasAttr Arg1:T31 Arg2:T30
+R4	hasAttr Arg1:T47 Arg2:T46
+R5	hasAttr Arg1:T51 Arg2:T50
+R6	hasAttr Arg1:T52 Arg2:T50
+R7	hasAttr Arg1:T54 Arg2:T53
+R8	hasAttr Arg1:T57 Arg2:T55
+R9	hasAttr Arg1:T57 Arg2:T56
+R10	hasAttr Arg1:T59 Arg2:T60
+R11	hasAttr Arg1:T66 Arg2:T64
+R12	hasAttr Arg1:T67 Arg2:T64
+R13	hasAttr Arg1:T66 Arg2:T65
+R14	hasAttr Arg1:T67 Arg2:T65
+R15	hasAttr Arg1:T15 Arg2:T17
+R16	hasAttr Arg1:T3 Arg2:T4
+R17	hasAttr Arg1:T1 Arg2:T2
+R18	hasAttr Arg1:T13 Arg2:T14
+R19	hasAttr Arg1:T11 Arg2:T12
+R20	hasAttr Arg1:T7 Arg2:T8
+R21	hasAttr Arg1:T9 Arg2:T10
+R22	hasAttr Arg1:T15 Arg2:T16
+R23	hasAttr Arg1:T26 Arg2:T27
+R24	hasAttr Arg1:T28 Arg2:T29
+R25	hasAttr Arg1:T38 Arg2:T39
+R26	hasAttr Arg1:T40 Arg2:T41
+R27	hasAttr Arg1:T63 Arg2:T62
+R28	hasAttr Arg1:T80 Arg2:T81
+R29	hasAttr Arg1:T82 Arg2:T83

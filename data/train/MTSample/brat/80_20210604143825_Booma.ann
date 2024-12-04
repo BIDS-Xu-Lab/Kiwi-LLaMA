@@ -1,0 +1,123 @@
+T1	labvalue 103 109	normal
+T2	test 110 143	ear, nose, mouth, and throat exam
+T3	labvalue 240 246	normal
+T4	test 250 259	palpation
+T5	test 264 274	inspection
+T6	negation 275 282	without
+T7	problem 283 312	any surrounding lymphadenitis
+T8	negation 324 335	no signs of
+T9	problem 336 348	acute trauma
+T10	course 336 341	acute
+T11	bodyloc 354 358	nose
+T12	labvalue 362 368	normal
+T13	test 372 381	palpation
+T14	test 386 396	inspection
+T15	negation 408 427	without evidence of
+T16	problem 428 440	acute trauma
+T17	test 442 509	Otoscopic examination of the auditory canals and tympanic membranes
+T18	bodyloc 522 537	auditory canals
+T19	negation 538 554	without signs of
+T20	problem 555 566	mass lesion
+T21	problem 568 580	inflammation
+T22	problem 584 592	swelling
+T23	bodyloc 598 616	tympanic membranes
+T24	negation 621 628	without
+T25	problem 629 639	disruption
+T26	problem 643 652	infection
+T27	test 719 751	septum and turbinate examination
+T28	labvalue 760 783	normal mucous membranes
+T29	negation 784 791	without
+T30	problem 792 802	disruption
+T31	problem 806 818	inflammation
+T32	bodyloc 824 830	septum
+T33	negation 834 841	without
+T34	problem 842 865	acute traumatic lesions
+T35	course 842 847	acute
+T36	problem 869 879	disruption
+T37	bodyloc 885 895	turbinates
+T38	negation 900 907	without
+T39	problem 908 925	abnormal swelling
+T40	negation 936 938	no
+T41	problem 939 957	unusual rhinorrhea
+T42	problem 961 969	bleeding
+T43	bodyloc 992 996	lips
+T44	negation 1001 1008	without
+T45	problem 1009 1018	infection
+T46	problem 1020 1031	mass lesion
+T47	problem 1035 1052	traumatic lesions
+T48	bodyloc 1058 1063	teeth
+T49	negation 1075 1099	without obvious signs of
+T50	problem 1100 1109	infection
+T51	labvalue 1128 1134	normal
+T52	test 1138 1147	palpation
+T53	test 1152 1162	inspection
+T54	bodyloc 1207 1222	salivary glands
+T55	negation 1227 1234	without
+T56	problem 1235 1243	swelling
+T57	bodyloc 1287 1293	tongue
+T58	negation 1297 1304	without
+T59	problem 1305 1311	masses
+T60	problem 1315 1323	swelling
+T61	bodyloc 1350 1357	tonsils
+T62	negation 1362 1369	without
+T63	problem 1370 1382	inflammation
+T64	bodyloc 1388 1405	posterior pharynx
+T65	negation 1409 1416	without
+T66	problem 1417 1428	mass lesion
+T67	problem 1561 1578	traumatic lesions
+T68	problem 1595 1601	trauma
+T69	problem 1620 1632	inflammation
+T70	problem 1634 1643	infection
+T71	problem 1645 1653	swelling
+R1	hasAttr Arg1:T2 Arg2:T1
+R2	hasAttr Arg1:T4 Arg2:T3
+R3	hasAttr Arg1:T5 Arg2:T3
+R4	hasAttr Arg1:T9 Arg2:T10
+R5	hasAttr Arg1:T14 Arg2:T12
+R6	hasAttr Arg1:T13 Arg2:T12
+R7	hasAttr Arg1:T25 Arg2:T24
+R8	hasAttr Arg1:T26 Arg2:T24
+R9	hasAttr Arg1:T27 Arg2:T28
+R10	hasAttr Arg1:T31 Arg2:T29
+R11	hasAttr Arg1:T30 Arg2:T29
+R12	hasAttr Arg1:T36 Arg2:T33
+R13	hasAttr Arg1:T34 Arg2:T33
+R14	hasAttr Arg1:T34 Arg2:T35
+R15	hasAttr Arg1:T39 Arg2:T38
+R16	hasAttr Arg1:T42 Arg2:T40
+R17	hasAttr Arg1:T41 Arg2:T40
+R18	hasAttr Arg1:T46 Arg2:T44
+R19	hasAttr Arg1:T47 Arg2:T44
+R20	hasAttr Arg1:T45 Arg2:T44
+R21	hasAttr Arg1:T52 Arg2:T51
+R22	hasAttr Arg1:T53 Arg2:T51
+R23	hasAttr Arg1:T56 Arg2:T55
+R24	hasAttr Arg1:T60 Arg2:T58
+R25	hasAttr Arg1:T59 Arg2:T58
+R26	hasAttr Arg1:T63 Arg2:T62
+R27	hasAttr Arg1:T66 Arg2:T65
+R28	hasAttr Arg1:T16 Arg2:T11
+R29	hasAttr Arg1:T21 Arg2:T18
+R30	hasAttr Arg1:T20 Arg2:T18
+R31	hasAttr Arg1:T22 Arg2:T18
+R32	hasAttr Arg1:T25 Arg2:T23
+R33	hasAttr Arg1:T26 Arg2:T23
+R34	hasAttr Arg1:T36 Arg2:T32
+R35	hasAttr Arg1:T34 Arg2:T32
+R36	hasAttr Arg1:T39 Arg2:T37
+R37	hasAttr Arg1:T46 Arg2:T43
+R38	hasAttr Arg1:T47 Arg2:T43
+R39	hasAttr Arg1:T45 Arg2:T43
+R40	hasAttr Arg1:T50 Arg2:T48
+R41	hasAttr Arg1:T56 Arg2:T54
+R42	hasAttr Arg1:T60 Arg2:T57
+R43	hasAttr Arg1:T59 Arg2:T57
+R44	hasAttr Arg1:T63 Arg2:T61
+R45	hasAttr Arg1:T66 Arg2:T64
+R46	hasAttr Arg1:T20 Arg2:T19
+R47	hasAttr Arg1:T21 Arg2:T19
+R48	hasAttr Arg1:T22 Arg2:T19
+R49	hasAttr Arg1:T16 Arg2:T15
+R50	hasAttr Arg1:T7 Arg2:T6
+R51	hasAttr Arg1:T9 Arg2:T8
+R52	hasAttr Arg1:T50 Arg2:T49

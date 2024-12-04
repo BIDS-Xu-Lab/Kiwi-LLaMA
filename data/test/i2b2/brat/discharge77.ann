@@ -1,0 +1,278 @@
+T1	problem 20 38	Avascular necrosis
+T2	problem 43 69	degenerative joint disease
+T3	bodyloc 56 61	joint
+T4	problem 72 86	osteoarthrosis
+T5	bodyloc 100 118	the left hip joint
+T6	treatment 135 162	left total hip arthroplasty
+T7	problem 189 196	Obesity
+T8	problem 202 219	Diabetes mellitus
+T9	problem 225 237	Hypertension
+T10	problem 243 253	Depression
+T11	treatment 283 305	a right ureteral stent
+T12	problem 322 337	renal lithiasis
+T13	bodyloc 322 327	renal
+T14	treatment 418 454	elective left total hip arthroplasty
+T15	problem 463 475	complication
+T16	treatment 494 530	perioperative antibiotic prophylaxis
+T17	drug 556 561	Ancef
+T18	route 575 577	IV
+T19	problem 606 614	incision
+T20	drug 628 636	medicine
+T21	frequency 663 673	q. 8 hours
+T22	route 674 676	IV
+T23	duration 679 687	24 hours
+T24	treatment 724 769	aggressive deep venous thrombosis prophylaxis
+T25	treatment 775 814	pneumatic sequential compression device
+T26	treatment 846 857	the surgery
+T27	drug 980 987	Lovenox
+T28	strength 988 993	30 mg
+T29	route 994 1008	subcutaneously
+T30	frequency 1009 1015	b.i.d.
+T31	problem 1117 1123	fevers
+T32	test 1164 1194	Appropriate laboratory studies
+T33	test 1217 1229	a urinalysis
+T34	temporal 1248 1257	Oct 30 07
+T35	problem 1275 1293	leukocyte esterase
+T36	problem 1298 1306	bacteria
+T37	problem 1321 1346	a urinary tract infection
+T38	bodyloc 1323 1336	urinary tract
+T39	test 1349 1368	Urinalysis cultures
+T40	negation 1376 1378	no
+T41	problem 1379 1385	growth
+T42	drug 1424 1429	Cipro
+T43	treatment 1434 1445	prophylaxis
+T44	treatment 1495 1529	a ureteral stent on the right side
+T45	problem 1560 1596	significant respiratory difficulties
+T46	problem 1599 1616	The highest fever
+T47	temporal 1639 1648	Oct 29 07
+T48	problem 1690 1708	her left hip wound
+T49	bodyloc 1699 1702	hip
+T50	negation 1806 1808	no
+T51	problem 1809 1829	significant erythema
+T52	negation 1862 1864	no
+T53	problem 1865 1895	drainage of the left hip wound
+T54	bodyloc 1877 1889	the left hip
+T55	negation 1898 1900	No
+T56	problem 1923 1938	wound infection
+T57	problem 1954 1974	postoperative anemia
+T58	temporal 1993 2002	Nov 01 07
+T59	test 2011 2021	hemoglobin
+T60	labvalue 2025 2026	8
+T61	test 2032 2042	hematocrit
+T62	labvalue 2046 2050	23.6
+T63	treatment 2091 2126	two units of packed red blood cells
+T64	test 2171 2181	hemoglobin
+T65	labvalue 2185 2188	9.4
+T66	labvalue 2193 2197	28.3
+T67	test 2198 2208	hematocrit
+T68	test 2211 2233	Her stool on Hemoccult
+T69	labvalue 2250 2258	negative
+T70	treatment 2333 2345	narcotic PCA
+T71	route 2349 2353	oral
+T72	drug 2354 2364	analgesics
+T73	drug 2370 2378	morphine
+T74	route 2379 2381	IV
+T75	problem 2393 2410	breakthrough pain
+T76	temporal 2491 2500	Nov 01 07
+T77	problem 2552 2579	her urinary tract infection
+T78	bodyloc 2556 2569	urinary tract
+T79	treatment 2599 2604	stent
+T80	drug 2655 2660	Cipro
+T81	treatment 2700 2716	physical therapy
+T82	treatment 2793 2808	inpatient Rehab
+T83	temporal 2870 2879	Nov 02 07
+T84	treatment 2970 2997	left total hip arthroplasty
+T85	treatment 3016 3029	a transfusion
+T86	treatment 3033 3068	two units of packed red blood cells
+T87	temporal 3079 3089	Nov 1 2007
+T88	problem 3124 3147	urinary tract infection
+T89	bodyloc 3124 3137	urinary tract
+T90	treatment 3183 3203	right ureteral stent
+T91	treatment 3614 3641	aggressive physical therapy
+T92	treatment 3691 3696	Rehab
+T93	treatment 3701 3737	standard post total hip arthroplasty
+T94	treatment 3807 3815	a walker
+T95	treatment 3842 3897	sequential compression devices on the lower extremities
+T96	treatment 3918 3942	standard hip precautions
+T97	negation 3962 3964	No
+T98	treatment 3965 3982	further dressings
+T99	negation 4010 4012	no
+T100	problem 4013 4051	further drainage of the left hip wound
+T101	bodyloc 4042 4045	hip
+T102	treatment 4054 4065	The staples
+T103	drug 4265 4276	Allopurinol
+T104	strength 4277 4283	100 mg
+T105	form 4284 4290	tablet
+T106	dosage 4291 4294	one
+T107	route 4295 4299	p.o.
+T108	frequency 4300 4306	t.i.d.
+T109	drug 4309 4316	Norvasc
+T110	strength 4317 4321	5 mg
+T111	route 4322 4326	p.o.
+T112	frequency 4327 4332	daily
+T113	drug 4335 4343	Lotensin
+T114	strength 4344 4349	20 mg
+T115	route 4350 4354	p.o.
+T116	frequency 4355 4360	daily
+T117	drug 4363 4370	Lipitor
+T118	strength 4371 4376	40 mg
+T119	route 4377 4381	p.o.
+T120	frequency 4382 4389	q. h.s.
+T121	drug 4392 4397	Cipro
+T122	strength 4398 4404	500 mg
+T123	route 4405 4409	p.o.
+T124	frequency 4410 4416	b.i.d.
+T125	drug 4443 4458	ferrous sulfate
+T126	duration 4467 4485	at least two hours
+T127	duration 4511 4530	at least seven days
+T128	drug 4533 4539	Colace
+T129	strength 4540 4546	100 mg
+T130	route 4547 4551	p.o.
+T131	frequency 4552 4558	b.i.d.
+T132	problem 4568 4580	loose stools
+T133	drug 4583 4590	Lovenox
+T134	strength 4591 4596	30 mg
+T135	route 4597 4611	subcutaneously
+T136	frequency 4612 4618	b.i.d.
+T137	duration 4623 4645	an additional ten days
+T138	strength 4671 4676	40 mg
+T139	frequency 4677 4687	once daily
+T140	route 4688 4700	subcutaneous
+T141	treatment 4808 4829	postoperative therapy
+T142	drug 4832 4847	ferrous sulfate
+T143	strength 4848 4854	300 mg
+T144	route 4855 4859	p.o.
+T145	frequency 4860 4866	b.i.d.
+T146	drug 4869 4874	Lasix
+T147	strength 4875 4880	40 mg
+T148	route 4881 4885	p.o.
+T149	frequency 4886 4893	q. a.m.
+T150	drug 4896 4911	Humulin insulin
+T151	dosage 4912 4925	sliding scale
+T152	drug 4928 4937	metformin
+T153	strength 4938 4945	1000 mg
+T154	route 4946 4950	p.o.
+T155	frequency 4951 4957	b.i.d.
+T156	drug 4960 4970	sertraline
+T157	strength 4971 4977	100 mg
+T158	route 4978 4982	p.o.
+T159	frequency 4983 4988	daily
+T160	drug 4991 4998	Tylenol
+T161	strength 4999 5005	650 mg
+T162	route 5006 5010	p.o.
+T163	frequency 5011 5021	q. 4 hours
+T164	frequency 5022 5028	p.r.n.
+T165	problem 5033 5076	fever greater than 100 - degrees Fahrenheit
+T166	drug 5107 5114	Tylenol
+T167	dosage 5125 5132	4 grams
+T168	frequency 5133 5145	per 24 hours
+T169	drug 5182 5189	Vicodin
+T170	drug 5192 5199	Vicodin
+T171	strength 5200 5205	5/500
+T172	dosage 5206 5216	one to two
+T173	route 5217 5221	p.o.
+T174	frequency 5222 5237	q. 4 to 6 hours
+T175	frequency 5238 5244	p.r.n.
+T176	problem 5245 5249	pain
+T177	strength 5299 5306	4 grams
+T178	drug 5310 5317	Tylenol
+T179	route 5318 5322	p.o.
+T180	frequency 5323 5334	q. 24 hours
+T181	drug 5362 5369	Tylenol
+T182	temporal 5510 5521	Nov 02 2007
+T183	temporal 5524 5530	8:19 A
+T184	temporal 5542 5553	Nov 06 2007
+R1	hasAttr Arg1:T2 Arg2:T3
+R2	hasAttr Arg1:T4 Arg2:T5
+R3	hasAttr Arg1:T12 Arg2:T13
+R4	hasAttr Arg1:T17 Arg2:T18
+R5	hasAttr Arg1:T20 Arg2:T23
+R6	hasAttr Arg1:T20 Arg2:T22
+R7	hasAttr Arg1:T20 Arg2:T21
+R8	hasAttr Arg1:T27 Arg2:T28
+R9	hasAttr Arg1:T27 Arg2:T29
+R10	hasAttr Arg1:T27 Arg2:T30
+R11	hasAttr Arg1:T33 Arg2:T34
+R12	hasAttr Arg1:T37 Arg2:T38
+R13	hasAttr Arg1:T41 Arg2:T40
+R14	hasAttr Arg1:T46 Arg2:T47
+R15	hasAttr Arg1:T48 Arg2:T49
+R16	hasAttr Arg1:T51 Arg2:T50
+R17	hasAttr Arg1:T53 Arg2:T52
+R18	hasAttr Arg1:T53 Arg2:T54
+R19	hasAttr Arg1:T56 Arg2:T55
+R20	hasAttr Arg1:T57 Arg2:T58
+R21	hasAttr Arg1:T59 Arg2:T58
+R22	hasAttr Arg1:T61 Arg2:T58
+R23	hasAttr Arg1:T59 Arg2:T60
+R24	hasAttr Arg1:T61 Arg2:T62
+R25	hasAttr Arg1:T64 Arg2:T65
+R26	hasAttr Arg1:T67 Arg2:T66
+R27	hasAttr Arg1:T68 Arg2:T69
+R28	hasAttr Arg1:T72 Arg2:T71
+R29	hasAttr Arg1:T73 Arg2:T74
+R30	hasAttr Arg1:T77 Arg2:T76
+R31	hasAttr Arg1:T77 Arg2:T78
+R32	hasAttr Arg1:T82 Arg2:T83
+R33	hasAttr Arg1:T85 Arg2:T87
+R34	hasAttr Arg1:T86 Arg2:T87
+R35	hasAttr Arg1:T88 Arg2:T89
+R36	hasAttr Arg1:T98 Arg2:T97
+R37	hasAttr Arg1:T100 Arg2:T99
+R38	hasAttr Arg1:T100 Arg2:T101
+R39	hasAttr Arg1:T103 Arg2:T108
+R40	hasAttr Arg1:T103 Arg2:T107
+R41	hasAttr Arg1:T103 Arg2:T104
+R42	hasAttr Arg1:T103 Arg2:T106
+R43	hasAttr Arg1:T103 Arg2:T105
+R44	hasAttr Arg1:T109 Arg2:T112
+R45	hasAttr Arg1:T109 Arg2:T111
+R46	hasAttr Arg1:T109 Arg2:T110
+R47	hasAttr Arg1:T113 Arg2:T114
+R48	hasAttr Arg1:T113 Arg2:T115
+R49	hasAttr Arg1:T113 Arg2:T116
+R50	hasAttr Arg1:T117 Arg2:T120
+R51	hasAttr Arg1:T117 Arg2:T118
+R52	hasAttr Arg1:T117 Arg2:T119
+R53	hasAttr Arg1:T121 Arg2:T124
+R54	hasAttr Arg1:T121 Arg2:T123
+R55	hasAttr Arg1:T121 Arg2:T122
+R56	hasAttr Arg1:T125 Arg2:T127
+R57	hasAttr Arg1:T125 Arg2:T126
+R58	hasAttr Arg1:T128 Arg2:T129
+R59	hasAttr Arg1:T128 Arg2:T130
+R60	hasAttr Arg1:T128 Arg2:T131
+R61	hasAttr Arg1:T133 Arg2:T135
+R62	hasAttr Arg1:T133 Arg2:T138
+R63	hasAttr Arg1:T133 Arg2:T134
+R64	hasAttr Arg1:T133 Arg2:T136
+R65	hasAttr Arg1:T133 Arg2:T137
+R66	hasAttr Arg1:T133 Arg2:T139
+R67	hasAttr Arg1:T133 Arg2:T140
+R68	hasAttr Arg1:T142 Arg2:T144
+R69	hasAttr Arg1:T142 Arg2:T145
+R70	hasAttr Arg1:T142 Arg2:T143
+R71	hasAttr Arg1:T146 Arg2:T147
+R72	hasAttr Arg1:T146 Arg2:T149
+R73	hasAttr Arg1:T146 Arg2:T148
+R74	hasAttr Arg1:T150 Arg2:T151
+R75	hasAttr Arg1:T152 Arg2:T154
+R76	hasAttr Arg1:T152 Arg2:T155
+R77	hasAttr Arg1:T152 Arg2:T153
+R78	hasAttr Arg1:T156 Arg2:T159
+R79	hasAttr Arg1:T156 Arg2:T158
+R80	hasAttr Arg1:T156 Arg2:T157
+R81	hasAttr Arg1:T160 Arg2:T163
+R82	hasAttr Arg1:T160 Arg2:T164
+R83	hasAttr Arg1:T160 Arg2:T161
+R84	hasAttr Arg1:T160 Arg2:T162
+R85	hasAttr Arg1:T166 Arg2:T167
+R86	hasAttr Arg1:T166 Arg2:T168
+R87	hasAttr Arg1:T170 Arg2:T173
+R88	hasAttr Arg1:T170 Arg2:T171
+R89	hasAttr Arg1:T170 Arg2:T174
+R90	hasAttr Arg1:T170 Arg2:T175
+R91	hasAttr Arg1:T170 Arg2:T172
+R92	hasAttr Arg1:T178 Arg2:T177
+R93	hasAttr Arg1:T178 Arg2:T180
+R94	hasAttr Arg1:T178 Arg2:T179

@@ -1,0 +1,26 @@
+T1	temporal 198 209	Jul 12 2007
+T2	temporal 236 245	Jul 29 07
+T3	problem 347 355	dementia
+T4	problem 358 378	aspiration pneumonia
+T5	problem 381 385	ARDS
+T6	problem 392 411	respiratory failure
+T7	problem 441 445	ARDS
+T8	problem 448 467	respiratory failure
+T9	test 473 486	a chest x-ray
+T10	problem 512 516	ARDS
+T11	problem 592 614	poor cardiac perfusion
+T12	bodyloc 597 604	cardiac
+T13	problem 619 644	poor peripheral perfusion
+T14	treatment 803 812	high Fi02
+T15	treatment 817 821	PEEP
+T16	drug 948 956	morphine
+T17	treatment 1058 1076	a comfort measures
+T18	temporal 1232 1243	Jul 29 2007
+T19	temporal 1245 1253	19:54:24
+T20	temporal 1265 1276	Jul 30 2007
+T21	temporal 1278 1286	00:36:28
+T22	temporal 1298 1309	Jul 30 2007
+T23	temporal 1311 1319	00:36:28
+T24	temporal 1445 1456	Aug 04 2007
+T25	temporal 1458 1469	08:50:52 PM
+R1	hasAttr Arg1:T11 Arg2:T12

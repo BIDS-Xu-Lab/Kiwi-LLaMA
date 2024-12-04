@@ -1,0 +1,221 @@
+T1	problem 73 96	Coronary Artery Disease
+T2	bodyloc 73 88	Coronary Artery
+T3	problem 110 133	Coronary artery disease
+T4	bodyloc 110 125	Coronary artery
+T5	problem 141 155	bypass surgery
+T6	problem 184 204	elevated PSA and BPH
+T7	test 213 236	a prior prostate biopsy
+T8	problem 301 324	urinary tract infection
+T9	bodyloc 301 314	urinary tract
+T10	drug 343 353	antibiotic
+T11	problem 434 441	fatigue
+T12	problem 446 455	tiredness
+T13	problem 520 548	Coronary artery disease (CAD
+T14	bodyloc 520 535	Coronary artery
+T15	temporal 551 556	prior
+T16	treatment 557 571	bypass surgery
+T17	problem 675 680	fever
+T18	problem 709 729	elevated PSA and BPH
+T19	course 709 717	elevated
+T20	test 738 761	a prior prostate biopsy
+T21	problem 826 849	urinary tract infection
+T22	drug 868 878	antibiotic
+T23	problem 959 966	fatigue
+T24	problem 971 980	tiredness
+T25	negation 982 996	No symptoms of
+T26	problem 997 1007	chest pain
+T27	bodyloc 997 1002	chest
+T28	problem 1011 1030	shortness of breath
+T29	problem 1122 1134	hypertension
+T30	problem 1147 1164	diabetes mellitus
+T31	problem 1177 1197	Cholesterol elevated
+T32	course 1189 1197	elevated
+T33	problem 1210 1245	established coronary artery disease
+T34	bodyloc 1222 1237	coronary artery
+T35	problem 1318 1341	coronary artery disease
+T36	bodyloc 1318 1333	coronary artery
+T37	treatment 1361 1391	Coronary artery bypass surgery
+T38	temporal 1398 1403	prior
+T39	treatment 1404 1415	angioplasty
+T40	test 1420 1437	prostate biopsies
+T41	drug 1455 1464	Metformin
+T42	drug 1469 1477	Prilosec
+T43	drug 1482 1492	Folic acid
+T44	drug 1497 1503	Flomax
+T45	drug 1508 1518	Metoprolol
+T46	drug 1523 1530	Crestor
+T47	drug 1535 1543	Claritin
+T48	problem 1545 1554	ALLERGIES
+T49	drug 1556 1563	DEMEROL
+T50	drug 1565 1570	SULFA
+T51	treatment 1721 1744	multiple knee surgeries
+T52	treatment 1746 1758	back surgery
+T53	treatment 1764 1794	coronary artery bypass surgery
+T54	treatment 1800 1811	angioplasty
+T55	problem 1813 1825	hypertension
+T56	problem 1827 1841	hyperlipidemia
+T57	problem 1843 1861	elevated PSA level
+T58	course 1843 1851	elevated
+T59	problem 1863 1866	BPH
+T60	problem 1885 1891	cancer
+T61	problem 1905 1924	shortness of breath
+T62	problem 1926 1933	fatigue
+T63	problem 1939 1948	tiredness
+T64	negation 1985 1998	No history of
+T65	problem 1999 2004	fever
+T66	problem 2006 2012	rigors
+T67	problem 2017 2023	chills
+T68	temporal 2035 2041	recent
+T69	problem 2042 2047	fever
+T70	problem 2052 2058	rigors
+T71	negation 2067 2080	No history of
+T72	problem 2081 2089	cataract
+T73	problem 2093 2101	glaucoma
+T74	problem 2142 2161	Shortness of breath
+T75	negation 2163 2165	No
+T76	problem 2166 2175	pneumonia
+T77	problem 2179 2191	valley fever
+T78	problem 2211 2217	Nausea
+T79	problem 2222 2230	vomiting
+T80	negation 2232 2234	No
+T81	problem 2235 2246	hematemesis
+T82	problem 2250 2256	melena
+T83	problem 2270 2279	Frequency
+T84	problem 2281 2288	urgency
+T85	negation 2307 2309	No
+T86	problem 2310 2325	muscle weakness
+T87	negation 2365 2367	No
+T88	problem 2368 2371	TIA
+T89	problem 2375 2378	CVA
+T90	negation 2380 2382	No
+T91	problem 2383 2399	seizure disorder
+T92	negation 2416 2418	No
+T93	problem 2419 2426	anxiety
+T94	problem 2430 2440	depression
+T95	test 2531 2536	Pulse
+T96	labvalue 2540 2542	75
+T97	test 2544 2558	blood pressure
+T98	labvalue 2559 2565	130/68
+T99	test 2581 2597	respiratory rate
+T100	labvalue 2598 2611	16 per minute
+T101	negation 2665 2667	No
+T102	problem 2668 2694	significant carotid bruits
+T103	severity 2668 2679	significant
+T104	problem 2738 2751	PMI displaced
+T105	test 2753 2755	S1
+T106	test 2760 2762	S2
+T107	labvalue 2763 2770	regular
+T108	test 2798 2810	Bowel sounds
+T109	negation 2833 2835	No
+T110	problem 2836 2841	edema
+T111	test 2843 2849	Pulses
+T112	labvalue 2854 2862	palpable
+T113	negation 2864 2866	No
+T114	problem 2867 2875	clubbing
+T115	problem 2879 2887	cyanosis
+T116	labvalue 2907 2913	Normal
+T117	test 2914 2926	sinus rhythm
+T118	problem 2928 2964	incomplete right bundle-branch block
+T119	test 2983 2986	H&H
+T120	labvalue 2987 2993	stable
+T121	test 2995 2998	BUN
+T122	test 3003 3013	creatinine
+T123	labvalue 3021 3034	normal limits
+T124	problem 3062 3085	coronary artery disease
+T125	bodyloc 3062 3077	coronary artery
+T126	temporal 3087 3092	prior
+T127	treatment 3093 3107	bypass surgery
+T128	treatment 3109 3120	angioplasty
+T129	problem 3122 3153	significant shortness of breath
+T130	severity 3122 3133	significant
+T131	problem 3158 3163	Fever
+T132	uncertain 3169 3177	possible
+T133	problem 3178 3201	urinary tract infection
+T134	bodyloc 3178 3191	urinary tract
+T135	uncertain 3202 3208	versus
+T136	problem 3209 3220	prostatitis
+T137	problem 3225 3237	Hypertension
+T138	problem 3239 3253	hyperlipidemia
+T139	problem 3255 3272	diabetes mellitus
+T140	treatment 3277 3306	Contemplated prostate surgery
+T141	drug 3395 3405	antibiotic
+T142	problem 3410 3419	his fever
+T143	test 3441 3455	cardiac workup
+T144	uncertain 3471 3479	rule out
+T145	problem 3480 3488	ischemia
+T146	treatment 3504 3513	the graft
+T147	treatment 3539 3546	surgery
+T148	problem 3579 3588	the fever
+T149	problem 3762 3785	coronary artery disease
+T150	bodyloc 3762 3777	coronary artery
+T151	problem 3787 3790	cad
+T152	problem 3792 3804	hypertension
+T153	problem 3806 3823	diabetes mellitus
+T154	treatment 3838 3844	bypass
+T155	temporal 3846 3851	prior
+T156	treatment 3852 3866	bypass surgery
+T157	problem 3868 3891	urinary tract infection
+T158	bodyloc 3868 3881	urinary tract
+T159	problem 3893 3900	fatigue
+T160	problem 3905 3914	tiredness
+T161	problem 3916 3935	shortness of breath
+T162	problem 3937 3949	elevated psa
+T163	course 3937 3945	elevated
+T164	treatment 3951 3958	surgery
+T165	problem 3977 3986	infection
+T166	problem 3988 3993	fever
+R1	hasAttr Arg1:T1 Arg2:T2
+R2	hasAttr Arg1:T3 Arg2:T4
+R3	hasAttr Arg1:T8 Arg2:T9
+R4	hasAttr Arg1:T13 Arg2:T14
+R5	hasAttr Arg1:T16 Arg2:T15
+R6	hasAttr Arg1:T18 Arg2:T19
+R7	hasAttr Arg1:T26 Arg2:T25
+R8	hasAttr Arg1:T26 Arg2:T27
+R9	hasAttr Arg1:T31 Arg2:T32
+R10	hasAttr Arg1:T33 Arg2:T34
+R11	hasAttr Arg1:T35 Arg2:T36
+R12	hasAttr Arg1:T39 Arg2:T38
+R13	hasAttr Arg1:T57 Arg2:T58
+R14	hasAttr Arg1:T67 Arg2:T64
+R15	hasAttr Arg1:T66 Arg2:T64
+R16	hasAttr Arg1:T65 Arg2:T64
+R17	hasAttr Arg1:T69 Arg2:T68
+R18	hasAttr Arg1:T72 Arg2:T71
+R19	hasAttr Arg1:T73 Arg2:T71
+R20	hasAttr Arg1:T77 Arg2:T75
+R21	hasAttr Arg1:T76 Arg2:T75
+R22	hasAttr Arg1:T82 Arg2:T80
+R23	hasAttr Arg1:T81 Arg2:T80
+R24	hasAttr Arg1:T86 Arg2:T85
+R25	hasAttr Arg1:T88 Arg2:T87
+R26	hasAttr Arg1:T89 Arg2:T87
+R27	hasAttr Arg1:T91 Arg2:T90
+R28	hasAttr Arg1:T94 Arg2:T92
+R29	hasAttr Arg1:T93 Arg2:T92
+R30	hasAttr Arg1:T95 Arg2:T96
+R31	hasAttr Arg1:T97 Arg2:T98
+R32	hasAttr Arg1:T99 Arg2:T100
+R33	hasAttr Arg1:T102 Arg2:T101
+R34	hasAttr Arg1:T102 Arg2:T103
+R35	hasAttr Arg1:T105 Arg2:T107
+R36	hasAttr Arg1:T106 Arg2:T107
+R37	hasAttr Arg1:T110 Arg2:T109
+R38	hasAttr Arg1:T111 Arg2:T112
+R39	hasAttr Arg1:T115 Arg2:T113
+R40	hasAttr Arg1:T114 Arg2:T113
+R41	hasAttr Arg1:T117 Arg2:T116
+R42	hasAttr Arg1:T119 Arg2:T120
+R43	hasAttr Arg1:T121 Arg2:T123
+R44	hasAttr Arg1:T122 Arg2:T123
+R45	hasAttr Arg1:T124 Arg2:T125
+R46	hasAttr Arg1:T127 Arg2:T126
+R47	hasAttr Arg1:T129 Arg2:T130
+R48	hasAttr Arg1:T133 Arg2:T132
+R49	hasAttr Arg1:T133 Arg2:T134
+R50	hasAttr Arg1:T136 Arg2:T135
+R51	hasAttr Arg1:T145 Arg2:T144
+R52	hasAttr Arg1:T149 Arg2:T150
+R53	hasAttr Arg1:T156 Arg2:T155
+R54	hasAttr Arg1:T157 Arg2:T158
+R55	hasAttr Arg1:T162 Arg2:T163
