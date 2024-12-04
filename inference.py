@@ -6,16 +6,16 @@ from glob import glob
 from bs4 import BeautifulSoup
 import csv
 
-gpus = '0'
+gpus = '0,1'
 os.environ['CUDA_VISIBLE_DEVICES'] = gpus
 
-model_name = '../../models/llama2/mix/Llama-3-8b-mix-2epoch/merged/'
+model_dir = '' ### specify dir to your model weights
 
 device_map = [f"cuda:{i}" for i in gpus.split(",")]
 
 from vllm import LLM,SamplingParams
 sampling_params = SamplingParams(max_tokens=512,stop='<EOS>',temperature=0)
-llm = LLM(model=f"{model_name}", tensor_parallel_size=len(device_map))  # Create an LLM.
+llm = LLM(model=f"{model_dir}", tensor_parallel_size=len(device_map))  # Create an LLM.
 
 
 def batch_list(input_list, batch_size):
