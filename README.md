@@ -2,15 +2,15 @@
 
 ## Environment
 ```bash
-git clone https://github.com/BIDS-Xu-Lab/MedLey-LLaMA.git
-cd MedLey-LLaMA
+git clone https://github.com/BIDS-Xu-Lab/Kiwi-LLaMA.git
+cd cd Kiwi-LLaMA
 pip install -r requirements.txt
 ```
 
 ## Instruction Tuning
 ```bash
-### change CUDA_VISIBLE_DEVICES to multiple GPU for multi-GPU training
-CUDA_VISIBLE_DEVICES=0 accelerate launch train.py
+### set CUDA_VISIBLE_DEVICES to multiple GPU for multi-GPU training
+CUDA_VISIBLE_DEVICES=0,1 accelerate launch train.py
 ```
 
 ## Inference
