@@ -18,8 +18,7 @@ model_name = "meta-llama/Meta-Llama-3-8B-Instruct"
 os.environ["WANDB_PROJECT"] = output_dir.split('/')[-1]
 
 
-train_dataset = load_dataset("csv", data_files=["../data/NER_main_train.csv","../data/RE/RE_train.csv"], split="train")
-eval_dataset = load_dataset("csv", data_files=["../data/NER_main_dev.csv","../data/RE/RE_dev.csv"], split="train")
+train_dataset = load_dataset("csv", data_files=["./data/train/MTSample/NER_main_train_MTSample.csv","./data/train/MTSample/RE_LLAMA2_train_MTSample.csv"], split="train")
 
 
 bnb_config = BitsAndBytesConfig(
@@ -90,7 +89,7 @@ training_args = TrainingArguments(
 trainer = SFTTrainer(
     base_model,
     train_dataset=train_dataset,
-    eval_dataset=eval_dataset,
+    #eval_dataset=eval_dataset,
     tokenizer=tokenizer,
     max_seq_length=1000,
     formatting_func=formatting_prompts_func,
