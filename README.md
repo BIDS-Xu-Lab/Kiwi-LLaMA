@@ -1,6 +1,6 @@
 # Information Extraction from Clinical Notes: Are We Ready for Adopting Large Language Models?
 ## Overview
-This repository contains the code and resources for Kiwi, a LLM-based clinical Information Extraction (IE) system designed to extract medical problem, treatment, test, and drug entities from clinical note.
+This repository contains the code and resources for Kiwi, a LLM-based clinical Information Extraction (IE) system designed to extract medical problem, treatment, test, and drug entities, and their modifiers from clinical note.
 
 ### Data
 For the MTSample dataset, we are providing both entity offsets and texts, as well as the instruction tuning format. The MIMIC-III and 2010 i2b2 datasets, we are only providing entity offsets and texts without the original notes.
