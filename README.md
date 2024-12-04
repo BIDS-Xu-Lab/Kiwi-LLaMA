@@ -19,6 +19,7 @@ CUDA_VISIBLE_DEVICES=0,1 accelerate launch train.py
 ```
 
 ## Inference
+For inference, you will have to acquire model weights from https://kiwi.clinicalnlp.org/. Then specify the model directory in the following code and run it:
 ```bash
 python inference.py
 ```
