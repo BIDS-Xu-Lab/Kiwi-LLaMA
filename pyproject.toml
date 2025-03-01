@@ -1,0 +1,37 @@
+[project]
+name = "kiwi-llama"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.9"
+dependencies = [
+    "accelerate>=0.25.0",
+    "beautifulsoup4>=4.12.3",
+    "bitsandbytes>=0.41.1",
+    "coverage>=7.6.12",
+    "cython>=3.0.12",
+    "datasets>=2.16.1",
+    "flash-attn==2.7.3",
+    "jupyter>=1.1.1",
+    "keyring>=25.6.0",
+    "meson-python>=0.17.1",
+    "numpy>=1.26.4",
+    "pandas>=2.0.3",
+    "peft>=0.6.0",
+    "pre-commit>=4.1.0",
+    "pybind11>=2.13.6",
+    "pytest>=8.3.4",
+    "pytest-dotenv>=0.5.2",
+    "pytest-keyring>=1.1.0",
+    "python-dotenv>=1.0.1",
+    "pythran>=0.17.0",
+    "ruff>=0.9.9",
+    "scipy>=1.10.1",
+    "setuptools>=75.8.2",
+    "spacy>=3.7.2",
+    "torch>=2.0.1",
+    "transformers>=4.36.2",
+    "trl>=0.7.2",
+    "versioneer>=0.29",
+    "wheel>=0.45.1",
+]
