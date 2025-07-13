@@ -3,7 +3,7 @@
 This repository contains the code and resources for Kiwi, a LLM-based clinical Information Extraction (IE) system designed to extract medical problem, treatment, test, and drug entities, and their modifiers from clinical note.
 
 ### Data
-For the MTSample dataset, we are providing both entity offsets and texts, as well as the instruction tuning format. The MIMIC-III and 2010 i2b2 datasets, we are only providing entity offsets and texts without the original notes.
+For the MTSample dataset, we are providing both entity offsets and texts, as well as the instruction tuning format. The MIMIC-III and 2010 i2b2 datasets, we are only providing entity offsets and texts without the original notes. Researchers can obtain the original text files from their official websites. Once the original text files were obtained, the format could be converted by the scripts under data folder. 
 
 ## Environment
 ```bash
