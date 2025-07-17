@@ -35,6 +35,4 @@ python inference.py
 }
 ```
 ## License
-```bibtex
 The Kiwi tool, including the fine-tuned models, is available upon request via the official Kiwi website: https://kiwi.clinicalnlp.org/. For the base language model, we use Meta's Llama 3 model, which is released under the Meta Llama 3 Community License.
-```
